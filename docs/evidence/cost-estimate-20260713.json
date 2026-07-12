@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "1.0.0",
+  "estimateId": "cost-20260713-ap-northeast-1",
+  "generatedAt": "2026-07-13T00:00:00Z",
+  "region": "ap-northeast-1",
+  "currency": "USD",
+  "monthlyTargetUsd": 10.0,
+  "fx": {
+    "planningJpyPerUsd": 165.0,
+    "source": "https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/index.htm",
+    "policy": "Conservative planning rate; refresh at GATE-003 approval"
+  },
+  "workload": {
+    "videos": 2062,
+    "lambdaInvocations": 100000,
+    "lambdaGbSeconds": 150000,
+    "s3StoredGb": 30,
+    "s3Requests": 100000,
+    "dynamodbWrites": 200000,
+    "dynamodbReads": 1000000,
+    "dynamodbStoredGb": 1,
+    "sqsRequests": 500000,
+    "cloudFrontTransferGb": 20,
+    "cloudWatchLogsGb": 1,
+    "secrets": 1
+  },
+  "lines": [
+    {"service": "Lambda", "monthlyUsd": 0.0, "basis": "100k requests and 150k GB-s, below 1M requests and 400k GB-s monthly free tier", "source": "https://aws.amazon.com/lambda/pricing/"},
+    {"service": "SQS", "monthlyUsd": 0.0, "basis": "500k requests, below 1M monthly free requests", "source": "https://aws.amazon.com/sqs/pricing/"},
+    {"service": "S3", "monthlyUsd": 1.25, "basis": "30 GB Standard plus 100k requests; conservative Tokyo paid-case upper bound", "source": "https://aws.amazon.com/s3/pricing/"},
+    {"service": "DynamoDB", "monthlyUsd": 1.5, "basis": "on-demand 200k writes, 1M reads, 1 GB and PITR allowance; no free throughput assumed", "source": "https://aws.amazon.com/dynamodb/pricing/"},
+    {"service": "CloudFront", "monthlyUsd": 2.28, "basis": "20 GB paid-case Tokyo transfer; free transfer tier deliberately not credited", "source": "https://aws.amazon.com/cloudfront/pricing/"},
+    {"service": "CloudWatch", "monthlyUsd": 0.76, "basis": "one dashboard, alarm metrics and 1 GB logs; conservative amount above free allowances", "source": "https://aws.amazon.com/cloudwatch/pricing/"},
+    {"service": "Secrets Manager", "monthlyUsd": 0.45, "basis": "one secret at $0.40/month plus API-call allowance", "source": "https://aws.amazon.com/secrets-manager/pricing/"},
+    {"service": "SNS and Budgets", "monthlyUsd": 0.0, "basis": "low-volume notifications and one budget; expected within free allowances", "source": "https://aws.amazon.com/aws-cost-management/aws-budgets/pricing/"}
+  ],
+  "subtotalUsd": 6.24,
+  "contingencyRate": 0.25,
+  "contingencyUsd": 1.56,
+  "totalUsd": 7.8,
+  "totalJpy": 1287,
+  "approvalStatus": "pending",
+  "refreshRequiredBefore": "2026-08-13"
+}

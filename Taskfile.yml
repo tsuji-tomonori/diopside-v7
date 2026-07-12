@@ -25,6 +25,7 @@ tasks:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pyright
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pytest
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
+      - task: cost:verify
       - npm run plan -w infra
       - npm run synth -w @diopside/infra
       - npm run test:e2e -w frontend
@@ -76,6 +77,11 @@ tasks:
         --release-id received-preview-v3
         --output /tmp/diopside-received-release
         --report /tmp/diopside-received-release-report.json
+
+  cost:verify:
+    desc: Verify the current monthly AWS cost evidence arithmetic and target.
+    cmds:
+      - python3 tools/verify_cost_estimate.py
 
   cdk:test:
     desc: Build and run CDK assertion tests without contacting AWS.
