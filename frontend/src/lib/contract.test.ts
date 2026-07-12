@@ -45,4 +45,27 @@ describe('contract loading', () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response('{}', { status: 503 })));
     await expect(getJson('/server', z.object({}))).rejects.toMatchObject({ kind: 'server', status: 503 });
   });
+
+  it('accepts a containment release without tag contracts', () => {
+    const publicRoot = path.resolve(process.cwd(), '../backend/data/public');
+    const latest = JSON.parse(readFileSync(path.join(publicRoot, 'latest.json'), 'utf8'));
+    latest.releaseMode = 'compliance_purge';
+    delete latest.tagTaxonomyPath;
+    delete latest.tagIndexPath;
+    delete latest.tagAliasIndexPath;
+    latest.purgeBaseReleaseId = 'base';
+    latest.purgeBaseManifestSha256 = 'sha256:base';
+    latest.purgeTrigger = 'deletion:test';
+
+    const index = JSON.parse(
+      readFileSync(path.join(publicRoot, 'releases/20260711-001/index.json'), 'utf8'),
+    );
+    index.releaseMode = 'compliance_purge';
+    delete index.taxonomyVersion;
+    delete index.aliasVersion;
+    for (const video of index.videos) delete video.tagIds;
+
+    expect(latestReleaseSchema.safeParse(latest).success).toBe(true);
+    expect(releaseIndexSchema.safeParse(index).success).toBe(true);
+  });
 });

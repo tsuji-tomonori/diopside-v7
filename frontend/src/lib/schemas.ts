@@ -32,9 +32,12 @@ export const latestReleaseSchema = z.object({
   normalizationVersion: z.string().min(1),
   indexPath: z.string().min(1),
   searchIndexPath: z.string().min(1),
-  tagTaxonomyPath: z.string().min(1),
-  tagIndexPath: z.string().min(1),
-  tagAliasIndexPath: z.string().min(1),
+  tagTaxonomyPath: z.string().min(1).optional(),
+  tagIndexPath: z.string().min(1).optional(),
+  tagAliasIndexPath: z.string().min(1).optional(),
+  purgeBaseReleaseId: z.string().optional(),
+  purgeBaseManifestSha256: z.string().optional(),
+  purgeTrigger: z.string().optional(),
   artifactHashes: z.record(z.string(), z.string()).optional(),
 }).strict();
 
@@ -49,7 +52,7 @@ export const videoIndexSchema = z.object({
   metadataStatus: z.string().min(1),
   sourceUpdatedAt: timestamp,
   artifactFlags,
-  tagIds: z.array(z.string()),
+  tagIds: z.array(z.string()).optional(),
   provenance,
   chat: z.object({ totalCount: z.number().int().nonnegative() }).strict().optional(),
   comments: z.object({ totalCount: z.number().int().nonnegative() }).strict().optional(),
@@ -58,14 +61,14 @@ export const videoIndexSchema = z.object({
 
 export const releaseIndexSchema = z.object({
   schemaVersion: z.string(), releaseId: z.string(), releaseMode, generatedAt: timestamp,
-  layout: z.string(), normalizationVersion: z.string(), taxonomyVersion: z.string(), aliasVersion: z.string(),
+  layout: z.string(), normalizationVersion: z.string(), taxonomyVersion: z.string().optional(), aliasVersion: z.string().optional(),
   videos: z.array(videoIndexSchema),
 }).strict();
 
 const searchVideoSchema = z.object({
   videoId: z.string(), titleTokens: z.array(z.string()), sourceKind: z.string(), metadataStatus: z.string(),
   publishedAt: timestamp, publishedDate: z.string(), durationSec: z.number().int().nonnegative().nullable(),
-  artifactFlags, tagIds: z.array(z.string()),
+  artifactFlags, tagIds: z.array(z.string()).optional(),
 }).strict();
 export const searchIndexSchema = z.object({
   schemaVersion: z.string(), releaseId: z.string(), releaseMode, generatedAt: timestamp,

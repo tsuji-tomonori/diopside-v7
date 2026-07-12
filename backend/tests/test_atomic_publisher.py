@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-from app.exporter.publisher import AtomicPublisher, ReleaseRejected
+from app.exporter.publisher import AtomicPublisher, ReleaseRejected, sha256
 
 
 def write(path: Path, value: object) -> None:
@@ -122,3 +122,34 @@ def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
 
     with pytest.raises(ReleaseRejected, match="unsafe_svg"):
         AtomicPublisher(tmp_path / "public").publish(release)
+
+
+def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path) -> None:
+    public = tmp_path / "public"
+    publisher = AtomicPublisher(public)
+    publisher.publish(candidate(tmp_path / "candidates", "release-base"))
+    latest = json.loads((public / "latest.json").read_text(encoding="utf-8"))
+
+    purge = candidate(tmp_path / "candidates", "release-purge")
+    for name in ("tag-taxonomy.json", "tag-index.json", "tag-alias-index.json"):
+        (purge / name).unlink()
+    for relative in ("index.json", "search-index.json"):
+        path = purge / relative
+        document = json.loads(path.read_text(encoding="utf-8"))
+        document["releaseMode"] = "compliance_purge"
+        document["purgeBaseReleaseId"] = "release-base"
+        document["purgeBaseManifestSha256"] = sha256(latest)
+        document["purgeTrigger"] = "deletion:test"
+        document.pop("taxonomyVersion", None)
+        document.pop("aliasVersion", None)
+        document["videos"][0].pop("tagIds", None)
+        write(path, document)
+    detail_path = purge / "videos" / "video-1.json"
+    detail = json.loads(detail_path.read_text(encoding="utf-8"))
+    detail.pop("tagIds", None)
+    write(detail_path, detail)
+
+    publisher.publish(purge)
+    published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
+    assert published["releaseMode"] == "compliance_purge"
+    assert "tagIndexPath" not in published

@@ -173,7 +173,7 @@ export function applySearchQuery(
     }
 
     if (condition.tags.length) {
-      const hasAllTags = condition.tags.every((tag) => video.tagIds.includes(tag));
+      const hasAllTags = condition.tags.every((tag) => (video.tagIds ?? []).includes(tag));
       if (!hasAllTags) {
         return false;
       }

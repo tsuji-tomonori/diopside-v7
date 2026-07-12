@@ -98,7 +98,7 @@ export function DetailPage() {
 
   const tags =
     tagIndex?.tags
-      .filter((tag: TagInfo) => video.tagIds.includes(tag.tagId))
+      .filter((tag: TagInfo) => (video.tagIds ?? []).includes(tag.tagId))
       .map((tag: TagInfo) => tag.displayName) ?? [];
 
   const canShowDerived = latest?.releaseMode === 'normal';

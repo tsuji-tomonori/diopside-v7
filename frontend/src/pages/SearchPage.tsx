@@ -330,7 +330,7 @@ export function SearchPage() {
 
         {videos.map((video) => {
           const names = tags
-            .filter((tag) => video.tagIds.includes(tag.tagId))
+            .filter((tag) => (video.tagIds ?? []).includes(tag.tagId))
             .map((tag) => tag.displayName);
           const releaseVideo = release?.videos.find((item) => item.videoId === video.videoId);
           return (

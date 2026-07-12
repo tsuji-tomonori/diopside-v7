@@ -10,6 +10,7 @@ import {
   videoDetailSchema,
 } from '@/lib/schemas';
 import type {
+  ArtifactFlags,
   ArtifactType,
   LatestRelease,
   ReleaseIndex,
@@ -99,6 +100,11 @@ export function loadVideoDetail(releaseId: string, videoId: string): Promise<Vid
   return getJson(makeVideoPath(releaseId, videoId), videoDetailSchema) as Promise<VideoDetail>;
 }
 
-export function includesArtifactType(flags: { chat: boolean; comments: boolean; timestamps: boolean; wordcloud: boolean }, active: ArtifactType[]): boolean {
-  return active.some((item) => flags[item]);
+export function includesArtifactType(flags: ArtifactFlags, active: ArtifactType[]): boolean {
+  return active.some((item) => {
+    if (item === 'wordcloud') {
+      return flags.wordcloudChat || flags.wordcloudComments || flags.wordcloudBoth;
+    }
+    return flags[item];
+  });
 }

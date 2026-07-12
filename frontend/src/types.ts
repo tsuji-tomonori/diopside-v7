@@ -27,7 +27,7 @@ export interface VideoIndex {
   metadataStatus: string;
   sourceUpdatedAt: string;
   artifactFlags: ArtifactFlags;
-  tagIds: string[];
+  tagIds?: string[];
   provenance: {
     source?: string;
     titleSource?: string;
@@ -53,7 +53,7 @@ export interface SearchVideoIndex {
   publishedDate: string;
   durationSec: number | null;
   artifactFlags: ArtifactFlags;
-  tagIds: string[];
+  tagIds?: string[];
 }
 
 export interface TagInfo {
@@ -102,9 +102,12 @@ export interface LatestRelease {
   normalizationVersion: string;
   indexPath: string;
   searchIndexPath: string;
-  tagTaxonomyPath: string;
-  tagIndexPath: string;
-  tagAliasIndexPath: string;
+  tagTaxonomyPath?: string;
+  tagIndexPath?: string;
+  tagAliasIndexPath?: string;
+  purgeBaseReleaseId?: string;
+  purgeBaseManifestSha256?: string;
+  purgeTrigger?: string;
   artifactHashes?: Record<string, string>;
 }
 
@@ -115,8 +118,8 @@ export interface ReleaseIndex {
   generatedAt: string;
   layout: string;
   normalizationVersion: string;
-  taxonomyVersion: string;
-  aliasVersion: string;
+  taxonomyVersion?: string;
+  aliasVersion?: string;
   videos: VideoIndex[];
 }
 

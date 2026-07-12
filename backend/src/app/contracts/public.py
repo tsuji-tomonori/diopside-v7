@@ -14,13 +14,16 @@ class LatestRelease(StrictModel):
     schemaVersion: str
     releaseId: str = Field(pattern=r"^[A-Za-z0-9._-]+$")
     generatedAt: datetime
-    releaseMode: Literal["normal", "compliance_purge", "staging", "blocked"]
+    releaseMode: Literal["normal", "compliance_purge"]
     normalizationVersion: str
     indexPath: str
     searchIndexPath: str
-    tagTaxonomyPath: str
-    tagIndexPath: str
-    tagAliasIndexPath: str
+    tagTaxonomyPath: str | None = None
+    tagIndexPath: str | None = None
+    tagAliasIndexPath: str | None = None
+    purgeBaseReleaseId: str | None = None
+    purgeBaseManifestSha256: str | None = None
+    purgeTrigger: str | None = None
     artifactHashes: dict[str, str]
 
 
@@ -62,13 +65,13 @@ class VideoIndexItem(StrictModel):
     metadataStatus: str
     sourceUpdatedAt: datetime
     artifactFlags: ArtifactFlags
-    tagIds: list[str]
+    tagIds: list[str] | None = None
     provenance: Provenance
     coverage: Coverage
 
     @model_validator(mode="after")
     def tag_ids_are_unique(self) -> VideoIndexItem:
-        if len(self.tagIds) != len(set(self.tagIds)):
+        if self.tagIds is not None and len(self.tagIds) != len(set(self.tagIds)):
             raise ValueError("tagIds must be unique per video")
         return self
 
@@ -76,12 +79,15 @@ class VideoIndexItem(StrictModel):
 class ReleaseIndex(StrictModel):
     schemaVersion: str
     releaseId: str
-    releaseMode: Literal["normal", "compliance_purge", "staging", "blocked"]
+    releaseMode: Literal["normal", "compliance_purge"]
     generatedAt: datetime
     layout: Literal["monolithic"]
     normalizationVersion: str
-    taxonomyVersion: str
-    aliasVersion: str
+    taxonomyVersion: str | None = None
+    aliasVersion: str | None = None
+    purgeBaseReleaseId: str | None = None
+    purgeBaseManifestSha256: str | None = None
+    purgeTrigger: str | None = None
     videos: list[VideoIndexItem]
 
     @model_validator(mode="after")
@@ -89,4 +95,17 @@ class ReleaseIndex(StrictModel):
         ids = [video.videoId for video in self.videos]
         if len(ids) != len(set(ids)):
             raise ValueError("videoId must be unique in a release")
+        if self.releaseMode == "normal":
+            if not self.taxonomyVersion or not self.aliasVersion:
+                raise ValueError("normal release requires taxonomy and alias versions")
+            if any(video.tagIds is None for video in self.videos):
+                raise ValueError("normal release requires tagIds")
+        elif self.taxonomyVersion or self.aliasVersion or any(
+            video.tagIds is not None for video in self.videos
+        ):
+            raise ValueError("compliance purge forbids tags")
+        if self.releaseMode == "compliance_purge" and not all(
+            (self.purgeBaseReleaseId, self.purgeBaseManifestSha256, self.purgeTrigger)
+        ):
+            raise ValueError("compliance purge requires base and trigger")
         return self

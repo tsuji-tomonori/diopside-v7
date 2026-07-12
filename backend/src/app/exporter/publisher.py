@@ -42,6 +42,8 @@ class ReleaseValidator:
     REQUIRED_ROOTS: ClassVar[dict[str, str]] = {
         "index": "index.json",
         "search": "search-index.json",
+    }
+    NORMAL_ROOTS: ClassVar[dict[str, str]] = {
         "taxonomy": "tag-taxonomy.json",
         "tags": "tag-index.json",
         "aliases": "tag-alias-index.json",
@@ -53,6 +55,13 @@ class ReleaseValidator:
             for name, relative in self.REQUIRED_ROOTS.items()
         }
         release = ReleaseIndex.model_validate(documents["index"])
+        if release.releaseMode == "normal":
+            documents.update(
+                {
+                    name: self.load_document(release_dir / relative)
+                    for name, relative in self.NORMAL_ROOTS.items()
+                }
+            )
         for name, document in documents.items():
             if document.get("releaseId") != release.releaseId:
                 raise ReleaseRejected("release_join_mismatch", name)
@@ -61,9 +70,11 @@ class ReleaseValidator:
         index_videos = {video.videoId for video in release.videos}
         if search_videos != index_videos:
             raise ReleaseRejected("video_population_mismatch", "index/search")
-        tag_ids = self._tag_ids(documents["tags"])
+        tag_ids: set[str] = (
+            self._tag_ids(documents["tags"]) if "tags" in documents else set()
+        )
         for video in release.videos:
-            if not set(video.tagIds).issubset(tag_ids):
+            if not set(video.tagIds or []).issubset(tag_ids):
                 raise ReleaseRejected("unknown_tag_id", video.videoId)
             detail_path = release_dir / "videos" / f"{video.videoId}.json"
             detail = self.load_document(detail_path)
@@ -208,7 +219,7 @@ class AtomicPublisher:
         shutil.copytree(candidate_dir, temporary)
         temporary.replace(destination)
         index = self.validator.load_document(destination / "index.json")
-        latest = {
+        latest: dict[str, Any] = {
             "schemaVersion": index["schemaVersion"],
             "releaseId": result.release_id,
             "generatedAt": index["generatedAt"],
@@ -216,11 +227,28 @@ class AtomicPublisher:
             "normalizationVersion": index["normalizationVersion"],
             "indexPath": f"data/releases/{result.release_id}/index.json",
             "searchIndexPath": f"data/releases/{result.release_id}/search-index.json",
-            "tagTaxonomyPath": f"data/releases/{result.release_id}/tag-taxonomy.json",
-            "tagIndexPath": f"data/releases/{result.release_id}/tag-index.json",
-            "tagAliasIndexPath": f"data/releases/{result.release_id}/tag-alias-index.json",
             "artifactHashes": result.artifact_hashes,
         }
+        if index["releaseMode"] == "normal":
+            latest.update(
+                {
+                    "tagTaxonomyPath": f"data/releases/{result.release_id}/tag-taxonomy.json",
+                    "tagIndexPath": f"data/releases/{result.release_id}/tag-index.json",
+                    "tagAliasIndexPath": f"data/releases/{result.release_id}/tag-alias-index.json",
+                }
+            )
+        else:
+            latest.update(
+                {
+                    key: index[key]
+                    for key in (
+                        "purgeBaseReleaseId",
+                        "purgeBaseManifestSha256",
+                        "purgeTrigger",
+                    )
+                    if key in index
+                }
+            )
         LatestRelease.model_validate(latest)
         latest_path = self.public_dir / "latest.json"
         latest_temporary = self.public_dir / ".latest.json.tmp"
@@ -236,12 +264,17 @@ class AtomicPublisher:
         if not latest_path.exists():
             raise ReleaseRejected("purge_without_base", "latest.json")
         latest = LatestRelease.model_validate(self.validator.load_document(latest_path))
+        latest_document = self.validator.load_document(latest_path)
         base = ReleaseIndex.model_validate(
             self.validator.load_document(
                 self.public_dir / "releases" / latest.releaseId / "index.json"
             )
         )
         candidate = ReleaseIndex.model_validate(index)
+        if candidate.purgeBaseReleaseId != latest.releaseId:
+            raise ReleaseRejected("stale_purge_base", candidate.releaseId)
+        if candidate.purgeBaseManifestSha256 != sha256(latest_document):
+            raise ReleaseRejected("stale_purge_base", candidate.releaseId)
         base_ids = {video.videoId for video in base.videos}
         candidate_ids = {video.videoId for video in candidate.videos}
         if not candidate_ids.issubset(base_ids):

@@ -473,6 +473,18 @@ def _latest_manifest(index: dict[str, Any], hashes: dict[str, str]) -> dict[str,
                 "tagAliasIndexPath": f"{release_root}/tag-alias-index.json",
             }
         )
+    else:
+        latest.update(
+            {
+                key: index[key]
+                for key in (
+                    "purgeBaseReleaseId",
+                    "purgeBaseManifestSha256",
+                    "purgeTrigger",
+                )
+                if key in index
+            }
+        )
     return latest
 
 

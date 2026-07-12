@@ -64,7 +64,7 @@ export function HomePage() {
           {newest.map((video) => {
             const names = featureEnabled
               ? (tagIndex?.tags ?? [])
-                  .filter((tag: TagInfo) => video.tagIds.includes(tag.tagId))
+                  .filter((tag: TagInfo) => (video.tagIds ?? []).includes(tag.tagId))
                   .map((tag: TagInfo) => tag.displayName)
               : [];
             return (
@@ -90,7 +90,7 @@ export function HomePage() {
           {random.map((video) => {
             const names = featureEnabled
               ? (tagIndex?.tags ?? [])
-                  .filter((tag: TagInfo) => video.tagIds.includes(tag.tagId))
+                  .filter((tag: TagInfo) => (video.tagIds ?? []).includes(tag.tagId))
                   .map((tag: TagInfo) => tag.displayName)
               : [];
             return (

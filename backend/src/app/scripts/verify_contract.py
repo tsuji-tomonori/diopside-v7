@@ -33,10 +33,17 @@ def main() -> int:
     expected_paths = [
         latest.indexPath,
         latest.searchIndexPath,
-        latest.tagTaxonomyPath,
-        latest.tagIndexPath,
-        latest.tagAliasIndexPath,
     ]
+    if latest.releaseMode == "normal":
+        expected_paths.extend(
+            path
+            for path in (
+                latest.tagTaxonomyPath,
+                latest.tagIndexPath,
+                latest.tagAliasIndexPath,
+            )
+            if path is not None
+        )
     for public_path in expected_paths:
         relative = public_path.removeprefix("data/")
         _ensure((base / relative).is_file(), f"referenced artifact is missing: {public_path}")

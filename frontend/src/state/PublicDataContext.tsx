@@ -41,13 +41,15 @@ export function PublicDataProvider({ children }: PropsWithChildren) {
       const releaseId = nextLatest.releaseId;
       const nextRelease = await loadReleaseIndex(releaseId);
       const nextSearch = await loadSearchIndex(releaseId);
-      const nextTags = await loadTags(releaseId);
+      const nextTags = nextLatest.releaseMode === 'normal'
+        ? await loadTags(releaseId)
+        : null;
       setLatest(nextLatest);
       setRelease(nextRelease);
       setSearch(nextSearch);
-      setTaxonomy(nextTags.taxonomy);
-      setTagIndex(nextTags.index);
-      setAlias(nextTags.alias);
+      setTaxonomy(nextTags?.taxonomy ?? null);
+      setTagIndex(nextTags?.index ?? null);
+      setAlias(nextTags?.alias ?? null);
     } catch (error) {
       const message = error instanceof Error ? error.message : 'contract load failed';
       setError(message);
