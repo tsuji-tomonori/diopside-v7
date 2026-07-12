@@ -5,6 +5,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 import tempfile
 from datetime import UTC, datetime
 from pathlib import Path, PurePosixPath
@@ -24,6 +25,7 @@ from app.processing.pipeline import (
     normalize_chat_message,
     normalize_comment,
     normalize_metadata,
+    timestamp_candidates,
     wordcloud_artifact,
 )
 
@@ -101,6 +103,9 @@ def metadata_sync(job: dict[str, Any]) -> dict[str, Any]:
                     {
                         "liveChatId": live_chat_id,
                         "streamStartedAt": live.get("actualStartTime"),
+                        "durationSec": _duration_seconds(
+                            _object(video.get("contentDetails")).get("duration")
+                        ),
                     },
                 )
     if manifest.get("collectComments") is True:
@@ -205,6 +210,7 @@ def normalize(job: dict[str, Any]) -> dict[str, Any]:
                     "coverageEnd": max(event_times),
                     "completeFromStart": manifest.get("completeFromStart") is True,
                     "sourceUpdatedAt": _now(),
+                    "durationSec": manifest.get("durationSec"),
                 },
             )
     return result
@@ -221,6 +227,13 @@ def aggregate(job: dict[str, Any]) -> dict[str, Any]:
     coverage = _coverage(manifest)
     result = aggregate_events(_objects(payload.get("items")), source, coverage, _now())
     output = _write_processed(job, "aggregates", result)
+    duration_value = manifest.get("durationSec")
+    if source == "chat" and isinstance(duration_value, int):
+        timestamps = timestamp_candidates(
+            _target(job), result, duration_value, coverage, _now()
+        )
+        timestamp_output = _write_processed(job, "timestamps", timestamps)
+        output["timestampKey"] = timestamp_output["key"]
     _enqueue_child(job, "wordcloud", _target(job), "wordcloud", {**output, **manifest})
     return output
 
@@ -504,6 +517,16 @@ def _string(value: object, name: str) -> str:
 
 def _parse_time(value: str) -> datetime:
     return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(UTC)
+
+
+def _duration_seconds(value: object) -> int | None:
+    if not isinstance(value, str):
+        return None
+    match = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", value)
+    if match is None:
+        return None
+    hours, minutes, seconds = (int(part or 0) for part in match.groups())
+    return hours * 3600 + minutes * 60 + seconds
 
 
 def _enqueue_child(

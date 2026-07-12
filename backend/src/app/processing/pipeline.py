@@ -269,6 +269,60 @@ def wordcloud_artifact(
     }, svg
 
 
+def timestamp_candidates(
+    video_id: str,
+    aggregate: dict[str, Any],
+    duration_sec: int,
+    coverage: Coverage,
+    generated_at: str,
+    *,
+    limit: int = 10,
+) -> dict[str, Any]:
+    if duration_sec < 0:
+        raise ProcessingError("duration_sec must be non-negative")
+    timeline = [
+        item
+        for item in _objects(aggregate.get("timeline"))
+        if isinstance(item.get("at"), int)
+        and isinstance(item.get("count"), int)
+        and cast(int, item["at"]) <= duration_sec
+    ]
+    maximum = max((cast(int, item["count"]) for item in timeline), default=0)
+    ranked = sorted(
+        timeline,
+        key=lambda item: (-cast(int, item["count"]), cast(int, item["at"])),
+    )[:limit]
+    items: list[dict[str, Any]] = []
+    for item in sorted(ranked, key=lambda value: cast(int, value["at"])):
+        at_sec = cast(int, item["at"])
+        count = cast(int, item["count"])
+        identity = f"{video_id}\0{at_sec}\0{ALGORITHM_VERSION}".encode()
+        items.append(
+            {
+                "candidateId": f"ts_{hashlib.sha256(identity).hexdigest()[:20]}",
+                "videoId": video_id,
+                "atSec": at_sec,
+                "label": "chat activity peak",
+                "evidenceType": "chat_volume",
+                "confidence": round(count / maximum, 4) if maximum else 0.0,
+                "coverage": coverage.public_dict(),
+                "algorithmVersion": ALGORITHM_VERSION,
+            }
+        )
+    result = {
+        "schemaVersion": "1.0.0",
+        "videoId": video_id,
+        "status": "generated" if items else "not_generated",
+        "source": "chat_volume",
+        "generatedAt": generated_at,
+        "coverage": coverage.public_dict(),
+        "algorithmVersion": ALGORITHM_VERSION,
+        "items": items,
+    }
+    assert_public(result)
+    return result
+
+
 def assert_public(value: object) -> None:
     def visit(item: object) -> None:
         if isinstance(item, dict):
@@ -328,6 +382,16 @@ def _parse_time(value: str) -> datetime:
 
 def _object(value: object) -> dict[str, Any]:
     return cast(dict[str, Any], value) if isinstance(value, dict) else {}
+
+
+def _objects(value: object) -> list[dict[str, Any]]:
+    if not isinstance(value, list):
+        return []
+    return [
+        cast(dict[str, Any], item)
+        for item in cast(list[object], value)
+        if isinstance(item, dict)
+    ]
 
 
 def _required(value: dict[str, Any], key: str) -> str:

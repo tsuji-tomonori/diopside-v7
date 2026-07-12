@@ -12,6 +12,7 @@ from app.processing.pipeline import (
     normalize_chat_message,
     normalize_metadata,
     normalize_text,
+    timestamp_candidates,
     wordcloud_artifact,
 )
 
@@ -118,3 +119,20 @@ def test_private_field_guard_is_recursive() -> None:
 
 def test_text_normalization_is_deterministic() -> None:
     assert normalize_text("\uff21\uff22\uff23\r\nhttps://example.test\x00") == "ABC"
+
+
+def test_timestamp_candidates_are_deterministic_and_within_duration() -> None:
+    coverage = Coverage("a", "b", True, "c")
+    aggregate = {
+        "timeline": [
+            {"at": 120, "count": 5},
+            {"at": 60, "count": 10},
+            {"at": 999, "count": 100},
+        ]
+    }
+    first = timestamp_candidates("abcdefghijk", aggregate, 180, coverage, "now")
+    second = timestamp_candidates("abcdefghijk", aggregate, 180, coverage, "now")
+    assert first == second
+    assert [item["atSec"] for item in first["items"]] == [60, 120]
+    assert first["items"][0]["confidence"] == 1.0
+    assert first["items"][0]["evidenceType"] == "chat_volume"
