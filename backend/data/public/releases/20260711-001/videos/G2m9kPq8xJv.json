@@ -1,0 +1,38 @@
+{
+  "videoId": "G2m9kPq8xJv",
+  "title": "【雑談】最近あったこと全部話す",
+  "publishedAt": "2026-06-28T23:30:00Z",
+  "duration": "PT1H22M00S",
+  "durationSec": 4920,
+  "thumbnail": {
+    "url": "https://picsum.photos/seed/G2m9kPq8xJv/1280/720",
+    "width": 1280,
+    "height": 720
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-06-28T23:32:00Z",
+  "tagIds": ["tag-002"],
+  "artifactFlags": {
+    "chat": false,
+    "comments": true,
+    "timestamps": false,
+    "wordcloud": false
+  },
+  "provenance": {
+    "source": "youtube_api",
+    "generatedBy": "static_seed"
+  },
+  "comments": {
+    "status": "generated",
+    "coverage": {
+      "coverageStart": "2026-06-28T23:30:00Z",
+      "coverageEnd": "2026-06-29T00:52:00Z",
+      "completeFromStart": true,
+      "sourceUpdatedAt": "2026-06-29T00:55:00Z"
+    },
+    "totalCount": 980,
+    "generatedAt": "2026-06-29T00:56:00Z",
+    "source": "comment_threads"
+  }
+}

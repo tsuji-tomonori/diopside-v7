@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseId": "20260711-001",
+  "generatedAt": "2026-07-11T00:00:00Z",
+  "categories": [
+    {
+      "categoryId": "genre",
+      "label": "配信カテゴリ",
+      "subcategories": [
+        {
+          "subcategoryId": "talk",
+          "label": "会話系",
+          "tagIds": ["tag-002", "tag-004"]
+        },
+        {
+          "subcategoryId": "song",
+          "label": "歌枠",
+          "tagIds": ["tag-001"]
+        },
+        {
+          "subcategoryId": "game",
+          "label": "ゲーム",
+          "tagIds": ["tag-003"]
+        }
+      ]
+    }
+  ]
+}

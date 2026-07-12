@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseId": "20260711-001",
+  "generatedAt": "2026-07-11T00:00:00Z",
+  "aliases": {
+    "歌枠": "tag-001",
+    "singing": "tag-001",
+    "雑談": "tag-002",
+    "トーク": "tag-002",
+    "ゲーム": "tag-003",
+    "game": "tag-003"
+  }
+}

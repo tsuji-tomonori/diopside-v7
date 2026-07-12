@@ -1,0 +1,13 @@
+{
+  "name": "@diopside/infra",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "plan": "node src/plan.js",
+    "report": "node src/report.js",
+    "typecheck": "node --check src/plan.js && node --check src/report.js",
+    "test": "node --test test/*.test.js",
+    "build": "node --check src/plan.js && node --check src/report.js"
+  }
+}

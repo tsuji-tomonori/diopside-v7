@@ -1,0 +1,52 @@
+version: '3'
+
+env:
+  FRONTEND_PORT: '{{.FRONTEND_PORT | default "5173"}}'
+  BACKEND_PORT: '{{.BACKEND_PORT | default "8000"}}'
+
+tasks:
+  install:
+    desc: Install frontend and infra dependencies.
+    cmds:
+      - npm install
+
+  install:backend:
+    desc: Install backend dependency via uv.
+    cmds:
+      - cd backend && uv sync
+
+  verify:
+    desc: Run local static verification, tests, builds, and canonical contract checks.
+    cmds:
+      - npm run typecheck --workspaces --if-present
+      - npm test --workspaces --if-present
+      - npm run build --workspaces --if-present
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff check src tests
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pyright
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pytest
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
+      - npm run plan -w infra
+
+  dev:backend:
+    desc: Run FastAPI backend (public contract host).
+    env:
+      DIO_CONTRACT_DIR: 'backend/data/public'
+      UVICORN_PORT: '{{.BACKEND_PORT}}'
+    cmds:
+      - cd backend && uv run --locked uvicorn app.main:app --app-dir src --reload --host 0.0.0.0 --port {{.BACKEND_PORT}}
+
+  dev:frontend:
+    desc: Run frontend local dev server.
+    cmds:
+      - npm run dev -w frontend -- --host 0.0.0.0 --port {{.FRONTEND_PORT}}
+
+  dev:all:
+    desc: Start backend and frontend in local terminals before use.
+    cmds:
+      - task -s dev:backend
+      - task -s dev:frontend
+
+  export:check:
+    desc: Validate static release contract format.
+    cmds:
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseId": "20260711-001",
+  "generatedAt": "2026-07-11T00:00:00Z",
+  "tags": [
+    {
+      "tagId": "tag-001",
+      "categoryId": "genre",
+      "subcategoryId": "song",
+      "displayName": "歌枠",
+      "count": 1,
+      "videoIds": ["rY4A7Lxk12Q"]
+    },
+    {
+      "tagId": "tag-002",
+      "categoryId": "genre",
+      "subcategoryId": "talk",
+      "displayName": "雑談",
+      "count": 2,
+      "videoIds": ["rY4A7Lxk12Q", "G2m9kPq8xJv"]
+    },
+    {
+      "tagId": "tag-003",
+      "categoryId": "genre",
+      "subcategoryId": "game",
+      "displayName": "ゲーム",
+      "count": 1,
+      "videoIds": ["Xn3uH0dL8sY"]
+    }
+  ]
+}

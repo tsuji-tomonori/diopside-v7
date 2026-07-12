@@ -1,0 +1,85 @@
+{
+  "videoId": "rY4A7Lxk12Q",
+  "title": "【歌枠】深夜リクエスト大会！",
+  "publishedAt": "2026-06-30T22:10:00Z",
+  "duration": "PT2H30M20S",
+  "durationSec": 9020,
+  "thumbnail": {
+    "url": "https://picsum.photos/seed/rY4A7Lxk12Q/1280/720",
+    "width": 1280,
+    "height": 720
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-06-30T22:12:00Z",
+  "tagIds": ["tag-001", "tag-002"],
+  "artifactFlags": {
+    "chat": true,
+    "comments": true,
+    "timestamps": true,
+    "wordcloud": true
+  },
+  "provenance": {
+    "source": "youtube_api",
+    "generatedBy": "static_seed"
+  },
+  "chat": {
+    "status": "generated",
+    "coverage": {
+      "coverageStart": "2026-06-30T22:10:00Z",
+      "coverageEnd": "2026-07-01T00:43:00Z",
+      "completeFromStart": true,
+      "sourceUpdatedAt": "2026-07-01T00:45:00Z"
+    },
+    "totalCount": 12480,
+    "generatedAt": "2026-07-01T00:45:00Z",
+    "source": "live_chat_messages"
+  },
+  "comments": {
+    "status": "generated",
+    "coverage": {
+      "coverageStart": "2026-06-30T22:10:00Z",
+      "coverageEnd": "2026-07-01T00:43:00Z",
+      "completeFromStart": true,
+      "sourceUpdatedAt": "2026-07-01T00:46:00Z"
+    },
+    "totalCount": 3320,
+    "generatedAt": "2026-07-01T00:46:00Z",
+    "source": "comment_threads"
+  },
+  "timestamps": {
+    "status": "generated",
+    "items": [
+      {
+        "atSec": 120,
+        "label": "盛り上がり開始",
+        "confidence": 0.95
+      },
+      {
+        "atSec": 2540,
+        "label": "スーパーチャット峰",
+        "confidence": 0.89
+      }
+    ],
+    "generatedAt": "2026-07-01T01:00:00Z",
+    "source": "timestamp_learner_v1"
+  },
+  "wordcloud": {
+    "status": "generated",
+    "source": "chat_aggregation",
+    "generatedAt": "2026-07-01T01:02:00Z",
+    "coverage": {
+      "coverageStart": "2026-06-30T22:10:00Z",
+      "coverageEnd": "2026-07-01T00:43:00Z",
+      "completeFromStart": true,
+      "sourceUpdatedAt": "2026-07-01T00:45:00Z"
+    },
+    "topTerms": [
+      { "term": "かわいい", "count": 124 },
+      { "term": "888", "count": 98 },
+      { "term": "草", "count": 64 }
+    ],
+    "svgPath": "data/releases/20260711-001/wordcloud/rY4A7Lxk12Q-chat.svg",
+    "jsonPath": "data/releases/20260711-001/wordcloud/rY4A7Lxk12Q-chat.json"
+  }
+}

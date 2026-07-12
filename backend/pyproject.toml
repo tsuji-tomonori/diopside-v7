@@ -1,0 +1,53 @@
+[project]
+name = "diopside-backend"
+version = "0.1.0"
+description = "diopside public contract API"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "fastapi>=0.116.0",
+  "httpx>=0.28.1",
+  "pydantic-settings>=2.10.0",
+  "uvicorn>=0.35.0",
+]
+
+[project.scripts]
+diopside-verify-contract = "app.scripts.verify_contract:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/app"]
+
+[dependency-groups]
+dev = [
+  "pyright>=1.1.403",
+  "pytest>=8.4.1",
+  "pytest-cov>=6.2.1",
+  "ruff>=0.12.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = ["--strict-config", "--strict-markers", "--cov=src/app", "--cov-branch", "--cov-report=term-missing"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "S", "RUF"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**/*.py" = ["S101"]
+
+[tool.pyright]
+include = ["src", "tests"]
+pythonVersion = "3.12"
+typeCheckingMode = "strict"
+reportUnusedFunction = false
+venvPath = "."
+venv = ".venv"

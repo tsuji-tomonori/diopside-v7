@@ -1,0 +1,22 @@
+# frontend search/detail polish (2026-07-12)
+
+- Removed `any` usage in key frontend pages (`SearchPage`, `HomePage`, `DetailPage`, `VideoCard`) by tightening public contract types (`TagIndex`, `VideoDetail`) and using typed data paths.
+- Fixed Search page query update flow to avoid redundant reload behavior and keep filter changes centralized.
+- Fixed Detail page save/un-save behavior to update local UI state directly (removed `window.location.reload()`).
+- Fixed external YouTube link behavior in `VideoCard` to use direct anchor navigation.
+- Fixed search longest filter behavior (`lmax`) and enabled optional chat-count enrichment path in search sorting helpers.
+- Fixed `SearchPage` import/logic cleanup after recent storage/search refactors:
+  - Removed duplicate/unused search helper imports.
+  - Normalized query updates before applying.
+  - Cleared transient notice state when parser reports no normalization notices.
+  - Kept recent-search action/update behavior wired to storage.
+- Ran `task verify` (2026-07-12 14:20 JST). It failed before reaching checks because `proto` requires `npm 10.9.0` in this environment, so frontend typecheck could not run yet.
+- Added search URL canonicalization hardening in `frontend/src/lib/search.ts`:
+  - `tags`（非対応の `tags` クエリ）と重複、`lmin`/`lmax` 無効値、invalid 日付、未知 sort/artifact の場合に正規化通知を生成。
+  - `lmin > lmax`、`from > to`、`q > 200`、`tag > 20` の扱いを明確化。
+  - canonical URL 用に tag を辞書順へ安定化。
+- `frontend/src/pages/SearchPage.tsx` の通知ロジックを拡張して、tag alias 正規化と無効tag除外を通知へ反映。
+- `frontend/src/lib/search.ts` の canonical URL 生成時に tagId の辞書順ソートを明示し、URL一意性要件に寄せた。
+- `python backend/src/app/scripts/verify_contract.py` は `ok: release 20260711-001 with 3 videos` で pass。
+- `node infra/src/plan.js` は成功し、`initial-plan-only` で JSON が出力。
+- `/usr/bin/npm run typecheck` は `tsc: not found`、`/usr/bin/npm run build` は `vite: not found` のためフロントエンド `task verify` の本体は未完了。

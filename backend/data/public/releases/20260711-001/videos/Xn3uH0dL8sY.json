@@ -1,0 +1,67 @@
+{
+  "videoId": "Xn3uH0dL8sY",
+  "title": "【ゲーム】ホラゲで怖かった夜",
+  "publishedAt": "2026-06-25T20:05:00Z",
+  "duration": "PT1H43M20S",
+  "durationSec": 6200,
+  "thumbnail": {
+    "url": "https://picsum.photos/seed/Xn3uH0dL8sY/1280/720",
+    "width": 1280,
+    "height": 720
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-06-25T20:06:00Z",
+  "tagIds": ["tag-003"],
+  "artifactFlags": {
+    "chat": true,
+    "comments": false,
+    "timestamps": true,
+    "wordcloud": true
+  },
+  "provenance": {
+    "source": "youtube_api",
+    "generatedBy": "static_seed"
+  },
+  "chat": {
+    "status": "generated",
+    "coverage": {
+      "coverageStart": "2026-06-25T20:05:00Z",
+      "coverageEnd": "2026-06-26T00:00:00Z",
+      "completeFromStart": false,
+      "sourceUpdatedAt": "2026-06-25T20:10:00Z"
+    },
+    "totalCount": 410,
+    "generatedAt": "2026-06-26T00:00:00Z",
+    "source": "live_chat_messages"
+  },
+  "timestamps": {
+    "status": "partial",
+    "items": [
+      {
+        "atSec": 900,
+        "label": "ラストイベント",
+        "confidence": 0.81
+      }
+    ],
+    "generatedAt": "2026-06-26T01:00:00Z",
+    "source": "timestamp_learner_v1"
+  },
+  "wordcloud": {
+    "status": "generated",
+    "source": "chat_aggregation",
+    "generatedAt": "2026-06-26T01:02:00Z",
+    "coverage": {
+      "coverageStart": "2026-06-25T20:05:00Z",
+      "coverageEnd": "2026-06-26T00:00:00Z",
+      "completeFromStart": false,
+      "sourceUpdatedAt": "2026-06-25T20:10:00Z"
+    },
+    "topTerms": [
+      { "term": "怖い", "count": 52 },
+      { "term": "泣いた", "count": 44 }
+    ],
+    "svgPath": "data/releases/20260711-001/wordcloud/Xn3uH0dL8sY-chat.svg",
+    "jsonPath": "data/releases/20260711-001/wordcloud/Xn3uH0dL8sY-chat.json"
+  }
+}

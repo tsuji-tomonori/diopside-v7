@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseId": "20260711-001",
+  "releaseMode": "normal",
+  "generatedAt": "2026-07-11T00:00:00Z",
+  "layout": "monolithic",
+  "normalizationVersion": "unicode-15.1/tokenizer-v1/sha256:a1b2c3d4e5f6",
+  "taxonomyVersion": "20260711-taxonomy-v1",
+  "aliasVersion": "20260711-alias-v1",
+  "videos": [
+    {
+      "videoId": "rY4A7Lxk12Q",
+      "title": "【歌枠】深夜リクエスト大会！",
+      "publishedAt": "2026-06-30T22:10:00Z",
+      "durationSec": 9020,
+      "duration": "PT2H30M20S",
+      "thumbnail": {
+        "url": "https://picsum.photos/seed/rY4A7Lxk12Q/640/360",
+        "width": 640,
+        "height": 360
+      },
+      "sourceKind": "youtube_api",
+      "metadataStatus": "complete",
+      "sourceUpdatedAt": "2026-06-30T22:12:00Z",
+      "artifactFlags": {
+        "chat": true,
+        "comments": true,
+        "timestamps": true,
+        "wordcloud": true
+      },
+      "tagIds": ["tag-001", "tag-002"],
+      "provenance": {
+        "titleSource": "youtube",
+        "publishedSource": "youtube"
+      },
+      "coverage": {
+        "coverageStart": "2026-06-30T22:10:00Z",
+        "coverageEnd": "2026-07-01T00:43:00Z",
+        "completeFromStart": true,
+        "sourceUpdatedAt": "2026-07-01T00:45:00Z"
+      }
+    },
+    {
+      "videoId": "G2m9kPq8xJv",
+      "title": "【雑談】最近あったこと全部話す",
+      "publishedAt": "2026-06-28T23:30:00Z",
+      "durationSec": 4920,
+      "duration": "PT1H22M00S",
+      "thumbnail": {
+        "url": "https://picsum.photos/seed/G2m9kPq8xJv/640/360",
+        "width": 640,
+        "height": 360
+      },
+      "sourceKind": "youtube_api",
+      "metadataStatus": "complete",
+      "sourceUpdatedAt": "2026-06-28T23:32:00Z",
+      "artifactFlags": {
+        "chat": false,
+        "comments": true,
+        "timestamps": false,
+        "wordcloud": false
+      },
+      "tagIds": ["tag-002"],
+      "provenance": {
+        "titleSource": "youtube",
+        "publishedSource": "youtube"
+      },
+      "coverage": {
+        "coverageStart": "2026-06-28T23:30:00Z",
+        "coverageEnd": "2026-06-29T00:52:00Z",
+        "completeFromStart": true,
+        "sourceUpdatedAt": "2026-06-29T00:55:00Z"
+      }
+    },
+    {
+      "videoId": "Xn3uH0dL8sY",
+      "title": "【ゲーム】ホラゲで怖かった夜",
+      "publishedAt": "2026-06-25T20:05:00Z",
+      "durationSec": 6200,
+      "duration": "PT1H43M20S",
+      "thumbnail": {
+        "url": "https://picsum.photos/seed/Xn3uH0dL8sY/640/360",
+        "width": 640,
+        "height": 360
+      },
+      "sourceKind": "youtube_api",
+      "metadataStatus": "complete",
+      "sourceUpdatedAt": "2026-06-25T20:06:00Z",
+      "artifactFlags": {
+        "chat": true,
+        "comments": false,
+        "timestamps": true,
+        "wordcloud": true
+      },
+      "tagIds": ["tag-003"],
+      "provenance": {
+        "titleSource": "youtube",
+        "publishedSource": "youtube"
+      },
+      "coverage": {
+        "coverageStart": "2026-06-25T20:05:00Z",
+        "coverageEnd": "2026-06-26T00:00:00Z",
+        "completeFromStart": false,
+        "sourceUpdatedAt": "2026-06-25T20:10:00Z"
+      }
+    }
+  ]
+}
