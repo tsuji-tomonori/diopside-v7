@@ -61,3 +61,13 @@ tasks:
         --output /tmp/diopside-tags-v3.json
         --public-index /tmp/diopside-tag-index-v3.json
         --release-id migration-preview
+
+  cdk:test:
+    desc: Build and run CDK assertion tests without contacting AWS.
+    cmds:
+      - npm test -w @diopside/infra
+
+  cdk:synth:
+    desc: Synthesize and run cdk-nag locally without deployment.
+    cmds:
+      - npm run synth -w @diopside/infra

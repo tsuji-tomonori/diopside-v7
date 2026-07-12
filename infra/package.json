@@ -4,10 +4,23 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "npm run build && node --test dist/test/*.test.js",
+    "cdk": "cdk",
+    "synth": "npm run build && cdk synth --app 'node dist/bin/app.js'",
     "plan": "node src/plan.js",
-    "report": "node src/report.js",
-    "typecheck": "node --check src/plan.js && node --check src/report.js",
-    "test": "node --test test/*.test.js",
-    "build": "node --check src/plan.js && node --check src/report.js"
+    "report": "node src/report.js"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.206.0",
+    "constructs": "^10.4.2",
+    "source-map-support": "^0.5.21"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "aws-cdk": "^2.1020.2",
+    "cdk-nag": "^2.36.35",
+    "typescript": "^5.8.3"
   }
 }

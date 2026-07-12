@@ -1,0 +1,228 @@
+import * as cdk from 'aws-cdk-lib';
+import * as cloudfront from 'aws-cdk-lib/aws-cloudfront';
+import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
+import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
+import * as events from 'aws-cdk-lib/aws-events';
+import * as targets from 'aws-cdk-lib/aws-events-targets';
+import * as iam from 'aws-cdk-lib/aws-iam';
+import * as lambda from 'aws-cdk-lib/aws-lambda';
+import * as s3 from 'aws-cdk-lib/aws-s3';
+import * as sqs from 'aws-cdk-lib/aws-sqs';
+import { NagSuppressions } from 'cdk-nag';
+import { Construct } from 'constructs';
+
+export class DiopsideStack extends cdk.Stack {
+  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+    super(scope, id, props);
+
+    const accessLogs = new s3.Bucket(this, 'AccessLogs', {
+      blockPublicAccess: s3.BlockPublicAccess.BLOCK_ALL,
+      encryption: s3.BucketEncryption.S3_MANAGED,
+      enforceSSL: true,
+      lifecycleRules: [{ expiration: cdk.Duration.days(400) }],
+      objectOwnership: s3.ObjectOwnership.OBJECT_WRITER,
+      removalPolicy: cdk.RemovalPolicy.RETAIN,
+    });
+    NagSuppressions.addResourceSuppressions(accessLogs, [
+      {
+        id: 'AwsSolutions-S1',
+        reason: 'The dedicated access-log destination cannot recursively log to itself.',
+      },
+    ]);
+    const raw = this.privateBucket('Raw', 30, accessLogs);
+    const processed = this.privateBucket('Processed', 30, accessLogs);
+    const configuration = this.privateBucket('Configuration', 90, accessLogs);
+    const publicData = new s3.Bucket(this, 'PublicData', {
+      blockPublicAccess: s3.BlockPublicAccess.BLOCK_ALL,
+      encryption: s3.BucketEncryption.S3_MANAGED,
+      enforceSSL: true,
+      versioned: true,
+      lifecycleRules: [{ noncurrentVersionExpiration: cdk.Duration.days(90) }],
+      serverAccessLogsBucket: accessLogs,
+      serverAccessLogsPrefix: 's3/public/',
+      removalPolicy: cdk.RemovalPolicy.RETAIN,
+    });
+
+    const control = new dynamodb.Table(this, 'ControlTable', {
+      partitionKey: { name: 'pk', type: dynamodb.AttributeType.STRING },
+      sortKey: { name: 'sk', type: dynamodb.AttributeType.STRING },
+      billingMode: dynamodb.BillingMode.PAY_PER_REQUEST,
+      encryption: dynamodb.TableEncryption.AWS_MANAGED,
+      pointInTimeRecoverySpecification: { pointInTimeRecoveryEnabled: true },
+      timeToLiveAttribute: 'expiresAt',
+      removalPolicy: cdk.RemovalPolicy.RETAIN,
+    });
+
+    const deadLetterQueue = new sqs.Queue(this, 'JobDeadLetterQueue', {
+      encryption: sqs.QueueEncryption.SQS_MANAGED,
+      enforceSSL: true,
+      retentionPeriod: cdk.Duration.days(14),
+    });
+    const jobQueue = new sqs.Queue(this, 'JobQueue', {
+      encryption: sqs.QueueEncryption.SQS_MANAGED,
+      enforceSSL: true,
+      visibilityTimeout: cdk.Duration.minutes(15),
+      deadLetterQueue: { queue: deadLetterQueue, maxReceiveCount: 4 },
+    });
+
+    const collectorRole = this.runtimeRole('CollectorRole');
+    const processorRole = this.runtimeRole('ProcessorRole');
+    const exporterRole = this.runtimeRole('ExporterRole');
+    const adminRole = new iam.Role(this, 'AdminRole', {
+      assumedBy: new iam.AccountPrincipal(this.account),
+      description: 'Operator role for audited job and compliance controls',
+    });
+
+    raw.grantReadWrite(collectorRole);
+    configuration.grantRead(collectorRole);
+    control.grantReadWriteData(collectorRole);
+    jobQueue.grantSendMessages(collectorRole);
+
+    raw.grantRead(processorRole);
+    processed.grantReadWrite(processorRole);
+    configuration.grantRead(processorRole);
+    control.grantReadWriteData(processorRole);
+    jobQueue.grantConsumeMessages(processorRole);
+
+    processed.grantRead(exporterRole);
+    configuration.grantRead(exporterRole);
+    publicData.grantReadWrite(exporterRole);
+    control.grantReadWriteData(exporterRole);
+
+    control.grantReadWriteData(adminRole);
+    jobQueue.grantSendMessages(adminRole);
+    deadLetterQueue.grantConsumeMessages(adminRole);
+
+    const collector = this.worker('Collector', collectorRole, jobQueue.queueUrl);
+    const processor = this.worker('Processor', processorRole, jobQueue.queueUrl);
+    const exporter = this.worker('Exporter', exporterRole, jobQueue.queueUrl);
+    collector.addEnvironment('RAW_BUCKET', raw.bucketName);
+    processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
+    exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
+    for (const worker of [collector, processor, exporter]) {
+      worker.addEnvironment('CONTROL_TABLE', control.tableName);
+    }
+
+    new events.Rule(this, 'MetadataSchedule', {
+      schedule: events.Schedule.rate(cdk.Duration.hours(6)),
+      targets: [new targets.LambdaFunction(collector)],
+    });
+    new events.Rule(this, 'LiveStartSchedule', {
+      schedule: events.Schedule.rate(cdk.Duration.minutes(5)),
+      targets: [new targets.LambdaFunction(collector)],
+    });
+    new events.Rule(this, 'ExportSchedule', {
+      schedule: events.Schedule.rate(cdk.Duration.hours(24)),
+      targets: [new targets.LambdaFunction(exporter)],
+    });
+
+    const responseHeaders = new cloudfront.ResponseHeadersPolicy(this, 'SecurityHeaders', {
+      securityHeadersBehavior: {
+        contentSecurityPolicy: {
+          contentSecurityPolicy: "default-src 'self'; img-src 'self' https://i.ytimg.com; frame-ancestors 'none'",
+          override: true,
+        },
+        contentTypeOptions: { override: true },
+        frameOptions: { frameOption: cloudfront.HeadersFrameOption.DENY, override: true },
+        referrerPolicy: {
+          referrerPolicy: cloudfront.HeadersReferrerPolicy.STRICT_ORIGIN_WHEN_CROSS_ORIGIN,
+          override: true,
+        },
+        strictTransportSecurity: {
+          accessControlMaxAge: cdk.Duration.days(365),
+          includeSubdomains: true,
+          override: true,
+        },
+      },
+    });
+    const distribution = new cloudfront.Distribution(this, 'Distribution', {
+      defaultBehavior: {
+        origin: origins.S3BucketOrigin.withOriginAccessControl(publicData),
+        viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+        allowedMethods: cloudfront.AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
+        cachePolicy: cloudfront.CachePolicy.CACHING_OPTIMIZED,
+        responseHeadersPolicy: responseHeaders,
+      },
+      minimumProtocolVersion: cloudfront.SecurityPolicyProtocol.TLS_V1_2_2021,
+      enableLogging: true,
+      logBucket: accessLogs,
+      logFilePrefix: 'cloudfront/',
+    });
+    NagSuppressions.addResourceSuppressions(distribution, [
+      {
+        id: 'AwsSolutions-CFR4',
+        reason: 'TLS_V1_2_2021 is configured; the finding is caused by the default CloudFront certificate.',
+      },
+      {
+        id: 'AwsSolutions-CFR1',
+        reason: 'The public archive has no geographic access-control requirement.',
+      },
+      {
+        id: 'AwsSolutions-CFR2',
+        reason: 'The distribution serves immutable static JSON/SVG only; WAF fixed cost exceeds the budget.',
+      },
+    ]);
+
+    new cdk.CfnOutput(this, 'DistributionDomainName', { value: distribution.domainName });
+    new cdk.CfnOutput(this, 'PublicBucketName', { value: publicData.bucketName });
+    new cdk.CfnOutput(this, 'ControlTableName', { value: control.tableName });
+    new cdk.CfnOutput(this, 'JobQueueUrl', { value: jobQueue.queueUrl });
+  }
+
+  private privateBucket(id: string, expirationDays: number, logs: s3.Bucket): s3.Bucket {
+    return new s3.Bucket(this, id, {
+      blockPublicAccess: s3.BlockPublicAccess.BLOCK_ALL,
+      encryption: s3.BucketEncryption.S3_MANAGED,
+      enforceSSL: true,
+      versioned: true,
+      lifecycleRules: [
+        {
+          expiration: cdk.Duration.days(expirationDays),
+          noncurrentVersionExpiration: cdk.Duration.days(expirationDays),
+        },
+      ],
+      serverAccessLogsBucket: logs,
+      serverAccessLogsPrefix: `s3/${id.toLowerCase()}/`,
+      removalPolicy: cdk.RemovalPolicy.RETAIN,
+    });
+  }
+
+  private runtimeRole(id: string): iam.Role {
+    const role = new iam.Role(this, id, {
+      assumedBy: new iam.ServicePrincipal('lambda.amazonaws.com'),
+    });
+    role.addToPolicy(
+      new iam.PolicyStatement({
+        actions: ['logs:CreateLogGroup', 'logs:CreateLogStream', 'logs:PutLogEvents'],
+        resources: [`arn:${this.partition}:logs:${this.region}:${this.account}:*`],
+      }),
+    );
+    NagSuppressions.addResourceSuppressions(
+      role,
+      [
+        {
+          id: 'AwsSolutions-IAM5',
+          reason: 'CDK bucket grants require object-key wildcards but remain scoped to named stack buckets.',
+        },
+      ],
+      true,
+    );
+    return role;
+  }
+
+  private worker(id: string, role: iam.Role, queueUrl: string): lambda.Function {
+    return new lambda.Function(this, id, {
+      runtime: lambda.Runtime.PYTHON_3_14,
+      handler: 'index.handler',
+      code: lambda.Code.fromInline(
+        "def handler(event, context):\n    return {'accepted': True, 'event': event}\n",
+      ),
+      role,
+      timeout: cdk.Duration.minutes(15),
+      memorySize: 512,
+      reservedConcurrentExecutions: 2,
+      environment: { JOB_QUEUE_URL: queueUrl },
+      tracing: lambda.Tracing.ACTIVE,
+    });
+  }
+}
