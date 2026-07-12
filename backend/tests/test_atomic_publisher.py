@@ -6,6 +6,7 @@ import pytest
 from app.exporter.publisher import (
     AtomicPublisher,
     CompliancePurgeBuilder,
+    NormalReleaseBuilder,
     ReleaseRejected,
     sha256,
 )
@@ -183,3 +184,49 @@ def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Pa
     publisher.publish(output)
     published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
     assert published["releaseId"] == "release-built-purge"
+
+
+def test_normal_builder_joins_metadata_and_stable_tag_ids(tmp_path: Path) -> None:
+    output = tmp_path / "candidate"
+    result = NormalReleaseBuilder().build(
+        output,
+        release_id="release-built",
+        metadata=[
+            {
+                "videoId": "abcdefghijk",
+                "channelId": "official",
+                "title": "配信タイトル",
+                "publishedAt": "2026-01-01T00:00:00Z",
+                "duration": "PT1H2M3S",
+                "thumbnail": {"url": "https://example.test/a.jpg", "width": 1, "height": 1},
+                "fetchedAt": "2026-01-02T00:00:00Z",
+            }
+        ],
+        tag_snapshot={
+            "taxonomyVersion": "v3",
+            "aliasVersion": "v3",
+            "tagDefinitions": [
+                {
+                    "tagId": "tag_stable",
+                    "categoryId": "content",
+                    "subcategoryId": "primary",
+                    "canonicalName": "雑談",
+                    "displayName": "雑談",
+                }
+            ],
+            "videos": [
+                {
+                    "videoId": "abcdefghijk",
+                    "tagAssignments": [{"tagId": "tag_stable"}],
+                }
+            ],
+        },
+        taxonomy={"categories": []},
+        aliases={"aliases": {}},
+        official_channel_id="official",
+        generated_at="2026-01-02T00:00:00Z",
+    )
+    index = json.loads((output / "index.json").read_text(encoding="utf-8"))
+    assert result.video_count == 1
+    assert index["videos"][0]["tagIds"] == ["tag_stable"]
+    assert index["videos"][0]["durationSec"] == 3723

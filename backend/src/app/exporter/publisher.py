@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import shutil
 from dataclasses import dataclass
 from pathlib import Path
@@ -11,7 +12,7 @@ from defusedxml import ElementTree as ET
 from defusedxml.common import DefusedXmlException
 
 from app.contracts.public import LatestRelease, ReleaseIndex
-from app.processing.pipeline import PRIVATE_FIELDS
+from app.processing.pipeline import PRIVATE_FIELDS, tokenize
 
 
 class ReleaseRejected(ValueError):
@@ -364,3 +365,194 @@ def _empty_artifact_flags() -> dict[str, bool]:
         "wordcloudComments": False,
         "wordcloudBoth": False,
     }
+
+
+class NormalReleaseBuilder:
+    def build(
+        self,
+        output_dir: Path,
+        *,
+        release_id: str,
+        metadata: list[dict[str, Any]],
+        tag_snapshot: dict[str, Any],
+        taxonomy: dict[str, Any],
+        aliases: dict[str, Any],
+        official_channel_id: str,
+        generated_at: str,
+    ) -> ValidationResult:
+        if output_dir.exists():
+            raise ReleaseRejected("release_exists", release_id)
+        output_dir.mkdir(parents=True)
+        assignments = self._assignments(tag_snapshot)
+        definitions = self._definitions(tag_snapshot)
+        summaries: list[dict[str, Any]] = []
+        search_records: list[dict[str, Any]] = []
+        included_ids: set[str] = set()
+        for item in sorted(metadata, key=lambda value: str(value.get("videoId", ""))):
+            video_id = item.get("videoId")
+            if not isinstance(video_id, str) or video_id not in assignments:
+                continue
+            summary = self._summary(
+                item,
+                assignments[video_id],
+                official_channel_id,
+            )
+            summaries.append(summary)
+            included_ids.add(video_id)
+            search_records.append(
+                {
+                    "videoId": video_id,
+                    "titleTokens": tokenize(cast(str, summary["title"])),
+                    "sourceKind": summary["sourceKind"],
+                    "metadataStatus": summary["metadataStatus"],
+                    "publishedAt": summary["publishedAt"],
+                    "publishedDate": cast(str, summary["publishedAt"])[:10],
+                    "durationSec": summary["durationSec"],
+                    "artifactFlags": summary["artifactFlags"],
+                    "tagIds": summary["tagIds"],
+                }
+            )
+            detail = {**summary, "releaseId": release_id}
+            path = output_dir / "videos" / f"{video_id}.json"
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(canonical_json(detail) + b"\n")
+        if not summaries:
+            raise ReleaseRejected("empty_release", release_id)
+
+        envelope = {
+            "schemaVersion": "1.0.0",
+            "releaseId": release_id,
+            "releaseMode": "normal",
+            "generatedAt": generated_at,
+        }
+        index = {
+            **envelope,
+            "layout": "monolithic",
+            "normalizationVersion": "normalize-v1/tokenizer-v1",
+            "taxonomyVersion": str(tag_snapshot.get("taxonomyVersion", "unknown")),
+            "aliasVersion": str(tag_snapshot.get("aliasVersion", "unknown")),
+            "videos": summaries,
+        }
+        search = {
+            **envelope,
+            "layout": "monolithic",
+            "normalizationVersion": "normalize-v1/tokenizer-v1",
+            "videos": search_records,
+        }
+        tag_index = {
+            **envelope,
+            "tags": [
+                {
+                    **definition,
+                    "count": len(video_ids),
+                    "videoIds": video_ids,
+                }
+                for tag_id, definition in sorted(definitions.items())
+                for video_ids in [
+                    sorted(
+                        video_id
+                        for video_id in included_ids
+                        if tag_id in assignments[video_id]
+                    )
+                ]
+                if video_ids
+            ],
+        }
+        documents = {
+            "index.json": index,
+            "search-index.json": search,
+            "tag-index.json": tag_index,
+            "tag-taxonomy.json": {**taxonomy, **envelope},
+            "tag-alias-index.json": {**aliases, **envelope},
+        }
+        for name, document in documents.items():
+            (output_dir / name).write_bytes(canonical_json(document) + b"\n")
+        return ReleaseValidator().validate(output_dir)
+
+    def _assignments(self, snapshot: dict[str, Any]) -> dict[str, list[str]]:
+        result: dict[str, list[str]] = {}
+        videos = snapshot.get("videos", [])
+        if not isinstance(videos, list):
+            raise ReleaseRejected("invalid_tag_snapshot", "videos")
+        for raw in cast(list[object], videos):
+            if not isinstance(raw, dict):
+                raise ReleaseRejected("invalid_tag_snapshot", "video")
+            video = cast(dict[str, Any], raw)
+            video_id = video.get("videoId")
+            raw_assignments = video.get("tagAssignments", [])
+            if not isinstance(video_id, str) or not isinstance(raw_assignments, list):
+                raise ReleaseRejected("invalid_tag_snapshot", "assignment")
+            result[video_id] = sorted(
+                tag_id
+                for assignment in cast(list[object], raw_assignments)
+                if isinstance(assignment, dict)
+                for tag_id in [cast(dict[str, Any], assignment).get("tagId")]
+                if isinstance(tag_id, str)
+            )
+        return result
+
+    def _definitions(self, snapshot: dict[str, Any]) -> dict[str, dict[str, Any]]:
+        values = snapshot.get("tagDefinitions", [])
+        if not isinstance(values, list):
+            raise ReleaseRejected("invalid_tag_snapshot", "tagDefinitions")
+        return {
+            tag_id: definition
+            for raw in cast(list[object], values)
+            if isinstance(raw, dict)
+            for definition in [cast(dict[str, Any], raw)]
+            for tag_id in [definition.get("tagId")]
+            if isinstance(tag_id, str)
+        }
+
+    def _summary(
+        self,
+        metadata: dict[str, Any],
+        tag_ids: list[str],
+        official_channel_id: str,
+    ) -> dict[str, Any]:
+        required = {
+            key: metadata.get(key)
+            for key in ("videoId", "title", "publishedAt", "duration", "thumbnail")
+        }
+        if not all(required.values()):
+            raise ReleaseRejected("ineligible_metadata", str(metadata.get("videoId")))
+        duration = cast(str, required["duration"])
+        duration_sec = _iso_duration_seconds(duration)
+        source_updated = metadata.get("fetchedAt") or metadata.get("sourceUpdatedAt")
+        if not isinstance(source_updated, str):
+            raise ReleaseRejected("ineligible_metadata", cast(str, required["videoId"]))
+        return {
+            "videoId": required["videoId"],
+            "title": required["title"],
+            "publishedAt": required["publishedAt"],
+            "duration": duration,
+            "durationSec": duration_sec,
+            "thumbnail": required["thumbnail"],
+            "sourceKind": (
+                "official_channel"
+                if metadata.get("channelId") == official_channel_id
+                else "external_collaboration"
+            ),
+            "metadataStatus": "resolved",
+            "sourceUpdatedAt": source_updated,
+            "artifactFlags": _empty_artifact_flags(),
+            "tagIds": tag_ids,
+            "provenance": {
+                "titleSource": "youtube_api",
+                "publishedSource": "youtube_api",
+            },
+            "coverage": {
+                "coverageStart": required["publishedAt"],
+                "coverageEnd": required["publishedAt"],
+                "completeFromStart": False,
+                "sourceUpdatedAt": source_updated,
+            },
+        }
+
+
+def _iso_duration_seconds(value: str) -> int:
+    match = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", value)
+    if match is None:
+        raise ReleaseRejected("invalid_duration", value)
+    hours, minutes, seconds = (int(part or 0) for part in match.groups())
+    return hours * 3600 + minutes * 60 + seconds

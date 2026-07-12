@@ -16,6 +16,7 @@ dependencies = [
 [project.scripts]
 diopside-verify-contract = "app.scripts.verify_contract:main"
 diopside-admin = "app.scripts.admin:main"
+diopside-build-release = "app.scripts.build_release:main"
 
 [build-system]
 requires = ["hatchling"]

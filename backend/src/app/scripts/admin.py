@@ -13,6 +13,7 @@ from typing import Any, Protocol, cast
 
 import boto3
 
+from app.exporter.publisher import ReleaseValidator
 from app.runtime.handlers import Queue, Table, enqueue_job
 
 
@@ -32,6 +33,8 @@ class S3Admin(Protocol):
     def get_object(self, **kwargs: object) -> dict[str, Any]: ...
 
     def list_objects_v2(self, **kwargs: object) -> dict[str, Any]: ...
+
+    def delete_objects(self, **kwargs: object) -> object: ...
 
 
 class SqsReport(Protocol):
@@ -82,6 +85,10 @@ def parser() -> argparse.ArgumentParser:
     summary = subcommands.add_parser("operations-summary")
     summary.add_argument("--from", dest="from_date", required=True)
     summary.add_argument("--to", dest="to_date", required=True)
+
+    publish = subcommands.add_parser("publish-candidate")
+    publish.add_argument("directory", type=Path)
+    publish.add_argument("--yes", action="store_true")
     return value
 
 
@@ -104,6 +111,8 @@ def main(argv: list[str] | None = None) -> int:
             result = _replace_gates(_load_object(args.evidence))
         elif args.command == "request-deletion":
             result = _request_deletion(args.video_id, args.reason)
+        elif args.command == "publish-candidate":
+            result = _publish_candidate(args.directory)
         else:
             raise AssertionError("unreachable command")
     print(json.dumps(result, ensure_ascii=False, sort_keys=True))
@@ -198,6 +207,60 @@ def _request_deletion(video_id: str, reason: str) -> dict[str, Any]:
             "requestedAt": requested_at,
         },
     )
+
+
+def _publish_candidate(directory: Path) -> dict[str, Any]:
+    validation = ReleaseValidator().validate(directory)
+    bucket = _env("PROCESSED_BUCKET")
+    prefix = "candidates/latest"
+    client = cast(S3Admin, boto3.client("s3"))
+    _clear_s3_prefix(client, bucket, f"{prefix}/")
+    artifact_count = 0
+    for path in sorted(value for value in directory.rglob("*") if value.is_file()):
+        relative = path.relative_to(directory).as_posix()
+        content_type = "image/svg+xml" if path.suffix == ".svg" else "application/json"
+        client.put_object(
+            Bucket=bucket,
+            Key=f"{prefix}/{relative}",
+            Body=path.read_bytes(),
+            ContentType=content_type,
+        )
+        artifact_count += 1
+    job = _start_job(
+        "static_export",
+        validation.release_id,
+        f"candidate:{validation.release_id}",
+        {"bucket": bucket, "candidatePrefix": prefix},
+    )
+    return {
+        **job,
+        "releaseId": validation.release_id,
+        "videoCount": validation.video_count,
+        "artifactCount": artifact_count,
+    }
+
+
+def _clear_s3_prefix(client: S3Admin, bucket: str, prefix: str) -> None:
+    token: str | None = None
+    while True:
+        arguments: dict[str, object] = {"Bucket": bucket, "Prefix": prefix}
+        if token:
+            arguments["ContinuationToken"] = token
+        page = client.list_objects_v2(**arguments)
+        contents = page.get("Contents", [])
+        objects = [
+            {"Key": key}
+            for raw in cast(list[object], contents)
+            if isinstance(contents, list) and isinstance(raw, dict)
+            for key in [cast(dict[str, Any], raw).get("Key")]
+            if isinstance(key, str)
+        ]
+        if objects:
+            client.delete_objects(Bucket=bucket, Delete={"Objects": objects, "Quiet": True})
+        next_value = page.get("NextContinuationToken")
+        token = next_value if isinstance(next_value, str) else None
+        if token is None:
+            return
 
 
 def _operations_summary(from_date: str, to_date: str) -> dict[str, Any]:

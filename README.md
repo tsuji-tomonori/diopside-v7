@@ -45,6 +45,7 @@ export CONFIGURATION_BUCKET=...
 cd backend
 uv run --locked diopside-admin get-job JOB_ID
 uv run --locked diopside-admin operations-summary --from 2026-07-01 --to 2026-08-01
+uv run --locked diopside-admin publish-candidate /path/to/release --yes
 uv run --locked diopside-admin request-deletion VIDEO_ID --reason 'request reference' --yes
 ```
 

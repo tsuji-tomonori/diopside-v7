@@ -172,6 +172,7 @@ export class DiopsideStack extends cdk.Stack {
     control.grantReadWriteData(adminRole);
     raw.grantRead(adminRole);
     processed.grantRead(adminRole);
+    processed.grantWrite(adminRole);
     publicData.grantRead(adminRole);
     configuration.grantRead(adminRole);
     jobQueue.grantSendMessages(adminRole);
