@@ -15,7 +15,7 @@ test('uses serverless encrypted storage and queues', () => {
   const value = template();
   value.resourceCountIs('AWS::S3::Bucket', 5);
   value.resourceCountIs('AWS::DynamoDB::Table', 1);
-  value.resourceCountIs('AWS::SQS::Queue', 2);
+  value.resourceCountIs('AWS::SQS::Queue', 3);
   value.hasResourceProperties('AWS::DynamoDB::Table', {
     BillingMode: 'PAY_PER_REQUEST',
     PointInTimeRecoverySpecification: { PointInTimeRecoveryEnabled: true },
@@ -35,6 +35,7 @@ test('separates runtime roles and schedules short batches', () => {
   value.resourceCountIs('AWS::IAM::Role', 4);
   value.resourceCountIs('AWS::Lambda::Function', 3);
   value.resourceCountIs('AWS::Events::Rule', 3);
+  value.resourceCountIs('AWS::Lambda::EventSourceMapping', 2);
   value.hasResourceProperties('AWS::Lambda::Function', {
     Timeout: 900,
     ReservedConcurrentExecutions: 2,

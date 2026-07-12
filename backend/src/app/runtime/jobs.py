@@ -7,12 +7,15 @@ import json
 import os
 import tempfile
 from datetime import UTC, datetime
-from pathlib import Path
+from pathlib import Path, PurePosixPath
+from tempfile import TemporaryDirectory
 from typing import Any, Protocol, cast
 
 import boto3
+from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
+from app.exporter.publisher import ReleaseValidator, canonical_json
 from app.processing.pipeline import (
     Coverage,
     aggregate_events,
@@ -27,6 +30,8 @@ class ObjectStore(Protocol):
     def put_object(self, **kwargs: object) -> object: ...
 
     def get_object(self, **kwargs: object) -> dict[str, Any]: ...
+
+    def list_objects_v2(self, **kwargs: object) -> dict[str, Any]: ...
 
 
 class SecretStore(Protocol):
@@ -217,6 +222,66 @@ def wordcloud(job: dict[str, Any]) -> dict[str, Any]:
     return result
 
 
+def static_export(job: dict[str, Any]) -> dict[str, Any]:
+    manifest = _object(job.get("inputManifest"))
+    source_bucket = _string(
+        manifest.get("bucket", os.environ.get("PROCESSED_BUCKET")), "inputManifest.bucket"
+    )
+    prefix = _string(manifest.get("candidatePrefix"), "inputManifest.candidatePrefix").strip("/")
+    store = cast(ObjectStore, boto3.client("s3"))
+    with TemporaryDirectory(prefix="diopside-release-") as temporary:
+        candidate = Path(temporary)
+        keys = _download_prefix(store, source_bucket, prefix, candidate)
+        validation = ReleaseValidator().validate(candidate)
+        index = _read_path_json(candidate / "index.json")
+        if index.get("releaseMode") == "normal":
+            _require_valid_gates(store, manifest)
+        public_bucket = _required_env("PUBLIC_BUCKET")
+        release_root = f"data/releases/{validation.release_id}"
+        for relative in keys:
+            body = (candidate / relative).read_bytes()
+            destination = f"{release_root}/{relative.as_posix()}"
+            content_type = "image/svg+xml" if relative.suffix == ".svg" else "application/json"
+            store.put_object(
+                Bucket=public_bucket,
+                Key=destination,
+                Body=body,
+                ContentType=content_type,
+                CacheControl="public, max-age=300, immutable",
+            )
+            copied = _read_body(store.get_object(Bucket=public_bucket, Key=destination))
+            if hashlib.sha256(copied).digest() != hashlib.sha256(body).digest():
+                raise RuntimeError(f"public read-back mismatch: {relative}")
+        latest = _latest_manifest(index, validation.artifact_hashes)
+        latest_body = canonical_json(latest) + b"\n"
+        latest_condition: dict[str, object]
+        try:
+            current = store.get_object(Bucket=public_bucket, Key="data/latest.json")
+            etag = current.get("ETag")
+            if not isinstance(etag, str):
+                raise RuntimeError("latest pointer has no ETag")
+            latest_condition = {"IfMatch": etag}
+        except ClientError as error:
+            code = error.response.get("Error", {}).get("Code")
+            if code not in {"NoSuchKey", "404", "NotFound"}:
+                raise
+            latest_condition = {"IfNoneMatch": "*"}
+        store.put_object(
+            Bucket=public_bucket,
+            Key="data/latest.json",
+            Body=latest_body,
+            ContentType="application/json",
+            CacheControl="public, max-age=60, must-revalidate",
+            **latest_condition,
+        )
+    return {
+        "releaseId": validation.release_id,
+        "videoCount": validation.video_count,
+        "artifactCount": len(keys),
+        "latestKey": "data/latest.json",
+    }
+
+
 def _youtube() -> YouTubeDataClient:
     key = os.environ.get("DIO_YOUTUBE_API_KEY")
     secret_arn = os.environ.get("YOUTUBE_API_KEY_SECRET_ARN")
@@ -266,12 +331,94 @@ def _read_json(manifest: dict[str, Any]) -> dict[str, Any]:
     bucket = _string(manifest.get("bucket"), "inputManifest.bucket")
     key = _string(manifest.get("key"), "inputManifest.key")
     response = cast(ObjectStore, boto3.client("s3")).get_object(Bucket=bucket, Key=key)
-    body = cast(ReadableBody, response.get("Body"))
-    raw = body.read()
+    raw = _read_body(response)
     value = cast(object, json.loads(raw))
     if not isinstance(value, dict):
         raise ValueError("input object must contain a JSON object")
     return cast(dict[str, Any], value)
+
+
+def _read_body(response: dict[str, Any]) -> bytes:
+    return cast(ReadableBody, response.get("Body")).read()
+
+
+def _download_prefix(
+    store: ObjectStore, bucket: str, prefix: str, destination: Path
+) -> list[PurePosixPath]:
+    token: str | None = None
+    paths: list[PurePosixPath] = []
+    while True:
+        arguments: dict[str, object] = {"Bucket": bucket, "Prefix": f"{prefix}/"}
+        if token:
+            arguments["ContinuationToken"] = token
+        page = store.list_objects_v2(**arguments)
+        for item in _objects(page.get("Contents")):
+            key = item.get("Key")
+            if not isinstance(key, str):
+                continue
+            relative_value = key.removeprefix(f"{prefix}/")
+            relative = PurePosixPath(relative_value)
+            if not relative_value or relative.is_absolute() or ".." in relative.parts:
+                raise ValueError(f"unsafe candidate path: {key}")
+            target = destination.joinpath(*relative.parts)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(_read_body(store.get_object(Bucket=bucket, Key=key)))
+            paths.append(relative)
+        next_value = page.get("NextContinuationToken")
+        token = next_value if isinstance(next_value, str) else None
+        if not token:
+            break
+    if not paths:
+        raise ValueError("candidate release is empty")
+    return paths
+
+
+def _read_path_json(path: Path) -> dict[str, Any]:
+    value = cast(object, json.loads(path.read_bytes()))
+    if not isinstance(value, dict):
+        raise ValueError(f"JSON object required: {path.name}")
+    return cast(dict[str, Any], value)
+
+
+def _require_valid_gates(store: ObjectStore, manifest: dict[str, Any]) -> None:
+    bucket = _required_env("CONFIGURATION_BUCKET")
+    key_value = manifest.get("gateEvidenceKey", "gates/current.json")
+    key = _string(key_value, "gateEvidenceKey")
+    evidence = cast(object, json.loads(_read_body(store.get_object(Bucket=bucket, Key=key))))
+    if not isinstance(evidence, dict):
+        raise ValueError("gate evidence must be an object")
+    gates = _object(cast(dict[str, Any], evidence).get("gates"))
+    now = datetime.now(UTC)
+    for gate_id in (f"GATE-{number:03d}" for number in range(1, 7)):
+        record = _object(gates.get(gate_id))
+        if record.get("decision") != "valid":
+            raise ValueError(f"{gate_id} is not valid")
+        expires_at = record.get("expiresAt")
+        if isinstance(expires_at, str) and _parse_time(expires_at) <= now:
+            raise ValueError(f"{gate_id} is expired")
+
+
+def _latest_manifest(index: dict[str, Any], hashes: dict[str, str]) -> dict[str, Any]:
+    latest: dict[str, Any] = {
+        "schemaVersion": index["schemaVersion"],
+        "releaseId": index["releaseId"],
+        "releaseMode": index["releaseMode"],
+        "generatedAt": index["generatedAt"],
+        "normalizationVersion": index["normalizationVersion"],
+        "indexPath": f"data/releases/{index['releaseId']}/index.json",
+        "searchIndexPath": f"data/releases/{index['releaseId']}/search-index.json",
+        "artifactHashes": hashes,
+    }
+    if index.get("releaseMode") == "normal":
+        release_root = f"data/releases/{index['releaseId']}"
+        latest.update(
+            {
+                "tagTaxonomyPath": f"{release_root}/tag-taxonomy.json",
+                "tagIndexPath": f"{release_root}/tag-index.json",
+                "tagAliasIndexPath": f"{release_root}/tag-alias-index.json",
+            }
+        )
+    return latest
 
 
 def _pseudonym_secret() -> bytes:

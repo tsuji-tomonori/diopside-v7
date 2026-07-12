@@ -101,6 +101,12 @@ export class DiopsideStack extends cdk.Stack {
       visibilityTimeout: cdk.Duration.minutes(15),
       deadLetterQueue: { queue: deadLetterQueue, maxReceiveCount: 4 },
     });
+    const exportQueue = new sqs.Queue(this, 'ExportQueue', {
+      encryption: sqs.QueueEncryption.SQS_MANAGED,
+      enforceSSL: true,
+      visibilityTimeout: cdk.Duration.minutes(15),
+      deadLetterQueue: { queue: deadLetterQueue, maxReceiveCount: 4 },
+    });
 
     const collectorRole = this.runtimeRole('CollectorRole');
     const processorRole = this.runtimeRole('ProcessorRole');
@@ -128,6 +134,8 @@ export class DiopsideStack extends cdk.Stack {
     configuration.grantRead(exporterRole);
     publicData.grantReadWrite(exporterRole);
     control.grantReadWriteData(exporterRole);
+    exportQueue.grantSendMessages(exporterRole);
+    exportQueue.grantConsumeMessages(exporterRole);
 
     control.grantReadWriteData(adminRole);
     jobQueue.grantSendMessages(adminRole);
@@ -142,12 +150,22 @@ export class DiopsideStack extends cdk.Stack {
         reportBatchItemFailures: true,
       }),
     );
+    exporter.addEventSource(
+      new eventSources.SqsEventSource(exportQueue, {
+        batchSize: 1,
+        reportBatchItemFailures: true,
+      }),
+    );
     collector.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
     processor.addEnvironment('YOUTUBE_API_KEY_SECRET_ARN', youtubeApiKey.secretArn);
     processor.addEnvironment('PSEUDONYM_SECRET_ARN', pseudonymSecret.secretArn);
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
+    exporter.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
+    exporter.addEnvironment('CONFIGURATION_BUCKET', configuration.bucketName);
+    exporter.addEnvironment('EXPORT_QUEUE_URL', exportQueue.queueUrl);
+    exporter.addEnvironment('JOB_HANDLER_STATIC_EXPORT', 'app.runtime.jobs:static_export');
     for (const worker of [collector, processor, exporter]) {
       worker.addEnvironment('CONTROL_TABLE', control.tableName);
     }
@@ -188,6 +206,7 @@ export class DiopsideStack extends cdk.Stack {
         new targets.LambdaFunction(exporter, {
           event: events.RuleTargetInput.fromObject({
             targetId: 'public-release', inputVersion: 'scheduled:export', scheduleBucketMinutes: 1440,
+            inputManifest: { candidatePrefix: 'candidates/latest' },
           }),
         }),
       ],

@@ -151,8 +151,13 @@ def dispatch_job(job: dict[str, Any]) -> dict[str, Any]:
 
 
 def exporter_handler(event: dict[str, Any], context: object) -> dict[str, Any]:
+    if "Records" in event:
+        table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
+        return process_records(event, table, dispatch_job)
     event = {**event, "jobType": JobType.STATIC_EXPORT.value}
-    return collector_handler(event, context)
+    table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
+    queue = cast(Queue, boto3.resource("sqs").Queue(_required_env("EXPORT_QUEUE_URL")))
+    return enqueue_job(event, table, queue)
 
 
 def _mark_running(table: Table, job: dict[str, Any]) -> None:
