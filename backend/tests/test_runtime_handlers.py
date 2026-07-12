@@ -116,6 +116,62 @@ def test_process_records_does_not_retry_permanent_failure() -> None:
     assert table.updates[-1]["ExpressionAttributeValues"][":status"] == "failed_permanent"
 
 
+def test_process_records_schedules_bounded_retry() -> None:
+    table = FakeTable()
+    retry = FakeQueue()
+    dead_letter = FakeQueue()
+
+    def execute(_job: dict[str, Any]) -> None:
+        raise RuntimeError("temporary")
+
+    result = process_records(
+        {
+            "Records": [
+                {
+                    "messageId": "retry",
+                    "body": '{"jobId":"retry","attempt":1}',
+                }
+            ]
+        },
+        table,
+        execute,
+        retry,
+        dead_letter,
+    )
+    assert result == {"batchItemFailures": []}
+    assert len(retry.messages) == 1
+    assert 0 <= retry.messages[0]["DelaySeconds"] <= 2
+    assert '"attempt":2' in retry.messages[0]["MessageBody"]
+    assert dead_letter.messages == []
+
+
+def test_process_records_sends_exhausted_attempt_to_dlq() -> None:
+    table = FakeTable()
+    retry = FakeQueue()
+    dead_letter = FakeQueue()
+
+    def execute(_job: dict[str, Any]) -> None:
+        raise RuntimeError("temporary")
+
+    result = process_records(
+        {
+            "Records": [
+                {
+                    "messageId": "retry",
+                    "body": '{"jobId":"retry","attempt":4}',
+                }
+            ]
+        },
+        table,
+        execute,
+        retry,
+        dead_letter,
+    )
+    assert result == {"batchItemFailures": []}
+    assert retry.messages == []
+    assert len(dead_letter.messages) == 1
+
+
 class FakeDynamo:
     def __init__(self, table: FakeTable) -> None:
         self.table = table

@@ -155,6 +155,7 @@ export class DiopsideStack extends cdk.Stack {
     control.grantReadWriteData(processorRole);
     jobQueue.grantConsumeMessages(processorRole);
     jobQueue.grantSendMessages(processorRole);
+    deadLetterQueue.grantSendMessages(processorRole);
     youtubeApiKey.grantRead(processorRole);
     pseudonymSecret.grantRead(processorRole);
 
@@ -164,6 +165,7 @@ export class DiopsideStack extends cdk.Stack {
     control.grantReadWriteData(exporterRole);
     exportQueue.grantSendMessages(exporterRole);
     exportQueue.grantConsumeMessages(exporterRole);
+    deadLetterQueue.grantSendMessages(exporterRole);
 
     control.grantReadWriteData(adminRole);
     jobQueue.grantSendMessages(adminRole);
@@ -217,6 +219,7 @@ export class DiopsideStack extends cdk.Stack {
     }));
     for (const worker of [collector, processor, exporter]) {
       worker.addEnvironment('CONTROL_TABLE', control.tableName);
+      worker.addEnvironment('DEAD_LETTER_QUEUE_URL', deadLetterQueue.queueUrl);
     }
     processor.addEnvironment('JOB_HANDLER_METADATA_SYNC', 'app.runtime.jobs:metadata_sync');
     processor.addEnvironment('JOB_HANDLER_COMMENT_COLLECT', 'app.runtime.jobs:comment_collect');

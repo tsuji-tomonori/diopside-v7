@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import json
+import math
 import os
+import random
 from collections.abc import Callable
 from datetime import UTC, datetime
 from typing import Any, Protocol, cast
@@ -11,13 +13,18 @@ from typing import Any, Protocol, cast
 import boto3
 from botocore.exceptions import ClientError
 
-from app.operations.policy import JobType, canonical_job_key
+from app.operations.policy import JobType, canonical_job_key, retry_delay_seconds
 
 JobExecutor = Callable[[dict[str, Any]], dict[str, Any] | None]
 
 
 class PermanentJobError(ValueError):
     """A malformed or unsupported job that must not be retried by SQS."""
+
+
+class RuntimeRandom:
+    def uniform(self, low: float, high: float) -> float:
+        return random.SystemRandom().uniform(low, high)
 
 
 class Table(Protocol):
@@ -86,11 +93,21 @@ def enqueue_job(event: dict[str, Any], table: Table, queue: Queue) -> dict[str, 
 
 def processor_handler(event: dict[str, Any], _context: object) -> dict[str, Any]:
     table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
-    return process_records(event, table, dispatch_job)
+    return process_records(
+        event,
+        table,
+        dispatch_job,
+        _optional_queue("JOB_QUEUE_URL"),
+        _optional_queue("DEAD_LETTER_QUEUE_URL"),
+    )
 
 
 def process_records(
-    event: dict[str, Any], table: Table, executor: JobExecutor
+    event: dict[str, Any],
+    table: Table,
+    executor: JobExecutor,
+    retry_queue: Queue | None = None,
+    dead_letter_queue: Queue | None = None,
 ) -> dict[str, Any]:
     failures: list[dict[str, str]] = []
     records = event.get("Records", [])
@@ -102,6 +119,7 @@ def process_records(
             continue
         record = cast(dict[str, Any], raw)
         message_id = record.get("messageId")
+        original_body = record.get("body")
         try:
             body = json.loads(cast(str, record["body"]))
             if not isinstance(body, dict):
@@ -113,10 +131,18 @@ def process_records(
         except PermanentJobError as error:
             if job is not None:
                 _mark_finished(table, job, "failed_permanent", error=error)
+            if dead_letter_queue is not None:
+                _send_dead_letter(dead_letter_queue, original_body, error, job)
         except (KeyError, ValueError, json.JSONDecodeError, ClientError, RuntimeError) as error:
             if job is not None and isinstance(job.get("jobId"), str):
                 _mark_finished(table, job, "failed_retryable", error=error)
-            if isinstance(message_id, str):
+            attempt_value = job.get("attempt", 1) if job is not None else 1
+            attempt = attempt_value if isinstance(attempt_value, int) else 1
+            if job is not None and retry_queue is not None and attempt < 4:
+                _schedule_retry(table, retry_queue, job, attempt)
+            elif dead_letter_queue is not None:
+                _send_dead_letter(dead_letter_queue, original_body, error, job)
+            elif isinstance(message_id, str):
                 failures.append({"itemIdentifier": message_id})
     return {"batchItemFailures": failures}
 
@@ -153,7 +179,13 @@ def dispatch_job(job: dict[str, Any]) -> dict[str, Any]:
 def exporter_handler(event: dict[str, Any], context: object) -> dict[str, Any]:
     if "Records" in event:
         table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
-        return process_records(event, table, dispatch_job)
+        return process_records(
+            event,
+            table,
+            dispatch_job,
+            _optional_queue("EXPORT_QUEUE_URL"),
+            _optional_queue("DEAD_LETTER_QUEUE_URL"),
+        )
     event = {**event, "jobType": JobType.STATIC_EXPORT.value}
     table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
     queue = cast(Queue, boto3.resource("sqs").Queue(_required_env("EXPORT_QUEUE_URL")))
@@ -208,6 +240,49 @@ def _mark_finished(
         ExpressionAttributeNames={"#status": "status"},
         ExpressionAttributeValues=values,
     )
+
+
+def _schedule_retry(table: Table, queue: Queue, job: dict[str, Any], attempt: int) -> None:
+    next_attempt = attempt + 1
+    delay = math.ceil(retry_delay_seconds(attempt, RuntimeRandom()))
+    retry_job = {**job, "attempt": next_attempt}
+    queue.send_message(
+        MessageBody=json.dumps(retry_job, separators=(",", ":"), sort_keys=True),
+        DelaySeconds=delay,
+    )
+    table.update_item(
+        Key={"pk": f"JOB#{job['jobId']}", "sk": "EVENT#0001"},
+        UpdateExpression="SET #status = :queued, attempt = :attempt, retryDelaySeconds = :delay",
+        ConditionExpression="#status = :failed",
+        ExpressionAttributeNames={"#status": "status"},
+        ExpressionAttributeValues={
+            ":failed": "failed_retryable",
+            ":queued": "queued",
+            ":attempt": next_attempt,
+            ":delay": delay,
+        },
+    )
+
+
+def _send_dead_letter(
+    queue: Queue,
+    original_body: object,
+    error: BaseException,
+    job: dict[str, Any] | None,
+) -> None:
+    envelope = {
+        "originalBody": original_body,
+        "job": job,
+        "errorType": type(error).__name__,
+        "errorMessage": str(error)[:1000],
+        "failedAt": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+    }
+    queue.send_message(MessageBody=json.dumps(envelope, separators=(",", ":"), sort_keys=True))
+
+
+def _optional_queue(name: str) -> Queue | None:
+    url = os.environ.get(name)
+    return cast(Queue, boto3.resource("sqs").Queue(url)) if url else None
 
 
 def _required_env(name: str) -> str:
