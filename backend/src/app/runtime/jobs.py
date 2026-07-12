@@ -10,12 +10,14 @@ from datetime import UTC, datetime
 from pathlib import Path, PurePosixPath
 from tempfile import TemporaryDirectory
 from typing import Any, Protocol, cast
+from zoneinfo import ZoneInfo
 
 import boto3
 from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
 from app.exporter.publisher import ReleaseValidator, canonical_json
+from app.operations.policy import QuotaAction, QuotaBudget, quota_action
 from app.processing.pipeline import (
     Coverage,
     aggregate_events,
@@ -42,6 +44,12 @@ class Metrics(Protocol):
     def put_metric_data(self, **kwargs: object) -> object: ...
 
 
+class ControlTable(Protocol):
+    def get_item(self, **kwargs: object) -> dict[str, Any]: ...
+
+    def update_item(self, **kwargs: object) -> object: ...
+
+
 class ReadableBody(Protocol):
     def read(self) -> bytes: ...
 
@@ -51,6 +59,7 @@ def metadata_sync(job: dict[str, Any]) -> dict[str, Any]:
     manifest = _object(job.get("inputManifest"))
     max_pages_value = manifest.get("maxUploadPages")
     max_pages = max_pages_value if isinstance(max_pages_value, int) else None
+    reserved = reserve_quota(job, 1 + 2 * (max_pages or 50))
     with _youtube() as client:
         channel = client.channel(target_id)
         if channel is None:
@@ -75,7 +84,7 @@ def metadata_sync(job: dict[str, Any]) -> dict[str, Any]:
             "videos": videos,
             "quota": client.quota_report(),
         }
-    _emit_quota(_object(payload.get("quota")), job)
+    _record_quota(_object(payload.get("quota")), job, reserved)
     result = _write_raw(job, "metadata", payload)
     _enqueue_child(job, "normalize", target_id, "metadata", {**result, "kind": "metadata"})
     if manifest.get("discoverLive") is True:
@@ -102,6 +111,7 @@ def metadata_sync(job: dict[str, Any]) -> dict[str, Any]:
 
 def comment_collect(job: dict[str, Any]) -> dict[str, Any]:
     video_id = _target(job)
+    reserved = reserve_quota(job, 100)
     with _youtube() as client:
         payload = {
             "schemaVersion": "1.0.0",
@@ -110,7 +120,7 @@ def comment_collect(job: dict[str, Any]) -> dict[str, Any]:
             "threads": list(client.comments(video_id)),
             "quota": client.quota_report(),
         }
-    _emit_quota(_object(payload.get("quota")), job)
+    _record_quota(_object(payload.get("quota")), job, reserved)
     result = _write_raw(job, "comments", payload)
     _enqueue_child(job, "normalize", video_id, "normalize", {**result, "kind": "comments"})
     return result
@@ -121,6 +131,7 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
     live_chat_id = manifest.get("liveChatId")
     if not isinstance(live_chat_id, str) or not live_chat_id:
         raise ValueError("inputManifest.liveChatId is required")
+    reserved = reserve_quota(job, 500)
     checkpoint_name = hashlib.sha256(str(job["jobId"]).encode()).hexdigest()
     checkpoint = JsonCheckpoint(Path(tempfile.gettempdir()) / f"{checkpoint_name}.json")
     with _youtube() as client:
@@ -135,7 +146,7 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
             "messages": result.messages,
             "quota": client.quota_report(),
         }
-    _emit_quota(_object(payload.get("quota")), job)
+    _record_quota(_object(payload.get("quota")), job, reserved)
     result = _write_raw(job, "live-chat", payload)
     _enqueue_child(
         job,
@@ -152,6 +163,8 @@ def normalize(job: dict[str, Any]) -> dict[str, Any]:
     payload = _read_json(manifest)
     kind = manifest.get("kind")
     video_id = _target(job)
+    if kind != "metadata":
+        _require_gate("GATE-001")
     if kind == "metadata":
         fetched_at = _string(payload.get("fetchedAt"), "payload.fetchedAt")
         items = [normalize_metadata(item, fetched_at) for item in _objects(payload.get("videos"))]
@@ -198,6 +211,7 @@ def normalize(job: dict[str, Any]) -> dict[str, Any]:
 
 
 def aggregate(job: dict[str, Any]) -> dict[str, Any]:
+    _require_gate("GATE-001")
     manifest = _object(job.get("inputManifest"))
     payload = _read_json(manifest)
     source_value = manifest.get("source")
@@ -212,6 +226,7 @@ def aggregate(job: dict[str, Any]) -> dict[str, Any]:
 
 
 def wordcloud(job: dict[str, Any]) -> dict[str, Any]:
+    _require_gate("GATE-001")
     manifest = _object(job.get("inputManifest"))
     aggregate_payload = _read_json(manifest)
     source_value = manifest.get("source", "both")
@@ -406,6 +421,25 @@ def _require_valid_gates(store: ObjectStore, manifest: dict[str, Any]) -> None:
             raise ValueError(f"{gate_id} is expired")
 
 
+def _require_gate(gate_id: str) -> None:
+    store = cast(ObjectStore, boto3.client("s3"))
+    bucket = _required_env("CONFIGURATION_BUCKET")
+    evidence = cast(
+        object,
+        json.loads(
+            _read_body(store.get_object(Bucket=bucket, Key="gates/current.json"))
+        ),
+    )
+    if not isinstance(evidence, dict):
+        raise ValueError("gate evidence must be an object")
+    record = _object(_object(cast(dict[str, Any], evidence).get("gates")).get(gate_id))
+    if record.get("decision") != "valid":
+        raise ValueError(f"{gate_id} is not valid")
+    expires_at = record.get("expiresAt")
+    if isinstance(expires_at, str) and _parse_time(expires_at) <= datetime.now(UTC):
+        raise ValueError(f"{gate_id} is expired")
+
+
 def _latest_manifest(index: dict[str, Any], hashes: dict[str, str]) -> dict[str, Any]:
     latest: dict[str, Any] = {
         "schemaVersion": index["schemaVersion"],
@@ -496,15 +530,66 @@ def _enqueue_child(
     )
 
 
-def _emit_quota(report: dict[str, Any], job: dict[str, Any]) -> None:
+def _record_quota(report: dict[str, Any], job: dict[str, Any], reserved: int) -> None:
     total = report.get("totalUnits")
+    method_units: dict[str, int] = {}
     if isinstance(total, int):
         _emit_metric("YouTubeQuotaUnits", total, {"JobType": str(job.get("jobType", "unknown"))})
     for event in _objects(report.get("events")):
         units = event.get("units")
         method = event.get("method")
         if isinstance(units, int) and isinstance(method, str):
+            method_units[method] = method_units.get(method, 0) + units
             _emit_metric("YouTubeQuotaUnitsByMethod", units, {"Method": method})
+    table = _control_table()
+    job_id = _string(job.get("jobId"), "jobId")
+    table.update_item(
+        Key={"pk": f"JOB#{job_id}", "sk": "EVENT#0001"},
+        UpdateExpression="SET quotaUnitsByMethod = :methods, quotaUnitsTotal = :total",
+        ExpressionAttributeValues={":methods": method_units, ":total": total or 0},
+    )
+    if isinstance(total, int) and total != reserved:
+        table.update_item(
+            Key=_quota_key(),
+            UpdateExpression="ADD used :difference",
+            ExpressionAttributeValues={":difference": total - reserved},
+        )
+
+
+def reserve_quota(job: dict[str, Any], units: int) -> int:
+    table = _control_table()
+    response = table.get_item(Key=_quota_key(), ConsistentRead=True)
+    item = _object(response.get("Item"))
+    used_value = item.get("used", 0)
+    used = used_value if isinstance(used_value, int) else 0
+    limit = int(os.environ.get("YOUTUBE_DAILY_QUOTA", "10000"))
+    action = quota_action(
+        _string(job.get("jobType"), "jobType"), QuotaBudget(limit, used), units
+    )
+    if action in {QuotaAction.STOP, QuotaAction.STOP_LOW_PRIORITY}:
+        raise RuntimeError(f"quota policy stopped {job['jobType']}: {action.value}")
+    table.update_item(
+        Key=_quota_key(),
+        UpdateExpression="SET updatedAt = :now ADD used :units",
+        ConditionExpression="attribute_not_exists(used) OR used <= :remaining",
+        ExpressionAttributeValues={
+            ":now": _now(),
+            ":units": units,
+            ":remaining": limit - units,
+        },
+    )
+    return units
+
+
+def _quota_key() -> dict[str, str]:
+    day = datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
+    return {"pk": f"QUOTA#{day}", "sk": "YOUTUBE"}
+
+
+def _control_table() -> ControlTable:
+    return cast(
+        ControlTable, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE"))
+    )
 
 
 def _emit_metric(name: str, value: int | float, dimensions: dict[str, str]) -> None:

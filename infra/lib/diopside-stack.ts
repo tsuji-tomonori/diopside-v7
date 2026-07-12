@@ -196,8 +196,10 @@ export class DiopsideStack extends cdk.Stack {
     collector.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
+    processor.addEnvironment('CONFIGURATION_BUCKET', configuration.bucketName);
     processor.addEnvironment('YOUTUBE_API_KEY_SECRET_ARN', youtubeApiKey.secretArn);
     processor.addEnvironment('PSEUDONYM_SECRET_ARN', pseudonymSecret.secretArn);
+    processor.addEnvironment('YOUTUBE_DAILY_QUOTA', '10000');
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
     exporter.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
     exporter.addEnvironment('CONFIGURATION_BUCKET', configuration.bucketName);

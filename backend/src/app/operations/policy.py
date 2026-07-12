@@ -110,7 +110,13 @@ PROTECTED_QUOTA_JOBS: Final = frozenset(
     }
 )
 LOW_PRIORITY_QUOTA_JOBS: Final = frozenset(
-    {"comment_full_refresh", "comment_incremental", "metadata_refresh"}
+    {
+        "comment_full_refresh",
+        "comment_incremental",
+        "metadata_refresh",
+        JobType.COMMENT_COLLECT.value,
+        JobType.METADATA_SYNC.value,
+    }
 )
 
 

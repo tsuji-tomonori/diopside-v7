@@ -1,5 +1,7 @@
 from typing import Any, cast
 
+import pytest
+
 from app.runtime import jobs
 
 
@@ -38,6 +40,19 @@ class FakeS3:
         return {}
 
 
+class FakeControl:
+    def __init__(self, used: int) -> None:
+        self.used = used
+        self.updates: list[dict[str, object]] = []
+
+    def get_item(self, **_kwargs: object) -> dict[str, Any]:
+        return {"Item": {"used": self.used}}
+
+    def update_item(self, **kwargs: object) -> object:
+        self.updates.append(kwargs)
+        return {}
+
+
 def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> None:
     store = FakeS3()
 
@@ -47,14 +62,18 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
     def enqueue_child(*_args: object) -> None:
         return None
 
-    def emit_quota(*_args: object) -> None:
+    def record_quota(*_args: object) -> None:
         return None
+
+    def reserve_quota(*_args: object) -> int:
+        return 1
 
     monkeypatch.setenv("RAW_BUCKET", "raw-bucket")
     monkeypatch.setattr(jobs, "_youtube", lambda: FakeYouTube())
     monkeypatch.setattr(jobs.boto3, "client", client)
     monkeypatch.setattr(jobs, "_enqueue_child", enqueue_child)
-    monkeypatch.setattr(jobs, "_emit_quota", emit_quota)
+    monkeypatch.setattr(jobs, "_record_quota", record_quota)
+    monkeypatch.setattr(jobs, "reserve_quota", reserve_quota)
 
     result = jobs.metadata_sync(
         {
@@ -67,3 +86,28 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
     assert result["bucket"] == "raw-bucket"
     assert result["key"] == "raw/metadata/channel-1/scheduled-v1/job-1.json"
     assert b'"video-1"' in cast(bytes, store.puts[0]["Body"])
+
+
+def test_quota_reservation_stops_low_priority_at_80_percent(monkeypatch: Any) -> None:
+    control = FakeControl(8000)
+
+    def table() -> FakeControl:
+        return control
+
+    monkeypatch.setattr(jobs, "_control_table", table)
+    with pytest.raises(RuntimeError, match="quota policy stopped"):
+        jobs.reserve_quota({"jobType": "metadata_sync"}, 3)
+    assert control.updates == []
+
+
+def test_quota_reservation_is_atomic(monkeypatch: Any) -> None:
+    control = FakeControl(100)
+
+    def table() -> FakeControl:
+        return control
+
+    monkeypatch.setattr(jobs, "_control_table", table)
+    assert jobs.reserve_quota({"jobType": "metadata_sync"}, 3) == 3
+    assert control.updates[0]["ConditionExpression"] == (
+        "attribute_not_exists(used) OR used <= :remaining"
+    )
