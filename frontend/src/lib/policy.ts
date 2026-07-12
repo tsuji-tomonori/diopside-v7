@@ -3,8 +3,8 @@ export const POLICY_MAJOR_VERSION = '1';
 export const POLICY_LINKS = {
   youtubeTerms: 'https://developers.google.com/youtube/terms/developer-policies',
   youtubePrivacy: 'https://policies.google.com/privacy',
-  diopsideTerms: 'https://diopside.local/terms',
-  diopsidePrivacy: 'https://diopside.local/privacy',
+  diopsideTerms: '/terms',
+  diopsidePrivacy: '/privacy',
   youtubeDerived: 'https://developers.google.com/youtube/terms/derived-metrics-policy',
 };
 

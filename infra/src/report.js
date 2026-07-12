@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const manifest = JSON.parse(readFileSync('backend/data/public/latest.json', 'utf8'));
+const manifest = JSON.parse(readFileSync('../backend/data/public/latest.json', 'utf8'));
 const snapshot = {
   scope: 'ops',
   releaseId: manifest.releaseId,

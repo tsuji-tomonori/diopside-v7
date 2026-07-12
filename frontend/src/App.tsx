@@ -5,6 +5,8 @@ import { SearchPage } from '@/pages/SearchPage';
 import { SavedPage } from '@/pages/SavedPage';
 import { HistoryPage } from '@/pages/HistoryPage';
 import { DetailPage } from '@/pages/DetailPage';
+import { PrivacyPage } from '@/pages/PrivacyPage';
+import { TermsPage } from '@/pages/TermsPage';
 import { PublicDataProvider } from '@/state/PublicDataContext';
 
 function NotFound() {
@@ -20,6 +22,8 @@ function AppRoutes() {
         <Route path="/saved" element={<SavedPage />} />
         <Route path="/history" element={<HistoryPage />} />
         <Route path="/videos/:id" element={<DetailPage />} />
+        <Route path="/terms" element={<TermsPage />} />
+        <Route path="/privacy" element={<PrivacyPage />} />
         <Route path="*" element={<NotFound />} />
         <Route path="/admin" element={<Navigate to="/" replace />} />
       </Routes>

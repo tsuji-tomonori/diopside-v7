@@ -213,6 +213,23 @@ button { cursor: pointer; }
 
 .muted { color: var(--ink-600); }
 
+.site-footer {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 13px;
+}
+
+.site-footer a { color: var(--sumire-600); }
+
+.legal-page {
+  max-width: 760px;
+  line-height: 1.75;
+}
+
 .detail-thumb {
   width: 100%;
   max-width: 640px;

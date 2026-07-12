@@ -6,7 +6,7 @@ test('all public routes render without console errors', async ({ page }) => {
     if (message.type() === 'error') errors.push(message.text());
   });
 
-  for (const route of ['/', '/search', '/saved', '/history', '/videos/rY4A7Lxk12Q']) {
+  for (const route of ['/', '/search', '/saved', '/history', '/videos/rY4A7Lxk12Q', '/terms', '/privacy']) {
     await page.goto(route);
     await expect(page.locator('main')).toBeVisible();
     await expect(page.locator('main'), route).not.toContainText('失敗しました');
@@ -34,4 +34,11 @@ test('admin route is not exposed and redirects home', async ({ page }) => {
   await page.goto('/admin');
   await expect(page).toHaveURL(/\/$/);
   await expect(page.getByRole('link', { name: '管理' })).toHaveCount(0);
+});
+
+test('policy and deletion contact are reachable', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('link', { name: 'プライバシー・削除窓口' }).click();
+  await expect(page).toHaveURL(/\/privacy$/);
+  await expect(page.getByRole('link', { name: /削除・訂正を依頼/ })).toHaveAttribute('href', /github\.com/);
 });

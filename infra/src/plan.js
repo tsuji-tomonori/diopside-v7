@@ -1,7 +1,6 @@
 import { readFileSync } from 'node:fs';
 
-const latestPath = 'backend/data/public/latest.json';
-const latest = JSON.parse(readFileSync(latestPath, 'utf8'));
+const latest = JSON.parse(readFileSync('../backend/data/public/latest.json', 'utf8'));
 
 console.log(JSON.stringify({
   service: 'diopside-infra',
@@ -9,9 +8,14 @@ console.log(JSON.stringify({
   releaseId: latest.releaseId,
   releaseMode: latest.releaseMode,
   releaseContractPath: latest.indexPath,
-  status: 'initial-plan-only',
-  notes: [
-    'CDK/runner layer is intentionally minimal for target bootstrap.',
-    'Next steps: add VPC, OIDC policy guardrails, artifact bucket lifecycle, and report export pipeline.',
-  ],
+  status: 'cdk-synth-ready',
+  architecture: {
+    compute: 'scheduled and SQS-triggered Lambda',
+    storage: 'versioned encrypted S3 + DynamoDB on-demand',
+    queue: 'encrypted SQS + DLQ',
+    delivery: 'private S3 origin + CloudFront OAC',
+    fixedCostNetwork: false,
+  },
+  verification: ['npm test -w @diopside/infra', 'npm run synth -w @diopside/infra'],
+  deploymentPerformed: false,
 }, null, 2));

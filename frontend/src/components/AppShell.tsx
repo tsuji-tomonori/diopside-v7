@@ -36,6 +36,10 @@ export function AppShell({ children }: AppShellProps) {
 
       <main className="main-content" id="main-content" tabIndex={-1}>
         {children}
+        <footer className="site-footer">
+          <Link to="/terms">利用規約</Link>
+          <Link to="/privacy">プライバシー・削除窓口</Link>
+        </footer>
       </main>
 
       <nav className="bottom-nav" aria-label="mobile navigation">
