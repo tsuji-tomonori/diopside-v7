@@ -1,11 +1,13 @@
 {
   "schemaVersion": "1.0.0",
-  "correctionVersion": "20260713-v1",
+  "correctionVersion": "20260713-v2",
   "records": [
     {
       "field": "people.performer",
       "canonical": "虎姫コトカ",
-      "aliases": ["Kotoka Torahime"],
+      "aliases": [
+        "Kotoka Torahime"
+      ],
       "evidenceType": "channel_id_identity",
       "channelId": "UCggO2c1unS-oLwTLT0ICywg",
       "source": "collaborator_channel_registry_v2.json"
@@ -13,10 +15,47 @@
     {
       "field": "people.performer",
       "canonical": "ロボ子さん",
-      "aliases": ["ロボ子", "Roboco Ch. - ロボ子"],
+      "aliases": [
+        "ロボ子",
+        "Roboco Ch. - ロボ子"
+      ],
       "evidenceType": "channel_id_identity",
       "channelId": "UCDqI2jOz0weumE8s7paEk6g",
       "source": "collaborator_channel_registry_v2.json"
+    }
+  ],
+  "assignmentCorrections": [
+    {
+      "operation": "add",
+      "videoId": "N3HfHDSyutA",
+      "evidenceType": "metadata_title",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "花畑チャイカ",
+        "reason": "タイトルに出演者名が明記されているため補正台帳から追加",
+        "source": "metadata.title / correction_ledger",
+        "evidence": "花畑チャイカ",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "cew5ApNCEHk",
+      "evidenceType": "metadata_title",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "舞元啓介",
+        "reason": "タイトルの舞元師匠表記を既知の出演者名へ解決し補正台帳から追加",
+        "source": "metadata.title / correction_ledger",
+        "evidence": "舞元師匠",
+        "confidence": "high"
+      }
     }
   ]
 }

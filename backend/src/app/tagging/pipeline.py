@@ -104,7 +104,8 @@ def migrate_snapshots(
             video_id = _string(video, "videoId")
             if video_id in videos:
                 raise TaggingError(f"duplicate videoId across populations: {video_id}")
-            migrated = _migrate_video(video, resolver, registry)
+            corrected_video = _apply_assignment_corrections(video, correction_document)
+            migrated = _migrate_video(corrected_video, resolver, registry)
             assignment_count += len(migrated["tagAssignments"])
             videos[video_id] = migrated
 
@@ -142,6 +143,50 @@ def migrate_snapshots(
         ],
         "videos": ordered_videos,
     }
+
+
+def _apply_assignment_corrections(
+    video: dict[str, Any], correction_document: dict[str, Any] | None
+) -> dict[str, Any]:
+    if correction_document is None:
+        return video
+    raw_corrections = correction_document.get("assignmentCorrections", [])
+    if not isinstance(raw_corrections, list):
+        raise TaggingError("assignmentCorrections must be an array")
+
+    tags = video.get("tags", [])
+    if not isinstance(tags, list):
+        raise TaggingError("tags must be an array")
+    corrected_tags = [dict(_object(tag)) for tag in cast(list[object], tags)]
+    existing = {
+        (
+            assignment.get("categoryId"),
+            assignment.get("subcategoryId"),
+            assignment.get("tag"),
+        )
+        for assignment in corrected_tags
+    }
+    changed = False
+    for raw in cast(list[object], raw_corrections):
+        correction = _object(raw)
+        if correction.get("operation") != "add":
+            raise TaggingError("unsupported assignment correction operation")
+        if correction.get("videoId") != video.get("videoId"):
+            continue
+        if correction.get("evidenceType") != "metadata_title":
+            raise TaggingError("assignment correction requires metadata_title evidence")
+        assignment = _object(correction.get("assignment"))
+        identity = (
+            assignment.get("categoryId"),
+            assignment.get("subcategoryId"),
+            assignment.get("tag"),
+        )
+        if identity not in existing:
+            corrected_tags.append(dict(assignment))
+            existing.add(identity)
+            changed = True
+
+    return {**video, "tags": corrected_tags} if changed else video
 
 
 def _merge_alias_corrections(

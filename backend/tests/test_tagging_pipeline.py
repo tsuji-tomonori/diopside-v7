@@ -129,3 +129,86 @@ def test_received_archive_source_is_rewritten_to_existing_file() -> None:
     assignments = cast(list[dict[str, Any]], videos[0]["tagAssignments"])
     media = next(item for item in assignments if item["subcategoryId"] == "media")
     assert media["source"] == "archive_index.p0.json"
+
+
+def test_migrate_snapshots_applies_evidence_backed_assignment_correction() -> None:
+    snapshot = {
+        "videos": [
+            {
+                "videoId": "corrected-video",
+                "title": "Guest appears in title",
+                "tags": [
+                    {
+                        "categoryId": "content",
+                        "category": "内容",
+                        "subcategoryId": "primary",
+                        "subcategory": "主ジャンル",
+                        "tag": "雑談",
+                        "reason": "title classification",
+                        "source": "metadata.title",
+                        "evidence": "Guest appears in title",
+                        "confidence": "high",
+                    },
+                    {
+                        "categoryId": "format",
+                        "category": "公開形式",
+                        "subcategoryId": "media",
+                        "subcategory": "動画形式",
+                        "tag": "動画",
+                        "reason": "metadata classification",
+                        "source": "metadata",
+                        "evidence": "PT1M",
+                        "confidence": "high",
+                    },
+                    {
+                        "categoryId": "people",
+                        "category": "人物・グループ",
+                        "subcategoryId": "channel",
+                        "subcategory": "公開チャンネル",
+                        "tag": "Channel",
+                        "reason": "metadata channel",
+                        "source": "metadata.channel_title",
+                        "evidence": "Channel",
+                        "confidence": "high",
+                    },
+                ],
+            }
+        ]
+    }
+    correction = {
+        "correctionVersion": "test-v1",
+        "records": [],
+        "assignmentCorrections": [
+            {
+                "operation": "add",
+                "videoId": "corrected-video",
+                "evidenceType": "metadata_title",
+                "assignment": {
+                    "categoryId": "people",
+                    "category": "人物・グループ",
+                    "subcategoryId": "performer",
+                    "subcategory": "出演者",
+                    "tag": "Guest",
+                    "reason": "guest named in title",
+                    "source": "metadata.title / correction_ledger",
+                    "evidence": "Guest",
+                    "confidence": "high",
+                },
+            }
+        ],
+    }
+
+    result = migrate_snapshots(
+        [snapshot],
+        {"exactAliases": []},
+        correction_document=correction,
+        taxonomy_version="test",
+        alias_version="test",
+        algorithm_version="test",
+        scope_decision_version="test",
+        generated_at="2026-07-13T00:00:00Z",
+    )
+
+    assignments = result["videos"][0]["tagAssignments"]
+    assert any(item["tag"] == "Guest" for item in assignments)
+    assert result["assignmentCount"] == 4
