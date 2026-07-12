@@ -185,6 +185,10 @@ def dispatch_job(job: dict[str, Any]) -> dict[str, Any]:
 
 
 def exporter_handler(event: dict[str, Any], context: object) -> dict[str, Any]:
+    if event.get("operation") == "operations_heartbeat":
+        from app.runtime.jobs import operations_heartbeat
+
+        return operations_heartbeat()
     if "Records" in event:
         table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
         return process_records(

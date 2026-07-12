@@ -34,7 +34,7 @@ test('separates runtime roles and schedules short batches', () => {
   const value = template();
   value.resourceCountIs('AWS::IAM::Role', 4);
   value.resourceCountIs('AWS::Lambda::Function', 3);
-  value.resourceCountIs('AWS::Events::Rule', 4);
+  value.resourceCountIs('AWS::Events::Rule', 5);
   value.resourceCountIs('AWS::Lambda::EventSourceMapping', 2);
   value.hasResourceProperties('AWS::Lambda::Function', {
     Timeout: 900,

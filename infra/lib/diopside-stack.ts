@@ -303,6 +303,14 @@ export class DiopsideStack extends cdk.Stack {
         }),
       ],
     });
+    new events.Rule(this, 'OperationsHeartbeatSchedule', {
+      schedule: events.Schedule.rate(cdk.Duration.hours(1)),
+      targets: [
+        new targets.LambdaFunction(exporter, {
+          event: events.RuleTargetInput.fromObject({ operation: 'operations_heartbeat' }),
+        }),
+      ],
+    });
 
     const alarmAction = new cloudwatchActions.SnsAction(alerts);
     const dlqAlarm = deadLetterQueue.metricApproximateNumberOfMessagesVisible({
@@ -343,6 +351,19 @@ export class DiopsideStack extends cdk.Stack {
       treatMissingData: cloudwatch.TreatMissingData.NOT_BREACHING,
     });
     quotaAlarm.addAlarmAction(alarmAction);
+    const exportAgeMetric = new cloudwatch.Metric({
+      namespace: 'Diopside',
+      metricName: 'LatestExportAgeHours',
+      statistic: 'Maximum',
+      period: cdk.Duration.hours(1),
+    });
+    const exportAgeAlarm = exportAgeMetric.createAlarm(this, 'ExportFreshnessAlarm', {
+      threshold: 24,
+      evaluationPeriods: 1,
+      comparisonOperator: cloudwatch.ComparisonOperator.GREATER_THAN_THRESHOLD,
+      treatMissingData: cloudwatch.TreatMissingData.BREACHING,
+    });
+    exportAgeAlarm.addAlarmAction(alarmAction);
     new budgets.CfnBudget(this, 'MonthlyCostBudget', {
       budget: {
         budgetType: 'COST',
@@ -375,6 +396,15 @@ export class DiopsideStack extends cdk.Stack {
           ],
         })],
         [new cloudwatch.GraphWidget({ title: 'YouTube daily quota units', left: [quotaMetric] })],
+        [new cloudwatch.GraphWidget({
+          title: 'Export freshness and CDN synthetic success',
+          left: [
+            exportAgeMetric,
+            new cloudwatch.Metric({
+              namespace: 'Diopside', metricName: 'CdnSyntheticSuccess', statistic: 'Average',
+            }),
+          ],
+        })],
       ],
     });
 
@@ -411,6 +441,7 @@ export class DiopsideStack extends cdk.Stack {
       logFilePrefix: 'cloudfront/',
     });
     exporter.addEnvironment('DISTRIBUTION_ID', distribution.distributionId);
+    exporter.addEnvironment('DISTRIBUTION_DOMAIN_NAME', distribution.domainName);
     exporterRole.addToPolicy(new iam.PolicyStatement({
       actions: ['cloudfront:CreateInvalidation'],
       resources: [

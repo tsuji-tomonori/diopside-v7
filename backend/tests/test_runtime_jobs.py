@@ -200,3 +200,26 @@ def test_live_start_quota_is_protected_above_stop_threshold(monkeypatch: Any) ->
         200,
     ) == 200
     assert "ConditionExpression" not in control.updates[0]
+
+
+def test_operations_heartbeat_emits_export_age(monkeypatch: Any) -> None:
+    store = FakeS3()
+    store.objects[("public-bucket", "data/latest.json")] = (
+        b'{"generatedAt":"2026-01-01T00:00:00Z"}'
+    )
+    metrics: list[tuple[str, int | float]] = []
+
+    def client(_service: str) -> FakeS3:
+        return store
+
+    def emit(name: str, value: int | float, _dimensions: dict[str, str]) -> None:
+        metrics.append((name, value))
+
+    monkeypatch.setenv("PUBLIC_BUCKET", "public-bucket")
+    monkeypatch.delenv("DISTRIBUTION_DOMAIN_NAME", raising=False)
+    monkeypatch.setattr(jobs.boto3, "client", client)
+    monkeypatch.setattr(jobs, "_emit_metric", emit)
+
+    result = jobs.operations_heartbeat()
+    assert result["latestExportAgeHours"] > 0
+    assert metrics[0][0] == "LatestExportAgeHours"

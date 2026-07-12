@@ -14,6 +14,7 @@ from typing import Any, Protocol, cast
 from zoneinfo import ZoneInfo
 
 import boto3
+import httpx
 from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
@@ -417,6 +418,36 @@ def static_export(job: dict[str, Any]) -> dict[str, Any]:
         "videoCount": validation.video_count,
         "artifactCount": len(keys),
         "latestKey": "data/latest.json",
+    }
+
+
+def operations_heartbeat() -> dict[str, Any]:
+    store = cast(ObjectStore, boto3.client("s3"))
+    latest = _read_json_object(
+        _read_body(
+            store.get_object(
+                Bucket=_required_env("PUBLIC_BUCKET"), Key="data/latest.json"
+            )
+        ),
+        "latest.json",
+    )
+    generated_at = _parse_time(_string(latest.get("generatedAt"), "latest.generatedAt"))
+    age_hours = max(0.0, (datetime.now(UTC) - generated_at).total_seconds() / 3600)
+    _emit_metric("LatestExportAgeHours", age_hours, {})
+    domain = os.environ.get("DISTRIBUTION_DOMAIN_NAME")
+    cdn_success: bool | None = None
+    if domain:
+        try:
+            response = httpx.get(
+                f"https://{domain}/data/latest.json", timeout=10.0, follow_redirects=False
+            )
+            cdn_success = response.status_code == 200
+        except (httpx.TimeoutException, httpx.NetworkError):
+            cdn_success = False
+        _emit_metric("CdnSyntheticSuccess", 1 if cdn_success else 0, {})
+    return {
+        "latestExportAgeHours": round(age_hours, 3),
+        "cdnSyntheticSuccess": cdn_success if cdn_success is not None else "unknown",
     }
 
 
