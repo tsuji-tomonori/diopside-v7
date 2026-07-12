@@ -1,5 +1,6 @@
 from typing import Any
 
+from app.operations.policy import PolicyStopped
 from app.runtime.handlers import PermanentJobError, enqueue_job, process_records, processor_handler
 
 
@@ -170,6 +171,27 @@ def test_process_records_sends_exhausted_attempt_to_dlq() -> None:
     assert result == {"batchItemFailures": []}
     assert retry.messages == []
     assert len(dead_letter.messages) == 1
+
+
+def test_policy_stop_is_cancelled_without_retry_or_dlq() -> None:
+    table = FakeTable()
+    retry = FakeQueue()
+    dead_letter = FakeQueue()
+
+    def execute(_job: dict[str, Any]) -> None:
+        raise PolicyStopped("quota")
+
+    result = process_records(
+        {"Records": [{"messageId": "stop", "body": '{"jobId":"stop"}'}]},
+        table,
+        execute,
+        retry,
+        dead_letter,
+    )
+    assert result == {"batchItemFailures": []}
+    assert retry.messages == []
+    assert dead_letter.messages == []
+    assert table.updates[-1]["ExpressionAttributeValues"][":status"] == "cancelled"
 
 
 class FakeDynamo:

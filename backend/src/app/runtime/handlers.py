@@ -13,7 +13,12 @@ from typing import Any, Protocol, cast
 import boto3
 from botocore.exceptions import ClientError
 
-from app.operations.policy import JobType, canonical_job_key, retry_delay_seconds
+from app.operations.policy import (
+    JobType,
+    PolicyStopped,
+    canonical_job_key,
+    retry_delay_seconds,
+)
 
 JobExecutor = Callable[[dict[str, Any]], dict[str, Any] | None]
 
@@ -128,6 +133,9 @@ def process_records(
             _mark_running(table, job)
             output = executor(job) or {}
             _mark_finished(table, job, "succeeded", output=output)
+        except PolicyStopped as error:
+            if job is not None:
+                _mark_finished(table, job, "cancelled", error=error)
         except PermanentJobError as error:
             if job is not None:
                 _mark_finished(table, job, "failed_permanent", error=error)

@@ -28,6 +28,10 @@ class JobStatus(StrEnum):
     CANCELLED = "cancelled"
 
 
+class PolicyStopped(RuntimeError):
+    """Expected operational stop that must not be retried or sent to the DLQ."""
+
+
 def canonical_job_key(job_type: str, target_id: str, input_version: str) -> str:
     payload = bytearray()
     for value in (job_type, target_id, input_version):

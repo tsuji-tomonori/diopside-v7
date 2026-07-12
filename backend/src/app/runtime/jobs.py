@@ -18,7 +18,7 @@ from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
 from app.exporter.publisher import CompliancePurgeBuilder, ReleaseValidator, canonical_json
-from app.operations.policy import QuotaAction, QuotaBudget, quota_action
+from app.operations.policy import PolicyStopped, QuotaAction, QuotaBudget, quota_action
 from app.processing.pipeline import (
     Coverage,
     aggregate_events,
@@ -747,7 +747,7 @@ def reserve_quota(job: dict[str, Any], units: int) -> int:
         _string(job.get("jobType"), "jobType"), QuotaBudget(limit, used), units
     )
     if action in {QuotaAction.STOP, QuotaAction.STOP_LOW_PRIORITY}:
-        raise RuntimeError(f"quota policy stopped {job['jobType']}: {action.value}")
+        raise PolicyStopped(f"quota policy stopped {job['jobType']}: {action.value}")
     table.update_item(
         Key=_quota_key(),
         UpdateExpression="SET updatedAt = :now ADD used :units",
