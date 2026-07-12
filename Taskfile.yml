@@ -50,3 +50,14 @@ tasks:
     desc: Validate static release contract format.
     cmds:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
+
+  tags:migrate:preview:
+    desc: Migrate received v2 tags into deterministic canonical v3 preview files.
+    cmds:
+      - >-
+        cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}}
+        uv run --locked python -m app.scripts.migrate_tags
+        --tags-zip ../.workspace/tags.zip
+        --output /tmp/diopside-tags-v3.json
+        --public-index /tmp/diopside-tag-index-v3.json
+        --release-id migration-preview
