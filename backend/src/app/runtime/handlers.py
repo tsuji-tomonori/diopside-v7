@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import os
+from collections.abc import Callable
 from datetime import UTC, datetime
 from typing import Any, Protocol, cast
 
@@ -11,6 +12,12 @@ import boto3
 from botocore.exceptions import ClientError
 
 from app.operations.policy import JobType, canonical_job_key
+
+JobExecutor = Callable[[dict[str, Any]], dict[str, Any] | None]
+
+
+class PermanentJobError(ValueError):
+    """A malformed or unsupported job that must not be retried by SQS."""
 
 
 class Table(Protocol):
@@ -71,11 +78,18 @@ def enqueue_job(event: dict[str, Any], table: Table, queue: Queue) -> dict[str, 
 
 def processor_handler(event: dict[str, Any], _context: object) -> dict[str, Any]:
     table = cast(Table, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
+    return process_records(event, table, dispatch_job)
+
+
+def process_records(
+    event: dict[str, Any], table: Table, executor: JobExecutor
+) -> dict[str, Any]:
     failures: list[dict[str, str]] = []
     records = event.get("Records", [])
     if not isinstance(records, list):
         raise ValueError("Records must be an array")
     for raw in cast(list[object], records):
+        job: dict[str, Any] | None = None
         if not isinstance(raw, dict):
             continue
         record = cast(dict[str, Any], raw)
@@ -86,10 +100,46 @@ def processor_handler(event: dict[str, Any], _context: object) -> dict[str, Any]
                 raise ValueError("job body must be an object")
             job = cast(dict[str, Any], body)
             _mark_running(table, job)
-        except (KeyError, ValueError, json.JSONDecodeError, ClientError):
+            output = executor(job) or {}
+            _mark_finished(table, job, "succeeded", output=output)
+        except PermanentJobError as error:
+            if job is not None:
+                _mark_finished(table, job, "failed_permanent", error=error)
+        except (KeyError, ValueError, json.JSONDecodeError, ClientError, RuntimeError) as error:
+            if job is not None and isinstance(job.get("jobId"), str):
+                _mark_finished(table, job, "failed_retryable", error=error)
             if isinstance(message_id, str):
                 failures.append({"itemIdentifier": message_id})
     return {"batchItemFailures": failures}
+
+
+def dispatch_job(job: dict[str, Any]) -> dict[str, Any]:
+    """Dispatch a runtime job to its configured domain handler.
+
+    Domain handlers are supplied as ``module:function`` environment values. This keeps
+    orchestration independent from collection/processing implementations and makes a
+    missing production binding a permanent, observable configuration failure.
+    """
+    job_type = job.get("jobType")
+    if not isinstance(job_type, str) or job_type not in {item.value for item in JobType}:
+        raise PermanentJobError("invalid jobType")
+    binding = os.environ.get(f"JOB_HANDLER_{job_type.upper()}")
+    if not binding:
+        raise PermanentJobError(f"handler is not configured for {job_type}")
+    module_name, separator, function_name = binding.partition(":")
+    if not separator or not module_name or not function_name:
+        raise PermanentJobError(f"invalid handler binding for {job_type}")
+    from importlib import import_module
+
+    function = getattr(import_module(module_name), function_name, None)
+    if not callable(function):
+        raise PermanentJobError(f"handler is not callable for {job_type}")
+    result = function(job)
+    if result is None:
+        return {}
+    if not isinstance(result, dict):
+        raise PermanentJobError(f"handler returned a non-object for {job_type}")
+    return cast(dict[str, Any], result)
 
 
 def exporter_handler(event: dict[str, Any], context: object) -> dict[str, Any]:
@@ -111,6 +161,39 @@ def _mark_running(table: Table, job: dict[str, Any]) -> None:
             ":running": "running",
             ":started": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         },
+    )
+
+
+def _mark_finished(
+    table: Table,
+    job: dict[str, Any],
+    status: str,
+    *,
+    output: dict[str, Any] | None = None,
+    error: BaseException | None = None,
+) -> None:
+    job_id = job.get("jobId")
+    if not isinstance(job_id, str):
+        raise ValueError("jobId is required")
+    values: dict[str, object] = {
+        ":running": "running",
+        ":status": status,
+        ":finished": datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+    }
+    expression = "SET #status = :status, finishedAt = :finished"
+    if output is not None:
+        expression += ", outputManifest = :output"
+        values[":output"] = output
+    if error is not None:
+        expression += ", errorType = :errorType, errorMessage = :errorMessage"
+        values[":errorType"] = type(error).__name__
+        values[":errorMessage"] = str(error)[:1000]
+    table.update_item(
+        Key={"pk": f"JOB#{job_id}", "sk": "EVENT#0001"},
+        UpdateExpression=expression,
+        ConditionExpression="#status = :running",
+        ExpressionAttributeNames={"#status": "status"},
+        ExpressionAttributeValues=values,
     )
 
 
