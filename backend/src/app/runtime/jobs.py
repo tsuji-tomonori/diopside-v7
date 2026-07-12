@@ -17,7 +17,7 @@ import boto3
 from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
-from app.exporter.publisher import ReleaseValidator, canonical_json
+from app.exporter.publisher import CompliancePurgeBuilder, ReleaseValidator, canonical_json
 from app.operations.policy import QuotaAction, QuotaBudget, quota_action
 from app.processing.pipeline import (
     Coverage,
@@ -37,6 +37,8 @@ class ObjectStore(Protocol):
 
     def list_objects_v2(self, **kwargs: object) -> dict[str, Any]: ...
 
+    def delete_objects(self, **kwargs: object) -> object: ...
+
 
 class SecretStore(Protocol):
     def get_secret_value(self, **kwargs: object) -> dict[str, Any]: ...
@@ -44,6 +46,10 @@ class SecretStore(Protocol):
 
 class Metrics(Protocol):
     def put_metric_data(self, **kwargs: object) -> object: ...
+
+
+class Cdn(Protocol):
+    def create_invalidation(self, **kwargs: object) -> object: ...
 
 
 class ControlTable(Protocol):
@@ -259,19 +265,59 @@ def wordcloud(job: dict[str, Any]) -> dict[str, Any]:
 
 def static_export(job: dict[str, Any]) -> dict[str, Any]:
     manifest = _object(job.get("inputManifest"))
-    source_bucket = _string(
-        manifest.get("bucket", os.environ.get("PROCESSED_BUCKET")), "inputManifest.bucket"
-    )
-    prefix = _string(manifest.get("candidatePrefix"), "inputManifest.candidatePrefix").strip("/")
     store = cast(ObjectStore, boto3.client("s3"))
+    public_bucket = _required_env("PUBLIC_BUCKET")
+    purge_base_id: str | None = None
+    excluded_ids: set[str] = set()
     with TemporaryDirectory(prefix="diopside-release-") as temporary:
-        candidate = Path(temporary)
-        keys = _download_prefix(store, source_bucket, prefix, candidate)
+        root = Path(temporary)
+        trigger = manifest.get("purgeTrigger")
+        if isinstance(trigger, str) and trigger:
+            latest = _read_json_object(
+                _read_body(store.get_object(Bucket=public_bucket, Key="data/latest.json")),
+                "latest.json",
+            )
+            purge_base_id = _string(latest.get("releaseId"), "latest.releaseId")
+            base = root / "base"
+            _download_prefix(
+                store, public_bucket, f"data/releases/{purge_base_id}", base
+            )
+            raw_excluded = manifest.get("excludeVideoIds", [])
+            excluded_ids = {
+                value
+                for value in cast(list[object], raw_excluded)
+                if isinstance(raw_excluded, list) and isinstance(value, str)
+            }
+            candidate = root / "candidate"
+            release_id = str(manifest.get("releaseId") or f"purge-{job['jobId'][:32]}")
+            CompliancePurgeBuilder().build(
+                base,
+                candidate,
+                release_id=release_id,
+                latest_document=latest,
+                excluded_video_ids=excluded_ids,
+                trigger=trigger,
+                generated_at=_now(),
+            )
+            keys = [
+                PurePosixPath(path.relative_to(candidate).as_posix())
+                for path in sorted(candidate.rglob("*"))
+                if path.is_file()
+            ]
+        else:
+            source_bucket = _string(
+                manifest.get("bucket", os.environ.get("PROCESSED_BUCKET")),
+                "inputManifest.bucket",
+            )
+            prefix = _string(
+                manifest.get("candidatePrefix"), "inputManifest.candidatePrefix"
+            ).strip("/")
+            candidate = root / "candidate"
+            keys = _download_prefix(store, source_bucket, prefix, candidate)
         validation = ReleaseValidator().validate(candidate)
         index = _read_path_json(candidate / "index.json")
         if index.get("releaseMode") == "normal":
             _require_valid_gates(store, manifest)
-        public_bucket = _required_env("PUBLIC_BUCKET")
         release_root = f"data/releases/{validation.release_id}"
         for relative in keys:
             body = (candidate / relative).read_bytes()
@@ -309,6 +355,25 @@ def static_export(job: dict[str, Any]) -> dict[str, Any]:
             CacheControl="public, max-age=60, must-revalidate",
             **latest_condition,
         )
+    if purge_base_id is not None:
+        _delete_prefix(store, public_bucket, f"data/releases/{purge_base_id}/")
+        for video_id in excluded_ids:
+            for bucket_name in ("RAW_BUCKET", "PROCESSED_BUCKET"):
+                bucket = os.environ.get(bucket_name)
+                if bucket:
+                    _delete_matching_video(store, bucket, video_id)
+        distribution_id = os.environ.get("DISTRIBUTION_ID")
+        if distribution_id:
+            cast(Cdn, boto3.client("cloudfront")).create_invalidation(
+                DistributionId=distribution_id,
+                InvalidationBatch={
+                    "CallerReference": str(job["jobId"]),
+                    "Paths": {
+                        "Quantity": 1,
+                        "Items": [f"/data/releases/{purge_base_id}/*"],
+                    },
+                },
+            )
     _emit_metric("SuccessfulExports", 1, {"JobType": "static_export"})
     return {
         "releaseId": validation.release_id,
@@ -414,6 +479,55 @@ def _read_path_json(path: Path) -> dict[str, Any]:
     if not isinstance(value, dict):
         raise ValueError(f"JSON object required: {path.name}")
     return cast(dict[str, Any], value)
+
+
+def _read_json_object(raw: bytes, name: str) -> dict[str, Any]:
+    value = cast(object, json.loads(raw))
+    if not isinstance(value, dict):
+        raise ValueError(f"JSON object required: {name}")
+    return cast(dict[str, Any], value)
+
+
+def _delete_prefix(store: ObjectStore, bucket: str, prefix: str) -> None:
+    token: str | None = None
+    while True:
+        arguments: dict[str, object] = {"Bucket": bucket, "Prefix": prefix}
+        if token:
+            arguments["ContinuationToken"] = token
+        page = store.list_objects_v2(**arguments)
+        objects = [
+            {"Key": key}
+            for item in _objects(page.get("Contents"))
+            for key in [item.get("Key")]
+            if isinstance(key, str)
+        ]
+        if objects:
+            store.delete_objects(Bucket=bucket, Delete={"Objects": objects, "Quiet": True})
+        next_value = page.get("NextContinuationToken")
+        token = next_value if isinstance(next_value, str) else None
+        if not token:
+            break
+
+
+def _delete_matching_video(store: ObjectStore, bucket: str, video_id: str) -> None:
+    token: str | None = None
+    while True:
+        arguments: dict[str, object] = {"Bucket": bucket}
+        if token:
+            arguments["ContinuationToken"] = token
+        page = store.list_objects_v2(**arguments)
+        objects = [
+            {"Key": key}
+            for item in _objects(page.get("Contents"))
+            for key in [item.get("Key")]
+            if isinstance(key, str) and video_id in PurePosixPath(key).parts
+        ]
+        if objects:
+            store.delete_objects(Bucket=bucket, Delete={"Objects": objects, "Quiet": True})
+        next_value = page.get("NextContinuationToken")
+        token = next_value if isinstance(next_value, str) else None
+        if not token:
+            break
 
 
 def _require_valid_gates(store: ObjectStore, manifest: dict[str, Any]) -> None:

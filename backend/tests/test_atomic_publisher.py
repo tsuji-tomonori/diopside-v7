@@ -3,7 +3,12 @@ from pathlib import Path
 
 import pytest
 
-from app.exporter.publisher import AtomicPublisher, ReleaseRejected, sha256
+from app.exporter.publisher import (
+    AtomicPublisher,
+    CompliancePurgeBuilder,
+    ReleaseRejected,
+    sha256,
+)
 
 
 def write(path: Path, value: object) -> None:
@@ -153,3 +158,28 @@ def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path)
     published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
     assert published["releaseMode"] == "compliance_purge"
     assert "tagIndexPath" not in published
+
+
+def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Path) -> None:
+    public = tmp_path / "public"
+    publisher = AtomicPublisher(public)
+    publisher.publish(candidate(tmp_path / "candidates", "release-base"))
+    latest = json.loads((public / "latest.json").read_text(encoding="utf-8"))
+    output = tmp_path / "candidates" / "release-built-purge"
+
+    result = CompliancePurgeBuilder().build(
+        public / "releases" / "release-base",
+        output,
+        release_id="release-built-purge",
+        latest_document=latest,
+        excluded_video_ids={"video-1"},
+        trigger="deletion:video-1",
+        generated_at="2026-01-02T00:00:00Z",
+    )
+
+    assert result.video_count == 0
+    assert not (output / "tag-index.json").exists()
+    assert not (output / "videos" / "video-1.json").exists()
+    publisher.publish(output)
+    published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
+    assert published["releaseId"] == "release-built-purge"

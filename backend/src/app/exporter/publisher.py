@@ -281,3 +281,86 @@ class AtomicPublisher:
             raise ReleaseRejected("purge_adds_video", str(candidate_ids - base_ids))
         if any(video.tagIds for video in candidate.videos):
             raise ReleaseRejected("purge_contains_tags", candidate.releaseId)
+
+
+class CompliancePurgeBuilder:
+    DERIVED_FIELDS: ClassVar[tuple[str, ...]] = (
+        "chat",
+        "comments",
+        "timestamps",
+        "wordcloud",
+    )
+
+    def build(
+        self,
+        base_dir: Path,
+        output_dir: Path,
+        *,
+        release_id: str,
+        latest_document: dict[str, Any],
+        excluded_video_ids: set[str],
+        trigger: str,
+        generated_at: str,
+    ) -> ValidationResult:
+        if output_dir.exists():
+            raise ReleaseRejected("release_exists", release_id)
+        shutil.copytree(base_dir, output_dir)
+        for name in ReleaseValidator.NORMAL_ROOTS.values():
+            (output_dir / name).unlink(missing_ok=True)
+        shutil.rmtree(output_dir / "wordcloud", ignore_errors=True)
+
+        for name in ("index.json", "search-index.json"):
+            path = output_dir / name
+            document = ReleaseValidator().load_document(path)
+            document.update(
+                {
+                    "releaseId": release_id,
+                    "releaseMode": "compliance_purge",
+                    "generatedAt": generated_at,
+                    "purgeBaseReleaseId": latest_document["releaseId"],
+                    "purgeBaseManifestSha256": sha256(latest_document),
+                    "purgeTrigger": trigger,
+                }
+            )
+            document.pop("taxonomyVersion", None)
+            document.pop("aliasVersion", None)
+            videos = document.get("videos", [])
+            if not isinstance(videos, list):
+                raise ReleaseRejected("invalid_schema", f"{name}:videos")
+            retained: list[dict[str, Any]] = []
+            for raw in cast(list[object], videos):
+                if not isinstance(raw, dict):
+                    raise ReleaseRejected("invalid_schema", f"{name}:video")
+                video = cast(dict[str, Any], raw)
+                if video.get("videoId") in excluded_video_ids:
+                    continue
+                video.pop("tagIds", None)
+                video["artifactFlags"] = _empty_artifact_flags()
+                retained.append(video)
+            document["videos"] = retained
+            path.write_bytes(canonical_json(document) + b"\n")
+
+        details = output_dir / "videos"
+        for path in details.glob("*.json"):
+            if path.stem in excluded_video_ids:
+                path.unlink()
+                continue
+            detail = ReleaseValidator().load_document(path)
+            detail["releaseId"] = release_id
+            detail.pop("tagIds", None)
+            detail["artifactFlags"] = _empty_artifact_flags()
+            for field in self.DERIVED_FIELDS:
+                detail.pop(field, None)
+            path.write_bytes(canonical_json(detail) + b"\n")
+        return ReleaseValidator().validate(output_dir)
+
+
+def _empty_artifact_flags() -> dict[str, bool]:
+    return {
+        "chat": False,
+        "comments": False,
+        "timestamps": False,
+        "wordcloudChat": False,
+        "wordcloudComments": False,
+        "wordcloudBoth": False,
+    }

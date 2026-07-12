@@ -160,6 +160,8 @@ export class DiopsideStack extends cdk.Stack {
     pseudonymSecret.grantRead(processorRole);
 
     processed.grantRead(exporterRole);
+    raw.grantDelete(exporterRole);
+    processed.grantDelete(exporterRole);
     configuration.grantRead(exporterRole);
     publicData.grantReadWrite(exporterRole);
     control.grantReadWriteData(exporterRole);
@@ -204,6 +206,7 @@ export class DiopsideStack extends cdk.Stack {
     processor.addEnvironment('YOUTUBE_DAILY_QUOTA', '10000');
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
     exporter.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
+    exporter.addEnvironment('RAW_BUCKET', raw.bucketName);
     exporter.addEnvironment('CONFIGURATION_BUCKET', configuration.bucketName);
     exporter.addEnvironment('EXPORT_QUEUE_URL', exportQueue.queueUrl);
     exporter.addEnvironment('JOB_HANDLER_STATIC_EXPORT', 'app.runtime.jobs:static_export');
@@ -370,6 +373,13 @@ export class DiopsideStack extends cdk.Stack {
       logBucket: accessLogs,
       logFilePrefix: 'cloudfront/',
     });
+    exporter.addEnvironment('DISTRIBUTION_ID', distribution.distributionId);
+    exporterRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['cloudfront:CreateInvalidation'],
+      resources: [
+        `arn:${this.partition}:cloudfront::${this.account}:distribution/${distribution.distributionId}`,
+      ],
+    }));
     NagSuppressions.addResourceSuppressions(distribution, [
       {
         id: 'AwsSolutions-CFR4',

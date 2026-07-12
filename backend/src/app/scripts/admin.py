@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, Protocol, cast
 
@@ -52,6 +53,11 @@ def parser() -> argparse.ArgumentParser:
     gates = subcommands.add_parser("replace-gates")
     gates.add_argument("evidence", type=Path)
     gates.add_argument("--yes", action="store_true")
+
+    deletion = subcommands.add_parser("request-deletion")
+    deletion.add_argument("video_id")
+    deletion.add_argument("--reason", required=True)
+    deletion.add_argument("--yes", action="store_true")
     return value
 
 
@@ -70,6 +76,8 @@ def main(argv: list[str] | None = None) -> int:
             result = _redrive(args.source_arn, args.destination_arn, args.rate)
         elif args.command == "replace-gates":
             result = _replace_gates(_load_object(args.evidence))
+        elif args.command == "request-deletion":
+            result = _request_deletion(args.video_id, args.reason)
         else:
             raise AssertionError("unreachable command")
     print(json.dumps(result, ensure_ascii=False, sort_keys=True))
@@ -147,6 +155,23 @@ def _replace_gates(evidence: dict[str, Any]) -> dict[str, Any]:
         ContentType="application/json",
     )
     return {"key": "gates/current.json", "bytes": len(body)}
+
+
+def _request_deletion(video_id: str, reason: str) -> dict[str, Any]:
+    if not video_id or not reason.strip():
+        raise SystemExit("video_id and --reason are required")
+    requested_at = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    return _start_job(
+        "static_export",
+        video_id,
+        f"deletion:{requested_at}",
+        {
+            "purgeTrigger": f"deletion:{video_id}",
+            "excludeVideoIds": [video_id],
+            "reason": reason.strip(),
+            "requestedAt": requested_at,
+        },
+    )
 
 
 def _load_object(path: Path) -> dict[str, Any]:
