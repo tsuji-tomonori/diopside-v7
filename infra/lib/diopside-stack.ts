@@ -4,12 +4,17 @@ import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
 import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
 import * as events from 'aws-cdk-lib/aws-events';
 import * as targets from 'aws-cdk-lib/aws-events-targets';
+import * as eventSources from 'aws-cdk-lib/aws-lambda-event-sources';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as s3 from 'aws-cdk-lib/aws-s3';
 import * as sqs from 'aws-cdk-lib/aws-sqs';
 import { NagSuppressions } from 'cdk-nag';
 import { Construct } from 'constructs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const sourceDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../../backend/src');
 
 export class DiopsideStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
@@ -96,6 +101,12 @@ export class DiopsideStack extends cdk.Stack {
     const collector = this.worker('Collector', collectorRole, jobQueue.queueUrl);
     const processor = this.worker('Processor', processorRole, jobQueue.queueUrl);
     const exporter = this.worker('Exporter', exporterRole, jobQueue.queueUrl);
+    processor.addEventSource(
+      new eventSources.SqsEventSource(jobQueue, {
+        batchSize: 10,
+        reportBatchItemFailures: true,
+      }),
+    );
     collector.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
@@ -105,15 +116,33 @@ export class DiopsideStack extends cdk.Stack {
 
     new events.Rule(this, 'MetadataSchedule', {
       schedule: events.Schedule.rate(cdk.Duration.hours(6)),
-      targets: [new targets.LambdaFunction(collector)],
+      targets: [
+        new targets.LambdaFunction(collector, {
+          event: events.RuleTargetInput.fromObject({
+            jobType: 'metadata_sync', targetId: 'official-channel', inputVersion: 'scheduled-v1',
+          }),
+        }),
+      ],
     });
     new events.Rule(this, 'LiveStartSchedule', {
       schedule: events.Schedule.rate(cdk.Duration.minutes(5)),
-      targets: [new targets.LambdaFunction(collector)],
+      targets: [
+        new targets.LambdaFunction(collector, {
+          event: events.RuleTargetInput.fromObject({
+            jobType: 'live_chat_collect', targetId: 'active-live', inputVersion: 'scheduled-v1',
+          }),
+        }),
+      ],
     });
     new events.Rule(this, 'ExportSchedule', {
       schedule: events.Schedule.rate(cdk.Duration.hours(24)),
-      targets: [new targets.LambdaFunction(exporter)],
+      targets: [
+        new targets.LambdaFunction(exporter, {
+          event: events.RuleTargetInput.fromObject({
+            targetId: 'public-release', inputVersion: 'scheduled-v1',
+          }),
+        }),
+      ],
     });
 
     const responseHeaders = new cloudfront.ResponseHeadersPolicy(this, 'SecurityHeaders', {
@@ -211,12 +240,15 @@ export class DiopsideStack extends cdk.Stack {
   }
 
   private worker(id: string, role: iam.Role, queueUrl: string): lambda.Function {
+    const handler = id === 'Collector'
+      ? 'app.runtime.handlers.collector_handler'
+      : id === 'Processor'
+        ? 'app.runtime.handlers.processor_handler'
+        : 'app.runtime.handlers.exporter_handler';
     return new lambda.Function(this, id, {
       runtime: lambda.Runtime.PYTHON_3_14,
-      handler: 'index.handler',
-      code: lambda.Code.fromInline(
-        "def handler(event, context):\n    return {'accepted': True, 'event': event}\n",
-      ),
+      handler,
+      code: lambda.Code.fromAsset(sourceDirectory),
       role,
       timeout: cdk.Duration.minutes(15),
       memorySize: 512,
