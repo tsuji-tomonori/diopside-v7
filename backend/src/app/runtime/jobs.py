@@ -152,8 +152,26 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
     reserved = reserve_quota(job, 500)
     checkpoint_name = hashlib.sha256(str(job["jobId"]).encode()).hexdigest()
     checkpoint = JsonCheckpoint(Path(tempfile.gettempdir()) / f"{checkpoint_name}.json")
+    store = cast(ObjectStore, boto3.client("s3"))
+    checkpoint_bucket = _required_env("RAW_BUCKET")
+    checkpoint_key = f"checkpoints/live-chat/{_target(job)}.json"
+    try:
+        checkpoint.path.write_bytes(
+            _read_body(
+                store.get_object(Bucket=checkpoint_bucket, Key=checkpoint_key)
+            )
+        )
+    except ClientError as error:
+        code = error.response.get("Error", {}).get("Code")
+        if code not in {"NoSuchKey", "404", "NotFound"}:
+            raise
+    max_pages_value = manifest.get("maxPages", 10)
+    if not isinstance(max_pages_value, int) or not 1 <= max_pages_value <= 100:
+        raise ValueError("inputManifest.maxPages must be 1..100")
     with _youtube() as client:
-        result = client.collect_live_chat(live_chat_id, checkpoint)
+        result = client.collect_live_chat(
+            live_chat_id, checkpoint, max_pages=max_pages_value
+        )
         payload = {
             "schemaVersion": "1.0.0",
             "videoId": _target(job),
@@ -164,6 +182,12 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
             "messages": result.messages,
             "quota": client.quota_report(),
         }
+    store.put_object(
+        Bucket=checkpoint_bucket,
+        Key=checkpoint_key,
+        Body=checkpoint.path.read_bytes(),
+        ContentType="application/json",
+    )
     _record_quota(_object(payload.get("quota")), job, reserved)
     result = _write_raw(job, "live-chat", payload)
     _enqueue_child(

@@ -1,7 +1,9 @@
+from io import BytesIO
 from typing import Any, cast
 
 import pytest
 
+from app.collectors.youtube import JsonCheckpoint, LiveChatCollectionResult
 from app.runtime import jobs
 
 
@@ -34,10 +36,38 @@ class FakeYouTube:
 class FakeS3:
     def __init__(self) -> None:
         self.puts: list[dict[str, object]] = []
+        self.objects: dict[tuple[str, str], bytes] = {}
 
     def put_object(self, **kwargs: object) -> object:
         self.puts.append(kwargs)
+        self.objects[(cast(str, kwargs["Bucket"]), cast(str, kwargs["Key"]))] = cast(
+            bytes, kwargs["Body"]
+        )
         return {}
+
+    def get_object(self, **kwargs: object) -> dict[str, Any]:
+        body = self.objects[(cast(str, kwargs["Bucket"]), cast(str, kwargs["Key"]))]
+        return {"Body": BytesIO(body)}
+
+
+class FakeLiveYouTube:
+    def __enter__(self) -> "FakeLiveYouTube":
+        return self
+
+    def __exit__(self, *_args: object) -> None:
+        return None
+
+    def collect_live_chat(
+        self, live_chat_id: str, checkpoint: JsonCheckpoint, *, max_pages: int
+    ) -> LiveChatCollectionResult:
+        assert live_chat_id == "chat-1"
+        assert checkpoint.load()["status"] == "running"
+        assert max_pages == 3
+        checkpoint.save({"status": "checkpointed", "messageIds": ["m1"]})
+        return LiveChatCollectionResult("checkpointed", [], "next", 1000)
+
+    def quota_report(self) -> dict[str, Any]:
+        return {"totalUnits": 5, "events": []}
 
 
 class FakeControl:
@@ -111,3 +141,45 @@ def test_quota_reservation_is_atomic(monkeypatch: Any) -> None:
     assert control.updates[0]["ConditionExpression"] == (
         "attribute_not_exists(used) OR used <= :remaining"
     )
+
+
+def test_live_chat_restores_and_persists_s3_checkpoint(monkeypatch: Any) -> None:
+    store = FakeS3()
+    store.objects[("raw-bucket", "checkpoints/live-chat/video-1.json")] = (
+        b'{"status":"running","messageIds":[]}'
+    )
+
+    def client(_service: str) -> FakeS3:
+        return store
+
+    def no_quota(*_args: object) -> None:
+        return None
+
+    def reserve(*_args: object) -> int:
+        return 5
+
+    def youtube() -> FakeLiveYouTube:
+        return FakeLiveYouTube()
+
+    monkeypatch.setenv("RAW_BUCKET", "raw-bucket")
+    monkeypatch.setattr(jobs.boto3, "client", client)
+    monkeypatch.setattr(jobs, "_youtube", youtube)
+    monkeypatch.setattr(jobs, "_record_quota", no_quota)
+    monkeypatch.setattr(jobs, "reserve_quota", reserve)
+    monkeypatch.setattr(jobs, "_enqueue_child", no_quota)
+
+    jobs.live_chat_collect(
+        {
+            "jobId": "job-live",
+            "jobType": "live_chat_collect",
+            "targetId": "video-1",
+            "inputVersion": "v1",
+            "inputManifest": {
+                "liveChatId": "chat-1",
+                "streamStartedAt": "2026-01-01T00:00:00Z",
+                "maxPages": 3,
+            },
+        }
+    )
+    checkpoint = store.objects[("raw-bucket", "checkpoints/live-chat/video-1.json")]
+    assert b"checkpointed" in checkpoint
