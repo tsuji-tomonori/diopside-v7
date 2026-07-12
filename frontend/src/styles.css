@@ -18,6 +18,24 @@
 
 * { box-sizing: border-box; }
 
+:focus-visible {
+  outline: 3px solid var(--sumire-600);
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: fixed;
+  left: 12px;
+  top: 8px;
+  z-index: 100;
+  padding: 10px 14px;
+  background: var(--ink-900);
+  color: var(--surface);
+  transform: translateY(-150%);
+}
+
+.skip-link:focus { transform: translateY(0); }
+
 body {
   margin: 0;
   background: var(--bg);

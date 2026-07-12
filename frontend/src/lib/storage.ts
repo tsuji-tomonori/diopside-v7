@@ -7,6 +7,7 @@ const recentKey = 'diopside_recent_v1';
 const consentKey = 'diopside_consent_v1';
 const policyMajorVersion = '1';
 const schemaVersionConsent = 1;
+export const storageErrorEvent = 'diopside:storage-error';
 
 interface SavedPayload {
   schemaVersion: number;
@@ -311,7 +312,18 @@ export function getConsentVersion(): ConsentState | null {
   if (!raw || typeof raw !== 'object') {
     return null;
   }
-  return raw as ConsentState;
+  const candidate = raw as Partial<ConsentState>;
+  if (
+    candidate.schemaVersion !== schemaVersionConsent
+    || typeof candidate.policyMajor !== 'string'
+    || !candidate.policyMajor
+    || typeof candidate.acceptedAt !== 'string'
+    || Number.isNaN(new Date(candidate.acceptedAt).getTime())
+  ) {
+    localStorage.removeItem(consentKey);
+    return null;
+  }
+  return candidate as ConsentState;
 }
 
 export function getConsentMajorVersion(): string | null {
@@ -372,10 +384,21 @@ function safeRead<T>(key: string, fallback: T): T {
     }
     return parsed as T;
   } catch {
+    try {
+      localStorage.removeItem(key);
+    } catch {
+      // Storage may be entirely unavailable; fallback remains local and empty.
+    }
     return fallback;
   }
 }
 
-function safeWrite<T>(key: string, value: T): void {
-  localStorage.setItem(key, JSON.stringify(value));
+function safeWrite<T>(key: string, value: T): boolean {
+  try {
+    localStorage.setItem(key, JSON.stringify(value));
+    return true;
+  } catch {
+    window.dispatchEvent(new CustomEvent(storageErrorEvent, { detail: { key } }));
+    return false;
+  }
 }

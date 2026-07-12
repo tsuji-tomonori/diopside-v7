@@ -18,9 +18,10 @@ export function AppShell({ children }: AppShellProps) {
 
   return (
     <div className="app-shell">
-      <aside className="sidebar" aria-label="main navigation">
+      <a className="skip-link" href="#main-content">本文へスキップ</a>
+      <aside className="sidebar">
         <div className="wordmark">diopside</div>
-        <nav>
+        <nav aria-label="main navigation">
           {navItems.map((item) => (
             <Link
               key={item.to}
@@ -33,7 +34,7 @@ export function AppShell({ children }: AppShellProps) {
         </nav>
       </aside>
 
-      <main className="main-content">
+      <main className="main-content" id="main-content" tabIndex={-1}>
         {children}
       </main>
 
