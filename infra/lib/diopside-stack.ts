@@ -239,6 +239,21 @@ export class DiopsideStack extends cdk.Stack {
           event: events.RuleTargetInput.fromObject({
             jobType: 'metadata_sync', targetId: officialChannelId.valueAsString, inputVersion: 'scheduled:full',
             scheduleBucketMinutes: 360,
+            inputManifest: { maxUploadPages: 1, collectComments: true },
+          }),
+        }),
+      ],
+    });
+    new events.Rule(this, 'MonthlyFullRefreshSchedule', {
+      schedule: events.Schedule.rate(cdk.Duration.days(30)),
+      targets: [
+        new targets.LambdaFunction(collector, {
+          event: events.RuleTargetInput.fromObject({
+            jobType: 'metadata_sync',
+            targetId: officialChannelId.valueAsString,
+            inputVersion: 'scheduled:monthly-full',
+            scheduleBucketMinutes: 1440,
+            inputManifest: { collectComments: true },
           }),
         }),
       ],

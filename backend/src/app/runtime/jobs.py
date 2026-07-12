@@ -124,11 +124,18 @@ def comment_collect(job: dict[str, Any]) -> dict[str, Any]:
     video_id = _target(job)
     reserved = reserve_quota(job, 100)
     with _youtube() as client:
+        fetched_at = _now()
+        threads = list(client.comments(video_id))
         payload = {
             "schemaVersion": "1.0.0",
             "videoId": video_id,
-            "fetchedAt": _now(),
-            "threads": list(client.comments(video_id)),
+            "fetchedAt": fetched_at,
+            "threads": threads,
+            "comments": [
+                _raw_comment_record(comment, video_id, fetched_at)
+                for thread in threads
+                for comment in _thread_comments(thread)
+            ],
             "quota": client.quota_report(),
         }
     _record_quota(_object(payload.get("quota")), job, reserved)
@@ -623,6 +630,30 @@ def _thread_comments(thread: dict[str, Any]) -> list[dict[str, Any]]:
     replies = _objects(_object(thread.get("replies")).get("comments"))
     replies.extend(_objects(thread.get("allReplies")))
     return ([cast(dict[str, Any], top)] if isinstance(top, dict) else []) + replies
+
+
+def _raw_comment_record(
+    comment: dict[str, Any], video_id: str, fetched_at: str
+) -> dict[str, Any]:
+    snippet = _object(comment.get("snippet"))
+    author = _object(snippet.get("authorChannelId"))
+    result: dict[str, Any] = {
+        "schemaVersion": "1.0.0",
+        "commentId": _string(comment.get("id"), "comment.id"),
+        "videoId": video_id,
+        "textOriginal": snippet.get("textOriginal") or snippet.get("textDisplay"),
+        "authorChannelId": author.get("value"),
+        "authorDisplayName": snippet.get("authorDisplayName"),
+        "publishedAt": snippet.get("publishedAt"),
+        "updatedAt": snippet.get("updatedAt"),
+        "likeCount": snippet.get("likeCount"),
+        "visibilityState": "public_at_fetch",
+        "fetchedAt": fetched_at,
+    }
+    parent_id = snippet.get("parentId")
+    if isinstance(parent_id, str):
+        result["parentId"] = parent_id
+    return {key: value for key, value in result.items() if value is not None}
 
 
 def _objects(value: object) -> list[dict[str, Any]]:
