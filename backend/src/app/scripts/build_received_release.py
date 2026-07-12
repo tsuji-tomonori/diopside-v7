@@ -186,6 +186,7 @@ def main() -> int:
         "excludedVideoCount": len(excluded),
         "populationAccountedFor": result.video_count + len(excluded),
         "assignmentCount": snapshot["assignmentCount"],
+        "reviewAssignmentCount": snapshot["reviewAssignmentCount"],
         "correctionVersion": snapshot["correctionVersion"],
         "releaseFingerprint": hashlib.sha256(
             json.dumps(
@@ -196,6 +197,7 @@ def main() -> int:
             ).encode()
         ).hexdigest(),
         "excluded": excluded,
+        "reviewAssignments": snapshot["reviewAssignments"],
     }
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(

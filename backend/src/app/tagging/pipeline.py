@@ -93,6 +93,7 @@ def migrate_snapshots(
     resolver = AliasResolver(_merge_alias_corrections(alias_document, correction_document))
     registry: dict[str, CanonicalTag] = {}
     videos: dict[str, dict[str, Any]] = {}
+    review_assignments: list[dict[str, Any]] = []
     assignment_count = 0
 
     for snapshot in snapshots:
@@ -104,7 +105,10 @@ def migrate_snapshots(
             video_id = _string(video, "videoId")
             if video_id in videos:
                 raise TaggingError(f"duplicate videoId across populations: {video_id}")
-            corrected_video = _apply_assignment_corrections(video, correction_document)
+            corrected_video, reviews = _apply_assignment_corrections(
+                video, correction_document
+            )
+            review_assignments.extend(reviews)
             migrated = _migrate_video(corrected_video, resolver, registry)
             assignment_count += len(migrated["tagAssignments"])
             videos[video_id] = migrated
@@ -129,6 +133,11 @@ def migrate_snapshots(
         "sources": ["video_tags_v2.json", "collaboration_video_tags_v2.json"],
         "videoCount": len(ordered_videos),
         "assignmentCount": assignment_count,
+        "reviewAssignmentCount": len(review_assignments),
+        "reviewAssignments": sorted(
+            review_assignments,
+            key=lambda item: (cast(str, item["videoId"]), cast(str, item["tag"])),
+        ),
         "tagDefinitions": [
             {
                 "tagId": tag.tag_id,
@@ -147,9 +156,9 @@ def migrate_snapshots(
 
 def _apply_assignment_corrections(
     video: dict[str, Any], correction_document: dict[str, Any] | None
-) -> dict[str, Any]:
+) -> tuple[dict[str, Any], list[dict[str, Any]]]:
     if correction_document is None:
-        return video
+        return video, []
     raw_corrections = correction_document.get("assignmentCorrections", [])
     if not isinstance(raw_corrections, list):
         raise TaggingError("assignmentCorrections must be an array")
@@ -167,14 +176,58 @@ def _apply_assignment_corrections(
         for assignment in corrected_tags
     }
     changed = False
+    reviews: list[dict[str, Any]] = []
     for raw in cast(list[object], raw_corrections):
         correction = _object(raw)
-        if correction.get("operation") != "add":
+        operation = correction.get("operation")
+        if operation not in {"add", "replace", "review"}:
             raise TaggingError("unsupported assignment correction operation")
         if correction.get("videoId") != video.get("videoId"):
             continue
-        if correction.get("evidenceType") != "metadata_title":
-            raise TaggingError("assignment correction requires metadata_title evidence")
+        evidence_type = correction.get("evidenceType")
+        allowed_evidence = {
+            "metadata_title",
+            "published_at_event_date",
+            "insufficient_specificity",
+        }
+        if evidence_type not in allowed_evidence:
+            raise TaggingError("unsupported assignment correction evidence")
+
+        if operation in {"replace", "review"}:
+            match = _object(correction.get("match"))
+            identity = (
+                match.get("categoryId"),
+                match.get("subcategoryId"),
+                match.get("tag"),
+            )
+            matched = [
+                assignment
+                for assignment in corrected_tags
+                if (
+                    assignment.get("categoryId"),
+                    assignment.get("subcategoryId"),
+                    assignment.get("tag"),
+                )
+                == identity
+            ]
+            if len(matched) != 1:
+                raise TaggingError(
+                    f"assignment correction match count must be one: {video.get('videoId')}"
+                )
+            corrected_tags.remove(matched[0])
+            existing.remove(identity)
+            changed = True
+            if operation == "review":
+                reviews.append(
+                    {
+                        "videoId": video.get("videoId"),
+                        **matched[0],
+                        "reviewReason": _string(correction, "reviewReason"),
+                        "evidenceType": evidence_type,
+                    }
+                )
+                continue
+
         assignment = _object(correction.get("assignment"))
         identity = (
             assignment.get("categoryId"),
@@ -186,7 +239,7 @@ def _apply_assignment_corrections(
             existing.add(identity)
             changed = True
 
-    return {**video, "tags": corrected_tags} if changed else video
+    return ({**video, "tags": corrected_tags} if changed else video), reviews
 
 
 def _merge_alias_corrections(

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "correctionVersion": "20260713-v2",
+  "correctionVersion": "20260713-v3",
   "records": [
     {
       "field": "people.performer",
@@ -56,6 +56,196 @@
         "evidence": "舞元師匠",
         "confidence": "high"
       }
+    },
+    {
+      "operation": "replace",
+      "videoId": "A5RWU2WLRhc",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2023",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2023-01-07T10:31:29Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "Ws5u_sa1OZ4",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2023",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2023-01-07T10:24:29Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "CaC3Jct4ko4",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2023",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2023-01-07T10:28:13Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "xgp8XQvbDUU",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2022",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2022-01-08T10:54:17Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "sifFa3aIPko",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2022",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2022-01-08T10:57:03Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "LRgpuulGwIk",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2021",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2021-01-10T02:24:08Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "SeqMKXcme1Y",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2021",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2021-01-09T09:31:27Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "replace",
+      "videoId": "Xvp-zagvB74",
+      "evidenceType": "published_at_event_date",
+      "match": {
+        "categoryId": "program",
+        "subcategoryId": "event",
+        "tag": "にじさんじ麻雀杯"
+      },
+      "assignment": {
+        "categoryId": "program",
+        "category": "企画・シリーズ",
+        "subcategoryId": "event",
+        "subcategory": "イベント・大会名",
+        "tag": "にじさんじ麻雀杯2021",
+        "reason": "大会配信の公開日から開催年を補正",
+        "source": "metadata.published_at / correction_ledger",
+        "evidence": "2021-01-09T09:28:14Z",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "review",
+      "videoId": "qpLrfBIyRCw",
+      "evidenceType": "insufficient_specificity",
+      "match": {
+        "categoryId": "works",
+        "subcategoryId": "gameTitle",
+        "tag": "麻雀"
+      },
+      "reviewReason": "タイトルと受領metadataから固有ゲーム製品名を識別できないため公開assignmentから隔離"
+    },
+    {
+      "operation": "review",
+      "videoId": "cew5ApNCEHk",
+      "evidenceType": "insufficient_specificity",
+      "match": {
+        "categoryId": "works",
+        "subcategoryId": "gameTitle",
+        "tag": "麻雀"
+      },
+      "reviewReason": "タイトルと受領metadataから固有ゲーム製品名を識別できないため公開assignmentから隔離"
     }
   ]
 }

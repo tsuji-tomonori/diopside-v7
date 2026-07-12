@@ -212,3 +212,65 @@ def test_migrate_snapshots_applies_evidence_backed_assignment_correction() -> No
     assignments = result["videos"][0]["tagAssignments"]
     assert any(item["tag"] == "Guest" for item in assignments)
     assert result["assignmentCount"] == 4
+
+
+def test_migrate_snapshots_replaces_and_quarantines_assignments() -> None:
+    result = migrate_snapshots(
+        [
+            {
+                "videos": [
+                    video(
+                        [
+                            *required_tags(),
+                            assignment("program", "event", "にじさんじ麻雀杯"),
+                            assignment("works", "gameTitle", "麻雀"),
+                        ]
+                    )
+                ]
+            }
+        ],
+        {"exactAliases": []},
+        correction_document={
+            "correctionVersion": "test-v2",
+            "records": [],
+            "assignmentCorrections": [
+                {
+                    "operation": "replace",
+                    "videoId": "video-1",
+                    "evidenceType": "published_at_event_date",
+                    "match": {
+                        "categoryId": "program",
+                        "subcategoryId": "event",
+                        "tag": "にじさんじ麻雀杯",
+                    },
+                    "assignment": assignment(
+                        "program", "event", "にじさんじ麻雀杯2023"
+                    ),
+                },
+                {
+                    "operation": "review",
+                    "videoId": "video-1",
+                    "evidenceType": "insufficient_specificity",
+                    "match": {
+                        "categoryId": "works",
+                        "subcategoryId": "gameTitle",
+                        "tag": "麻雀",
+                    },
+                    "reviewReason": "A game product cannot be identified from title metadata",
+                },
+            ],
+        },
+        taxonomy_version="test",
+        alias_version="test",
+        algorithm_version="test",
+        scope_decision_version="test",
+        generated_at="2026-07-13T00:00:00Z",
+    )
+
+    assignments = cast(
+        list[dict[str, Any]], result["videos"][0]["tagAssignments"]
+    )
+    assert any(item["tag"] == "にじさんじ麻雀杯2023" for item in assignments)
+    assert not any(item["tag"] == "麻雀" for item in assignments)
+    assert result["reviewAssignmentCount"] == 1
+    assert result["reviewAssignments"][0]["tag"] == "麻雀"
