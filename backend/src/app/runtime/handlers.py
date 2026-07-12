@@ -48,6 +48,14 @@ def enqueue_job(event: dict[str, Any], table: Table, queue: Queue) -> dict[str, 
         raise ValueError("targetId is required")
     if not isinstance(input_version, str) or not input_version:
         raise ValueError("inputVersion is required")
+    now_value = datetime.now(UTC).replace(second=0, microsecond=0)
+    if input_version == "scheduled" or input_version.startswith("scheduled:"):
+        bucket_value = event.get("scheduleBucketMinutes", 5)
+        if not isinstance(bucket_value, int) or bucket_value < 1 or bucket_value > 1440:
+            raise ValueError("scheduleBucketMinutes must be 1..1440")
+        minute = now_value.minute - (now_value.minute % bucket_value)
+        timestamp = now_value.replace(minute=minute).isoformat().replace("+00:00", "Z")
+        input_version = f"{input_version}:{timestamp}"
     key = canonical_job_key(job_type_value, target_id, input_version)
     now = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     item: dict[str, Any] = {

@@ -177,10 +177,17 @@ class YouTubeDataClient:
         return _object_items(payload)
 
     def uploads(
-        self, playlist_id: str, checkpoint: JsonCheckpoint | None = None
+        self,
+        playlist_id: str,
+        checkpoint: JsonCheckpoint | None = None,
+        *,
+        max_pages: int | None = None,
     ) -> Iterator[dict[str, Any]]:
+        if max_pages is not None and max_pages < 1:
+            raise ValueError("max_pages must be positive")
         state = checkpoint.load() if checkpoint else {}
         page_token = state.get("nextPageToken")
+        pages = 0
         while True:
             params: dict[str, str | int] = {
                 "part": "snippet,contentDetails,status",
@@ -190,12 +197,13 @@ class YouTubeDataClient:
             if isinstance(page_token, str) and page_token:
                 params["pageToken"] = page_token
             payload = self._request("playlistItems", "playlistItems.list", params)
+            pages += 1
             yield from _object_items(payload)
             next_token = payload.get("nextPageToken")
             page_token = next_token if isinstance(next_token, str) else None
             if checkpoint:
                 checkpoint.save({"nextPageToken": page_token, "complete": page_token is None})
-            if page_token is None:
+            if page_token is None or (max_pages is not None and pages >= max_pages):
                 break
 
     def videos(self, video_ids: Sequence[str]) -> Iterator[dict[str, Any]]:

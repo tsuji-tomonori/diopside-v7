@@ -39,6 +39,25 @@ def test_enqueue_job_persists_before_sending() -> None:
     assert len(queue.messages) == 1
 
 
+def test_scheduled_input_version_is_time_bucketed() -> None:
+    table = FakeTable()
+    queue = FakeQueue()
+    enqueue_job(
+        {
+            "jobType": "metadata_sync",
+            "targetId": "channel",
+            "inputVersion": "scheduled:live",
+            "scheduleBucketMinutes": 5,
+        },
+        table,
+        queue,
+    )
+    version = table.items[0]["Item"]["inputVersion"]
+    assert isinstance(version, str)
+    assert version.startswith("scheduled:live:")
+    assert version.endswith("Z")
+
+
 def test_processor_returns_partial_batch_failures(monkeypatch: Any) -> None:
     table = FakeTable()
     monkeypatch.setenv("CONTROL_TABLE", "table")

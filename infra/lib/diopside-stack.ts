@@ -23,6 +23,12 @@ export class DiopsideStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
 
+    const officialChannelId = new cdk.CfnParameter(this, 'OfficialChannelId', {
+      type: 'String',
+      description: 'Canonical YouTube channel ID to collect',
+      allowedPattern: '^UC[A-Za-z0-9_-]{22}$',
+    });
+
     const accessLogs = new s3.Bucket(this, 'AccessLogs', {
       blockPublicAccess: s3.BlockPublicAccess.BLOCK_ALL,
       encryption: s3.BucketEncryption.S3_MANAGED,
@@ -67,6 +73,16 @@ export class DiopsideStack extends cdk.Stack {
         excludePunctuation: true,
       },
     });
+    const pseudonymSecret = new secretsmanager.Secret(this, 'PseudonymSecret', {
+      description: 'HMAC root secret for video-scoped public author pseudonyms',
+      generateSecretString: { passwordLength: 64, excludePunctuation: true },
+    });
+    NagSuppressions.addResourceSuppressions(pseudonymSecret, [
+      {
+        id: 'AwsSolutions-SMG4',
+        reason: 'Rotation would change stable video-scoped HMAC identities; replacement requires a versioned full reprocessing migration.',
+      },
+    ]);
     NagSuppressions.addResourceSuppressions(youtubeApiKey, [
       {
         id: 'AwsSolutions-SMG4',
@@ -104,7 +120,9 @@ export class DiopsideStack extends cdk.Stack {
     configuration.grantRead(processorRole);
     control.grantReadWriteData(processorRole);
     jobQueue.grantConsumeMessages(processorRole);
+    jobQueue.grantSendMessages(processorRole);
     youtubeApiKey.grantRead(processorRole);
+    pseudonymSecret.grantRead(processorRole);
 
     processed.grantRead(exporterRole);
     configuration.grantRead(exporterRole);
@@ -128,6 +146,7 @@ export class DiopsideStack extends cdk.Stack {
     processor.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
     processor.addEnvironment('YOUTUBE_API_KEY_SECRET_ARN', youtubeApiKey.secretArn);
+    processor.addEnvironment('PSEUDONYM_SECRET_ARN', pseudonymSecret.secretArn);
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
     for (const worker of [collector, processor, exporter]) {
       worker.addEnvironment('CONTROL_TABLE', control.tableName);
@@ -135,13 +154,18 @@ export class DiopsideStack extends cdk.Stack {
     processor.addEnvironment('JOB_HANDLER_METADATA_SYNC', 'app.runtime.jobs:metadata_sync');
     processor.addEnvironment('JOB_HANDLER_COMMENT_COLLECT', 'app.runtime.jobs:comment_collect');
     processor.addEnvironment('JOB_HANDLER_LIVE_CHAT_COLLECT', 'app.runtime.jobs:live_chat_collect');
+    processor.addEnvironment('JOB_HANDLER_REPLAY_CHAT_IMPORT', 'app.runtime.jobs:normalize');
+    processor.addEnvironment('JOB_HANDLER_NORMALIZE', 'app.runtime.jobs:normalize');
+    processor.addEnvironment('JOB_HANDLER_AGGREGATE', 'app.runtime.jobs:aggregate');
+    processor.addEnvironment('JOB_HANDLER_WORDCLOUD', 'app.runtime.jobs:wordcloud');
 
     new events.Rule(this, 'MetadataSchedule', {
       schedule: events.Schedule.rate(cdk.Duration.hours(6)),
       targets: [
         new targets.LambdaFunction(collector, {
           event: events.RuleTargetInput.fromObject({
-            jobType: 'metadata_sync', targetId: 'official-channel', inputVersion: 'scheduled-v1',
+            jobType: 'metadata_sync', targetId: officialChannelId.valueAsString, inputVersion: 'scheduled:full',
+            scheduleBucketMinutes: 360,
           }),
         }),
       ],
@@ -151,7 +175,9 @@ export class DiopsideStack extends cdk.Stack {
       targets: [
         new targets.LambdaFunction(collector, {
           event: events.RuleTargetInput.fromObject({
-            jobType: 'live_chat_collect', targetId: 'active-live', inputVersion: 'scheduled-v1',
+            jobType: 'metadata_sync', targetId: officialChannelId.valueAsString, inputVersion: 'scheduled:live',
+            scheduleBucketMinutes: 5,
+            inputManifest: { maxUploadPages: 1, discoverLive: true },
           }),
         }),
       ],
@@ -161,7 +187,7 @@ export class DiopsideStack extends cdk.Stack {
       targets: [
         new targets.LambdaFunction(exporter, {
           event: events.RuleTargetInput.fromObject({
-            targetId: 'public-release', inputVersion: 'scheduled-v1',
+            targetId: 'public-release', inputVersion: 'scheduled:export', scheduleBucketMinutes: 1440,
           }),
         }),
       ],
