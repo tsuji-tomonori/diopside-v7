@@ -1,0 +1,42 @@
+name: verify
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: '0.8.3'
+          enable-cache: true
+      - run: npm ci
+      - run: uv sync --locked
+        working-directory: backend
+      - run: uv run --locked ruff check src tests
+        working-directory: backend
+      - run: uv run --locked pyright
+        working-directory: backend
+      - run: uv run --locked pytest
+        working-directory: backend
+      - run: uv run --locked python -m app.scripts.verify_contract
+        working-directory: backend
+      - run: npm run typecheck -w frontend
+      - run: npm test -w frontend
+      - run: npm run build -w frontend
+      - run: npm test -w @diopside/infra
+      - run: npm run synth -w @diopside/infra
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e -w frontend

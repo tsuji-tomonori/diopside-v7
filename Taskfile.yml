@@ -26,6 +26,8 @@ tasks:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pytest
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
       - npm run plan -w infra
+      - npm run synth -w @diopside/infra
+      - npm run test:e2e -w frontend
 
   dev:backend:
     desc: Run FastAPI backend (public contract host).
