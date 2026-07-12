@@ -1,11 +1,33 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { z } from 'zod';
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
 
 import { getJson } from './contract';
+import {
+  aliasSchema,
+  latestReleaseSchema,
+  releaseIndexSchema,
+  searchIndexSchema,
+  tagIndexSchema,
+  taxonomySchema,
+  videoDetailSchema,
+} from './schemas';
 
 afterEach(() => vi.unstubAllGlobals());
 
 describe('contract loading', () => {
+  it('accepts the checked-in canonical fixture', () => {
+    const publicRoot = path.resolve(process.cwd(), '../backend/data/public');
+    const read = (relative: string): unknown => JSON.parse(readFileSync(path.join(publicRoot, relative), 'utf8'));
+    expect(latestReleaseSchema.safeParse(read('latest.json')).error?.issues).toBeUndefined();
+    expect(releaseIndexSchema.safeParse(read('releases/20260711-001/index.json')).error?.issues).toBeUndefined();
+    expect(searchIndexSchema.safeParse(read('releases/20260711-001/search-index.json')).error?.issues).toBeUndefined();
+    expect(tagIndexSchema.safeParse(read('releases/20260711-001/tag-index.json')).error?.issues).toBeUndefined();
+    expect(taxonomySchema.safeParse(read('releases/20260711-001/tag-taxonomy.json')).error?.issues).toBeUndefined();
+    expect(aliasSchema.safeParse(read('releases/20260711-001/tag-alias-index.json')).error?.issues).toBeUndefined();
+    expect(videoDetailSchema.safeParse(read('releases/20260711-001/videos/rY4A7Lxk12Q.json')).error?.issues).toBeUndefined();
+  });
   it('distinguishes not found from valid empty data', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response('{}', { status: 404 })));
     await expect(getJson('/missing', z.object({}).strict())).rejects.toMatchObject({ kind: 'not_found' });

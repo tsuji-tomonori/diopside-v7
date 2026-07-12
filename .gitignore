@@ -16,6 +16,8 @@ backend/.coverage
 *:Zone.Identifier
 frontend/node_modules/
 frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
 infra/node_modules/
 infra/dist/
 infra/cdk.out/

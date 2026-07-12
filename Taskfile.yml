@@ -71,3 +71,8 @@ tasks:
     desc: Synthesize and run cdk-nag locally without deployment.
     cmds:
       - npm run synth -w @diopside/infra
+
+  test:e2e:
+    desc: Run desktop and mobile Chrome route/keyboard acceptance tests locally.
+    cmds:
+      - npm run test:e2e -w frontend

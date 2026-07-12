@@ -54,6 +54,24 @@ export function DetailPage() {
     }
   }, [id, latest?.releaseId]);
 
+  const artifact = useMemo(() => {
+    return {
+      chat: detail?.chat,
+      comments: detail?.comments,
+      timestamps: detail?.timestamps,
+      wordcloud: detail?.wordcloud,
+    };
+  }, [detail]);
+
+  const artifactNotice = useMemo(() => {
+    const entries: { label: string; value: { source: string; generatedAt: string } }[] = [];
+    if (artifact.chat) entries.push({ label: 'chat', value: artifact.chat });
+    if (artifact.comments) entries.push({ label: 'comments', value: artifact.comments });
+    if (artifact.timestamps) entries.push({ label: 'timestamps', value: artifact.timestamps });
+    if (artifact.wordcloud) entries.push({ label: 'wordcloud', value: artifact.wordcloud });
+    return entries;
+  }, [artifact]);
+
   if (loading || detailLoading) {
     return <p className="status">読み込み中…</p>;
   }
@@ -85,27 +103,9 @@ export function DetailPage() {
 
   const canShowDerived = latest?.releaseMode === 'normal';
 
-  const artifact = useMemo(() => {
-    return {
-      chat: detail?.chat,
-      comments: detail?.comments,
-      timestamps: detail?.timestamps,
-      wordcloud: detail?.wordcloud,
-    };
-  }, [detail]);
-
   const wordcloudImage = artifact.wordcloud?.svgPath
     ? `/data/${artifact.wordcloud.svgPath.replace(/^\/?(data\/)?/, '')}`
     : null;
-
-  const artifactNotice = useMemo(() => {
-    const entries: { label: string; value: { source: string; generatedAt: string } }[] = [];
-    if (artifact.chat) entries.push({ label: 'chat', value: artifact.chat });
-    if (artifact.comments) entries.push({ label: 'comments', value: artifact.comments });
-    if (artifact.timestamps) entries.push({ label: 'timestamps', value: artifact.timestamps });
-    if (artifact.wordcloud) entries.push({ label: 'wordcloud', value: artifact.wordcloud });
-    return entries;
-  }, [artifact]);
 
   return (
     <section>
