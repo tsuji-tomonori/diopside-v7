@@ -5,7 +5,9 @@ from __future__ import annotations
 import argparse
 import json
 import os
+from collections import Counter
 from datetime import UTC, datetime
+from decimal import Decimal
 from pathlib import Path
 from typing import Any, Protocol, cast
 
@@ -17,6 +19,8 @@ from app.runtime.handlers import Queue, Table, enqueue_job
 class ReadTable(Table, Protocol):
     def get_item(self, **kwargs: object) -> dict[str, Any]: ...
 
+    def scan(self, **kwargs: object) -> dict[str, Any]: ...
+
 
 class SqsAdmin(Protocol):
     def start_message_move_task(self, **kwargs: object) -> dict[str, Any]: ...
@@ -24,6 +28,22 @@ class SqsAdmin(Protocol):
 
 class S3Admin(Protocol):
     def put_object(self, **kwargs: object) -> object: ...
+
+    def get_object(self, **kwargs: object) -> dict[str, Any]: ...
+
+    def list_objects_v2(self, **kwargs: object) -> dict[str, Any]: ...
+
+
+class SqsReport(Protocol):
+    def get_queue_attributes(self, **kwargs: object) -> dict[str, Any]: ...
+
+
+class CostReport(Protocol):
+    def get_cost_and_usage(self, **kwargs: object) -> dict[str, Any]: ...
+
+
+class ReadableBody(Protocol):
+    def read(self) -> bytes: ...
 
 
 def parser() -> argparse.ArgumentParser:
@@ -58,6 +78,10 @@ def parser() -> argparse.ArgumentParser:
     deletion.add_argument("video_id")
     deletion.add_argument("--reason", required=True)
     deletion.add_argument("--yes", action="store_true")
+
+    summary = subcommands.add_parser("operations-summary")
+    summary.add_argument("--from", dest="from_date", required=True)
+    summary.add_argument("--to", dest="to_date", required=True)
     return value
 
 
@@ -65,6 +89,8 @@ def main(argv: list[str] | None = None) -> int:
     args = parser().parse_args(argv)
     if args.command == "get-job":
         result = _get_job(args.job_id)
+    elif args.command == "operations-summary":
+        result = _operations_summary(args.from_date, args.to_date)
     else:
         _confirmed(args)
         if args.command == "start-job":
@@ -172,6 +198,165 @@ def _request_deletion(video_id: str, reason: str) -> dict[str, Any]:
             "requestedAt": requested_at,
         },
     )
+
+
+def _operations_summary(from_date: str, to_date: str) -> dict[str, Any]:
+    start = datetime.fromisoformat(from_date).date()
+    end = datetime.fromisoformat(to_date).date()
+    if end <= start or (end - start).days > 31:
+        raise SystemExit("summary range must be 1..31 days and --to is exclusive")
+    generated_at = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    table = cast(ReadTable, boto3.resource("dynamodb").Table(_env("CONTROL_TABLE")))
+    items = _scan_all(table)
+    jobs = [item for item in items if str(item.get("pk", "")).startswith("JOB#")]
+    statuses = Counter(str(item.get("status", "unknown")) for item in jobs)
+    terminal = sum(statuses[name] for name in ("succeeded", "failed_permanent", "cancelled"))
+    success_rate = statuses["succeeded"] / terminal if terminal else None
+
+    sqs = cast(SqsReport, boto3.client("sqs"))
+    queue_depth = {
+        name: _queue_depth(sqs, _env(variable))
+        for name, variable in (
+            ("jobs", "JOB_QUEUE_URL"),
+            ("exports", "EXPORT_QUEUE_URL"),
+            ("dlq", "DEAD_LETTER_QUEUE_URL"),
+        )
+    }
+    s3 = cast(S3Admin, boto3.client("s3"))
+    storage = {
+        name: _bucket_usage(s3, value)
+        for name, variable in (
+            ("raw", "RAW_BUCKET"),
+            ("processed", "PROCESSED_BUCKET"),
+            ("public", "PUBLIC_BUCKET"),
+            ("configuration", "CONFIGURATION_BUCKET"),
+        )
+        for value in [os.environ.get(variable)]
+        if value
+    }
+    latest = _optional_s3_json(s3, os.environ.get("PUBLIC_BUCKET"), "data/latest.json")
+    gates = _optional_s3_json(
+        s3, os.environ.get("CONFIGURATION_BUCKET"), "gates/current.json"
+    )
+    cost: object = "unknown"
+    try:
+        response = cast(CostReport, boto3.client("ce")).get_cost_and_usage(
+            TimePeriod={"Start": start.isoformat(), "End": end.isoformat()},
+            Granularity="MONTHLY",
+            Metrics=["UnblendedCost"],
+            GroupBy=[{"Type": "DIMENSION", "Key": "SERVICE"}],
+        )
+        cost = response.get("ResultsByTime", "unknown")
+    except Exception:
+        cost = "unknown"
+    quota = [item for item in items if str(item.get("pk", "")).startswith("QUOTA#")]
+    return cast(
+        dict[str, Any],
+        _json_safe(
+            {
+            "schemaVersion": "1.0.0",
+            "generatedAt": generated_at,
+            "window": {"from": start.isoformat(), "to": end.isoformat()},
+            "jobs": {
+                "total": len(jobs),
+                "statusCounts": dict(statuses),
+                "successRate": success_rate if success_rate is not None else "unknown",
+            },
+            "quota": quota,
+            "queues": queue_depth,
+            "storage": storage,
+            "latestExport": latest if latest is not None else "unknown",
+            "gates": gates if gates is not None else "unknown",
+            "costByService": cost,
+            }
+        ),
+    )
+
+
+def _scan_all(table: ReadTable) -> list[dict[str, Any]]:
+    items: list[dict[str, Any]] = []
+    start_key: dict[str, Any] | None = None
+    while True:
+        response = table.scan(**({"ExclusiveStartKey": start_key} if start_key else {}))
+        raw_items = response.get("Items", [])
+        if isinstance(raw_items, list):
+            items.extend(
+                cast(dict[str, Any], item)
+                for item in cast(list[object], raw_items)
+                if isinstance(item, dict)
+            )
+        next_key = response.get("LastEvaluatedKey")
+        start_key = cast(dict[str, Any], next_key) if isinstance(next_key, dict) else None
+        if start_key is None:
+            return items
+
+
+def _queue_depth(client: SqsReport, url: str) -> dict[str, int | str]:
+    response = client.get_queue_attributes(
+        QueueUrl=url,
+        AttributeNames=[
+            "ApproximateNumberOfMessages",
+            "ApproximateNumberOfMessagesNotVisible",
+        ],
+    )
+    attributes = response.get("Attributes", {})
+    if not isinstance(attributes, dict):
+        return {"visible": "unknown", "inFlight": "unknown"}
+    values = cast(dict[str, Any], attributes)
+    return {
+        "visible": int(values.get("ApproximateNumberOfMessages", 0)),
+        "inFlight": int(values.get("ApproximateNumberOfMessagesNotVisible", 0)),
+    }
+
+
+def _bucket_usage(client: S3Admin, bucket: str) -> dict[str, int]:
+    count = 0
+    size = 0
+    token: str | None = None
+    while True:
+        arguments: dict[str, object] = {"Bucket": bucket}
+        if token:
+            arguments["ContinuationToken"] = token
+        page = client.list_objects_v2(**arguments)
+        contents = page.get("Contents", [])
+        if isinstance(contents, list):
+            for raw in cast(list[object], contents):
+                if isinstance(raw, dict):
+                    item = cast(dict[str, Any], raw)
+                    count += 1
+                    value = item.get("Size")
+                    size += value if isinstance(value, int) else 0
+        next_value = page.get("NextContinuationToken")
+        token = next_value if isinstance(next_value, str) else None
+        if not token:
+            return {"objects": count, "bytes": size}
+
+
+def _optional_s3_json(
+    client: S3Admin, bucket: str | None, key: str
+) -> dict[str, Any] | None:
+    if not bucket:
+        return None
+    try:
+        response = client.get_object(Bucket=bucket, Key=key)
+        raw = cast(ReadableBody, response.get("Body")).read()
+        value = cast(object, json.loads(raw))
+        return cast(dict[str, Any], value) if isinstance(value, dict) else None
+    except Exception:
+        return None
+
+
+def _json_safe(value: object) -> object:
+    if isinstance(value, Decimal):
+        return int(value) if value == value.to_integral_value() else float(value)
+    if isinstance(value, dict):
+        return {
+            str(key): _json_safe(item)
+            for key, item in cast(dict[object, object], value).items()
+        }
+    if isinstance(value, list):
+        return [_json_safe(item) for item in cast(list[object], value)]
+    return value
 
 
 def _load_object(path: Path) -> dict[str, Any]:

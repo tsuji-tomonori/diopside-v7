@@ -170,6 +170,10 @@ export class DiopsideStack extends cdk.Stack {
     deadLetterQueue.grantSendMessages(exporterRole);
 
     control.grantReadWriteData(adminRole);
+    raw.grantRead(adminRole);
+    processed.grantRead(adminRole);
+    publicData.grantRead(adminRole);
+    configuration.grantRead(adminRole);
     jobQueue.grantSendMessages(adminRole);
     exportQueue.grantSendMessages(adminRole);
     deadLetterQueue.grantConsumeMessages(adminRole);
@@ -177,6 +181,24 @@ export class DiopsideStack extends cdk.Stack {
       actions: ['s3:PutObject'],
       resources: [configuration.arnForObjects('gates/current.json')],
     }));
+    adminRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['sqs:GetQueueAttributes'],
+      resources: [deadLetterQueue.queueArn, jobQueue.queueArn, exportQueue.queueArn],
+    }));
+    adminRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['ce:GetCostAndUsage'],
+      resources: ['*'],
+    }));
+    NagSuppressions.addResourceSuppressions(
+      adminRole,
+      [
+        {
+          id: 'AwsSolutions-IAM5',
+          reason: 'Read-only reports enumerate objects in named stack buckets; Cost Explorer does not support resource-level ARNs.',
+        },
+      ],
+      true,
+    );
     adminRole.addToPolicy(new iam.PolicyStatement({
       actions: ['sqs:StartMessageMoveTask', 'sqs:CancelMessageMoveTask', 'sqs:ListMessageMoveTasks'],
       resources: [deadLetterQueue.queueArn, jobQueue.queueArn, exportQueue.queueArn],
