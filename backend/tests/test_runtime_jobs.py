@@ -183,3 +183,20 @@ def test_live_chat_restores_and_persists_s3_checkpoint(monkeypatch: Any) -> None
     )
     checkpoint = store.objects[("raw-bucket", "checkpoints/live-chat/video-1.json")]
     assert b"checkpointed" in checkpoint
+
+
+def test_live_start_quota_is_protected_above_stop_threshold(monkeypatch: Any) -> None:
+    control = FakeControl(9900)
+
+    def table() -> FakeControl:
+        return control
+
+    monkeypatch.setattr(jobs, "_control_table", table)
+    assert jobs.reserve_quota(
+        {
+            "jobType": "metadata_sync",
+            "inputManifest": {"discoverLive": True},
+        },
+        200,
+    ) == 200
+    assert "ConditionExpression" not in control.updates[0]

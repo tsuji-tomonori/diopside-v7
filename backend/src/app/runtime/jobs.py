@@ -18,7 +18,13 @@ from botocore.exceptions import ClientError
 
 from app.collectors.youtube import JsonCheckpoint, YouTubeDataClient
 from app.exporter.publisher import CompliancePurgeBuilder, ReleaseValidator, canonical_json
-from app.operations.policy import PolicyStopped, QuotaAction, QuotaBudget, quota_action
+from app.operations.policy import (
+    PROTECTED_QUOTA_JOBS,
+    PolicyStopped,
+    QuotaAction,
+    QuotaBudget,
+    quota_action,
+)
 from app.processing.pipeline import (
     Coverage,
     aggregate_events,
@@ -767,20 +773,29 @@ def reserve_quota(job: dict[str, Any], units: int) -> int:
     used_value = item.get("used", 0)
     used = used_value if isinstance(used_value, int) else 0
     limit = int(os.environ.get("YOUTUBE_DAILY_QUOTA", "10000"))
-    action = quota_action(
-        _string(job.get("jobType"), "jobType"), QuotaBudget(limit, used), units
-    )
+    job_type = _string(job.get("jobType"), "jobType")
+    if job_type == "metadata_sync" and _object(job.get("inputManifest")).get(
+        "discoverLive"
+    ) is True:
+        job_type = "live_start_check"
+    action = quota_action(job_type, QuotaBudget(limit, used), units)
     if action in {QuotaAction.STOP, QuotaAction.STOP_LOW_PRIORITY}:
         raise PolicyStopped(f"quota policy stopped {job['jobType']}: {action.value}")
-    table.update_item(
-        Key=_quota_key(),
-        UpdateExpression="SET updatedAt = :now ADD used :units",
-        ConditionExpression="attribute_not_exists(used) OR used <= :remaining",
-        ExpressionAttributeValues={
+    arguments: dict[str, object] = {
+        "Key": _quota_key(),
+        "UpdateExpression": "SET updatedAt = :now ADD used :units",
+        "ExpressionAttributeValues": {
             ":now": _now(),
             ":units": units,
             ":remaining": limit - units,
         },
+    }
+    if job_type not in PROTECTED_QUOTA_JOBS:
+        arguments["ConditionExpression"] = (
+            "attribute_not_exists(used) OR used <= :remaining"
+        )
+    table.update_item(
+        **arguments,
     )
     return units
 
