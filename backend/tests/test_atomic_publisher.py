@@ -37,7 +37,9 @@ def candidate(root: Path, release_id: str, *, omit_detail: bool = False) -> Path
             "chat": False,
             "comments": False,
             "timestamps": False,
-            "wordcloud": False,
+            "wordcloudChat": False,
+            "wordcloudComments": False,
+            "wordcloudBoth": False,
         },
         "tagIds": ["tag-1"],
         "provenance": {"titleSource": "youtube", "publishedSource": "youtube"},
@@ -49,7 +51,15 @@ def candidate(root: Path, release_id: str, *, omit_detail: bool = False) -> Path
         },
     }
     write(release / "index.json", {**base, "videos": [video]})
-    write(release / "search-index.json", {**base, "videos": [{"videoId": "video-1"}]})
+    write(
+        release / "search-index.json",
+        {
+            **base,
+            "videos": [
+                {"videoId": "video-1", "artifactFlags": video["artifactFlags"]}
+            ],
+        },
+    )
     write(release / "tag-taxonomy.json", {**base, "categories": []})
     write(release / "tag-index.json", {**base, "tags": [{"tagId": "tag-1"}]})
     write(release / "tag-alias-index.json", {**base, "aliases": {}})
@@ -79,3 +89,36 @@ def test_invalid_release_does_not_replace_latest(tmp_path: Path) -> None:
 
     assert (public / "latest.json").read_bytes() == before
     assert not (public / "releases" / "release-b").exists()
+
+
+def test_release_with_private_field_is_rejected(tmp_path: Path) -> None:
+    release = candidate(tmp_path / "candidates", "release-private")
+    detail_path = release / "videos" / "video-1.json"
+    detail = json.loads(detail_path.read_text(encoding="utf-8"))
+    detail["messageText"] = "must stay private"
+    write(detail_path, detail)
+
+    with pytest.raises(ReleaseRejected, match="private_field"):
+        AtomicPublisher(tmp_path / "public").publish(release)
+
+
+def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
+    release = candidate(tmp_path / "candidates", "release-svg")
+    for relative in ("index.json", "search-index.json"):
+        path = release / relative
+        document = json.loads(path.read_text(encoding="utf-8"))
+        document["videos"][0]["artifactFlags"]["wordcloudChat"] = True
+        write(path, document)
+    detail_path = release / "videos" / "video-1.json"
+    detail = json.loads(detail_path.read_text(encoding="utf-8"))
+    detail["artifactFlags"]["wordcloudChat"] = True
+    write(detail_path, detail)
+    write(
+        release / "wordcloud" / "video-1-chat.json",
+        {"releaseId": "release-svg", "status": "generated"},
+    )
+    svg = release / "wordcloud" / "video-1-chat.svg"
+    svg.write_text("<svg xmlns='http://www.w3.org/2000/svg'><script/></svg>", encoding="utf-8")
+
+    with pytest.raises(ReleaseRejected, match="unsafe_svg"):
+        AtomicPublisher(tmp_path / "public").publish(release)

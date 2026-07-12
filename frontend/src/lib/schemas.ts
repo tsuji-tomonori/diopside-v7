@@ -1,12 +1,14 @@
 import { z } from 'zod';
 
-const releaseMode = z.string().min(1);
+const releaseMode = z.enum(['normal', 'compliance_purge']);
 const timestamp = z.iso.datetime({ offset: true });
 const artifactFlags = z.object({
   chat: z.boolean(),
   comments: z.boolean(),
   timestamps: z.boolean(),
-  wordcloud: z.boolean(),
+  wordcloudChat: z.boolean(),
+  wordcloudComments: z.boolean(),
+  wordcloudBoth: z.boolean(),
 }).strict();
 const thumbnail = z.object({ url: z.string().url(), width: z.number().int().positive(), height: z.number().int().positive() }).strict();
 const coverage = z.object({

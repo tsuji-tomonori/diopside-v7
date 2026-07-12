@@ -7,7 +7,11 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, ClassVar, cast
 
+from defusedxml import ElementTree as ET
+from defusedxml.common import DefusedXmlException
+
 from app.contracts.public import LatestRelease, ReleaseIndex
+from app.processing.pipeline import PRIVATE_FIELDS
 
 
 class ReleaseRejected(ValueError):
@@ -53,6 +57,7 @@ class ReleaseValidator:
             if document.get("releaseId") != release.releaseId:
                 raise ReleaseRejected("release_join_mismatch", name)
         search_videos = self._video_ids(documents["search"])
+        search_records = self._video_records(documents["search"])
         index_videos = {video.videoId for video in release.videos}
         if search_videos != index_videos:
             raise ReleaseRejected("video_population_mismatch", "index/search")
@@ -66,7 +71,24 @@ class ReleaseValidator:
                 raise ReleaseRejected("detail_join_mismatch", video.videoId)
             if detail.get("releaseId", release.releaseId) != release.releaseId:
                 raise ReleaseRejected("release_join_mismatch", video.videoId)
-        hashes = {name: sha256(document) for name, document in documents.items()}
+            flags = video.artifactFlags.model_dump()
+            if detail.get("artifactFlags") != flags:
+                raise ReleaseRejected("artifact_contract_mismatch", video.videoId)
+            if search_records[video.videoId].get("artifactFlags") != flags:
+                raise ReleaseRejected("artifact_contract_mismatch", video.videoId)
+            self._validate_artifacts(release_dir, video.videoId, flags, detail)
+        hashes: dict[str, str] = {}
+        for path in sorted(value for value in release_dir.rglob("*") if value.is_file()):
+            relative = path.relative_to(release_dir).as_posix()
+            if path.suffix == ".json":
+                document = self.load_document(path)
+                self._reject_private(document, relative)
+                hashes[relative] = sha256(document)
+            elif path.suffix == ".svg":
+                self._validate_svg(path)
+                hashes[relative] = f"sha256:{hashlib.sha256(path.read_bytes()).hexdigest()}"
+            else:
+                raise ReleaseRejected("unsupported_artifact", relative)
         return ValidationResult(release.releaseId, hashes, len(index_videos))
 
     def load_document(self, path: Path) -> dict[str, Any]:
@@ -95,6 +117,19 @@ class ReleaseValidator:
             result.add(video_id)
         return result
 
+    def _video_records(self, document: dict[str, Any]) -> dict[str, dict[str, Any]]:
+        values = document.get("videos", [])
+        if not isinstance(values, list):
+            raise ReleaseRejected("invalid_schema", "search videos")
+        return {
+            video_id: item
+            for raw in cast(list[object], values)
+            if isinstance(raw, dict)
+            for item in [cast(dict[str, Any], raw)]
+            for video_id in [item.get("videoId")]
+            if isinstance(video_id, str)
+        }
+
     def _tag_ids(self, document: dict[str, Any]) -> set[str]:
         values = document.get("tags", [])
         if not isinstance(values, list):
@@ -106,6 +141,53 @@ class ReleaseValidator:
             for value in [cast(dict[str, Any], raw).get("tagId")]
             if isinstance(value, str)
         }
+
+    def _validate_artifacts(
+        self,
+        release_dir: Path,
+        video_id: str,
+        flags: dict[str, bool],
+        detail: dict[str, Any],
+    ) -> None:
+        for field in ("chat", "comments", "timestamps"):
+            if flags[field] != (field in detail):
+                raise ReleaseRejected("artifact_contract_mismatch", f"{video_id}:{field}")
+        for source, flag in (
+            ("chat", "wordcloudChat"),
+            ("comments", "wordcloudComments"),
+            ("both", "wordcloudBoth"),
+        ):
+            svg = release_dir / "wordcloud" / f"{video_id}-{source}.svg"
+            metadata = release_dir / "wordcloud" / f"{video_id}-{source}.json"
+            exists = svg.is_file() and metadata.is_file()
+            if flags[flag] != exists:
+                raise ReleaseRejected("artifact_contract_mismatch", f"{video_id}:{flag}")
+
+    def _reject_private(self, value: object, location: str) -> None:
+        if isinstance(value, dict):
+            for key, child in cast(dict[object, object], value).items():
+                if isinstance(key, str) and key in PRIVATE_FIELDS:
+                    raise ReleaseRejected("private_field", f"{location}:{key}")
+                self._reject_private(child, location)
+        elif isinstance(value, list):
+            for child in cast(list[object], value):
+                self._reject_private(child, location)
+
+    def _validate_svg(self, path: Path) -> None:
+        try:
+            root = ET.fromstring(path.read_bytes())
+        except (ET.ParseError, DefusedXmlException) as error:
+            raise ReleaseRejected("unsafe_svg", path.name) from error
+        for element in root.iter():
+            name = element.tag.rsplit("}", 1)[-1].casefold()
+            if name in {"script", "foreignobject", "iframe", "object", "embed"}:
+                raise ReleaseRejected("unsafe_svg", path.name)
+            for attribute, value in element.attrib.items():
+                attribute_name = attribute.rsplit("}", 1)[-1].casefold()
+                if attribute_name.startswith("on") or (
+                    attribute_name == "href" and not value.startswith("#")
+                ):
+                    raise ReleaseRejected("unsafe_svg", path.name)
 
 
 class AtomicPublisher:

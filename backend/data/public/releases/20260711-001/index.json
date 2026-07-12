@@ -26,7 +26,9 @@
         "chat": true,
         "comments": true,
         "timestamps": true,
-        "wordcloud": true
+        "wordcloudChat": true,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
       },
       "tagIds": ["tag-001", "tag-002"],
       "provenance": {
@@ -58,7 +60,9 @@
         "chat": false,
         "comments": true,
         "timestamps": false,
-        "wordcloud": false
+        "wordcloudChat": false,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
       },
       "tagIds": ["tag-002"],
       "provenance": {
@@ -90,7 +94,9 @@
         "chat": true,
         "comments": false,
         "timestamps": true,
-        "wordcloud": true
+        "wordcloudChat": true,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
       },
       "tagIds": ["tag-003"],
       "provenance": {

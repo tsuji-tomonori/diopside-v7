@@ -17,7 +17,9 @@
     "chat": true,
     "comments": false,
     "timestamps": true,
-    "wordcloud": true
+    "wordcloudChat": true,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
   },
   "provenance": {
     "source": "youtube_api",

@@ -203,7 +203,11 @@ export function applySearchQuery(
         if (artifact === 'chat') return video.artifactFlags.chat;
         if (artifact === 'comments') return video.artifactFlags.comments;
         if (artifact === 'timestamps') return video.artifactFlags.timestamps;
-        if (artifact === 'wordcloud') return video.artifactFlags.wordcloud;
+        if (artifact === 'wordcloud') {
+          return video.artifactFlags.wordcloudChat
+            || video.artifactFlags.wordcloudComments
+            || video.artifactFlags.wordcloudBoth;
+        }
         return false;
       });
     }

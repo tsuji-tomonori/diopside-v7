@@ -34,7 +34,9 @@ class ArtifactFlags(StrictModel):
     chat: bool
     comments: bool
     timestamps: bool
-    wordcloud: bool
+    wordcloudChat: bool
+    wordcloudComments: bool
+    wordcloudBoth: bool
 
 
 class Provenance(StrictModel):

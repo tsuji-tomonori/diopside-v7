@@ -1,4 +1,4 @@
-export type ReleaseMode = 'normal' | 'purge' | 'staging' | 'blocked' | string;
+export type ReleaseMode = 'normal' | 'compliance_purge';
 export type ArtifactType = 'chat' | 'comments' | 'timestamps' | 'wordcloud';
 
 export interface Thumbnail {
@@ -11,7 +11,9 @@ export interface ArtifactFlags {
   chat: boolean;
   comments: boolean;
   timestamps: boolean;
-  wordcloud: boolean;
+  wordcloudChat: boolean;
+  wordcloudComments: boolean;
+  wordcloudBoth: boolean;
 }
 
 export interface VideoIndex {
