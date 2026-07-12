@@ -8,13 +8,16 @@ import * as eventSources from 'aws-cdk-lib/aws-lambda-event-sources';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as s3 from 'aws-cdk-lib/aws-s3';
+import * as secretsmanager from 'aws-cdk-lib/aws-secretsmanager';
 import * as sqs from 'aws-cdk-lib/aws-sqs';
 import { NagSuppressions } from 'cdk-nag';
 import { Construct } from 'constructs';
+import { execFileSync } from 'node:child_process';
+import { cpSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const sourceDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../../backend/src');
+const backendDirectory = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../../backend');
 
 export class DiopsideStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
@@ -57,6 +60,19 @@ export class DiopsideStack extends cdk.Stack {
       timeToLiveAttribute: 'expiresAt',
       removalPolicy: cdk.RemovalPolicy.RETAIN,
     });
+    const youtubeApiKey = new secretsmanager.Secret(this, 'YouTubeApiKey', {
+      description: 'YouTube Data API v3 key used by the collection runtime',
+      generateSecretString: {
+        passwordLength: 40,
+        excludePunctuation: true,
+      },
+    });
+    NagSuppressions.addResourceSuppressions(youtubeApiKey, [
+      {
+        id: 'AwsSolutions-SMG4',
+        reason: 'Google API keys cannot be rotated by AWS; the operator runbook requires manual replacement and verification.',
+      },
+    ]);
 
     const deadLetterQueue = new sqs.Queue(this, 'JobDeadLetterQueue', {
       encryption: sqs.QueueEncryption.SQS_MANAGED,
@@ -88,6 +104,7 @@ export class DiopsideStack extends cdk.Stack {
     configuration.grantRead(processorRole);
     control.grantReadWriteData(processorRole);
     jobQueue.grantConsumeMessages(processorRole);
+    youtubeApiKey.grantRead(processorRole);
 
     processed.grantRead(exporterRole);
     configuration.grantRead(exporterRole);
@@ -108,11 +125,16 @@ export class DiopsideStack extends cdk.Stack {
       }),
     );
     collector.addEnvironment('RAW_BUCKET', raw.bucketName);
+    processor.addEnvironment('RAW_BUCKET', raw.bucketName);
     processor.addEnvironment('PROCESSED_BUCKET', processed.bucketName);
+    processor.addEnvironment('YOUTUBE_API_KEY_SECRET_ARN', youtubeApiKey.secretArn);
     exporter.addEnvironment('PUBLIC_BUCKET', publicData.bucketName);
     for (const worker of [collector, processor, exporter]) {
       worker.addEnvironment('CONTROL_TABLE', control.tableName);
     }
+    processor.addEnvironment('JOB_HANDLER_METADATA_SYNC', 'app.runtime.jobs:metadata_sync');
+    processor.addEnvironment('JOB_HANDLER_COMMENT_COLLECT', 'app.runtime.jobs:comment_collect');
+    processor.addEnvironment('JOB_HANDLER_LIVE_CHAT_COLLECT', 'app.runtime.jobs:live_chat_collect');
 
     new events.Rule(this, 'MetadataSchedule', {
       schedule: events.Schedule.rate(cdk.Duration.hours(6)),
@@ -248,7 +270,30 @@ export class DiopsideStack extends cdk.Stack {
     return new lambda.Function(this, id, {
       runtime: lambda.Runtime.PYTHON_3_14,
       handler,
-      code: lambda.Code.fromAsset(sourceDirectory),
+      code: lambda.Code.fromAsset(backendDirectory, {
+        bundling: {
+          image: lambda.Runtime.PYTHON_3_12.bundlingImage,
+          command: ['bash', '-c', 'pip install -r requirements-lambda.txt -t /asset-output && cp -R src/app /asset-output/app'],
+          local: {
+            tryBundle(outputDirectory: string): boolean {
+              try {
+                mkdirSync(outputDirectory, { recursive: true });
+                execFileSync('uv', ['pip', 'install', '--target', outputDirectory, '-r', 'requirements-lambda.txt'], {
+                  cwd: backendDirectory,
+                  env: { ...process.env, UV_CACHE_DIR: '/tmp/diopside-uv-cache' },
+                  stdio: 'ignore',
+                });
+                cpSync(path.join(backendDirectory, 'src/app'), path.join(outputDirectory, 'app'), {
+                  recursive: true,
+                });
+                return true;
+              } catch {
+                return false;
+              }
+            },
+          },
+        },
+      }),
       role,
       timeout: cdk.Duration.minutes(15),
       memorySize: 512,
