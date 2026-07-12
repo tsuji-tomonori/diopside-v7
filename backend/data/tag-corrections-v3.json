@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "correctionVersion": "20260713-v3",
+  "correctionVersion": "20260713-v4",
   "records": [
     {
       "field": "people.performer",
@@ -246,6 +246,502 @@
         "tag": "麻雀"
       },
       "reviewReason": "タイトルと受領metadataから固有ゲーム製品名を識別できないため公開assignmentから隔離"
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "グウェル・オス・ガール",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "不破湊",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "犬山たまき",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "神田笑一",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "エリー・コニファー",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "でびでび・でびる",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "葉加瀬冬雪",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "朝日南アカネ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "癒月ちょこ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "白雪みしろ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "花畑チャイカ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "フミ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "西園寺メアリ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "ルイス・キャミー",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "ドーラ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "ガッチマンV",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "健屋花那",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "鈴鹿詩子",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "空星きらめ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "ベルモンド・バンデラス",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "戌亥とこ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "小野町春香",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "レヴィ・エリファ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "来栖夏芽",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "竜胆尊",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "影山シエン",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "えま★おうがすと",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "弦月藤士郎",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "夕陽リリ",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "people",
+        "category": "人物・グループ",
+        "subcategoryId": "performer",
+        "subcategory": "出演者",
+        "tag": "ギルザレンIII世",
+        "reason": "にじさんじWikiの逆凸相手一覧から補正台帳へ追加",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
+    },
+    {
+      "operation": "add",
+      "videoId": "Tw4VimE89R0",
+      "evidenceType": "wiki_participant_list",
+      "assignment": {
+        "categoryId": "context",
+        "category": "配信特性",
+        "subcategoryId": "participation",
+        "subcategory": "参加形態",
+        "tag": "コラボ",
+        "reason": "30名への逆凸参加者一覧を根拠に参加形態を補正",
+        "source": "Nijisanji Wiki / correction_ledger",
+        "evidence": "https://wikiwiki.jp/nijisanji/白雪巴/動画一覧/2021",
+        "confidence": "high"
+      }
     }
   ]
 }

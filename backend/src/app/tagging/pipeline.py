@@ -189,6 +189,7 @@ def _apply_assignment_corrections(
             "metadata_title",
             "published_at_event_date",
             "insufficient_specificity",
+            "wiki_participant_list",
         }
         if evidence_type not in allowed_evidence:
             raise TaggingError("unsupported assignment correction evidence")
