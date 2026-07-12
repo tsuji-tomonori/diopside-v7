@@ -64,6 +64,19 @@ tasks:
         --public-index /tmp/diopside-tag-index-v3.json
         --release-id migration-preview
 
+  tags:release:verify:
+    desc: Build and validate the full received-snapshot normal release candidate.
+    cmds:
+      - >-
+        rm -rf /tmp/diopside-received-release &&
+        cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}}
+        uv run --locked python -m app.scripts.build_received_release
+        --tags-zip ../.workspace/tags.zip
+        --corrections data/tag-corrections-v3.json
+        --release-id received-preview-v3
+        --output /tmp/diopside-received-release
+        --report /tmp/diopside-received-release-report.json
+
   cdk:test:
     desc: Build and run CDK assertion tests without contacting AWS.
     cmds:

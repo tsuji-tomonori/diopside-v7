@@ -119,3 +119,13 @@ def test_channel_identity_correction_unifies_performer_alias() -> None:
     definitions = cast(list[dict[str, Any]], snapshot["tagDefinitions"])
     assert any(item["canonicalName"] == "虎姫コトカ" for item in definitions)
     assert snapshot["correctionVersion"] == "v1"
+
+
+def test_received_archive_source_is_rewritten_to_existing_file() -> None:
+    tags = required_tags()
+    tags[1]["source"] = "archive_index"
+    snapshot = migrate(tags)
+    videos = cast(list[dict[str, Any]], snapshot["videos"])
+    assignments = cast(list[dict[str, Any]], videos[0]["tagAssignments"])
+    media = next(item for item in assignments if item["subcategoryId"] == "media")
+    assert media["source"] == "archive_index.p0.json"

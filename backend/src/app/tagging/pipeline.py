@@ -9,6 +9,7 @@ from typing import Any, Final, cast
 
 BLOCKED_VALUES: Final = frozenset({"その他", "不明", "要確認", "未分類・要レビュー"})
 SINGLETON_FIELDS: Final = frozenset({"content.primary", "format.media", "people.channel"})
+SOURCE_REWRITES: Final = {"archive_index": "archive_index.p0.json"}
 
 
 class TaggingError(ValueError):
@@ -238,7 +239,7 @@ def _migrate_video(
                 "subcategory": _string(assignment, "subcategory"),
                 "tag": canonical,
                 "reason": _string(assignment, "reason"),
-                "source": _string(assignment, "source"),
+                "source": _normalized_source(_string(assignment, "source")),
                 "evidence": _string(assignment, "evidence"),
                 "confidence": confidence,
             }
@@ -261,6 +262,13 @@ def _validate_population(videos: list[dict[str, Any]]) -> None:
         for field in SINGLETON_FIELDS:
             if counts.get(field) != 1:
                 raise TaggingError(f"{video['videoId']} requires exactly one {field}")
+
+
+def _normalized_source(value: str) -> str:
+    result = value
+    for old, new in SOURCE_REWRITES.items():
+        result = re.sub(rf"\b{re.escape(old)}\b", new, result)
+    return result
 
 
 def _object(value: object) -> dict[str, Any]:
