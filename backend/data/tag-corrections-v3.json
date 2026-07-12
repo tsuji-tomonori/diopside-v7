@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0.0",
+  "correctionVersion": "20260713-v1",
+  "records": [
+    {
+      "field": "people.performer",
+      "canonical": "虎姫コトカ",
+      "aliases": ["Kotoka Torahime"],
+      "evidenceType": "channel_id_identity",
+      "channelId": "UCggO2c1unS-oLwTLT0ICywg",
+      "source": "collaborator_channel_registry_v2.json"
+    },
+    {
+      "field": "people.performer",
+      "canonical": "ロボ子さん",
+      "aliases": ["ロボ子", "Roboco Ch. - ロボ子"],
+      "evidenceType": "channel_id_identity",
+      "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+      "source": "collaborator_channel_registry_v2.json"
+    }
+  ]
+}

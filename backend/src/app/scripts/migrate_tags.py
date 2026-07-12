@@ -29,14 +29,25 @@ def main() -> int:
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--public-index", type=Path)
     parser.add_argument("--release-id", default="migration-preview")
+    parser.add_argument(
+        "--corrections",
+        type=Path,
+        default=Path(__file__).resolve().parents[3] / "data" / "tag-corrections-v3.json",
+    )
     args = parser.parse_args()
     with ZipFile(args.tags_zip) as archive:
         own = _read(archive, "tags/video_tags_v2.json")
         external = _read(archive, "tags/collaboration_video_tags_v2.json")
         aliases = _read(archive, "tags/tag_aliases_v2.json")
+    corrections_value = cast(
+        object, json.loads(args.corrections.read_text(encoding="utf-8"))
+    )
+    if not isinstance(corrections_value, dict):
+        parser.error("corrections root must be an object")
     snapshot = migrate_snapshots(
         [own, external],
         aliases,
+        correction_document=cast(dict[str, Any], corrections_value),
         taxonomy_version="2.0.0",
         alias_version="2.0.0",
         algorithm_version="tag-migration-v1",

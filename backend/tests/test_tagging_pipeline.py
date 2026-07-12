@@ -81,3 +81,41 @@ def test_missing_singleton_is_rejected() -> None:
 def test_review_placeholder_is_rejected() -> None:
     with pytest.raises(TaggingError, match="blocked assignment"):
         migrate([*required_tags(), assignment("works", "gameTitle", "要確認")])
+
+
+def test_channel_identity_correction_unifies_performer_alias() -> None:
+    snapshot = migrate_snapshots(
+        [
+            {
+                "videos": [
+                    video(
+                        [
+                            *required_tags(),
+                            assignment("people", "performer", "Kotoka Torahime"),
+                        ]
+                    )
+                ]
+            }
+        ],
+        {"exactAliases": []},
+        correction_document={
+            "correctionVersion": "v1",
+            "records": [
+                {
+                    "field": "people.performer",
+                    "canonical": "虎姫コトカ",
+                    "aliases": ["Kotoka Torahime"],
+                    "evidenceType": "channel_id_identity",
+                    "channelId": "UCggO2c1unS-oLwTLT0ICywg",
+                }
+            ],
+        },
+        taxonomy_version="2",
+        alias_version="2",
+        algorithm_version="test",
+        scope_decision_version="test",
+        generated_at="2026-01-01T00:00:00Z",
+    )
+    definitions = cast(list[dict[str, Any]], snapshot["tagDefinitions"])
+    assert any(item["canonicalName"] == "虎姫コトカ" for item in definitions)
+    assert snapshot["correctionVersion"] == "v1"

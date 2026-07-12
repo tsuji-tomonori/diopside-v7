@@ -82,13 +82,14 @@ def migrate_snapshots(
     snapshots: list[dict[str, Any]],
     alias_document: dict[str, Any],
     *,
+    correction_document: dict[str, Any] | None = None,
     taxonomy_version: str,
     alias_version: str,
     algorithm_version: str,
     scope_decision_version: str,
     generated_at: str | None = None,
 ) -> dict[str, Any]:
-    resolver = AliasResolver(alias_document)
+    resolver = AliasResolver(_merge_alias_corrections(alias_document, correction_document))
     registry: dict[str, CanonicalTag] = {}
     videos: dict[str, dict[str, Any]] = {}
     assignment_count = 0
@@ -117,6 +118,11 @@ def migrate_snapshots(
         "aliasVersion": alias_version,
         "algorithmVersion": algorithm_version,
         "scopeDecisionVersion": scope_decision_version,
+        "correctionVersion": (
+            correction_document.get("correctionVersion")
+            if correction_document is not None
+            else None
+        ),
         "generatedAt": generated,
         "sources": ["video_tags_v2.json", "collaboration_video_tags_v2.json"],
         "videoCount": len(ordered_videos),
@@ -135,6 +141,35 @@ def migrate_snapshots(
         ],
         "videos": ordered_videos,
     }
+
+
+def _merge_alias_corrections(
+    alias_document: dict[str, Any], correction_document: dict[str, Any] | None
+) -> dict[str, Any]:
+    if correction_document is None:
+        return alias_document
+    records = correction_document.get("records", [])
+    if not isinstance(records, list):
+        raise TaggingError("correction records must be an array")
+    aliases = alias_document.get("exactAliases", [])
+    if not isinstance(aliases, list):
+        raise TaggingError("exactAliases must be an array")
+    corrected = [*cast(list[object], aliases)]
+    for raw in cast(list[object], records):
+        record = _object(raw)
+        if record.get("evidenceType") != "channel_id_identity":
+            raise TaggingError("correction requires channel_id_identity evidence")
+        channel_id = record.get("channelId")
+        if not isinstance(channel_id, str) or not channel_id:
+            raise TaggingError("correction requires channelId")
+        corrected.append(
+            {
+                "field": _string(record, "field"),
+                "canonical": _string(record, "canonical"),
+                "aliases": record.get("aliases", []),
+            }
+        )
+    return {**alias_document, "exactAliases": corrected}
 
 
 def public_tag_index(snapshot: dict[str, Any], release_id: str) -> dict[str, Any]:
