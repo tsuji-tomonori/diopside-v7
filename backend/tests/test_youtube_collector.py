@@ -1,7 +1,9 @@
+from pathlib import Path
+
 import httpx
 import pytest
 
-from app.collectors.youtube import YouTubeApiError, YouTubeDataClient
+from app.collectors.youtube import JsonCheckpoint, YouTubeApiError, YouTubeDataClient
 
 
 def test_videos_batches_at_fifty_and_records_quota() -> None:
@@ -58,3 +60,54 @@ def test_retryable_status_is_retried() -> None:
 
     assert requests == 2
     assert len(client.quota_events) == 2
+
+
+def test_live_chat_resumes_deduplicates_and_respects_poll_interval(tmp_path: Path) -> None:
+    calls = 0
+    sleeps: list[float] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        nonlocal calls
+        calls += 1
+        if calls == 1:
+            return httpx.Response(
+                200,
+                json={
+                    "items": [{"id": "m1"}, {"id": "m2"}],
+                    "nextPageToken": "page-2",
+                    "pollingIntervalMillis": 2000,
+                },
+            )
+        assert request.url.params["pageToken"] == "page-2"
+        return httpx.Response(
+            200,
+            json={"items": [{"id": "m2"}, {"id": "m3"}], "pollingIntervalMillis": 3000},
+        )
+
+    checkpoint = JsonCheckpoint(tmp_path / "chat.json")
+    with YouTubeDataClient(
+        "secret",
+        transport=httpx.MockTransport(handler),
+        sleep=sleeps.append,
+    ) as client:
+        result = client.collect_live_chat("chat", checkpoint)
+
+    assert result.status == "complete"
+    assert [item["id"] for item in result.messages] == ["m1", "m2", "m3"]
+    assert sleeps == [2.0]
+    assert checkpoint.load()["messageIds"] == ["m1", "m2", "m3"]
+
+
+def test_live_chat_terminal_reason_is_checkpointed(tmp_path: Path) -> None:
+    def handler(_request: httpx.Request) -> httpx.Response:
+        return httpx.Response(
+            403,
+            json={"error": {"errors": [{"reason": "liveChatEnded"}]}},
+        )
+
+    checkpoint = JsonCheckpoint(tmp_path / "chat.json")
+    with YouTubeDataClient("secret", transport=httpx.MockTransport(handler)) as client:
+        result = client.collect_live_chat("chat", checkpoint)
+
+    assert result.status == "liveChatEnded"
+    assert checkpoint.load()["status"] == "liveChatEnded"

@@ -1,5 +1,7 @@
 # Repository Agents
 
+正本はrepository rootの`AGENTS.md`。本ファイルは互換entry pointとする。
+
 - 適用する操作は `tasks/` を起点に記録する。
 - 未実行の検証は完了として扱わない。
 - 変更は以下の順で行う。

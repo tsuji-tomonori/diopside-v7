@@ -43,6 +43,14 @@ class QuotaEvent:
     request_id: str | None = None
 
 
+@dataclass(frozen=True)
+class LiveChatCollectionResult:
+    status: str
+    messages: list[dict[str, Any]]
+    next_page_token: str | None
+    polling_interval_ms: int | None
+
+
 class JsonCheckpoint:
     def __init__(self, path: Path) -> None:
         self.path = path
@@ -271,6 +279,71 @@ class YouTubeDataClient:
         return self._request(
             "liveChat/messages", "liveChatMessages.list", params, requested_ids=1
         )
+
+    def collect_live_chat(
+        self,
+        live_chat_id: str,
+        checkpoint: JsonCheckpoint,
+        *,
+        max_pages: int = 100,
+    ) -> LiveChatCollectionResult:
+        state = checkpoint.load()
+        page_token_value = state.get("nextPageToken")
+        page_token = page_token_value if isinstance(page_token_value, str) else None
+        seen_values = state.get("messageIds", [])
+        seen = {
+            value
+            for value in cast(list[object], seen_values)
+            if isinstance(seen_values, list) and isinstance(value, str)
+        }
+        messages: list[dict[str, Any]] = []
+        polling_interval: int | None = None
+        for page_number in range(max_pages):
+            if page_number > 0 and polling_interval is not None:
+                self._sleep(polling_interval / 1000)
+            try:
+                payload = self.live_chat_page(live_chat_id, page_token)
+            except YouTubeApiError as error:
+                terminal = {
+                    "liveChatEnded",
+                    "liveChatDisabled",
+                    "forbidden",
+                    "notFound",
+                }
+                if error.reason in terminal:
+                    checkpoint.save(
+                        {
+                            "nextPageToken": page_token,
+                            "messageIds": sorted(seen),
+                            "status": error.reason,
+                        }
+                    )
+                    return LiveChatCollectionResult(
+                        error.reason, messages, page_token, polling_interval
+                    )
+                raise
+            interval_value = payload.get("pollingIntervalMillis")
+            polling_interval = (
+                interval_value if isinstance(interval_value, int) else polling_interval
+            )
+            for item in _object_items(payload):
+                message_id = item.get("id")
+                if not isinstance(message_id, str) or message_id in seen:
+                    continue
+                seen.add(message_id)
+                messages.append(item)
+            token_value = payload.get("nextPageToken")
+            page_token = token_value if isinstance(token_value, str) else None
+            checkpoint.save(
+                {
+                    "nextPageToken": page_token,
+                    "messageIds": sorted(seen),
+                    "status": "running",
+                }
+            )
+            if page_token is None:
+                return LiveChatCollectionResult("complete", messages, None, polling_interval)
+        return LiveChatCollectionResult("checkpointed", messages, page_token, polling_interval)
 
 
 def _chunks(values: list[str], size: int) -> Iterator[list[str]]:
