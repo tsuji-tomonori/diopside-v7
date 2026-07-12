@@ -2,10 +2,11 @@ import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { usePublicData } from '@/state/PublicDataContext';
 import { VideoCard } from '@/components/VideoCard';
+import { DataErrorState } from '@/components/DataErrorState';
 import { TagInfo } from '@/types';
 
 export function HomePage() {
-  const { loading, release, tagIndex, error, refresh, latest } = usePublicData();
+  const { loading, release, tagIndex, error, errorKind, refresh, latest } = usePublicData();
 
   const videos = release?.videos ?? [];
   const featureEnabled = latest?.releaseMode === 'normal';
@@ -19,24 +20,20 @@ export function HomePage() {
     if (!videos.length) {
       return [];
     }
-    return [...videos]
-      .sort((a, b) => (a.videoId > b.videoId ? 1 : -1))
-      .slice(0, 2);
+    const pool = [...videos];
+    for (let index = pool.length - 1; index > 0; index -= 1) {
+      const selected = Math.floor(Math.random() * (index + 1));
+      [pool[index], pool[selected]] = [pool[selected], pool[index]];
+    }
+    return pool.slice(0, 2);
   }, [videos]);
 
   if (loading) {
     return <p className="status">データを読込んでいます…</p>;
   }
 
-  if (error) {
-    return (
-      <section className="status-card">
-        <p>公開データの取得に失敗しました: {error}</p>
-        <button type="button" onClick={() => void refresh()}>
-          再取得
-        </button>
-      </section>
-    );
+  if (error && errorKind) {
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
   }
 
   return (

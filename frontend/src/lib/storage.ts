@@ -50,7 +50,11 @@ function normalizeStringList(raw: unknown): string[] {
     return uniquePreserveOrder(raw.filter((item): item is string => typeof item === 'string'));
   }
 
-  if (raw && typeof raw === 'object' && Array.isArray((raw as SavedPayload).items)) {
+  if (
+    raw && typeof raw === 'object'
+    && (raw as SavedPayload).schemaVersion === schemaVersion
+    && Array.isArray((raw as SavedPayload).items)
+  ) {
     const nested = (raw as SavedPayload).items;
     return uniquePreserveOrder(nested.filter((item): item is string => typeof item === 'string'));
   }
@@ -65,7 +69,9 @@ function normalizeHistoryItems(raw: unknown): HistoryItem[] {
 
   const items = Array.isArray(raw)
     ? raw
-    : typeof raw === 'object' && Array.isArray((raw as HistoryPayload).items)
+    : typeof raw === 'object'
+      && (raw as HistoryPayload).schemaVersion === schemaVersion
+      && Array.isArray((raw as HistoryPayload).items)
       ? (raw as HistoryPayload).items
       : [];
 
@@ -129,7 +135,9 @@ function normalizeRecentItems(raw: unknown): RecentSearchItem[] {
 
   const items = Array.isArray(raw)
     ? raw
-    : typeof raw === 'object' && Array.isArray((raw as RecentPayload).items)
+    : typeof raw === 'object'
+      && (raw as RecentPayload).schemaVersion === schemaVersion
+      && Array.isArray((raw as RecentPayload).items)
       ? (raw as RecentPayload).items
       : [];
 
@@ -238,7 +246,7 @@ export function clearHistoryItem(videoId: string): void {
 }
 
 export function clearHistory(): void {
-  localStorage.removeItem(historyKey);
+  safeRemove(historyKey);
 }
 
 export function addSavedVideoId(videoId: string): void {
@@ -254,7 +262,7 @@ export function removeSavedVideoId(videoId: string): void {
 }
 
 export function clearSaved(): void {
-  localStorage.removeItem(savedKey);
+  safeRemove(savedKey);
 }
 
 export function removeRecentSearchAt(index: number): void {
@@ -274,7 +282,7 @@ export function clearRecentSearch(index: number): void {
 }
 
 export function clearRecentSearches(): void {
-  localStorage.removeItem(recentKey);
+  safeRemove(recentKey);
 }
 
 export function addRecentSearch(item: SearchCondition): void {
@@ -320,7 +328,7 @@ export function getConsentVersion(): ConsentState | null {
     || typeof candidate.acceptedAt !== 'string'
     || Number.isNaN(new Date(candidate.acceptedAt).getTime())
   ) {
-    localStorage.removeItem(consentKey);
+    safeRemove(consentKey);
     return null;
   }
   return candidate as ConsentState;
@@ -345,7 +353,7 @@ export function setConsentVersion(policyMajor: string = policyMajorVersion): voi
 }
 
 export function clearConsent(): void {
-  localStorage.removeItem(consentKey);
+  safeRemove(consentKey);
 }
 
 export function clearAllStorage(): void {
@@ -396,6 +404,16 @@ function safeRead<T>(key: string, fallback: T): T {
 function safeWrite<T>(key: string, value: T): boolean {
   try {
     localStorage.setItem(key, JSON.stringify(value));
+    return true;
+  } catch {
+    window.dispatchEvent(new CustomEvent(storageErrorEvent, { detail: { key } }));
+    return false;
+  }
+}
+
+function safeRemove(key: string): boolean {
+  try {
+    localStorage.removeItem(key);
     return true;
   } catch {
     window.dispatchEvent(new CustomEvent(storageErrorEvent, { detail: { key } }));

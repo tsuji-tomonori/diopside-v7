@@ -8,7 +8,8 @@ import {
   setConsentVersion,
 } from '@/lib/storage';
 import { POLICY_LINKS, POLICY_MAJOR_VERSION } from '@/lib/policy';
-import { loadVideoDetail } from '@/lib/contract';
+import { ContractError, ContractErrorKind, loadVideoDetail } from '@/lib/contract';
+import { DataErrorState } from '@/components/DataErrorState';
 import {
   addHistoryVideoId,
   addSavedVideoId,
@@ -19,9 +20,10 @@ import { TagInfo, VideoDetail } from '@/types';
 
 export function DetailPage() {
   const { id = '' } = useParams();
-  const { loading, release, refresh, error, tagIndex, latest } = usePublicData();
+  const { loading, release, refresh, error, errorKind, tagIndex, latest } = usePublicData();
   const [detail, setDetail] = useState<VideoDetail | null>(null);
   const [detailLoading, setDetailLoading] = useState(false);
+  const [detailError, setDetailError] = useState<{ kind: ContractErrorKind; message: string } | null>(null);
   const [isSaved, setIsSaved] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
   const [consentVersion, setConsentVersionState] = useState(() => getConsentMajorVersion());
@@ -38,20 +40,24 @@ export function DetailPage() {
       return;
     }
     setDetailLoading(true);
+    setDetailError(null);
     void loadVideoDetail(latest.releaseId, id)
       .then((nextDetail) => {
         setDetail(nextDetail);
+        if (id) {
+          addHistoryVideoId(id);
+        }
       })
-      .catch(() => {
+      .catch((caught: unknown) => {
         setDetail(null);
+        setDetailError({
+          kind: caught instanceof ContractError ? caught.kind : 'network',
+          message: caught instanceof Error ? caught.message : 'video detail load failed',
+        });
       })
       .finally(() => {
         setDetailLoading(false);
       });
-
-    if (id) {
-      addHistoryVideoId(id);
-    }
   }, [id, latest?.releaseId]);
 
   const artifact = useMemo(() => {
@@ -76,15 +82,12 @@ export function DetailPage() {
     return <p className="status">読み込み中…</p>;
   }
 
-  if (error) {
-    return (
-      <section className="status-card">
-        <p>データ取得エラー: {error}</p>
-        <button type="button" onClick={() => void refresh()}>
-          再取得
-        </button>
-      </section>
-    );
+  if (error && errorKind) {
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
+  }
+
+  if (detailError) {
+    return <DataErrorState kind={detailError.kind} detail={detailError.message} retry={() => window.location.reload()} />;
   }
 
   if (!release) {

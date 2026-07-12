@@ -37,6 +37,11 @@ describe('versioned local storage', () => {
     expect(localStorage.getItem('diopside_consent_v1')).toBeNull();
   });
 
+  it('rejects a payload from an unknown schema version', () => {
+    localStorage.setItem('diopside_saved_v1', JSON.stringify({ schemaVersion: 999, items: ['video-1'] }));
+    expect(getSavedVideoIds()).toEqual([]);
+  });
+
   it('emits a failure event when a write is rejected', () => {
     const listener = vi.fn();
     window.addEventListener(storageErrorEvent, listener);

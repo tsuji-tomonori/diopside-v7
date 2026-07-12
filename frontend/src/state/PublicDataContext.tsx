@@ -7,7 +7,14 @@ import {
   TagTaxonomy,
   TagIndex,
 } from '@/types';
-import { loadLatest, loadReleaseIndex, loadSearchIndex, loadTags } from '@/lib/contract';
+import {
+  ContractError,
+  ContractErrorKind,
+  loadLatest,
+  loadReleaseIndex,
+  loadSearchIndex,
+  loadTags,
+} from '@/lib/contract';
 
 interface PublicDataState {
   latest: LatestRelease | null;
@@ -18,6 +25,7 @@ interface PublicDataState {
   alias: TagAliasIndex | null;
   loading: boolean;
   error: string | null;
+  errorKind: ContractErrorKind | null;
   refresh: () => Promise<void>;
 }
 
@@ -32,10 +40,12 @@ export function PublicDataProvider({ children }: PropsWithChildren) {
   const [alias, setAlias] = useState<TagAliasIndex | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [errorKind, setErrorKind] = useState<ContractErrorKind | null>(null);
 
   async function refresh(): Promise<void> {
     setLoading(true);
     setError(null);
+    setErrorKind(null);
     try {
       const nextLatest = await loadLatest();
       const releaseId = nextLatest.releaseId;
@@ -53,6 +63,7 @@ export function PublicDataProvider({ children }: PropsWithChildren) {
     } catch (error) {
       const message = error instanceof Error ? error.message : 'contract load failed';
       setError(message);
+      setErrorKind(error instanceof ContractError ? error.kind : 'network');
     } finally {
       setLoading(false);
     }
@@ -73,6 +84,7 @@ export function PublicDataProvider({ children }: PropsWithChildren) {
         alias,
         loading,
         error,
+        errorKind,
         refresh,
       }}
     >

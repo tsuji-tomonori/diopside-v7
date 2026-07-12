@@ -21,6 +21,33 @@ test('search query is canonicalized and results remain available', async ({ page
   await expect(page.getByText(/件$/).first()).toBeVisible();
 });
 
+test('tag suggestions support keyboard selection and live feedback', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-13T00:00:00Z',
+    }));
+  });
+  await page.goto('/search');
+  const query = page.getByRole('combobox', { name: 'キーワード' });
+  await query.fill('雑談');
+  await query.press('ArrowDown');
+  await expect(page.getByRole('listbox')).toBeVisible();
+  await query.press('Enter');
+  await expect(page.getByRole('status').last()).toContainText('検索条件へ追加しました');
+});
+
+test('detail server failure is classified and never enters history', async ({ page }) => {
+  await page.route('**/videos/rY4A7Lxk12Q.json', async (route) => {
+    await route.fulfill({ status: 503, contentType: 'application/json', body: '{}' });
+  });
+  await page.goto('/videos/rY4A7Lxk12Q');
+  await expect(page.getByRole('alert')).toContainText('公開データサーバーでエラー');
+  const history = await page.evaluate(() => localStorage.getItem('diopside_history_v1'));
+  expect(history).toBeNull();
+});
+
 test('keyboard user can skip to main content', async ({ page }) => {
   await page.goto('/');
   await page.keyboard.press('Tab');

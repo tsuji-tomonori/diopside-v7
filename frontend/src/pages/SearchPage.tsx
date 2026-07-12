@@ -1,4 +1,4 @@
-import { FormEvent, useEffect, useMemo, useState } from 'react';
+import { FormEvent, KeyboardEvent, useEffect, useMemo, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { SearchCondition } from '@/types';
 import {
@@ -16,6 +16,7 @@ import {
 } from '@/lib/search';
 import { usePublicData } from '@/state/PublicDataContext';
 import { VideoCard } from '@/components/VideoCard';
+import { DataErrorState } from '@/components/DataErrorState';
 
 function unique<T>(values: T[]): T[] {
   return [...new Set(values)];
@@ -31,7 +32,7 @@ function normalizeTerm(value: string): string {
 export function SearchPage() {
   const location = useLocation();
   const navigate = useNavigate();
-  const { loading, error, release, search, tagIndex, alias, refresh, latest } = usePublicData();
+  const { loading, error, errorKind, release, search, tagIndex, alias, refresh, latest } = usePublicData();
 
   const isFeatureEnabled =
     latest?.releaseMode === 'normal' && hasActiveConsentVersion('1');
@@ -39,6 +40,8 @@ export function SearchPage() {
   const [query, setQuery] = useState('');
   const [notice, setNotice] = useState<string | null>(null);
   const [recentSearches, setRecentSearches] = useState(() => getRecentSearchEntries());
+  const [suggestionsOpen, setSuggestionsOpen] = useState(false);
+  const [activeSuggestion, setActiveSuggestion] = useState(-1);
 
   const parsed = useMemo(() => {
     const source = new URLSearchParams(location.search);
@@ -97,7 +100,9 @@ export function SearchPage() {
       const params = buildSearchParams(normalized);
       navigate(`/search${params ? `?${params}` : ''}`, { replace: true });
     }
-    setNotice(canonicalizationNotices.length ? canonicalizationNotices[0] : null);
+    if (canonicalizationNotices.length) {
+      setNotice(canonicalizationNotices[0]);
+    }
   }, [isFeatureEnabled, location.search, navigate, normalized, canonicalizationNotices, parsed]);
 
   useEffect(() => {
@@ -117,6 +122,50 @@ export function SearchPage() {
   const videos = applySearchQuery(search?.videos ?? [], normalized, chatCounts);
 
   const tags = tagIndex?.tags ?? [];
+  const suggestions = useMemo(() => {
+    const term = normalizeTerm(query).toLocaleLowerCase('ja');
+    if (!term || !isFeatureEnabled) {
+      return [];
+    }
+    return tags
+      .filter((tag) => tag.displayName.toLocaleLowerCase('ja').includes(term))
+      .slice(0, 8);
+  }, [isFeatureEnabled, query, tags]);
+
+  function selectSuggestion(index: number): void {
+    const selected = suggestions[index];
+    if (!selected) {
+      return;
+    }
+    toggleTag(selected.tagId);
+    setSuggestionsOpen(false);
+    setActiveSuggestion(-1);
+    setNotice(`${selected.displayName} を検索条件へ追加しました。`);
+  }
+
+  function onSuggestionKeyDown(event: KeyboardEvent<HTMLInputElement>): void {
+    if (event.key === 'Escape') {
+      setSuggestionsOpen(false);
+      setActiveSuggestion(-1);
+      return;
+    }
+    if (event.key === 'ArrowDown' && suggestions.length) {
+      event.preventDefault();
+      setSuggestionsOpen(true);
+      setActiveSuggestion((current) => Math.min(current + 1, suggestions.length - 1));
+      return;
+    }
+    if (event.key === 'ArrowUp' && suggestions.length) {
+      event.preventDefault();
+      setSuggestionsOpen(true);
+      setActiveSuggestion((current) => Math.max(current - 1, 0));
+      return;
+    }
+    if (event.key === 'Enter' && suggestionsOpen && activeSuggestion >= 0) {
+      event.preventDefault();
+      selectSuggestion(activeSuggestion);
+    }
+  }
 
   function syncUrl(condition: SearchCondition, { recordRecent }: { recordRecent: boolean }): void {
     const payload: SearchCondition = {
@@ -195,15 +244,8 @@ export function SearchPage() {
     return <p className="status">検索インデックスを読込んでいます…</p>;
   }
 
-  if (error) {
-    return (
-      <section className="status-card">
-        <p>検索データの取得に失敗しました: {error}</p>
-        <button type="button" onClick={() => void refresh()}>
-          再取得
-        </button>
-      </section>
-    );
+  if (error && errorKind) {
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
   }
 
   return (
@@ -214,9 +256,36 @@ export function SearchPage() {
           キーワード
           <input
             value={query}
-            onChange={(event) => setQuery(event.target.value)}
+            role="combobox"
+            aria-autocomplete="list"
+            aria-controls="tag-suggestions"
+            aria-expanded={suggestionsOpen && suggestions.length > 0}
+            aria-activedescendant={activeSuggestion >= 0 ? `tag-suggestion-${activeSuggestion}` : undefined}
+            onChange={(event) => {
+              setQuery(event.target.value);
+              setSuggestionsOpen(true);
+              setActiveSuggestion(-1);
+            }}
+            onFocus={() => setSuggestionsOpen(true)}
+            onKeyDown={onSuggestionKeyDown}
             placeholder="例: 歌枠"
           />
+          {suggestionsOpen && suggestions.length ? (
+            <ul className="suggestions" id="tag-suggestions" role="listbox">
+              {suggestions.map((tag, index) => (
+                <li
+                  id={`tag-suggestion-${index}`}
+                  key={tag.tagId}
+                  role="option"
+                  aria-selected={activeSuggestion === index}
+                >
+                  <button type="button" onMouseDown={(event) => event.preventDefault()} onClick={() => selectSuggestion(index)}>
+                    {tag.displayName}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          ) : null}
         </label>
         <label>
           最短（分）
