@@ -180,7 +180,7 @@ export class DiopsideStack extends cdk.Stack {
     deadLetterQueue.grantConsumeMessages(adminRole);
     adminRole.addToPolicy(new iam.PolicyStatement({
       actions: ['s3:PutObject'],
-      resources: [configuration.arnForObjects('gates/current.json')],
+      resources: [configuration.arnForObjects('gates/*')],
     }));
     adminRole.addToPolicy(new iam.PolicyStatement({
       actions: ['sqs:GetQueueAttributes'],

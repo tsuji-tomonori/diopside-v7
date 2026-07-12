@@ -12,6 +12,7 @@ from pathlib import Path
 from typing import Any, Protocol, cast
 
 import boto3
+from botocore.exceptions import ClientError
 
 from app.exporter.publisher import ReleaseValidator
 from app.runtime.handlers import Queue, Table, enqueue_job
@@ -75,6 +76,7 @@ def parser() -> argparse.ArgumentParser:
 
     gates = subcommands.add_parser("replace-gates")
     gates.add_argument("evidence", type=Path)
+    gates.add_argument("--reason", required=True)
     gates.add_argument("--yes", action="store_true")
 
     deletion = subcommands.add_parser("request-deletion")
@@ -108,7 +110,7 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "redrive-dlq":
             result = _redrive(args.source_arn, args.destination_arn, args.rate)
         elif args.command == "replace-gates":
-            result = _replace_gates(_load_object(args.evidence))
+            result = _replace_gates(_load_object(args.evidence), args.reason)
         elif args.command == "request-deletion":
             result = _request_deletion(args.video_id, args.reason)
         elif args.command == "publish-candidate":
@@ -173,7 +175,7 @@ def _redrive(source_arn: str, destination_arn: str, rate: int) -> dict[str, Any]
     )
 
 
-def _replace_gates(evidence: dict[str, Any]) -> dict[str, Any]:
+def _replace_gates(evidence: dict[str, Any], reason: str) -> dict[str, Any]:
     gates = evidence.get("gates")
     gate_ids: set[str] = (
         set(cast(dict[str, Any], gates)) if isinstance(gates, dict) else set()
@@ -182,14 +184,66 @@ def _replace_gates(evidence: dict[str, Any]) -> dict[str, Any]:
         f"GATE-{number:03d}" for number in range(1, 7)
     }:
         raise SystemExit("evidence must contain exactly GATE-001..GATE-006")
+    evidence_id = evidence.get("evidenceId")
+    if not isinstance(evidence_id, str) or not evidence_id:
+        raise SystemExit("evidenceId is required")
+    if not reason.strip():
+        raise SystemExit("--reason is required")
     body = json.dumps(evidence, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()
-    cast(S3Admin, boto3.client("s3")).put_object(
-        Bucket=_env("CONFIGURATION_BUCKET"),
+    bucket = _env("CONFIGURATION_BUCKET")
+    client = cast(S3Admin, boto3.client("s3"))
+    replaced_at = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    history_key: str | None = None
+    try:
+        current_response = client.get_object(Bucket=bucket, Key="gates/current.json")
+        previous = cast(ReadableBody, current_response.get("Body")).read()
+        previous_document = cast(object, json.loads(previous))
+        if isinstance(previous_document, dict):
+            archived = {
+                **cast(dict[str, Any], previous_document),
+                "supersededAt": replaced_at,
+                "replacementEvidenceId": evidence_id,
+                "supersessionReason": reason.strip(),
+            }
+            previous_id = str(archived.get("evidenceId", "unknown"))
+            history_key = f"gates/history/{replaced_at.replace(':', '')}-{previous_id}.json"
+            client.put_object(
+                Bucket=bucket,
+                Key=history_key,
+                Body=json.dumps(
+                    archived, ensure_ascii=False, sort_keys=True, separators=(",", ":")
+                ).encode(),
+                ContentType="application/json",
+            )
+    except ClientError as error:
+        code = error.response.get("Error", {}).get("Code")
+        if code not in {"NoSuchKey", "404", "NotFound"}:
+            raise
+    client.put_object(
+        Bucket=bucket,
         Key="gates/current.json",
         Body=body,
         ContentType="application/json",
     )
-    return {"key": "gates/current.json", "bytes": len(body)}
+    table = cast(Table, boto3.resource("dynamodb").Table(_env("CONTROL_TABLE")))
+    table.put_item(
+        Item={
+            "pk": f"AUDIT#{replaced_at}",
+            "sk": f"GATE_REPLACEMENT#{evidence_id}",
+            "action": "replace_gate_evidence",
+            "evidenceId": evidence_id,
+            "reason": reason.strip(),
+            "occurredAt": replaced_at,
+            "historyKey": history_key or "none",
+        },
+        ConditionExpression="attribute_not_exists(pk)",
+    )
+    return {
+        "key": "gates/current.json",
+        "historyKey": history_key,
+        "evidenceId": evidence_id,
+        "bytes": len(body),
+    }
 
 
 def _request_deletion(video_id: str, reason: str) -> dict[str, Any]:
