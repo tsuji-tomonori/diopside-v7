@@ -10,6 +10,7 @@ from zipfile import ZipFile
 
 from app.exporter.publisher import NormalReleaseBuilder
 from app.tagging.pipeline import migrate_snapshots, normalize_match, stable_tag_id
+from app.tagging.schema import validate_tag_document
 
 
 def _archive_object(archive: ZipFile, name: str) -> dict[str, Any]:
@@ -126,6 +127,7 @@ def main() -> int:
     parser.add_argument("--report", type=Path, required=True)
     args = parser.parse_args()
     corrections = _file_object(args.corrections)
+    validate_tag_document(corrections, "correction")
     with ZipFile(args.tags_zip) as archive:
         own = _archive_object(archive, "tags/video_tags_v2.json")
         external = _archive_object(archive, "tags/collaboration_video_tags_v2.json")
@@ -141,6 +143,7 @@ def main() -> int:
         generated_at="2026-07-13T00:00:00Z",
     )
     own_ids = {str(item.get("videoId")) for item in _videos(own)}
+    validate_tag_document(snapshot, "snapshot")
     metadata: list[dict[str, Any]] = []
     excluded: list[dict[str, str]] = []
     for item in [*_videos(own), *_videos(external)]:

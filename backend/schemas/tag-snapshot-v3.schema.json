@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diopside.invalid/schemas/tag-snapshot-v3.schema.json",
+  "title": "Diopside tag snapshot v3",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "taxonomyVersion", "aliasVersion", "algorithmVersion", "scopeDecisionVersion", "correctionVersion", "generatedAt", "sources", "videoCount", "assignmentCount", "reviewAssignmentCount", "reviewAssignments", "tagDefinitions", "videos"],
+  "properties": {
+    "schemaVersion": {"const": "3.0.0"},
+    "taxonomyVersion": {"type": "string", "minLength": 1},
+    "aliasVersion": {"type": "string", "minLength": 1},
+    "algorithmVersion": {"type": "string", "minLength": 1},
+    "scopeDecisionVersion": {"type": "string", "minLength": 1},
+    "correctionVersion": {"type": ["string", "null"]},
+    "generatedAt": {"type": "string", "format": "date-time"},
+    "sources": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+    "videoCount": {"type": "integer", "minimum": 0},
+    "assignmentCount": {"type": "integer", "minimum": 0},
+    "reviewAssignmentCount": {"type": "integer", "minimum": 0},
+    "reviewAssignments": {"type": "array", "items": {"$ref": "#/$defs/reviewAssignment"}},
+    "tagDefinitions": {"type": "array", "items": {"$ref": "#/$defs/tagDefinition"}},
+    "videos": {"type": "array", "items": {"$ref": "#/$defs/video"}}
+  },
+  "$defs": {
+    "tagDefinition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tagId", "categoryId", "subcategoryId", "canonicalName", "displayName", "status", "introducedInVersion"],
+      "properties": {
+        "tagId": {"type": "string", "pattern": "^tag_[0-9a-f]{20}$"},
+        "categoryId": {"type": "string", "minLength": 1},
+        "subcategoryId": {"type": "string", "minLength": 1},
+        "canonicalName": {"type": "string", "minLength": 1},
+        "displayName": {"type": "string", "minLength": 1},
+        "status": {"const": "active"},
+        "introducedInVersion": {"const": "3.0.0"}
+      }
+    },
+    "assignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["videoId", "tagId", "categoryId", "category", "subcategoryId", "subcategory", "tag", "reason", "source", "evidence", "confidence"],
+      "properties": {
+        "videoId": {"type": "string", "pattern": "^[A-Za-z0-9_-]{11}$"},
+        "tagId": {"type": "string", "pattern": "^tag_[0-9a-f]{20}$"},
+        "categoryId": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "subcategoryId": {"type": "string", "minLength": 1},
+        "subcategory": {"type": "string", "minLength": 1},
+        "tag": {"type": "string", "minLength": 1},
+        "reason": {"type": "string", "minLength": 1},
+        "source": {"type": "string", "minLength": 1},
+        "evidence": {"type": "string", "minLength": 1},
+        "confidence": {"enum": ["high", "medium"]}
+      }
+    },
+    "reviewAssignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["videoId", "categoryId", "category", "subcategoryId", "subcategory", "tag", "reason", "source", "evidence", "confidence", "reviewReason", "evidenceType"],
+      "properties": {
+        "videoId": {"type": "string", "pattern": "^[A-Za-z0-9_-]{11}$"},
+        "categoryId": {"type": "string", "minLength": 1},
+        "category": {"type": "string", "minLength": 1},
+        "subcategoryId": {"type": "string", "minLength": 1},
+        "subcategory": {"type": "string", "minLength": 1},
+        "tag": {"type": "string", "minLength": 1},
+        "reason": {"type": "string", "minLength": 1},
+        "source": {"type": "string", "minLength": 1},
+        "evidence": {"type": "string", "minLength": 1},
+        "confidence": {"enum": ["high", "medium"]},
+        "reviewReason": {"type": "string", "minLength": 1},
+        "evidenceType": {"const": "insufficient_specificity"}
+      }
+    },
+    "video": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["videoId", "title", "publishedAt", "channelTitle", "duration", "tagAssignments"],
+      "properties": {
+        "videoId": {"type": "string", "pattern": "^[A-Za-z0-9_-]{11}$"},
+        "title": {"type": "string", "minLength": 1},
+        "publishedAt": {"type": "string", "format": "date-time"},
+        "channelTitle": {"type": "string", "minLength": 1},
+        "duration": {"type": "string", "pattern": "^PT"},
+        "tagAssignments": {"type": "array", "items": {"$ref": "#/$defs/assignment"}}
+      }
+    }
+  }
+}

@@ -7,6 +7,7 @@ from typing import Any, cast
 from zipfile import ZipFile
 
 from app.tagging.pipeline import migrate_snapshots, public_tag_index
+from app.tagging.schema import validate_tag_document
 
 
 def _read(zip_file: ZipFile, name: str) -> dict[str, Any]:
@@ -44,15 +45,18 @@ def main() -> int:
     )
     if not isinstance(corrections_value, dict):
         parser.error("corrections root must be an object")
+    corrections = cast(dict[str, Any], corrections_value)
+    validate_tag_document(corrections, "correction")
     snapshot = migrate_snapshots(
         [own, external],
         aliases,
-        correction_document=cast(dict[str, Any], corrections_value),
+        correction_document=corrections,
         taxonomy_version="2.0.0",
         alias_version="2.0.0",
         algorithm_version="tag-migration-v1",
         scope_decision_version="20260711-v1",
     )
+    validate_tag_document(snapshot, "snapshot")
     _write(args.output, snapshot)
     if args.public_index:
         _write(args.public_index, public_tag_index(snapshot, args.release_id))

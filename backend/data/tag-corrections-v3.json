@@ -10,7 +10,8 @@
       ],
       "evidenceType": "channel_id_identity",
       "channelId": "UCggO2c1unS-oLwTLT0ICywg",
-      "source": "collaborator_channel_registry_v2.json"
+      "source": "collaborator_channel_registry_v2.json",
+      "reason": "同一channel IDで公開される名称を同一performer identityへ統合"
     },
     {
       "field": "people.performer",
@@ -21,7 +22,8 @@
       ],
       "evidenceType": "channel_id_identity",
       "channelId": "UCDqI2jOz0weumE8s7paEk6g",
-      "source": "collaborator_channel_registry_v2.json"
+      "source": "collaborator_channel_registry_v2.json",
+      "reason": "同一channel IDで公開される名称を同一performer identityへ統合"
     }
   ],
   "assignmentCorrections": [
@@ -743,5 +745,6 @@
         "confidence": "high"
       }
     }
-  ]
+  ],
+  "generatedAt": "2026-07-13T00:00:00Z"
 }
