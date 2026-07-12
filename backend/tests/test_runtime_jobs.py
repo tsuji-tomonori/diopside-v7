@@ -47,10 +47,14 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
     def enqueue_child(*_args: object) -> None:
         return None
 
+    def emit_quota(*_args: object) -> None:
+        return None
+
     monkeypatch.setenv("RAW_BUCKET", "raw-bucket")
     monkeypatch.setattr(jobs, "_youtube", lambda: FakeYouTube())
     monkeypatch.setattr(jobs.boto3, "client", client)
     monkeypatch.setattr(jobs, "_enqueue_child", enqueue_child)
+    monkeypatch.setattr(jobs, "_emit_quota", emit_quota)
 
     result = jobs.metadata_sync(
         {

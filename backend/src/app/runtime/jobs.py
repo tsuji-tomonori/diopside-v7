@@ -38,6 +38,10 @@ class SecretStore(Protocol):
     def get_secret_value(self, **kwargs: object) -> dict[str, Any]: ...
 
 
+class Metrics(Protocol):
+    def put_metric_data(self, **kwargs: object) -> object: ...
+
+
 class ReadableBody(Protocol):
     def read(self) -> bytes: ...
 
@@ -71,6 +75,7 @@ def metadata_sync(job: dict[str, Any]) -> dict[str, Any]:
             "videos": videos,
             "quota": client.quota_report(),
         }
+    _emit_quota(_object(payload.get("quota")), job)
     result = _write_raw(job, "metadata", payload)
     _enqueue_child(job, "normalize", target_id, "metadata", {**result, "kind": "metadata"})
     if manifest.get("discoverLive") is True:
@@ -105,6 +110,7 @@ def comment_collect(job: dict[str, Any]) -> dict[str, Any]:
             "threads": list(client.comments(video_id)),
             "quota": client.quota_report(),
         }
+    _emit_quota(_object(payload.get("quota")), job)
     result = _write_raw(job, "comments", payload)
     _enqueue_child(job, "normalize", video_id, "normalize", {**result, "kind": "comments"})
     return result
@@ -129,6 +135,7 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
             "messages": result.messages,
             "quota": client.quota_report(),
         }
+    _emit_quota(_object(payload.get("quota")), job)
     result = _write_raw(job, "live-chat", payload)
     _enqueue_child(
         job,
@@ -274,6 +281,7 @@ def static_export(job: dict[str, Any]) -> dict[str, Any]:
             CacheControl="public, max-age=60, must-revalidate",
             **latest_condition,
         )
+    _emit_metric("SuccessfulExports", 1, {"JobType": "static_export"})
     return {
         "releaseId": validation.release_id,
         "videoCount": validation.video_count,
@@ -485,6 +493,35 @@ def _enqueue_child(
         },
         cast(Any, table),
         cast(Any, queue),
+    )
+
+
+def _emit_quota(report: dict[str, Any], job: dict[str, Any]) -> None:
+    total = report.get("totalUnits")
+    if isinstance(total, int):
+        _emit_metric("YouTubeQuotaUnits", total, {"JobType": str(job.get("jobType", "unknown"))})
+    for event in _objects(report.get("events")):
+        units = event.get("units")
+        method = event.get("method")
+        if isinstance(units, int) and isinstance(method, str):
+            _emit_metric("YouTubeQuotaUnitsByMethod", units, {"Method": method})
+
+
+def _emit_metric(name: str, value: int | float, dimensions: dict[str, str]) -> None:
+    metrics = cast(Metrics, boto3.client("cloudwatch"))
+    metrics.put_metric_data(
+        Namespace="Diopside",
+        MetricData=[
+            {
+                "MetricName": name,
+                "Value": value,
+                "Unit": "Count",
+                "Dimensions": [
+                    {"Name": key, "Value": dimension_value}
+                    for key, dimension_value in sorted(dimensions.items())
+                ],
+            }
+        ],
     )
 
 

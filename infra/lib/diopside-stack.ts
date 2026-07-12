@@ -1,5 +1,8 @@
 import * as cdk from 'aws-cdk-lib';
 import * as cloudfront from 'aws-cdk-lib/aws-cloudfront';
+import * as cloudwatch from 'aws-cdk-lib/aws-cloudwatch';
+import * as cloudwatchActions from 'aws-cdk-lib/aws-cloudwatch-actions';
+import * as budgets from 'aws-cdk-lib/aws-budgets';
 import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
 import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
 import * as events from 'aws-cdk-lib/aws-events';
@@ -9,6 +12,7 @@ import * as iam from 'aws-cdk-lib/aws-iam';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as s3 from 'aws-cdk-lib/aws-s3';
 import * as secretsmanager from 'aws-cdk-lib/aws-secretsmanager';
+import * as sns from 'aws-cdk-lib/aws-sns';
 import * as sqs from 'aws-cdk-lib/aws-sqs';
 import { NagSuppressions } from 'cdk-nag';
 import { Construct } from 'constructs';
@@ -27,6 +31,17 @@ export class DiopsideStack extends cdk.Stack {
       type: 'String',
       description: 'Canonical YouTube channel ID to collect',
       allowedPattern: '^UC[A-Za-z0-9_-]{22}$',
+    });
+    const alertEmail = new cdk.CfnParameter(this, 'AlertEmail', {
+      type: 'String',
+      default: '',
+      description: 'Optional operator email for alarm notifications',
+    });
+    const monthlyBudgetUsd = new cdk.CfnParameter(this, 'MonthlyBudgetUsd', {
+      type: 'Number',
+      default: 10,
+      minValue: 1,
+      description: 'Monthly AWS cost target in USD',
     });
 
     const accessLogs = new s3.Bucket(this, 'AccessLogs', {
@@ -107,6 +122,19 @@ export class DiopsideStack extends cdk.Stack {
       visibilityTimeout: cdk.Duration.minutes(15),
       deadLetterQueue: { queue: deadLetterQueue, maxReceiveCount: 4 },
     });
+    const alerts = new sns.Topic(this, 'OperationsAlerts', {
+      enforceSSL: true,
+      displayName: 'diopside operations alerts',
+    });
+    const hasAlertEmail = new cdk.CfnCondition(this, 'HasAlertEmail', {
+      expression: cdk.Fn.conditionNot(cdk.Fn.conditionEquals(alertEmail.valueAsString, '')),
+    });
+    const subscription = new sns.CfnSubscription(this, 'AlertEmailSubscription', {
+      protocol: 'email',
+      endpoint: alertEmail.valueAsString,
+      topicArn: alerts.topicArn,
+    });
+    subscription.cfnOptions.condition = hasAlertEmail;
 
     const collectorRole = this.runtimeRole('CollectorRole');
     const processorRole = this.runtimeRole('ProcessorRole');
@@ -139,7 +167,16 @@ export class DiopsideStack extends cdk.Stack {
 
     control.grantReadWriteData(adminRole);
     jobQueue.grantSendMessages(adminRole);
+    exportQueue.grantSendMessages(adminRole);
     deadLetterQueue.grantConsumeMessages(adminRole);
+    adminRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['s3:PutObject'],
+      resources: [configuration.arnForObjects('gates/current.json')],
+    }));
+    adminRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['sqs:StartMessageMoveTask', 'sqs:CancelMessageMoveTask', 'sqs:ListMessageMoveTasks'],
+      resources: [deadLetterQueue.queueArn, jobQueue.queueArn, exportQueue.queueArn],
+    }));
 
     const collector = this.worker('Collector', collectorRole, jobQueue.queueUrl);
     const processor = this.worker('Processor', processorRole, jobQueue.queueUrl);
@@ -166,6 +203,16 @@ export class DiopsideStack extends cdk.Stack {
     exporter.addEnvironment('CONFIGURATION_BUCKET', configuration.bucketName);
     exporter.addEnvironment('EXPORT_QUEUE_URL', exportQueue.queueUrl);
     exporter.addEnvironment('JOB_HANDLER_STATIC_EXPORT', 'app.runtime.jobs:static_export');
+    processorRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['cloudwatch:PutMetricData'],
+      resources: ['*'],
+      conditions: { StringEquals: { 'cloudwatch:namespace': 'Diopside' } },
+    }));
+    exporterRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['cloudwatch:PutMetricData'],
+      resources: ['*'],
+      conditions: { StringEquals: { 'cloudwatch:namespace': 'Diopside' } },
+    }));
     for (const worker of [collector, processor, exporter]) {
       worker.addEnvironment('CONTROL_TABLE', control.tableName);
     }
@@ -209,6 +256,80 @@ export class DiopsideStack extends cdk.Stack {
             inputManifest: { candidatePrefix: 'candidates/latest' },
           }),
         }),
+      ],
+    });
+
+    const alarmAction = new cloudwatchActions.SnsAction(alerts);
+    const dlqAlarm = deadLetterQueue.metricApproximateNumberOfMessagesVisible({
+      period: cdk.Duration.minutes(5),
+      statistic: 'Maximum',
+    }).createAlarm(this, 'DlqAlarm', {
+      threshold: 1,
+      evaluationPeriods: 1,
+      comparisonOperator: cloudwatch.ComparisonOperator.GREATER_THAN_OR_EQUAL_TO_THRESHOLD,
+      treatMissingData: cloudwatch.TreatMissingData.NOT_BREACHING,
+    });
+    dlqAlarm.addAlarmAction(alarmAction);
+    const workerErrors = new cloudwatch.MathExpression({
+      expression: 'collector + processor + exporter',
+      usingMetrics: {
+        collector: collector.metricErrors(),
+        processor: processor.metricErrors(),
+        exporter: exporter.metricErrors(),
+      },
+      period: cdk.Duration.minutes(5),
+    });
+    const errorAlarm = workerErrors.createAlarm(this, 'WorkerErrorAlarm', {
+      threshold: 1,
+      evaluationPeriods: 1,
+      treatMissingData: cloudwatch.TreatMissingData.NOT_BREACHING,
+    });
+    errorAlarm.addAlarmAction(alarmAction);
+    const quotaMetric = new cloudwatch.Metric({
+      namespace: 'Diopside',
+      metricName: 'YouTubeQuotaUnits',
+      statistic: 'Sum',
+      period: cdk.Duration.days(1),
+    });
+    const quotaAlarm = quotaMetric.createAlarm(this, 'Quota80Alarm', {
+      threshold: 8000,
+      evaluationPeriods: 1,
+      comparisonOperator: cloudwatch.ComparisonOperator.GREATER_THAN_OR_EQUAL_TO_THRESHOLD,
+      treatMissingData: cloudwatch.TreatMissingData.NOT_BREACHING,
+    });
+    quotaAlarm.addAlarmAction(alarmAction);
+    new budgets.CfnBudget(this, 'MonthlyCostBudget', {
+      budget: {
+        budgetType: 'COST',
+        timeUnit: 'MONTHLY',
+        budgetLimit: { amount: monthlyBudgetUsd.valueAsNumber, unit: 'USD' },
+      },
+      notificationsWithSubscribers: [{
+        notification: {
+          comparisonOperator: 'GREATER_THAN',
+          notificationType: 'FORECASTED',
+          threshold: 80,
+          thresholdType: 'PERCENTAGE',
+        },
+        subscribers: [{ subscriptionType: 'SNS', address: alerts.topicArn }],
+      }],
+    });
+    new cloudwatch.Dashboard(this, 'OperationsDashboard', {
+      dashboardName: `${this.stackName}-operations`,
+      widgets: [
+        [new cloudwatch.GraphWidget({
+          title: 'Worker errors',
+          left: [collector.metricErrors(), processor.metricErrors(), exporter.metricErrors()],
+        })],
+        [new cloudwatch.GraphWidget({
+          title: 'Queue depth and DLQ',
+          left: [
+            jobQueue.metricApproximateNumberOfMessagesVisible(),
+            exportQueue.metricApproximateNumberOfMessagesVisible(),
+            deadLetterQueue.metricApproximateNumberOfMessagesVisible(),
+          ],
+        })],
+        [new cloudwatch.GraphWidget({ title: 'YouTube daily quota units', left: [quotaMetric] })],
       ],
     });
 
@@ -263,6 +384,10 @@ export class DiopsideStack extends cdk.Stack {
     new cdk.CfnOutput(this, 'PublicBucketName', { value: publicData.bucketName });
     new cdk.CfnOutput(this, 'ControlTableName', { value: control.tableName });
     new cdk.CfnOutput(this, 'JobQueueUrl', { value: jobQueue.queueUrl });
+    new cdk.CfnOutput(this, 'ExportQueueUrl', { value: exportQueue.queueUrl });
+    new cdk.CfnOutput(this, 'DeadLetterQueueArn', { value: deadLetterQueue.queueArn });
+    new cdk.CfnOutput(this, 'ConfigurationBucketName', { value: configuration.bucketName });
+    new cdk.CfnOutput(this, 'OperationsAlertTopicArn', { value: alerts.topicArn });
   }
 
   private privateBucket(id: string, expirationDays: number, logs: s3.Bucket): s3.Bucket {
