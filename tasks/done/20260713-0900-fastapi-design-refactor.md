@@ -19,4 +19,9 @@
 - [x] Ruff format/lint、Pyright strict、mypy strict、architecture lint、pytest、contract、aggregate verifyが成功する。
 - [x] 自動生成docsのpath、operation ID、response、error、security記述を目視照合する。
 - [x] 実行結果と未達gateを `reports/working` に記録する。
-- [ ] 検証済み変更を目的単位でcommitしpublic GitHubへpushする。
+- [x] 検証済み変更を目的単位でcommitしpublic GitHubへpushする。
+
+## Commit evidence
+
+- implementation: `666c05a`
+- verification evidence: 本taskと `reports/working/20260713-0955-fastapi-design-refactor.md`
