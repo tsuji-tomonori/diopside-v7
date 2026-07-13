@@ -36,6 +36,8 @@ from app.processing.pipeline import (
     wordcloud_artifact,
 )
 
+__all__ = ["boto3"]
+
 
 class ObjectStore(Protocol):
     def put_object(self, **kwargs: object) -> object: ...
@@ -164,9 +166,7 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
     checkpoint_key = f"checkpoints/live-chat/{_target(job)}.json"
     try:
         checkpoint.path.write_bytes(
-            _read_body(
-                store.get_object(Bucket=checkpoint_bucket, Key=checkpoint_key)
-            )
+            _read_body(store.get_object(Bucket=checkpoint_bucket, Key=checkpoint_key))
         )
     except ClientError as error:
         code = error.response.get("Error", {}).get("Code")
@@ -176,17 +176,17 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
     if not isinstance(max_pages_value, int) or not 1 <= max_pages_value <= 100:
         raise ValueError("inputManifest.maxPages must be 1..100")
     with _youtube() as client:
-        result = client.collect_live_chat(
+        collection_result = client.collect_live_chat(
             live_chat_id, checkpoint, max_pages=max_pages_value
         )
         payload = {
             "schemaVersion": "1.0.0",
             "videoId": _target(job),
             "collectedAt": _now(),
-            "status": result.status,
-            "nextPageToken": result.next_page_token,
-            "pollingIntervalMillis": result.polling_interval_ms,
-            "messages": result.messages,
+            "status": collection_result.status,
+            "nextPageToken": collection_result.next_page_token,
+            "pollingIntervalMillis": collection_result.polling_interval_ms,
+            "messages": collection_result.messages,
             "quota": client.quota_report(),
         }
     store.put_object(
@@ -196,15 +196,19 @@ def live_chat_collect(job: dict[str, Any]) -> dict[str, Any]:
         ContentType="application/json",
     )
     _record_quota(_object(payload.get("quota")), job, reserved)
-    result = _write_raw(job, "live-chat", payload)
+    write_result = _write_raw(job, "live-chat", payload)
     _enqueue_child(
         job,
         "normalize",
         _target(job),
         "normalize",
-        {**result, "kind": "live-chat", "streamStartedAt": manifest.get("streamStartedAt")},
+        {
+            **write_result,
+            "kind": "live-chat",
+            "streamStartedAt": manifest.get("streamStartedAt"),
+        },
     )
-    return result
+    return write_result
 
 
 def normalize(job: dict[str, Any]) -> dict[str, Any]:
@@ -236,11 +240,7 @@ def normalize(job: dict[str, Any]) -> dict[str, Any]:
         raise ValueError("inputManifest.kind is invalid")
     result = _write_processed(job, "normalized", {"schemaVersion": "1.0.0", "items": items})
     if kind in {"comments", "live-chat", "replay-chat"}:
-        event_times = [
-            item["eventAt"]
-            for item in items
-            if isinstance(item.get("eventAt"), str)
-        ]
+        event_times = [item["eventAt"] for item in items if isinstance(item.get("eventAt"), str)]
         if event_times:
             _enqueue_child(
                 job,
@@ -273,9 +273,7 @@ def aggregate(job: dict[str, Any]) -> dict[str, Any]:
     output = _write_processed(job, "aggregates", result)
     duration_value = manifest.get("durationSec")
     if source == "chat" and isinstance(duration_value, int):
-        timestamps = timestamp_candidates(
-            _target(job), result, duration_value, coverage, _now()
-        )
+        timestamps = timestamp_candidates(_target(job), result, duration_value, coverage, _now())
         timestamp_output = _write_processed(job, "timestamps", timestamps)
         output["timestampKey"] = timestamp_output["key"]
     _enqueue_child(job, "wordcloud", _target(job), "wordcloud", {**output, **manifest})
@@ -317,9 +315,7 @@ def static_export(job: dict[str, Any]) -> dict[str, Any]:
             )
             purge_base_id = _string(latest.get("releaseId"), "latest.releaseId")
             base = root / "base"
-            _download_prefix(
-                store, public_bucket, f"data/releases/{purge_base_id}", base
-            )
+            _download_prefix(store, public_bucket, f"data/releases/{purge_base_id}", base)
             raw_excluded = manifest.get("excludeVideoIds", [])
             excluded_ids = {
                 value
@@ -424,11 +420,7 @@ def static_export(job: dict[str, Any]) -> dict[str, Any]:
 def operations_heartbeat() -> dict[str, Any]:
     store = cast(ObjectStore, boto3.client("s3"))
     latest = _read_json_object(
-        _read_body(
-            store.get_object(
-                Bucket=_required_env("PUBLIC_BUCKET"), Key="data/latest.json"
-            )
-        ),
+        _read_body(store.get_object(Bucket=_required_env("PUBLIC_BUCKET"), Key="data/latest.json")),
         "latest.json",
     )
     generated_at = _parse_time(_string(latest.get("generatedAt"), "latest.generatedAt"))
@@ -488,9 +480,11 @@ def _write_processed(
 ) -> dict[str, Any]:
     bucket = _required_env("PROCESSED_BUCKET")
     key = f"processed/{kind}/{_target(job)}/{job['inputVersion']}/{job['jobId']}.{suffix}"
-    body = payload.encode() if isinstance(payload, str) else json.dumps(
-        payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")
-    ).encode()
+    body = (
+        payload.encode()
+        if isinstance(payload, str)
+        else json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()
+    )
     store = cast(ObjectStore, boto3.client("s3"))
     store.put_object(Bucket=bucket, Key=key, Body=body, ContentType=content_type)
     return {"bucket": bucket, "key": key, "bytes": len(body)}
@@ -621,9 +615,7 @@ def _require_gate(gate_id: str) -> None:
     bucket = _required_env("CONFIGURATION_BUCKET")
     evidence = cast(
         object,
-        json.loads(
-            _read_body(store.get_object(Bucket=bucket, Key="gates/current.json"))
-        ),
+        json.loads(_read_body(store.get_object(Bucket=bucket, Key="gates/current.json"))),
     )
     if not isinstance(evidence, dict):
         raise ValueError("gate evidence must be an object")
@@ -693,9 +685,7 @@ def _thread_comments(thread: dict[str, Any]) -> list[dict[str, Any]]:
     return ([cast(dict[str, Any], top)] if isinstance(top, dict) else []) + replies
 
 
-def _raw_comment_record(
-    comment: dict[str, Any], video_id: str, fetched_at: str
-) -> dict[str, Any]:
+def _raw_comment_record(comment: dict[str, Any], video_id: str, fetched_at: str) -> dict[str, Any]:
     snippet = _object(comment.get("snippet"))
     author = _object(snippet.get("authorChannelId"))
     result: dict[str, Any] = {
@@ -721,9 +711,7 @@ def _objects(value: object) -> list[dict[str, Any]]:
     if not isinstance(value, list):
         return []
     return [
-        cast(dict[str, Any], item)
-        for item in cast(list[object], value)
-        if isinstance(item, dict)
+        cast(dict[str, Any], item) for item in cast(list[object], value) if isinstance(item, dict)
     ]
 
 
@@ -805,9 +793,10 @@ def reserve_quota(job: dict[str, Any], units: int) -> int:
     used = used_value if isinstance(used_value, int) else 0
     limit = int(os.environ.get("YOUTUBE_DAILY_QUOTA", "10000"))
     job_type = _string(job.get("jobType"), "jobType")
-    if job_type == "metadata_sync" and _object(job.get("inputManifest")).get(
-        "discoverLive"
-    ) is True:
+    if (
+        job_type == "metadata_sync"
+        and _object(job.get("inputManifest")).get("discoverLive") is True
+    ):
         job_type = "live_start_check"
     action = quota_action(job_type, QuotaBudget(limit, used), units)
     if action in {QuotaAction.STOP, QuotaAction.STOP_LOW_PRIORITY}:
@@ -822,9 +811,7 @@ def reserve_quota(job: dict[str, Any], units: int) -> int:
         },
     }
     if job_type not in PROTECTED_QUOTA_JOBS:
-        arguments["ConditionExpression"] = (
-            "attribute_not_exists(used) OR used <= :remaining"
-        )
+        arguments["ConditionExpression"] = "attribute_not_exists(used) OR used <= :remaining"
     table.update_item(
         **arguments,
     )
@@ -837,9 +824,7 @@ def _quota_key() -> dict[str, str]:
 
 
 def _control_table() -> ControlTable:
-    return cast(
-        ControlTable, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE"))
-    )
+    return cast(ControlTable, boto3.resource("dynamodb").Table(_required_env("CONTROL_TABLE")))
 
 
 def _emit_metric(name: str, value: int | float, dimensions: dict[str, str]) -> None:

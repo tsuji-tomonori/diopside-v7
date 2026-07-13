@@ -32,9 +32,7 @@ def _videos(document: dict[str, Any]) -> list[dict[str, Any]]:
     if not isinstance(values, list):
         raise ValueError("videos must be an array")
     return [
-        cast(dict[str, Any], item)
-        for item in cast(list[object], values)
-        if isinstance(item, dict)
+        cast(dict[str, Any], item) for item in cast(list[object], values) if isinstance(item, dict)
     ]
 
 
@@ -76,9 +74,7 @@ def _public_taxonomy(snapshot: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def _public_aliases(
-    aliases: dict[str, Any], corrections: dict[str, Any]
-) -> dict[str, Any]:
+def _public_aliases(aliases: dict[str, Any], corrections: dict[str, Any]) -> dict[str, Any]:
     candidates: dict[str, set[str]] = defaultdict(set)
     records: list[dict[str, Any]] = []
     for key in ("exactAliases",):

@@ -18,6 +18,8 @@ dependencies = [
 diopside-verify-contract = "app.scripts.verify_contract:main"
 diopside-admin = "app.scripts.admin:main"
 diopside-build-release = "app.scripts.build_release:main"
+app-docs = "tools.app_docs:main"
+app-archlint = "tools.check_architecture:main"
 
 [build-system]
 requires = ["hatchling"]
@@ -29,10 +31,13 @@ packages = ["src/app"]
 [dependency-groups]
 dev = [
   "boto3-stubs[dynamodb,sqs]>=1.35.0",
+  "mypy>=1.16.0",
   "pyright>=1.1.403",
   "pytest>=8.4.1",
   "pytest-cov>=6.2.1",
   "ruff>=0.12.3",
+  "types-defusedxml>=0.7.0.20240218",
+  "types-jsonschema>=4.26.0.20250516",
 ]
 
 [tool.pytest.ini_options]
@@ -57,3 +62,9 @@ typeCheckingMode = "strict"
 reportUnusedFunction = false
 venvPath = "."
 venv = ".venv"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["app", "tools"]
+mypy_path = "src"

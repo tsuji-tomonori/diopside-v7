@@ -177,12 +177,8 @@ def _redrive(source_arn: str, destination_arn: str, rate: int) -> dict[str, Any]
 
 def _replace_gates(evidence: dict[str, Any], reason: str) -> dict[str, Any]:
     gates = evidence.get("gates")
-    gate_ids: set[str] = (
-        set(cast(dict[str, Any], gates)) if isinstance(gates, dict) else set()
-    )
-    if gate_ids != {
-        f"GATE-{number:03d}" for number in range(1, 7)
-    }:
+    gate_ids: set[str] = set(cast(dict[str, Any], gates)) if isinstance(gates, dict) else set()
+    if gate_ids != {f"GATE-{number:03d}" for number in range(1, 7)}:
         raise SystemExit("evidence must contain exactly GATE-001..GATE-006")
     evidence_id = evidence.get("evidenceId")
     if not isinstance(evidence_id, str) or not evidence_id:
@@ -352,9 +348,7 @@ def _operations_summary(from_date: str, to_date: str) -> dict[str, Any]:
         if value
     }
     latest = _optional_s3_json(s3, os.environ.get("PUBLIC_BUCKET"), "data/latest.json")
-    gates = _optional_s3_json(
-        s3, os.environ.get("CONFIGURATION_BUCKET"), "gates/current.json"
-    )
+    gates = _optional_s3_json(s3, os.environ.get("CONFIGURATION_BUCKET"), "gates/current.json")
     cost: object = "unknown"
     try:
         response = cast(CostReport, boto3.client("ce")).get_cost_and_usage(
@@ -371,20 +365,20 @@ def _operations_summary(from_date: str, to_date: str) -> dict[str, Any]:
         dict[str, Any],
         _json_safe(
             {
-            "schemaVersion": "1.0.0",
-            "generatedAt": generated_at,
-            "window": {"from": start.isoformat(), "to": end.isoformat()},
-            "jobs": {
-                "total": len(jobs),
-                "statusCounts": dict(statuses),
-                "successRate": success_rate if success_rate is not None else "unknown",
-            },
-            "quota": quota,
-            "queues": queue_depth,
-            "storage": storage,
-            "latestExport": latest if latest is not None else "unknown",
-            "gates": gates if gates is not None else "unknown",
-            "costByService": cost,
+                "schemaVersion": "1.0.0",
+                "generatedAt": generated_at,
+                "window": {"from": start.isoformat(), "to": end.isoformat()},
+                "jobs": {
+                    "total": len(jobs),
+                    "statusCounts": dict(statuses),
+                    "successRate": success_rate if success_rate is not None else "unknown",
+                },
+                "quota": quota,
+                "queues": queue_depth,
+                "storage": storage,
+                "latestExport": latest if latest is not None else "unknown",
+                "gates": gates if gates is not None else "unknown",
+                "costByService": cost,
             }
         ),
     )
@@ -449,9 +443,7 @@ def _bucket_usage(client: S3Admin, bucket: str) -> dict[str, int]:
             return {"objects": count, "bytes": size}
 
 
-def _optional_s3_json(
-    client: S3Admin, bucket: str | None, key: str
-) -> dict[str, Any] | None:
+def _optional_s3_json(client: S3Admin, bucket: str | None, key: str) -> dict[str, Any] | None:
     if not bucket:
         return None
     try:
@@ -468,8 +460,7 @@ def _json_safe(value: object) -> object:
         return int(value) if value == value.to_integral_value() else float(value)
     if isinstance(value, dict):
         return {
-            str(key): _json_safe(item)
-            for key, item in cast(dict[object, object], value).items()
+            str(key): _json_safe(item) for key, item in cast(dict[object, object], value).items()
         }
     if isinstance(value, list):
         return [_json_safe(item) for item in cast(list[object], value)]

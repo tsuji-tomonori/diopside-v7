@@ -2,11 +2,19 @@ from __future__ import annotations
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 
+from app.apis.public.get_latest.router import router as get_latest_router
+from app.apis.public.get_release.router import router as get_release_router
+from app.apis.public.get_search.router import router as get_search_router
+from app.apis.public.get_tags.router import router as get_tags_router
+from app.apis.public.get_video.router import router as get_video_router
 from app.core.config import get_settings
-from app.services import contract_loader
+
+
+async def health() -> dict[str, str]:
+    """Return process readiness without constructing provider clients."""
+    return {"status": "ok"}
 
 
 def create_app() -> FastAPI:
@@ -28,33 +36,12 @@ def create_app() -> FastAPI:
         name="public-data",
     )
 
-    @app.get("/health")
-    async def health() -> dict[str, str]:
-        return {"status": "ok"}
-
-    @app.get("/api/contracts/latest")
-    async def latest_contract() -> dict[str, object]:
-        return contract_loader.read_latest(contract_dir)
-
-    @app.get("/api/contracts/release/{release_id}")
-    async def release_contract(release_id: str) -> dict[str, object]:
-        return contract_loader.read_release(contract_dir, release_id)
-
-    @app.get("/api/contracts/releases/{release_id}/search")
-    async def release_search_contract(release_id: str) -> dict[str, object]:
-        return contract_loader.read_search_index(contract_dir, release_id)
-
-    @app.get("/api/contracts/releases/{release_id}/tags")
-    async def release_tags_contract(release_id: str) -> dict[str, object]:
-        return {
-            "taxonomy": contract_loader.read_taxonomy(contract_dir, release_id),
-            "index": contract_loader.read_tag_index(contract_dir, release_id),
-            "alias": contract_loader.read_alias_index(contract_dir, release_id),
-        }
-
-    @app.get("/api/contracts/releases/{release_id}/videos/{video_id}")
-    async def video_contract(release_id: str, video_id: str) -> JSONResponse:
-        return JSONResponse(contract_loader.read_video(contract_dir, release_id, video_id))
+    app.add_api_route("/health", health, methods=["GET"], tags=["system"])
+    app.include_router(get_latest_router)
+    app.include_router(get_release_router)
+    app.include_router(get_search_router)
+    app.include_router(get_tags_router)
+    app.include_router(get_video_router)
 
     return app
 

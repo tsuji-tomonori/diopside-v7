@@ -18,9 +18,7 @@ class FakeYouTube:
         assert channel_id == "channel-1"
         return {"contentDetails": {"relatedPlaylists": {"uploads": "playlist-1"}}}
 
-    def uploads(
-        self, playlist_id: str, *, max_pages: int | None = None
-    ) -> list[dict[str, Any]]:
+    def uploads(self, playlist_id: str, *, max_pages: int | None = None) -> list[dict[str, Any]]:
         assert playlist_id == "playlist-1"
         assert max_pages is None
         return [{"contentDetails": {"videoId": "video-1"}}]
@@ -192,21 +190,22 @@ def test_live_start_quota_is_protected_above_stop_threshold(monkeypatch: Any) ->
         return control
 
     monkeypatch.setattr(jobs, "_control_table", table)
-    assert jobs.reserve_quota(
-        {
-            "jobType": "metadata_sync",
-            "inputManifest": {"discoverLive": True},
-        },
-        200,
-    ) == 200
+    assert (
+        jobs.reserve_quota(
+            {
+                "jobType": "metadata_sync",
+                "inputManifest": {"discoverLive": True},
+            },
+            200,
+        )
+        == 200
+    )
     assert "ConditionExpression" not in control.updates[0]
 
 
 def test_operations_heartbeat_emits_export_age(monkeypatch: Any) -> None:
     store = FakeS3()
-    store.objects[("public-bucket", "data/latest.json")] = (
-        b'{"generatedAt":"2026-01-01T00:00:00Z"}'
-    )
+    store.objects[("public-bucket", "data/latest.json")] = b'{"generatedAt":"2026-01-01T00:00:00Z"}'
     metrics: list[tuple[str, int | float]] = []
 
     def client(_service: str) -> FakeS3:

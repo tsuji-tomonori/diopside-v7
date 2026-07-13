@@ -105,9 +105,7 @@ def migrate_snapshots(
             video_id = _string(video, "videoId")
             if video_id in videos:
                 raise TaggingError(f"duplicate videoId across populations: {video_id}")
-            corrected_video, reviews = _apply_assignment_corrections(
-                video, correction_document
-            )
+            corrected_video, reviews = _apply_assignment_corrections(video, correction_document)
             review_assignments.extend(reviews)
             migrated = _migrate_video(corrected_video, resolver, registry)
             assignment_count += len(migrated["tagAssignments"])

@@ -388,9 +388,7 @@ def _objects(value: object) -> list[dict[str, Any]]:
     if not isinstance(value, list):
         return []
     return [
-        cast(dict[str, Any], item)
-        for item in cast(list[object], value)
-        if isinstance(item, dict)
+        cast(dict[str, Any], item) for item in cast(list[object], value) if isinstance(item, dict)
     ]
 
 

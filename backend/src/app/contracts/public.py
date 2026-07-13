@@ -100,8 +100,10 @@ class ReleaseIndex(StrictModel):
                 raise ValueError("normal release requires taxonomy and alias versions")
             if any(video.tagIds is None for video in self.videos):
                 raise ValueError("normal release requires tagIds")
-        elif self.taxonomyVersion or self.aliasVersion or any(
-            video.tagIds is not None for video in self.videos
+        elif (
+            self.taxonomyVersion
+            or self.aliasVersion
+            or any(video.tagIds is not None for video in self.videos)
         ):
             raise ValueError("compliance purge forbids tags")
         if self.releaseMode == "compliance_purge" and not all(

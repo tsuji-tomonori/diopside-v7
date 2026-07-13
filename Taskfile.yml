@@ -22,7 +22,11 @@ tasks:
       - npm test --workspaces --if-present
       - npm run build --workspaces --if-present
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff check src tests
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff format --check src tests
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pyright
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked mypy src tests
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-archlint
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-docs generate --check
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pytest
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
       - task: cost:verify

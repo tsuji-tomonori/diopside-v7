@@ -284,9 +284,7 @@ class YouTubeDataClient:
         }
         if page_token:
             params["pageToken"] = page_token
-        return self._request(
-            "liveChat/messages", "liveChatMessages.list", params, requested_ids=1
-        )
+        return self._request("liveChat/messages", "liveChatMessages.list", params, requested_ids=1)
 
     def collect_live_chat(
         self,

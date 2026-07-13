@@ -40,9 +40,7 @@ def main() -> int:
         own = _read(archive, "tags/video_tags_v2.json")
         external = _read(archive, "tags/collaboration_video_tags_v2.json")
         aliases = _read(archive, "tags/tag_aliases_v2.json")
-    corrections_value = cast(
-        object, json.loads(args.corrections.read_text(encoding="utf-8"))
-    )
+    corrections_value = cast(object, json.loads(args.corrections.read_text(encoding="utf-8")))
     if not isinstance(corrections_value, dict):
         parser.error("corrections root must be an object")
     corrections = cast(dict[str, Any], corrections_value)

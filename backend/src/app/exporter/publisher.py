@@ -71,9 +71,7 @@ class ReleaseValidator:
         index_videos = {video.videoId for video in release.videos}
         if search_videos != index_videos:
             raise ReleaseRejected("video_population_mismatch", "index/search")
-        tag_ids: set[str] = (
-            self._tag_ids(documents["tags"]) if "tags" in documents else set()
-        )
+        tag_ids: set[str] = self._tag_ids(documents["tags"]) if "tags" in documents else set()
         for video in release.videos:
             if not set(video.tagIds or []).issubset(tag_ids):
                 raise ReleaseRejected("unknown_tag_id", video.videoId)
@@ -449,11 +447,7 @@ class NormalReleaseBuilder:
                 }
                 for tag_id, definition in sorted(definitions.items())
                 for video_ids in [
-                    sorted(
-                        video_id
-                        for video_id in included_ids
-                        if tag_id in assignments[video_id]
-                    )
+                    sorted(video_id for video_id in included_ids if tag_id in assignments[video_id])
                 ]
                 if video_ids
             ],

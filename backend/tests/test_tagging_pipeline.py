@@ -243,9 +243,7 @@ def test_migrate_snapshots_replaces_and_quarantines_assignments() -> None:
                         "subcategoryId": "event",
                         "tag": "にじさんじ麻雀杯",
                     },
-                    "assignment": assignment(
-                        "program", "event", "にじさんじ麻雀杯2023"
-                    ),
+                    "assignment": assignment("program", "event", "にじさんじ麻雀杯2023"),
                 },
                 {
                     "operation": "review",
@@ -267,9 +265,7 @@ def test_migrate_snapshots_replaces_and_quarantines_assignments() -> None:
         generated_at="2026-07-13T00:00:00Z",
     )
 
-    assignments = cast(
-        list[dict[str, Any]], result["videos"][0]["tagAssignments"]
-    )
+    assignments = cast(list[dict[str, Any]], result["videos"][0]["tagAssignments"])
     assert any(item["tag"] == "にじさんじ麻雀杯2023" for item in assignments)
     assert not any(item["tag"] == "麻雀" for item in assignments)
     assert result["reviewAssignmentCount"] == 1

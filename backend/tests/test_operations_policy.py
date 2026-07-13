@@ -78,15 +78,14 @@ def test_shorter_permission_or_gate_deadline_wins() -> None:
     created = datetime(2026, 1, 1, tzinfo=UTC)
     explicit = created + timedelta(days=20)
     gate = created + timedelta(days=10)
-    assert retention_deadline(
-        DataClass.REPLAY_CHAT, created, explicit_until=explicit, gate_until=gate
-    ) == gate
+    assert (
+        retention_deadline(DataClass.REPLAY_CHAT, created, explicit_until=explicit, gate_until=gate)
+        == gate
+    )
 
 
 def test_deletion_event_requires_every_layer_and_cdn() -> None:
     with pytest.raises(ValueError, match="layers"):
         DeletionEvent("author", ("raw",), ("/*",), "operator", "now", "request")
     with pytest.raises(ValueError, match="CDN"):
-        DeletionEvent(
-            "author", ("public", "processed", "raw"), (), "operator", "now", "request"
-        )
+        DeletionEvent("author", ("public", "processed", "raw"), (), "operator", "now", "request")

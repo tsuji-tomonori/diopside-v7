@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Any
+from typing import Any, cast
 
 from fastapi import HTTPException
 
@@ -11,7 +11,7 @@ from app.contracts.public import LatestRelease, ReleaseIndex
 
 def _json_load(path: Path) -> dict[str, Any]:
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        return cast(dict[str, Any], json.loads(path.read_text(encoding="utf-8")))
     except FileNotFoundError as error:
         raise HTTPException(status_code=404, detail=f"contract not found: {path}") from error
     except json.JSONDecodeError as error:

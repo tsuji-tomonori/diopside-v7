@@ -1,0 +1,1 @@
+"""Read a release index."""

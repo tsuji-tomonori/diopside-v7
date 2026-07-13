@@ -8,6 +8,16 @@
 - `GET /api/contracts/releases/{release_id}/videos/{video_id}`
 - Static JSON/SVG under `/data/*`
 
+Each JSON API is implemented under `src/app/apis/public/{operation}`. Human-authored
+contract metadata in `docs/api/public-contracts.manual.json` is checked against runtime
+OpenAPI and produces `*.gen.*` interface artifacts. Generated files must not be edited.
+
+```bash
+uv run --locked app-docs generate
+uv run --locked app-docs generate --check
+uv run --locked app-archlint
+```
+
 ## Run
 
 ```bash

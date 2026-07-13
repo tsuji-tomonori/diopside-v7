@@ -61,9 +61,7 @@ def candidate(root: Path, release_id: str, *, omit_detail: bool = False) -> Path
         release / "search-index.json",
         {
             **base,
-            "videos": [
-                {"videoId": "video-1", "artifactFlags": video["artifactFlags"]}
-            ],
+            "videos": [{"videoId": "video-1", "artifactFlags": video["artifactFlags"]}],
         },
     )
     write(release / "tag-taxonomy.json", {**base, "categories": []})

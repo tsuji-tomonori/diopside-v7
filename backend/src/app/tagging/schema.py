@@ -28,9 +28,7 @@ def resolve_schema(document: dict[str, Any], kind: DocumentKind) -> dict[str, An
     filename = SCHEMA_FILES.get((kind, version))
     if filename is None:
         raise TagSchemaError(f"unsupported {kind} schemaVersion: {version}")
-    raw_schema: object = json.loads(
-        (SCHEMA_ROOT / filename).read_text(encoding="utf-8")
-    )
+    raw_schema: object = json.loads((SCHEMA_ROOT / filename).read_text(encoding="utf-8"))
     if not isinstance(raw_schema, dict):
         raise TagSchemaError(f"schema root must be an object: {filename}")
     return cast(dict[str, Any], raw_schema)

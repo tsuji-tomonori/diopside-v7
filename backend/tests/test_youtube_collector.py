@@ -33,9 +33,12 @@ def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
             json={"error": {"errors": [{"reason": "quotaExceeded"}]}},
         )
 
-    with YouTubeDataClient(
-        "must-not-appear", transport=httpx.MockTransport(handler), sleep=lambda _value: None
-    ) as client, pytest.raises(YouTubeApiError) as error:
+    with (
+        YouTubeDataClient(
+            "must-not-appear", transport=httpx.MockTransport(handler), sleep=lambda _value: None
+        ) as client,
+        pytest.raises(YouTubeApiError) as error,
+    ):
         client.channel("channel")
 
     assert requests == 1

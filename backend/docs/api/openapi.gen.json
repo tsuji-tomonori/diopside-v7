@@ -1,0 +1,274 @@
+{
+  "components": {
+    "schemas": {
+      "LatestContractResponse": {
+        "additionalProperties": true,
+        "description": "Canonical latest.json payload.",
+        "title": "LatestContractResponse",
+        "type": "object"
+      },
+      "ReleaseContractResponse": {
+        "additionalProperties": true,
+        "description": "Canonical release index payload.",
+        "title": "ReleaseContractResponse",
+        "type": "object"
+      },
+      "SearchContractResponse": {
+        "additionalProperties": true,
+        "description": "Canonical search index payload.",
+        "title": "SearchContractResponse",
+        "type": "object"
+      },
+      "TagsContractResponse": {
+        "properties": {
+          "alias": {
+            "additionalProperties": true,
+            "title": "Alias",
+            "type": "object"
+          },
+          "index": {
+            "additionalProperties": true,
+            "title": "Index",
+            "type": "object"
+          },
+          "taxonomy": {
+            "additionalProperties": true,
+            "title": "Taxonomy",
+            "type": "object"
+          }
+        },
+        "required": [
+          "taxonomy",
+          "index",
+          "alias"
+        ],
+        "title": "TagsContractResponse",
+        "type": "object"
+      },
+      "VideoContractResponse": {
+        "additionalProperties": true,
+        "description": "Canonical video detail payload.",
+        "title": "VideoContractResponse",
+        "type": "object"
+      }
+    }
+  },
+  "info": {
+    "title": "diopside",
+    "version": "0.1.0"
+  },
+  "openapi": "3.1.0",
+  "paths": {
+    "/api/contracts/latest": {
+      "get": {
+        "operationId": "getLatestContract",
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LatestContractResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "404": {
+            "description": "The requested canonical contract artifact was not found."
+          },
+          "500": {
+            "description": "The stored canonical contract is invalid or inconsistent."
+          }
+        },
+        "summary": "Read the active canonical release pointer."
+      }
+    },
+    "/api/contracts/release/{release_id}": {
+      "get": {
+        "operationId": "getReleaseContract",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "release_id",
+            "required": true,
+            "schema": {
+              "title": "Release Id",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReleaseContractResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "404": {
+            "description": "The requested canonical contract artifact was not found."
+          },
+          "422": {
+            "description": "A path parameter failed validation."
+          },
+          "500": {
+            "description": "The stored canonical contract is invalid or inconsistent."
+          }
+        },
+        "summary": "Read one canonical release index."
+      }
+    },
+    "/api/contracts/releases/{release_id}/search": {
+      "get": {
+        "operationId": "getReleaseSearchContract",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "release_id",
+            "required": true,
+            "schema": {
+              "title": "Release Id",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchContractResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "404": {
+            "description": "The requested canonical contract artifact was not found."
+          },
+          "422": {
+            "description": "A path parameter failed validation."
+          },
+          "500": {
+            "description": "The stored canonical contract is invalid or inconsistent."
+          }
+        },
+        "summary": "Read one release search index."
+      }
+    },
+    "/api/contracts/releases/{release_id}/tags": {
+      "get": {
+        "operationId": "getReleaseTagsContract",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "release_id",
+            "required": true,
+            "schema": {
+              "title": "Release Id",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TagsContractResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "404": {
+            "description": "The requested canonical contract artifact was not found."
+          },
+          "422": {
+            "description": "A path parameter failed validation."
+          },
+          "500": {
+            "description": "The stored canonical contract is invalid or inconsistent."
+          }
+        },
+        "summary": "Read taxonomy, tag index, and alias projections."
+      }
+    },
+    "/api/contracts/releases/{release_id}/videos/{video_id}": {
+      "get": {
+        "operationId": "getReleaseVideoContract",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "release_id",
+            "required": true,
+            "schema": {
+              "title": "Release Id",
+              "type": "string"
+            }
+          },
+          {
+            "in": "path",
+            "name": "video_id",
+            "required": true,
+            "schema": {
+              "title": "Video Id",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/VideoContractResponse"
+                }
+              }
+            },
+            "description": "Successful Response"
+          },
+          "404": {
+            "description": "The requested canonical contract artifact was not found."
+          },
+          "422": {
+            "description": "A path parameter failed validation."
+          },
+          "500": {
+            "description": "The stored canonical contract is invalid or inconsistent."
+          }
+        },
+        "summary": "Read one public video detail."
+      }
+    },
+    "/health": {
+      "get": {
+        "description": "Return process readiness without constructing provider clients.",
+        "operationId": "health_health_get",
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": {
+                    "type": "string"
+                  },
+                  "title": "Response Health Health Get",
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Successful Response"
+          }
+        },
+        "summary": "Health",
+        "tags": [
+          "system"
+        ]
+      }
+    }
+  }
+}

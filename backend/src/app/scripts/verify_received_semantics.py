@@ -25,9 +25,7 @@ def rows(document: dict[str, Any], key: str) -> list[dict[str, Any]]:
     return cast(list[dict[str, Any]], items)
 
 
-def assignment_keys(
-    videos: list[dict[str, Any]], field: str
-) -> set[tuple[str, str, str]]:
+def assignment_keys(videos: list[dict[str, Any]], field: str) -> set[tuple[str, str, str]]:
     result: set[tuple[str, str, str]] = set()
     for video in videos:
         video_id = str(video.get("videoId", ""))
@@ -97,9 +95,7 @@ def main() -> int:
         if str(item["videoId"]) not in public_videos
     ]
     leaked_rejected = [
-        item["videoId"]
-        for item in collaborator_rejected
-        if str(item["videoId"]) in public_videos
+        item["videoId"] for item in collaborator_rejected if str(item["videoId"]) in public_videos
     ]
     if missing_accepted or leaked_rejected:
         raise ValueError("collaborator projection mismatch")
@@ -121,10 +117,7 @@ def main() -> int:
             for item in rows(video, "tags")
             if item.get("subcategoryId") == "unit"
         }
-        expected_units = {
-            str(item.get("group"))
-            for item in rows(decision, "matchedGroups")
-        }
+        expected_units = {str(item.get("group")) for item in rows(decision, "matchedGroups")}
         if not public_units.intersection(expected_units):
             raise ValueError("accepted group lacks matching public unit")
     if any(str(item["videoId"]) in public_videos for item in group_rejected):
