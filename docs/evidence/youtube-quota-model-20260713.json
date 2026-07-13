@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "modelId": "youtube-quota-20260713-v1",
+  "generatedAt": "2026-07-13T00:00:00Z",
+  "defaultDailyQuota": 10000,
+  "actualProjectDailyQuota": null,
+  "sources": [
+    "https://developers.google.com/youtube/v3/getting-started",
+    "https://developers.google.com/youtube/v3/determine_quota_cost",
+    "https://developers.google.com/youtube/v3/live/docs/liveChatMessages/list"
+  ],
+  "methodCosts": {
+    "channels.list": 1,
+    "playlistItems.list": 1,
+    "videos.list": 1,
+    "commentThreads.list": 1,
+    "comments.list": 1,
+    "liveChatMessages.list": 5,
+    "search.list": 100
+  },
+  "assumptions": {
+    "videos": 2062,
+    "videoBatchSize": 50,
+    "metadataRefreshesPerDay": 4,
+    "commentScansPerDay": 2,
+    "discoveryPollsPerDay": 288,
+    "liveStartChecksPerDay": 288,
+    "livePollIntervalSeconds": 5,
+    "standardReplyPageAllowance": 500,
+    "peakLiveHours": 2,
+    "protectedReservationHours": 8
+  },
+  "standardLines": [
+    {"name": "playlist discovery", "method": "playlistItems.list", "requests": 288, "units": 288, "optional": false},
+    {"name": "metadata refresh", "method": "videos.list", "requests": 168, "units": 168, "optional": false},
+    {"name": "comment deltas", "method": "commentThreads.list", "requests": 4124, "units": 4124, "optional": true},
+    {"name": "comment replies allowance", "method": "comments.list", "requests": 500, "units": 500, "optional": true},
+    {"name": "live start checks", "method": "videos.list", "requests": 288, "units": 288, "optional": false}
+  ],
+  "standardUnits": 5368,
+  "standardUtilization": 0.5368,
+  "peakLiveUnits": 7200,
+  "unthrottledPeakUnits": 12568,
+  "protectedPeakAfterOptionalStopUnits": 7944,
+  "eightHourReservationUnits": 28800,
+  "requiredQuotaForEightHourReservation": 34168,
+  "thresholds": {
+    "warnUtilization": 0.8,
+    "hardStopUtilization": 0.95
+  },
+  "approvalStatus": "pending"
+}

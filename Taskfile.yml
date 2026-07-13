@@ -26,6 +26,7 @@ tasks:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pytest
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
       - task: cost:verify
+      - task: quota:verify
       - npm run plan -w infra
       - npm run synth -w @diopside/infra
       - npm run test:e2e -w frontend
@@ -92,6 +93,11 @@ tasks:
     desc: Verify the current monthly AWS cost evidence arithmetic and target.
     cmds:
       - python3 tools/verify_cost_estimate.py
+
+  quota:verify:
+    desc: Verify YouTube method costs, standard load, peak shedding, and reservation.
+    cmds:
+      - python3 tools/verify_youtube_quota.py
 
   cdk:test:
     desc: Build and run CDK assertion tests without contacting AWS.
