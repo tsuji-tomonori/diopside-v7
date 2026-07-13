@@ -8,6 +8,7 @@ from app.collectors.youtube import JsonCheckpoint, YouTubeApiError, YouTubeDataC
 
 def test_videos_batches_at_fifty_and_records_quota() -> None:
     """動画取得を50件単位に分割し、quotaを記録することを検証する。"""
+    # 1. 初期化
     batch_sizes: list[int] = []
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -15,16 +16,20 @@ def test_videos_batches_at_fifty_and_records_quota() -> None:
         batch_sizes.append(len(ids))
         return httpx.Response(200, json={"items": [{"id": value} for value in ids]})
 
+    # 2. テストの実行
     with YouTubeDataClient("secret", transport=httpx.MockTransport(handler)) as client:
         videos = list(client.videos([f"video-{index}" for index in range(101)]))
+    quota = client.quota_report()
 
+    # 3. アサーション
     assert len(videos) == 101
     assert batch_sizes == [50, 50, 1]
-    assert client.quota_report()["totalUnits"] == 3
+    assert quota["totalUnits"] == 3
 
 
 def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
     """API keyを漏らさず、再試行不能理由を保持することを検証する。"""
+    # 1. 初期化
     requests = 0
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -35,6 +40,7 @@ def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
             json={"error": {"errors": [{"reason": "quotaExceeded"}]}},
         )
 
+    # 2. テストの実行
     with (
         YouTubeDataClient(
             "must-not-appear", transport=httpx.MockTransport(handler), sleep=lambda _value: None
@@ -43,6 +49,7 @@ def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
     ):
         client.channel("channel")
 
+    # 3. アサーション
     assert requests == 1
     assert error.value.reason == "quotaExceeded"
     assert "must-not-appear" not in str(error.value)
@@ -50,6 +57,7 @@ def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
 
 def test_retryable_status_is_retried() -> None:
     """再試行可能なHTTP状態を再試行することを検証する。"""
+    # 1. 初期化
     requests = 0
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -59,17 +67,21 @@ def test_retryable_status_is_retried() -> None:
             return httpx.Response(503, json={"error": {"status": "UNAVAILABLE"}})
         return httpx.Response(200, json={"items": []})
 
+    # 2. テストの実行
     with YouTubeDataClient(
         "secret", transport=httpx.MockTransport(handler), sleep=lambda _value: None
     ) as client:
-        assert client.channel("channel") is None
+        channel = client.channel("channel")
 
+    # 3. アサーション
+    assert channel is None
     assert requests == 2
     assert len(client.quota_events) == 2
 
 
 def test_live_chat_resumes_deduplicates_and_respects_poll_interval(tmp_path: Path) -> None:
     """ライブチャット再開時の重複排除とpoll間隔を検証する。"""
+    # 1. 初期化
     calls = 0
     sleeps: list[float] = []
 
@@ -92,22 +104,27 @@ def test_live_chat_resumes_deduplicates_and_respects_poll_interval(tmp_path: Pat
         )
 
     checkpoint = JsonCheckpoint(tmp_path / "chat.json")
+
+    # 2. テストの実行
     with YouTubeDataClient(
         "secret",
         transport=httpx.MockTransport(handler),
         sleep=sleeps.append,
     ) as client:
         result = client.collect_live_chat("chat", checkpoint)
+    saved = checkpoint.load()
 
+    # 3. アサーション
     assert result.status == "complete"
     assert [item["id"] for item in result.messages] == ["m1", "m2", "m3"]
     assert sleeps == [2.0]
-    assert checkpoint.load()["messageIds"] == ["m1", "m2", "m3"]
+    assert saved["messageIds"] == ["m1", "m2", "m3"]
 
 
 def test_live_chat_terminal_reason_is_checkpointed(tmp_path: Path) -> None:
     """ライブチャット終了理由をcheckpointへ保存することを検証する。"""
 
+    # 1. 初期化
     def handler(_request: httpx.Request) -> httpx.Response:
         return httpx.Response(
             403,
@@ -115,8 +132,12 @@ def test_live_chat_terminal_reason_is_checkpointed(tmp_path: Path) -> None:
         )
 
     checkpoint = JsonCheckpoint(tmp_path / "chat.json")
+
+    # 2. テストの実行
     with YouTubeDataClient("secret", transport=httpx.MockTransport(handler)) as client:
         result = client.collect_live_chat("chat", checkpoint)
+    saved = checkpoint.load()
 
+    # 3. アサーション
     assert result.status == "liveChatEnded"
-    assert checkpoint.load()["status"] == "liveChatEnded"
+    assert saved["status"] == "liveChatEnded"

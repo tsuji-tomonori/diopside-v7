@@ -83,6 +83,7 @@ class FakeControl:
 
 def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> None:
     """metadata同期が収集結果をraw snapshotへ書き込むことを検証する。"""
+    # 1. 初期化
     store = FakeS3()
 
     def client(_service: str) -> FakeS3:
@@ -104,6 +105,7 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
     monkeypatch.setattr(jobs, "_record_quota", record_quota)
     monkeypatch.setattr(jobs, "reserve_quota", reserve_quota)
 
+    # 2. テストの実行
     result = jobs.metadata_sync(
         {
             "jobId": "job-1",
@@ -112,6 +114,7 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
         }
     )
 
+    # 3. アサーション
     assert result["bucket"] == "raw-bucket"
     assert result["key"] == "raw/metadata/channel-1/scheduled-v1/job-1.json"
     assert b'"video-1"' in cast(bytes, store.puts[0]["Body"])
@@ -119,26 +122,38 @@ def test_metadata_sync_collects_and_writes_raw_snapshot(monkeypatch: Any) -> Non
 
 def test_quota_reservation_stops_low_priority_at_80_percent(monkeypatch: Any) -> None:
     """quota使用率80%で低優先処理の予約を停止することを検証する。"""
+    # 1. 初期化
     control = FakeControl(8000)
 
     def table() -> FakeControl:
         return control
 
     monkeypatch.setattr(jobs, "_control_table", table)
-    with pytest.raises(RuntimeError, match="quota policy stopped"):
+
+    # 2. テストの実行
+    with pytest.raises(RuntimeError) as error:
         jobs.reserve_quota({"jobType": "metadata_sync"}, 3)
+
+    # 3. アサーション
+    assert "quota policy stopped" in str(error.value)
     assert control.updates == []
 
 
 def test_quota_reservation_is_atomic(monkeypatch: Any) -> None:
     """quota予約が原子的に更新されることを検証する。"""
+    # 1. 初期化
     control = FakeControl(100)
 
     def table() -> FakeControl:
         return control
 
     monkeypatch.setattr(jobs, "_control_table", table)
-    assert jobs.reserve_quota({"jobType": "metadata_sync"}, 3) == 3
+
+    # 2. テストの実行
+    reserved = jobs.reserve_quota({"jobType": "metadata_sync"}, 3)
+
+    # 3. アサーション
+    assert reserved == 3
     assert control.updates[0]["ConditionExpression"] == (
         "attribute_not_exists(used) OR used <= :remaining"
     )
@@ -146,6 +161,7 @@ def test_quota_reservation_is_atomic(monkeypatch: Any) -> None:
 
 def test_live_chat_restores_and_persists_s3_checkpoint(monkeypatch: Any) -> None:
     """ライブチャットがS3 checkpointを復元・保存することを検証する。"""
+    # 1. 初期化
     store = FakeS3()
     store.objects[("raw-bucket", "checkpoints/live-chat/video-1.json")] = (
         b'{"status":"running","messageIds":[]}'
@@ -170,6 +186,7 @@ def test_live_chat_restores_and_persists_s3_checkpoint(monkeypatch: Any) -> None
     monkeypatch.setattr(jobs, "reserve_quota", reserve)
     monkeypatch.setattr(jobs, "_enqueue_child", no_quota)
 
+    # 2. テストの実行
     jobs.live_chat_collect(
         {
             "jobId": "job-live",
@@ -184,32 +201,38 @@ def test_live_chat_restores_and_persists_s3_checkpoint(monkeypatch: Any) -> None
         }
     )
     checkpoint = store.objects[("raw-bucket", "checkpoints/live-chat/video-1.json")]
+
+    # 3. アサーション
     assert b"checkpointed" in checkpoint
 
 
 def test_live_start_quota_is_protected_above_stop_threshold(monkeypatch: Any) -> None:
     """停止閾値を超えてもライブ開始用quotaを保護することを検証する。"""
+    # 1. 初期化
     control = FakeControl(9900)
 
     def table() -> FakeControl:
         return control
 
     monkeypatch.setattr(jobs, "_control_table", table)
-    assert (
-        jobs.reserve_quota(
-            {
-                "jobType": "metadata_sync",
-                "inputManifest": {"discoverLive": True},
-            },
-            200,
-        )
-        == 200
+
+    # 2. テストの実行
+    reserved = jobs.reserve_quota(
+        {
+            "jobType": "metadata_sync",
+            "inputManifest": {"discoverLive": True},
+        },
+        200,
     )
+
+    # 3. アサーション
+    assert reserved == 200
     assert "ConditionExpression" not in control.updates[0]
 
 
 def test_operations_heartbeat_emits_export_age(monkeypatch: Any) -> None:
     """運用heartbeatがexport経過時間を出力することを検証する。"""
+    # 1. 初期化
     store = FakeS3()
     store.objects[("public-bucket", "data/latest.json")] = b'{"generatedAt":"2026-01-01T00:00:00Z"}'
     metrics: list[tuple[str, int | float]] = []
@@ -225,6 +248,9 @@ def test_operations_heartbeat_emits_export_age(monkeypatch: Any) -> None:
     monkeypatch.setattr(jobs.boto3, "client", client)
     monkeypatch.setattr(jobs, "_emit_metric", emit)
 
+    # 2. テストの実行
     result = jobs.operations_heartbeat()
+
+    # 3. アサーション
     assert result["latestExportAgeHours"] > 0
     assert metrics[0][0] == "LatestExportAgeHours"

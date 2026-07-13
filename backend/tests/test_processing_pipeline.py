@@ -1,4 +1,5 @@
 from datetime import UTC, datetime
+from typing import Any
 
 import pytest
 
@@ -19,21 +20,24 @@ from app.processing.pipeline import (
 
 def test_metadata_preserves_missing_values_and_separates_source_tags() -> None:
     """metadataの欠落値を維持し、ソースタグを分離することを検証する。"""
-    metadata = normalize_metadata(
-        {
-            "id": "abcdefghijk",
-            "etag": "etag",
-            "snippet": {
-                "channelId": "channel",
-                "title": "title",
-                "tags": ["source-tag"],
-                "liveBroadcastContent": "none",
-            },
-            "contentDetails": {"duration": "PT1H"},
-            "status": {"privacyStatus": "public", "embeddable": True},
+    # 1. 初期化
+    source = {
+        "id": "abcdefghijk",
+        "etag": "etag",
+        "snippet": {
+            "channelId": "channel",
+            "title": "title",
+            "tags": ["source-tag"],
+            "liveBroadcastContent": "none",
         },
-        "2026-01-01T00:00:00Z",
-    )
+        "contentDetails": {"duration": "PT1H"},
+        "status": {"privacyStatus": "public", "embeddable": True},
+    }
+
+    # 2. テストの実行
+    metadata = normalize_metadata(source, "2026-01-01T00:00:00Z")
+
+    # 3. アサーション
     assert metadata["sourceTags"] == ["source-tag"]
     assert "viewCount" not in metadata
     assert "tagAssignments" not in metadata
@@ -42,6 +46,7 @@ def test_metadata_preserves_missing_values_and_separates_source_tags() -> None:
 
 def test_chat_normalization_is_idempotent_and_video_scoped() -> None:
     """チャット正規化が冪等で動画単位に閉じることを検証する。"""
+    # 1. 初期化
     item = {
         "id": "message-1",
         "snippet": {
@@ -52,24 +57,31 @@ def test_chat_normalization_is_idempotent_and_video_scoped() -> None:
         "authorDetails": {"channelId": "author"},
     }
     started = datetime(2026, 1, 1, tzinfo=UTC)
+
+    # 2. テストの実行
     first = normalize_chat_message(item, "video-one", started, b"secret")
     second = normalize_chat_message(item, "video-one", started, b"secret")
+    first_author = author_token(b"secret", "video-one", "author")
+    second_author = author_token(b"secret", "video-two", "author")
+
+    # 3. アサーション
     assert first == second
     assert first["relativeSec"] == 60
     assert first["text"] == "hello"
-    assert author_token(b"secret", "video-one", "author") != author_token(
-        b"secret", "video-two", "author"
-    )
+    assert first_author != second_author
 
 
 def test_public_aggregate_excludes_private_fields() -> None:
     """公開集約から非公開フィールドを除外することを検証する。"""
+    # 1. 初期化
     coverage = Coverage(
         "2026-01-01T00:00:00Z",
         "2026-01-01T01:00:00Z",
         True,
         "2026-01-01T01:01:00Z",
     )
+
+    # 2. テストの実行
     aggregate = aggregate_events(
         [
             {
@@ -83,6 +95,8 @@ def test_public_aggregate_excludes_private_fields() -> None:
         coverage,
         "2026-01-01T01:02:00Z",
     )
+
+    # 3. アサーション
     assert aggregate["totalCount"] == 1
     assert aggregate["uniqueAuthorsApprox"] == 1
     assert "authorDedupToken" not in str(aggregate)
@@ -90,26 +104,32 @@ def test_public_aggregate_excludes_private_fields() -> None:
 
 def test_wordcloud_has_safe_svg_or_honest_empty_state() -> None:
     """wordcloudが安全なSVGまたは正直な空状態を返すことを検証する。"""
+    # 1. 初期化
     coverage = Coverage("a", "b", False, "c")
-    empty, svg = wordcloud_artifact(
-        "abcdefghijk", "chat", {"topTerms": []}, coverage, "2026-01-01T00:00:00Z"
-    )
-    assert empty["notGeneratedReason"] == "insufficient_terms"
-    assert svg is None
+    empty_aggregate: dict[str, Any] = {"topTerms": []}
+    populated_aggregate = {
+        "topTerms": [
+            {"term": "<script>", "count": 3},
+            {"term": "配信", "count": 2},
+            {"term": "歌枠", "count": 1},
+        ]
+    }
 
+    # 2. テストの実行
+    empty, empty_svg = wordcloud_artifact(
+        "abcdefghijk", "chat", empty_aggregate, coverage, "2026-01-01T00:00:00Z"
+    )
     generated, svg = wordcloud_artifact(
         "abcdefghijk",
         "chat",
-        {
-            "topTerms": [
-                {"term": "<script>", "count": 3},
-                {"term": "配信", "count": 2},
-                {"term": "歌枠", "count": 1},
-            ]
-        },
+        populated_aggregate,
         coverage,
         "2026-01-01T00:00:00Z",
     )
+
+    # 3. アサーション
+    assert empty["notGeneratedReason"] == "insufficient_terms"
+    assert empty_svg is None
     assert generated["status"] == "generated"
     assert svg is not None and "&lt;script&gt;" in svg
     assert "<script>" not in svg
@@ -118,17 +138,32 @@ def test_wordcloud_has_safe_svg_or_honest_empty_state() -> None:
 
 def test_private_field_guard_is_recursive() -> None:
     """非公開フィールド検査が入れ子を再帰的に確認することを検証する。"""
-    with pytest.raises(ProcessingError, match="private field"):
-        assert_public({"nested": [{"authorChannelId": "secret"}]})
+    # 1. 初期化
+    document = {"nested": [{"authorChannelId": "secret"}]}
+
+    # 2. テストの実行
+    with pytest.raises(ProcessingError) as error:
+        assert_public(document)
+
+    # 3. アサーション
+    assert "private field" in str(error.value)
 
 
 def test_text_normalization_is_deterministic() -> None:
     """テキスト正規化が決定的であることを検証する。"""
-    assert normalize_text("\uff21\uff22\uff23\r\nhttps://example.test\x00") == "ABC"
+    # 1. 初期化
+    source = "\uff21\uff22\uff23\r\nhttps://example.test\x00"
+
+    # 2. テストの実行
+    normalized = normalize_text(source)
+
+    # 3. アサーション
+    assert normalized == "ABC"
 
 
 def test_timestamp_candidates_are_deterministic_and_within_duration() -> None:
     """時刻候補が決定的かつ動画時間内であることを検証する。"""
+    # 1. 初期化
     coverage = Coverage("a", "b", True, "c")
     aggregate = {
         "timeline": [
@@ -137,8 +172,12 @@ def test_timestamp_candidates_are_deterministic_and_within_duration() -> None:
             {"at": 999, "count": 100},
         ]
     }
+
+    # 2. テストの実行
     first = timestamp_candidates("abcdefghijk", aggregate, 180, coverage, "now")
     second = timestamp_candidates("abcdefghijk", aggregate, 180, coverage, "now")
+
+    # 3. アサーション
     assert first == second
     assert [item["atSec"] for item in first["items"]] == [60, 120]
     assert first["items"][0]["confidence"] == 1.0

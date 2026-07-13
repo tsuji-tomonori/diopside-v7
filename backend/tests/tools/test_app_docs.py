@@ -5,6 +5,7 @@ from tools.app_docs import DOCUMENT_KINDS, ROOT, build_outputs, render_inventory
 
 def test_inventory_is_sorted_and_documents_boundaries() -> None:
     """API索引の並び順と操作別文書へのリンク境界を検証する。"""
+    # 1. 初期化
     operations: list[dict[str, Any]] = [
         {
             "operationId": "z",
@@ -37,7 +38,11 @@ def test_inventory_is_sorted_and_documents_boundaries() -> None:
             "externalEffects": "read",
         },
     ]
+
+    # 2. テストの実行
     rendered = render_inventory(operations).decode()
+
+    # 3. アサーション
     assert rendered.index("`a`") < rendered.index("`z`")
     assert "operations/a/interface.gen.md" in rendered
     assert "操作数: 2" in rendered
@@ -46,8 +51,7 @@ def test_inventory_is_sorted_and_documents_boundaries() -> None:
 
 def test_build_outputs_generates_every_document_for_every_operation() -> None:
     """全操作について全種別の文書を生成することを検証する。"""
-    outputs = build_outputs()
-    relative_paths = {str(path.relative_to(ROOT)) for path in outputs}
+    # 1. 初期化
     operation_ids = {
         "getLatestContract",
         "getReleaseContract",
@@ -55,6 +59,12 @@ def test_build_outputs_generates_every_document_for_every_operation() -> None:
         "getReleaseTagsContract",
         "getReleaseVideoContract",
     }
+
+    # 2. テストの実行
+    outputs = build_outputs()
+    relative_paths = {str(path.relative_to(ROOT)) for path in outputs}
+
+    # 3. アサーション
     for operation_id in operation_ids:
         for kind in DOCUMENT_KINDS:
             path = f"docs/api/operations/{operation_id}/{kind}.gen.md"

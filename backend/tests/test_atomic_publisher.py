@@ -74,10 +74,14 @@ def candidate(root: Path, release_id: str, *, omit_detail: bool = False) -> Path
 
 def test_valid_release_switches_latest_atomically(tmp_path: Path) -> None:
     """有効なリリースでlatestが原子的に切り替わることを検証する。"""
+    # 1. 初期化
     public = tmp_path / "public"
-    result = AtomicPublisher(public).publish(candidate(tmp_path / "candidates", "release-a"))
 
+    # 2. テストの実行
+    result = AtomicPublisher(public).publish(candidate(tmp_path / "candidates", "release-a"))
     latest = json.loads((public / "latest.json").read_text())
+
+    # 3. アサーション
     assert result.video_count == 1
     assert latest["releaseId"] == "release-a"
     assert (public / "releases" / "release-a" / "index.json").is_file()
@@ -85,32 +89,42 @@ def test_valid_release_switches_latest_atomically(tmp_path: Path) -> None:
 
 def test_invalid_release_does_not_replace_latest(tmp_path: Path) -> None:
     """不正なリリースが既存latestを置換しないことを検証する。"""
+    # 1. 初期化
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-a"))
     before = (public / "latest.json").read_bytes()
 
-    with pytest.raises(ReleaseRejected, match="missing_artifact"):
+    # 2. テストの実行
+    with pytest.raises(ReleaseRejected) as error:
         publisher.publish(candidate(tmp_path / "candidates", "release-b", omit_detail=True))
 
+    # 3. アサーション
+    assert "missing_artifact" in str(error.value)
     assert (public / "latest.json").read_bytes() == before
     assert not (public / "releases" / "release-b").exists()
 
 
 def test_release_with_private_field_is_rejected(tmp_path: Path) -> None:
     """非公開フィールドを含むリリースが拒否されることを検証する。"""
+    # 1. 初期化
     release = candidate(tmp_path / "candidates", "release-private")
     detail_path = release / "videos" / "video-1.json"
     detail = json.loads(detail_path.read_text(encoding="utf-8"))
     detail["messageText"] = "must stay private"
     write(detail_path, detail)
 
-    with pytest.raises(ReleaseRejected, match="private_field"):
+    # 2. テストの実行
+    with pytest.raises(ReleaseRejected) as error:
         AtomicPublisher(tmp_path / "public").publish(release)
+
+    # 3. アサーション
+    assert "private_field" in str(error.value)
 
 
 def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
     """安全でないSVGを含むリリースが拒否されることを検証する。"""
+    # 1. 初期化
     release = candidate(tmp_path / "candidates", "release-svg")
     for relative in ("index.json", "search-index.json"):
         path = release / relative
@@ -128,12 +142,17 @@ def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
     svg = release / "wordcloud" / "video-1-chat.svg"
     svg.write_text("<svg xmlns='http://www.w3.org/2000/svg'><script/></svg>", encoding="utf-8")
 
-    with pytest.raises(ReleaseRejected, match="unsafe_svg"):
+    # 2. テストの実行
+    with pytest.raises(ReleaseRejected) as error:
         AtomicPublisher(tmp_path / "public").publish(release)
+
+    # 3. アサーション
+    assert "unsafe_svg" in str(error.value)
 
 
 def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path) -> None:
     """規約対応削除が現行版を基準とし、タグを除去することを検証する。"""
+    # 1. 初期化
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-base"))
@@ -158,20 +177,25 @@ def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path)
     detail.pop("tagIds", None)
     write(detail_path, detail)
 
+    # 2. テストの実行
     publisher.publish(purge)
     published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
+
+    # 3. アサーション
     assert published["releaseMode"] == "compliance_purge"
     assert "tagIndexPath" not in published
 
 
 def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Path) -> None:
     """削除候補生成で対象動画と全派生データを除去することを検証する。"""
+    # 1. 初期化
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-base"))
     latest = json.loads((public / "latest.json").read_text(encoding="utf-8"))
     output = tmp_path / "candidates" / "release-built-purge"
 
+    # 2. テストの実行
     result = CompliancePurgeBuilder().build(
         public / "releases" / "release-base",
         output,
@@ -181,18 +205,22 @@ def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Pa
         trigger="deletion:video-1",
         generated_at="2026-01-02T00:00:00Z",
     )
+    publisher.publish(output)
+    published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
 
+    # 3. アサーション
     assert result.video_count == 0
     assert not (output / "tag-index.json").exists()
     assert not (output / "videos" / "video-1.json").exists()
-    publisher.publish(output)
-    published = json.loads((public / "latest.json").read_text(encoding="utf-8"))
     assert published["releaseId"] == "release-built-purge"
 
 
 def test_normal_builder_joins_metadata_and_stable_tag_ids(tmp_path: Path) -> None:
     """通常候補生成でmetadataと安定タグIDを結合することを検証する。"""
+    # 1. 初期化
     output = tmp_path / "candidate"
+
+    # 2. テストの実行
     result = NormalReleaseBuilder().build(
         output,
         release_id="release-built",
@@ -232,6 +260,8 @@ def test_normal_builder_joins_metadata_and_stable_tag_ids(tmp_path: Path) -> Non
         generated_at="2026-01-02T00:00:00Z",
     )
     index = json.loads((output / "index.json").read_text(encoding="utf-8"))
+
+    # 3. アサーション
     assert result.video_count == 1
     assert index["videos"][0]["tagIds"] == ["tag_stable"]
     assert index["videos"][0]["durationSec"] == 3723

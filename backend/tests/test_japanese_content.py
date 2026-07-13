@@ -14,6 +14,10 @@ PYTHON_ROOTS = (
     REPOSITORY_ROOT / "tools",
 )
 SCRIPT_ROOTS = (REPOSITORY_ROOT / "frontend", REPOSITORY_ROOT / "infra")
+UNIT_SCRIPT_ROOTS = (
+    REPOSITORY_ROOT / "frontend/src",
+    REPOSITORY_ROOT / "infra/test",
+)
 MARKDOWN_ROOTS = (
     REPOSITORY_ROOT / "README.md",
     REPOSITORY_ROOT / "AGENTS.md",
@@ -28,6 +32,7 @@ MARKDOWN_ROOTS = (
 )
 COMMENT_DIRECTIVES = ("#!", "# pyright:", "# type:", "# noqa", "# pragma:")
 SOURCE_REFERENCE_PREFIXES = ("- IEEE ", "- YouTube ", "- AWS ")
+AAA_MARKERS = ("1. 初期化", "2. テストの実行", "3. アサーション")
 
 
 def _files(root: Path, suffixes: tuple[str, ...]) -> list[Path]:
@@ -107,6 +112,45 @@ def _script_violations() -> list[str]:
     return violations
 
 
+def _aaa_violations() -> list[str]:
+    """単体テスト内のAAAコメントの件数と順序を検査する。"""
+    violations: list[str] = []
+    test_root = REPOSITORY_ROOT / "backend/tests"
+    for path in _files(test_root, (".py",)):
+        source = path.read_text(encoding="utf-8")
+        tree = ast.parse(source, filename=str(path))
+        relative = path.relative_to(REPOSITORY_ROOT)
+        for node in ast.walk(tree):
+            if not isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef)):
+                continue
+            if not node.name.startswith("test_") or node.end_lineno is None:
+                continue
+            segment = "\n".join(source.splitlines()[node.lineno - 1 : node.end_lineno])
+            positions = [segment.find(f"# {marker}") for marker in AAA_MARKERS]
+            counts = [segment.count(f"# {marker}") for marker in AAA_MARKERS]
+            if counts != [1, 1, 1] or positions != sorted(positions) or -1 in positions:
+                violations.append(
+                    f"{relative}:{node.lineno}: {node.name}のAAAコメントが欠落・重複・順序違反"
+                )
+
+    test_pattern = re.compile(r"\b(?:it|test)\s*\(")
+    for root in UNIT_SCRIPT_ROOTS:
+        for path in _files(root, (".ts", ".tsx", ".js")):
+            lines = path.read_text(encoding="utf-8").splitlines()
+            starts = [index for index, line in enumerate(lines) if test_pattern.search(line)]
+            relative = path.relative_to(REPOSITORY_ROOT)
+            for position, start in enumerate(starts):
+                end = starts[position + 1] if position + 1 < len(starts) else len(lines)
+                segment = "\n".join(lines[start:end])
+                positions = [segment.find(f"// {marker}") for marker in AAA_MARKERS]
+                counts = [segment.count(f"// {marker}") for marker in AAA_MARKERS]
+                if counts != [1, 1, 1] or positions != sorted(positions) or -1 in positions:
+                    violations.append(
+                        f"{relative}:{start + 1}: 単体テストのAAAコメントが欠落・重複・順序違反"
+                    )
+    return violations
+
+
 def _markdown_violations() -> list[str]:
     """Markdownの英語だけで書かれた自然言語を検査する。"""
     violations: list[str] = []
@@ -170,10 +214,17 @@ def _configuration_violations() -> list[str]:
 
 def test_repository_explanations_are_written_in_japanese() -> None:
     """文書、コメント、テスト、functions関数の日本語説明を一括検証する。"""
-    violations = [
-        *_python_violations(),
-        *_script_violations(),
-        *_markdown_violations(),
-        *_configuration_violations(),
-    ]
+    # 1. 初期化
+    checks = (
+        _python_violations,
+        _script_violations,
+        _aaa_violations,
+        _markdown_violations,
+        _configuration_violations,
+    )
+
+    # 2. テストの実行
+    violations = [violation for check in checks for violation in check()]
+
+    # 3. アサーション
     assert violations == [], "\n" + "\n".join(violations)
