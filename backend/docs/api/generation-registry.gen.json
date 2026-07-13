@@ -1,0 +1,48 @@
+{
+  "checkCommand": "app-docs generate --check",
+  "ciSafe": true,
+  "generator": "app-docs generate",
+  "inputs": [
+    "docs/api/public-contracts.manual.json",
+    "src/app/apis/public/*/{contract,router,functions,schemas,samples}.py",
+    "runtime FastAPI OpenAPI"
+  ],
+  "operationCount": 5,
+  "outputs": [
+    "docs/api/generation-registry.gen.json",
+    "docs/api/openapi.gen.json",
+    "docs/api/operations/getLatestContract/detail-design.gen.md",
+    "docs/api/operations/getLatestContract/examples.gen.md",
+    "docs/api/operations/getLatestContract/interface.gen.md",
+    "docs/api/operations/getLatestContract/sequence.gen.md",
+    "docs/api/operations/getLatestContract/test-factors.gen.md",
+    "docs/api/operations/getReleaseContract/detail-design.gen.md",
+    "docs/api/operations/getReleaseContract/examples.gen.md",
+    "docs/api/operations/getReleaseContract/interface.gen.md",
+    "docs/api/operations/getReleaseContract/sequence.gen.md",
+    "docs/api/operations/getReleaseContract/test-factors.gen.md",
+    "docs/api/operations/getReleaseSearchContract/detail-design.gen.md",
+    "docs/api/operations/getReleaseSearchContract/examples.gen.md",
+    "docs/api/operations/getReleaseSearchContract/interface.gen.md",
+    "docs/api/operations/getReleaseSearchContract/sequence.gen.md",
+    "docs/api/operations/getReleaseSearchContract/test-factors.gen.md",
+    "docs/api/operations/getReleaseTagsContract/detail-design.gen.md",
+    "docs/api/operations/getReleaseTagsContract/examples.gen.md",
+    "docs/api/operations/getReleaseTagsContract/interface.gen.md",
+    "docs/api/operations/getReleaseTagsContract/sequence.gen.md",
+    "docs/api/operations/getReleaseTagsContract/test-factors.gen.md",
+    "docs/api/operations/getReleaseVideoContract/detail-design.gen.md",
+    "docs/api/operations/getReleaseVideoContract/examples.gen.md",
+    "docs/api/operations/getReleaseVideoContract/interface.gen.md",
+    "docs/api/operations/getReleaseVideoContract/sequence.gen.md",
+    "docs/api/operations/getReleaseVideoContract/test-factors.gen.md",
+    "docs/api/public-contracts.gen.md"
+  ],
+  "perOperationDocumentKinds": [
+    "interface",
+    "sequence",
+    "detail-design",
+    "test-factors",
+    "examples"
+  ]
+}

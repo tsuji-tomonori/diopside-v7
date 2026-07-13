@@ -10,13 +10,18 @@
 
 Each JSON API is implemented under `src/app/apis/public/{operation}`. Human-authored
 contract metadata in `docs/api/public-contracts.manual.json` is checked against runtime
-OpenAPI and produces `*.gen.*` interface artifacts. Generated files must not be edited.
+OpenAPI and produces the API index plus interface, sequence, detail-design, test-factor,
+and example documents for every operation. Generated `*.gen.*` files must not be edited.
 
 ```bash
 uv run --locked app-docs generate
 uv run --locked app-docs generate --check
 uv run --locked app-archlint
 ```
+
+From the repository root, `task docs:generate` regenerates all API documentation and
+`task docs:check` performs a no-write drift check. The generated entry point is
+`backend/docs/api/public-contracts.gen.md`.
 
 ## Run
 

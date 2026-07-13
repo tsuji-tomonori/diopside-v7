@@ -59,6 +59,16 @@ tasks:
     cmds:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
 
+  docs:generate:
+    desc: Generate the API index, OpenAPI, and all per-operation design documents.
+    cmds:
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-docs generate
+
+  docs:check:
+    desc: Check every generated API document without writing files.
+    cmds:
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-docs generate --check
+
   tags:migrate:preview:
     desc: Migrate received v2 tags into deterministic canonical v3 preview files.
     cmds:
