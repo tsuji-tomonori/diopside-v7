@@ -1,6 +1,6 @@
 # 単体テストのAAAコメント統一
 
-状態: in_progress
+状態: done
 
 ## 対象
 
@@ -27,7 +27,7 @@
 - [x] backend、frontend、infraのnarrow testが成功する。
 - [x] `task verify`、`task docs:check`、`git diff --check` が成功する。
 - [x] 実行結果と残余リスクを `reports/working` に記録する。
-- [ ] 検証済み変更を目的単位でcommitし、public GitHubへpushする。
+- [x] 検証済み変更を目的単位でcommitし、public GitHubへpushする。
 
 ## 非対象
 
