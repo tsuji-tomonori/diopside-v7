@@ -21,4 +21,9 @@
 - [x] generatorは決定的、atomic write、全outputのno-write drift checkを持つ。
 - [x] generator unit test、Ruff、Pyright、mypy、architecture lint、pytest、contract、`task verify`が成功する。
 - [x] 生成後に全output数、link、内容を目視／機械確認する。
-- [ ] report、commit、public GitHub pushを完了する。
+- [x] report、commit、public GitHub pushを完了する。
+
+## Commit evidence
+
+- implementation: `b240f4a`
+- verification evidence: `reports/working/20260713-1053-complete-api-doc-generation.md`

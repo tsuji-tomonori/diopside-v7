@@ -55,3 +55,8 @@ git diff --check: pass
 - 現行5 APIはDB、SQL、provider SDKを使わないため、SQL/ER/外部resource CRUD独立文書は生成せずdetailで非該当根拠を明記した。
 - 生成文書はmanual/runtime整合の証拠であり、外部approvalやproduction acceptanceの代替ではない。
 - deploy、bootstrap、destroy、production変更は実施していない。
+
+## Commit evidence
+
+- implementation: `b240f4a`
+- 本追記をverification evidence commitとして作成し、両commitを`origin/main`へpushする。
