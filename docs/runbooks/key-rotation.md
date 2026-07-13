@@ -1,4 +1,4 @@
-# Credential and HMAC key rotation
+# CredentialとHMAC keyのrotation
 
 1. 対象key、owner、利用job、最終利用、rotation reasonを確認する。
 2. 新versionをSecrets Manager等へ作成し、旧keyを上書きしない。

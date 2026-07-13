@@ -1,4 +1,4 @@
-# full implementation rebaseline / YouTube foundation
+# 全実装の基準再設定／YouTube基盤
 
 ## 指示
 
@@ -19,7 +19,7 @@
 - CORSをlocalhost/GET限定へ変更し、FastAPI routeをasync化。
 - YouTube Data API clientを追加。
   - `channels.list -> playlistItems.list -> videos.list`
-  - videos 50 ID batch、uploads page checkpoint
+  - 動画50 ID単位のbatch、uploads page checkpoint
   - commentThreadsと不足replyのcomments.list
   - liveChatMessages page取得
   - quota event、reason、status、latency、retryability記録
@@ -29,15 +29,15 @@
 
 ## 検証結果
 
-- frontend/infra `typecheck`: pass
-- frontend Vitest: 2 tests pass
-- infra Node test: 1 test pass
-- frontend/infra build: pass
-- backend Ruff: pass
-- backend Pyright strict: pass
-- backend Pytest: 7 tests pass、coverage 65%
-- canonical contract verifier: `ok: release 20260711-001 with 3 videos`
-- npm audit: 0 vulnerabilities
+- frontend／infra `typecheck`: 合格
+- frontend Vitest: 2件のtestが合格
+- infra Node test: 1件のtestが合格
+- frontend／infra build: 合格
+- backend Ruff: 合格
+- backend Pyright strict: 合格
+- backend Pytest: 7件のtestが合格、coverage 65%
+- 正規契約verifier: `ok: release 20260711-001 with 3 videos`
+- npm audit: 脆弱性0件
 
 ## 未対応・リスク
 

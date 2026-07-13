@@ -1,4 +1,4 @@
-# frontend browser E2E
+# frontend browser E2E検証
 
 ## 実施
 
@@ -12,9 +12,9 @@
 
 ## 検証
 
-- TypeScript typecheck: pass
-- Vitest: 11 tests pass
-- Playwright Chrome: 8 tests pass
+- TypeScript typecheck: 合格
+- Vitest: 11件のtestが合格
+- Playwright Chrome: 8件のtestが合格
 - desktop/mobile全route: console error 0
 - Vite production build: pass（直前変更前。集約検証で再実行対象）
 

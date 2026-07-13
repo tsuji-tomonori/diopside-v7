@@ -1,17 +1,17 @@
-# getReleaseVideoContract test factors (generated)
+# getReleaseVideoContract テスト観点(自動生成)
 
-| ID | Type | Input/condition | Expected |
+| ID | 種別 | 入力/条件 | 期待結果 |
 | --- | --- | --- | --- |
-| TF-001 | normal | Existing canonical artifact | 200 and response schema match |
-| TF-002 | missing-data | Artifact path does not exist | 404 without fallback data |
-| TF-003 | invalid-data | Stored JSON is malformed or violates its canonical model | 500 without private content exposure |
-| TF-004 | compatibility | Stable method/path/operationId are compared with manual contract | Generation fails on drift |
-| TF-005 | security | Public read without credentials | No authentication requirement or provider credential exposure |
-| TF-006 | boundary/validation | Invalid release_id, video_id path value | Declared 422 when framework validation applies; otherwise 404; traversal cannot escape contract root |
+| TF-001 | 正常 | 既存の正規成果物 | 200かつレスポンススキーマ一致 |
+| TF-002 | データ欠落 | 成果物パスが存在しない | 代替データなしで404 |
+| TF-003 | 不正データ | 保存済みJSONが不正または正規モデルに違反 | 非公開内容を露出せず500 |
+| TF-004 | 互換性 | 安定したメソッド、パス、操作IDを手動契約と比較 | 差異があれば生成失敗 |
+| TF-005 | セキュリティ | credentialなしの公開読み取り | 認証要件もプロバイダーcredential露出もない |
+| TF-006 | 境界/検証 | 不正なrelease_id, video_idパス値 | フレームワーク検証が適用される場合は宣言済み422、それ以外は404。契約ルート外へ移動できない |
 
-## Required assertions
+## 必須アサーション
 
-- Declared error statuses: 404, 422, 500.
-- Missing optional values remain missing; no fabricated zero, date, count, or metadata.
-- Repeated reads are byte/semantic stable for the same release artifact.
-- Generated interface and runtime OpenAPI have the same method, path, operation ID, and errors.
+- 宣言済みエラー状態: 404, 422, 500。
+- 任意値の欠落は欠落のまま維持し、架空の0、日付、件数、metadataを補わない。
+- 同じリリース成果物への反復読み取りはバイト列と意味の両方で安定する。
+- 生成インターフェースと実行時OpenAPIでメソッド、パス、操作ID、エラーが一致する。

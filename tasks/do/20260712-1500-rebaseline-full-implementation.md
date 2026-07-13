@@ -1,4 +1,4 @@
-# full implementation rebaseline
+# 全実装の基準再設定
 
 状態: in_progress
 

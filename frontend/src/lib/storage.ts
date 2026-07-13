@@ -395,7 +395,7 @@ function safeRead<T>(key: string, fallback: T): T {
     try {
       localStorage.removeItem(key);
     } catch {
-      // Storage may be entirely unavailable; fallback remains local and empty.
+      // ストレージ全体が利用不能な場合も、代替状態はローカルかつ空のまま保つ。
     }
     return fallback;
   }

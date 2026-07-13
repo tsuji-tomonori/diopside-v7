@@ -1,1 +1,1 @@
-"""Read release tag projections."""
+"""リリースのタグ投影を読み取る。"""

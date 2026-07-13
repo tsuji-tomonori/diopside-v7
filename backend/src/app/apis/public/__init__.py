@@ -1,1 +1,1 @@
-"""Public contract read operations."""
+"""公開契約の読み取り操作。"""

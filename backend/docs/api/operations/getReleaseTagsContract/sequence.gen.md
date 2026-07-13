@@ -1,34 +1,34 @@
-# getReleaseTagsContract sequence (generated)
+# getReleaseTagsContract シーケンス(自動生成)
 
 ```mermaid
 sequenceDiagram
-    actor Client
-    participant Router
-    participant Functions
-    participant Loader as Contract loader
-    participant Storage as Public contract directory
+    actor Client as クライアント
+    participant Router as ルーター
+    participant Functions as 関数
+    participant Loader as 契約ローダー
+    participant Storage as 公開契約ディレクトリ
     Client->>Router: GET /api/contracts/releases/{release_id}/tags
-    Router->>Router: Resolve typed contract directory dependency
+    Router->>Router: 型付き契約ディレクトリ依存を解決する
     Router->>Functions: read_tags_contract(...) 
     Functions->>Loader: contract_loader.read_taxonomy(...) 
-    Loader->>Storage: Read and parse canonical JSON
-    Storage-->>Loader: JSON bytes or missing file
-    Loader-->>Functions: Validated payload or classified HTTP error
+    Loader->>Storage: 正規JSONを読み込んで解析する
+    Storage-->>Loader: JSONバイト列またはファイルなし
+    Loader-->>Functions: 検証済みデータまたは分類済みHTTPエラー
     Functions->>Loader: contract_loader.read_tag_index(...) 
-    Loader->>Storage: Read and parse canonical JSON
-    Storage-->>Loader: JSON bytes or missing file
-    Loader-->>Functions: Validated payload or classified HTTP error
+    Loader->>Storage: 正規JSONを読み込んで解析する
+    Storage-->>Loader: JSONバイト列またはファイルなし
+    Loader-->>Functions: 検証済みデータまたは分類済みHTTPエラー
     Functions->>Loader: contract_loader.read_alias_index(...) 
-    Loader->>Storage: Read and parse canonical JSON
-    Storage-->>Loader: JSON bytes or missing file
-    Loader-->>Functions: Validated payload or classified HTTP error
-    Functions-->>Router: typed TagsContractResponse response
+    Loader->>Storage: 正規JSONを読み込んで解析する
+    Storage-->>Loader: JSONバイト列またはファイルなし
+    Loader-->>Functions: 検証済みデータまたは分類済みHTTPエラー
+    Functions-->>Router: 型付きTagsContractResponseレスポンス
     Router-->>Client: 200 JSON
 ```
 
-## Error sequence
+## エラーシーケンス
 
-- Missing artifact is classified as 404 by the contract loader.
-- Invalid stored JSON or a path/payload invariant failure is classified as 500.
-- Framework path validation is classified as 422 where applicable.
-- The router catches no broad exception; classified errors propagate through FastAPI.
+- 契約ローダーは成果物の欠落を404へ分類する。
+- 保存済みJSONの不正またはパス・データ不変条件の違反を500へ分類する。
+- フレームワークによるパス検証の失敗は、該当する場合に422へ分類する。
+- ルーターは広範な例外を捕捉せず、分類済みエラーをFastAPI経由で伝播する。

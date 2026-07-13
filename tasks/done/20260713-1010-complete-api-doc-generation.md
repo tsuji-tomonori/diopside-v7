@@ -1,4 +1,4 @@
-# Complete per-operation API documentation generation
+# 操作別APIドキュメント生成の完成
 
 状態: done
 
@@ -23,7 +23,7 @@
 - [x] 生成後に全output数、link、内容を目視／機械確認する。
 - [x] report、commit、public GitHub pushを完了する。
 
-## Commit evidence
+## Commit証拠
 
 - implementation: `b240f4a`
 - verification evidence: `reports/working/20260713-1053-complete-api-doc-generation.md`

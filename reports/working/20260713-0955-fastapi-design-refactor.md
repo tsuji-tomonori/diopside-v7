@@ -1,4 +1,4 @@
-# FastAPI design-driven refactor report
+# FastAPI設計駆動refactorレポート
 
 ## 指示と対象要件
 
@@ -25,22 +25,22 @@
 ## 実行結果
 
 ```text
-bootstrap_fastapi_project.py ... --dry-run: pass（39候補、既存5件preserve）
-uv lock --check: pass
-uv run --locked ruff format --check src tests: pass（75 files）
-uv run --locked ruff check src tests: fail（import/line length）-> format/line修正 -> pass
-uv run --locked pyright: fail（sample型）-> 型注釈追加 -> pass
-uv run --locked mypy src tests: fail（stub/JSON/live-chat/export）-> 型・依存修正 -> pass
-uv run --locked app-archlint: pass
-uv run --locked app-docs generate: pass
-uv run --locked app-docs generate --check: pass
-uv run --locked pytest: pass（61 tests、branch coverage 66%）
-uv run --locked python -m app.scripts.verify_contract: pass（release 20260711-001、3 videos）
-task verify: pass（frontend typecheck/13 unit tests/build、infra typecheck/4 tests/build/synth、backend全gate、cost/quota、Playwright desktop/mobile 10 tests）
-git diff --check: pass
+bootstrap_fastapi_project.py ... --dry-run: 合格（39候補、既存5件を保持）
+uv lock --check: 合格
+uv run --locked ruff format --check src tests: 合格（75ファイル）
+uv run --locked ruff check src tests: 失敗（インポート・行長）→ 整形・行修正 → 合格
+uv run --locked pyright: 失敗（サンプル型）→ 型注釈追加 → 合格
+uv run --locked mypy src tests: 失敗（スタブ・JSON・ライブチャット・エクスポート）→ 型・依存修正 → 合格
+uv run --locked app-archlint: 合格
+uv run --locked app-docs generate: 合格
+uv run --locked app-docs generate --check: 合格
+uv run --locked pytest: 合格（61件、分岐カバレッジ66%）
+uv run --locked python -m app.scripts.verify_contract: 合格（release 20260711-001、3動画）
+task verify: 合格（frontend型検査・単体13件・build、infra型検査・4件・build・synth、backend全ゲート、cost・quota、Playwright desktop・mobile 10件）
+git diff --check: 合格
 ```
 
-## Fit、未対応、外部gate
+## 適合性、未対応、外部ゲート
 
 - 本taskのローカル実装・生成・検証条件は満たした。生成物は反復生成後もdriftなし。
 - GATE-001〜005等の外部approval、production credential、deploy/read-backは対象外かつ未合格のままであり、本変更は合格を主張しない。

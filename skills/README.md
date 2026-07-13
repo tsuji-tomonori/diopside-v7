@@ -1,4 +1,4 @@
-# Local Skills
+# ローカルskill
 
 rag-assistの運用規約から、GPT-5.6 `/goal`と重複しない実作業skillだけを移植する。
 

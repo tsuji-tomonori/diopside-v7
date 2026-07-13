@@ -3,7 +3,7 @@ name: no-mock-product-ui
 description: production UI/APIへ架空値、demo fallback、未実装操作を混入させない。
 ---
 
-# No Mock Product UI
+# 製品UIのモック禁止
 
 - 表示値はcontract、props、永続状態、設定、または明示的loading/empty/error/unavailableに由来させる。
 - 欠落count、duration、date、metadataを0や架空値で埋めない。

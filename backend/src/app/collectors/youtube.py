@@ -163,7 +163,7 @@ class YouTubeDataClient:
         return items[0] if items else None
 
     def discover_channel(self, query: str, max_results: int = 5) -> list[dict[str, Any]]:
-        """Explicit discovery only; normal channel polling must not call search.list."""
+        """明示的な発見処理専用とし、通常のチャンネル巡回では `search.list` を呼ばない。"""
         payload = self._request(
             "search",
             "search.list",

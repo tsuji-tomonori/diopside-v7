@@ -1,10 +1,10 @@
-# Deletion and CDN purge
+# 削除とCDN purge
 
-## Trigger
+## 起動条件
 
 source削除/非公開、30日refresh不能、policy/permission失効、privacy deletion、retention期限。
 
-## Procedure
+## 手順
 
 1. target identity、source、理由、期限、actorをdeletion eventへ固定する。
 2. publicから除外する`compliance_purge` candidateをbase latestから減算生成する。

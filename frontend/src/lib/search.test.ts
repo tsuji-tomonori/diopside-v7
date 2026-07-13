@@ -3,8 +3,9 @@ import { describe, expect, it } from 'vitest';
 import { buildSearchParams, parseSearchParamsWithReport } from './search';
 
 
-describe('search query canonicalization', () => {
-  it('normalizes duplicate tags and invalid boundaries', () => {
+describe('検索queryの正規化', () => {
+  // 重複タグと不正な境界値を正規化することを検証する。
+  it('重複タグと不正な境界値を正規化する', () => {
     const parsed = parseSearchParamsWithReport(
       new URLSearchParams('tag=z&tag=a&tag=a&lmin=-1&sort=unknown'),
     );
@@ -15,7 +16,8 @@ describe('search query canonicalization', () => {
     expect(parsed.normalized).toBe(true);
   });
 
-  it('builds stable repeated tag parameters', () => {
+  // 複数タグから安定した反復parameterを生成することを検証する。
+  it('安定した反復タグparameterを生成する', () => {
     const query = buildSearchParams({
       q: '歌枠',
       tags: ['z', 'a'],

@@ -5,9 +5,9 @@ CONTRACT = OperationContract(
     "public/get-release-contract",
     "public",
     (),
-    "Read one canonical release index.",
+    "正規リリースインデックスを1件取得する。",
     (404, 422, 500),
-    "safe read",
+    "安全な読み取り",
     "none",
-    "reads the configured public contract directory",
+    "設定済み公開契約ディレクトリを読み取る",
 )

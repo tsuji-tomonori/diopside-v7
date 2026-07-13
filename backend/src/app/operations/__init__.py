@@ -1,1 +1,1 @@
-"""Private control-plane policies."""
+"""非公開コントロールプレーンのポリシー。"""

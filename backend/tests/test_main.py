@@ -8,6 +8,7 @@ from app.main import app
 
 @pytest.mark.anyio
 async def test_health() -> None:
+    """health endpointが準備完了を返すことを検証する。"""
     async with httpx.AsyncClient(
         transport=httpx.ASGITransport(app=app), base_url="http://test"
     ) as client:
@@ -18,6 +19,7 @@ async def test_health() -> None:
 
 @pytest.mark.anyio
 async def test_latest_contract() -> None:
+    """latest契約endpointが有効なrelease IDを返すことを検証する。"""
     async with httpx.AsyncClient(
         transport=httpx.ASGITransport(app=app), base_url="http://test"
     ) as client:

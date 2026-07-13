@@ -17,7 +17,7 @@ class OperationContract:
 
 
 ERROR_RESPONSES: dict[int, dict[str, str]] = {
-    404: {"description": "The requested canonical contract artifact was not found."},
-    422: {"description": "A path parameter failed validation."},
-    500: {"description": "The stored canonical contract is invalid or inconsistent."},
+    404: {"description": "要求された正規契約成果物が見つからない。"},
+    422: {"description": "パスパラメーターの検証に失敗した。"},
+    500: {"description": "保存済みの正規契約が不正または不整合である。"},
 }

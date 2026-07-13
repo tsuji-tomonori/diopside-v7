@@ -55,6 +55,7 @@ def required_tags() -> list[dict[str, str]]:
 
 
 def test_stable_id_is_axis_aware_and_normalized() -> None:
+    """安定IDが軸を区別し、正規化値から生成されることを検証する。"""
     assert normalize_match(" \uff03Minecraft  ") == "minecraft"
     assert stable_tag_id("works", "gameTitle", "Minecraft") == stable_tag_id(
         "works", "gameTitle", "\uff2d\uff49\uff4e\uff45\uff43\uff52\uff41\uff46\uff54"
@@ -65,6 +66,7 @@ def test_stable_id_is_axis_aware_and_normalized() -> None:
 
 
 def test_alias_is_canonicalized_before_id_assignment() -> None:
+    """別名をID付与前に正規化することを検証する。"""
     snapshot = migrate([*required_tags(), assignment("works", "gameTitle", "マイクラ")])
     definitions = snapshot["tagDefinitions"]
     assert isinstance(definitions, list)
@@ -73,17 +75,20 @@ def test_alias_is_canonicalized_before_id_assignment() -> None:
 
 
 def test_missing_singleton_is_rejected() -> None:
+    """必須singletonタグの欠落を拒否することを検証する。"""
     with pytest.raises(TaggingError, match=r"format\.media"):
         tags = required_tags()
         migrate([tags[0], tags[2]])
 
 
 def test_review_placeholder_is_rejected() -> None:
+    """レビュー用placeholderを公開タグとして拒否することを検証する。"""
     with pytest.raises(TaggingError, match="blocked assignment"):
         migrate([*required_tags(), assignment("works", "gameTitle", "要確認")])
 
 
 def test_channel_identity_correction_unifies_performer_alias() -> None:
+    """チャンネル同一性補正が出演者の別名を統合することを検証する。"""
     snapshot = migrate_snapshots(
         [
             {
@@ -122,6 +127,7 @@ def test_channel_identity_correction_unifies_performer_alias() -> None:
 
 
 def test_received_archive_source_is_rewritten_to_existing_file() -> None:
+    """受領archiveのsourceを実在ファイルへ書き換えることを検証する。"""
     tags = required_tags()
     tags[1]["source"] = "archive_index"
     snapshot = migrate(tags)
@@ -132,6 +138,7 @@ def test_received_archive_source_is_rewritten_to_existing_file() -> None:
 
 
 def test_migrate_snapshots_applies_evidence_backed_assignment_correction() -> None:
+    """snapshot移行で証拠に基づく割り当て補正を適用することを検証する。"""
     snapshot = {
         "videos": [
             {
@@ -215,6 +222,7 @@ def test_migrate_snapshots_applies_evidence_backed_assignment_correction() -> No
 
 
 def test_migrate_snapshots_replaces_and_quarantines_assignments() -> None:
+    """snapshot移行が割り当てを置換・隔離することを検証する。"""
     result = migrate_snapshots(
         [
             {

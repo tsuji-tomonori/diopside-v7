@@ -16,8 +16,9 @@ import {
 
 afterEach(() => vi.unstubAllGlobals());
 
-describe('contract loading', () => {
-  it('accepts the checked-in canonical fixture', () => {
+describe('契約の読み込み', () => {
+  // リポジトリに保存した正規fixtureが全schemaへ適合することを検証する。
+  it('保存済みの正規fixtureを受理する', () => {
     const publicRoot = path.resolve(process.cwd(), '../backend/data/public');
     const read = (relative: string): unknown => JSON.parse(readFileSync(path.join(publicRoot, relative), 'utf8'));
     expect(latestReleaseSchema.safeParse(read('latest.json')).error?.issues).toBeUndefined();
@@ -28,7 +29,8 @@ describe('contract loading', () => {
     expect(aliasSchema.safeParse(read('releases/20260711-001/tag-alias-index.json')).error?.issues).toBeUndefined();
     expect(videoDetailSchema.safeParse(read('releases/20260711-001/videos/rY4A7Lxk12Q.json')).error?.issues).toBeUndefined();
   });
-  it('distinguishes not found from valid empty data', async () => {
+  // データ欠落と有効な空データを区別することを検証する。
+  it('データ欠落と有効な空データを区別する', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response('{}', { status: 404 })));
     await expect(getJson('/missing', z.object({}).strict())).rejects.toMatchObject({ kind: 'not_found' });
 
@@ -36,17 +38,20 @@ describe('contract loading', () => {
     await expect(getJson('/empty', z.object({ items: z.array(z.string()) }).strict())).resolves.toEqual({ items: [] });
   });
 
-  it('rejects schema drift instead of returning typed invalid data', async () => {
+  // 不正データを型付き値として返さず、schema差異を拒否することを検証する。
+  it('不正データを返さずschema差異を拒否する', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response('{"count":"wrong"}', { status: 200 })));
     await expect(getJson('/schema', z.object({ count: z.number() }).strict())).rejects.toMatchObject({ kind: 'schema' });
   });
 
-  it('classifies server errors', async () => {
+  // サーバーエラーを専用種別へ分類することを検証する。
+  it('サーバーエラーを分類する', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(new Response('{}', { status: 503 })));
     await expect(getJson('/server', z.object({}))).rejects.toMatchObject({ kind: 'server', status: 503 });
   });
 
-  it('accepts a containment release without tag contracts', () => {
+  // タグ契約を持たない規約対応削除リリースを受理することを検証する。
+  it('タグ契約なしの規約対応削除リリースを受理する', () => {
     const publicRoot = path.resolve(process.cwd(), '../backend/data/public');
     const latest = JSON.parse(readFileSync(path.join(publicRoot, 'latest.json'), 'utf8'));
     latest.releaseMode = 'compliance_purge';

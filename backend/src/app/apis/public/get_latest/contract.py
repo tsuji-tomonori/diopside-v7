@@ -5,9 +5,9 @@ CONTRACT = OperationContract(
     documentation_slug="public/get-latest-contract",
     auth_mode="public",
     permissions=(),
-    summary="Read the active canonical release pointer.",
+    summary="有効な正規リリースポインターを取得する。",
     error_statuses=(404, 500),
-    idempotency="safe read",
+    idempotency="安全な読み取り",
     transaction="none",
-    external_effects="reads the configured public contract directory",
+    external_effects="設定済み公開契約ディレクトリを読み取る",
 )

@@ -1,10 +1,10 @@
-# Disaster restore
+# 災害復旧
 
-## Objective
+## 目的
 
 - RPO 24時間、RTO 4時間。
 
-## Procedure
+## 手順
 
 1. 隔離したnon-production account/regionを指定する。productionへ直接restoreしない。
 2. CDK synth/template hashとconfiguration backupを検証する。

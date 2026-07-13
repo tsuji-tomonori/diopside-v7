@@ -1,1 +1,1 @@
-"""Read a release search index."""
+"""リリースの検索インデックスを読み取る。"""

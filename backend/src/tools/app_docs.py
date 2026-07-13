@@ -70,6 +70,15 @@ def _runtime_openapi(operations: list[dict[str, Any]]) -> dict[str, Any]:
                 f"manual/runtime error mismatch for {operation['operationId']}: "
                 f"expected={expected_errors}, observed={observed_errors}"
             )
+    for path_value in paths.values():
+        path_item = cast(dict[str, Any], path_value)
+        for operation_value in path_item.values():
+            operation_schema = cast(dict[str, Any], operation_value)
+            responses = cast(dict[str, Any], operation_schema.get("responses", {}))
+            for response_value in responses.values():
+                response = cast(dict[str, Any], response_value)
+                if response.get("description") == "Successful Response":
+                    response["description"] = "成功レスポンス"
     return schema
 
 
@@ -121,7 +130,7 @@ def _loader_calls(operation: dict[str, Any]) -> list[str]:
 
 
 def _csv(values: object) -> str:
-    return ", ".join(str(value) for value in cast(list[object], values)) or "none"
+    return ", ".join(str(value) for value in cast(list[object], values)) or "なし"
 
 
 def _response_schema_name(operation_schema: dict[str, Any], status: int) -> str:
@@ -134,17 +143,18 @@ def _response_schema_name(operation_schema: dict[str, Any], status: int) -> str:
     if isinstance(reference, str):
         return reference.rsplit("/", maxsplit=1)[-1]
     schema_type = response_schema.get("type")
-    return str(schema_type) if schema_type is not None else "untyped"
+    return str(schema_type) if schema_type is not None else "型なし"
 
 
 def render_inventory(operations: list[dict[str, Any]]) -> bytes:
-    """Render the API list and links to every per-operation document."""
+    """API一覧と操作別文書へのリンクを生成する。"""
     lines = [
-        "# Public API documentation index (generated)",
+        "# 公開APIドキュメント索引(自動生成)",
         "",
-        "> Generated from `public-contracts.manual.json` and runtime OpenAPI; do not edit.",
+        "> `public-contracts.manual.json` と実行時OpenAPIから自動生成しているため、"
+        "直接編集しないこと。",
         "",
-        "| Operation ID | Method | Path | Documents |",
+        "| 操作ID | メソッド | パス | 文書 |",
         "| --- | --- | --- | --- |",
     ]
     for operation in sorted(operations, key=lambda item: str(item["operationId"])):
@@ -158,13 +168,13 @@ def render_inventory(operations: list[dict[str, Any]]) -> bytes:
     lines.extend(
         [
             "",
-            "## Aggregate artifacts",
+            "## 集約成果物",
             "",
             "- [OpenAPI](openapi.gen.json)",
-            "- [Generation registry](generation-registry.gen.json)",
+            "- [生成レジストリ](generation-registry.gen.json)",
             "",
-            f"Operation count: {len(operations)}",
-            f"Per-operation document count: {len(operations) * len(DOCUMENT_KINDS)}",
+            f"操作数: {len(operations)}",
+            f"操作別文書数: {len(operations) * len(DOCUMENT_KINDS)}",
         ]
     )
     return ("\n".join(lines) + "\n").encode()
@@ -174,25 +184,25 @@ def render_interface(operation: dict[str, Any], operation_schema: dict[str, Any]
     parameters = cast(list[dict[str, Any]], operation_schema.get("parameters", []))
     responses = cast(dict[str, Any], operation_schema["responses"])
     lines = [
-        f"# {operation['operationId']} interface (generated)",
+        f"# {operation['operationId']} インターフェース(自動生成)",
         "",
-        f"- Method: `{operation['method']}`",
-        f"- Path: `{operation['path']}`",
-        f"- Summary: {operation['summary']}",
-        f"- Authentication: {operation['auth']}",
-        f"- Permissions: {_csv(operation['permissions'])}",
-        "- Security requirement: "
-        f"{'declared' if operation_schema.get('security') else 'none (public read)'}",
+        f"- メソッド: `{operation['method']}`",
+        f"- パス: `{operation['path']}`",
+        f"- 概要: {operation['summary']}",
+        f"- 認証: {operation['auth']}",
+        f"- 権限: {_csv(operation['permissions'])}",
+        "- セキュリティ要件: "
+        f"{'宣言あり' if operation_schema.get('security') else 'なし(公開読み取り)'}",
         "",
-        "## Parameters",
+        "## パラメーター",
         "",
-        "| Name | In | Required | Schema |",
+        "| 名前 | 場所 | 必須 | スキーマ |",
         "| --- | --- | --- | --- |",
     ]
     if parameters:
         for parameter in parameters:
             parameter_schema = cast(dict[str, Any], parameter.get("schema", {}))
-            schema_name = parameter_schema.get("type", parameter_schema.get("$ref", "unknown"))
+            schema_name = parameter_schema.get("type", parameter_schema.get("$ref", "不明"))
             lines.append(
                 f"| `{parameter['name']}` | {parameter['in']} | "
                 f"{str(parameter.get('required', False)).lower()} | `{schema_name}` |"
@@ -202,9 +212,9 @@ def render_interface(operation: dict[str, Any], operation_schema: dict[str, Any]
     lines.extend(
         [
             "",
-            "## Responses",
+            "## レスポンス",
             "",
-            "| Status | Description | Schema |",
+            "| 状態 | 説明 | スキーマ |",
             "| ---: | --- | --- |",
         ]
     )
@@ -213,16 +223,16 @@ def render_interface(operation: dict[str, Any], operation_schema: dict[str, Any]
         content = cast(dict[str, Any], response.get("content", {}))
         json_content = cast(dict[str, Any], content.get("application/json", {}))
         response_schema = cast(dict[str, Any], json_content.get("schema", {}))
-        schema_name = response_schema.get("$ref", response_schema.get("type", "none"))
+        schema_name = response_schema.get("$ref", response_schema.get("type", "なし"))
         lines.append(f"| {status} | {response['description']} | `{schema_name}` |")
     lines.extend(
         [
             "",
-            "## Traceability",
+            "## トレーサビリティ",
             "",
-            f"- Requirements: {_csv(operation['requirements'])}",
-            f"- Specifications: {_csv(operation['specifications'])}",
-            f"- Acceptance: {_csv(operation['acceptance'])}",
+            f"- 要件: {_csv(operation['requirements'])}",
+            f"- 仕様: {_csv(operation['specifications'])}",
+            f"- 受け入れ条件: {_csv(operation['acceptance'])}",
         ]
     )
     return ("\n".join(lines) + "\n").encode()
@@ -233,40 +243,40 @@ def render_sequence(operation: dict[str, Any], operation_schema: dict[str, Any])
     function_name = str(operation["function"])
     response_model = _response_schema_name(operation_schema, int(operation["success"]))
     lines = [
-        f"# {operation['operationId']} sequence (generated)",
+        f"# {operation['operationId']} シーケンス(自動生成)",
         "",
         "```mermaid",
         "sequenceDiagram",
-        "    actor Client",
-        "    participant Router",
-        "    participant Functions",
-        "    participant Loader as Contract loader",
-        "    participant Storage as Public contract directory",
+        "    actor Client as クライアント",
+        "    participant Router as ルーター",
+        "    participant Functions as 関数",
+        "    participant Loader as 契約ローダー",
+        "    participant Storage as 公開契約ディレクトリ",
         f"    Client->>Router: {operation['method']} {operation['path']}",
-        "    Router->>Router: Resolve typed contract directory dependency",
+        "    Router->>Router: 型付き契約ディレクトリ依存を解決する",
         f"    Router->>Functions: {function_name}(...) ",
     ]
     for loader_call in loader_calls:
         lines.extend(
             [
                 f"    Functions->>Loader: {loader_call}(...) ",
-                "    Loader->>Storage: Read and parse canonical JSON",
-                "    Storage-->>Loader: JSON bytes or missing file",
-                "    Loader-->>Functions: Validated payload or classified HTTP error",
+                "    Loader->>Storage: 正規JSONを読み込んで解析する",
+                "    Storage-->>Loader: JSONバイト列またはファイルなし",
+                "    Loader-->>Functions: 検証済みデータまたは分類済みHTTPエラー",
             ]
         )
     lines.extend(
         [
-            f"    Functions-->>Router: typed {response_model} response",
+            f"    Functions-->>Router: 型付き{response_model}レスポンス",
             f"    Router-->>Client: {operation['success']} JSON",
             "```",
             "",
-            "## Error sequence",
+            "## エラーシーケンス",
             "",
-            "- Missing artifact is classified as 404 by the contract loader.",
-            "- Invalid stored JSON or a path/payload invariant failure is classified as 500.",
-            "- Framework path validation is classified as 422 where applicable.",
-            "- The router catches no broad exception; classified errors propagate through FastAPI.",
+            "- 契約ローダーは成果物の欠落を404へ分類する。",
+            "- 保存済みJSONの不正またはパス・データ不変条件の違反を500へ分類する。",
+            "- フレームワークによるパス検証の失敗は、該当する場合に422へ分類する。",
+            "- ルーターは広範な例外を捕捉せず、分類済みエラーをFastAPI経由で伝播する。",
         ]
     )
     return ("\n".join(lines) + "\n").encode()
@@ -276,19 +286,19 @@ def render_detail_design(operation: dict[str, Any]) -> bytes:
     paths = _source_paths(operation)
     loader_calls = _loader_calls(operation)
     lines = [
-        f"# {operation['operationId']} detail design (generated)",
+        f"# {operation['operationId']} 詳細設計(自動生成)",
         "",
-        f"- Stable contract slug: `{operation['slug']}`",
-        f"- Business function: `{operation['function']}`",
-        f"- Authentication: {operation['auth']}",
-        f"- Permissions: {_csv(operation['permissions'])}",
-        f"- Idempotency: {operation['idempotency']}",
-        f"- Transaction boundary: {operation['transaction']}",
-        f"- External effects: {operation['externalEffects']}",
+        f"- 安定契約スラッグ: `{operation['slug']}`",
+        f"- ビジネス関数: `{operation['function']}`",
+        f"- 認証: {operation['auth']}",
+        f"- 権限: {_csv(operation['permissions'])}",
+        f"- 冪等性: {operation['idempotency']}",
+        f"- トランザクション境界: {operation['transaction']}",
+        f"- 外部影響: {operation['externalEffects']}",
         "",
-        "## Source ownership",
+        "## ソースの責務",
         "",
-        "| Concern | Source |",
+        "| 関心事 | ソース |",
         "| --- | --- |",
     ]
     for concern, path in paths.items():
@@ -296,20 +306,20 @@ def render_detail_design(operation: dict[str, Any]) -> bytes:
     lines.extend(
         [
             "",
-            "## Resource boundaries",
+            "## リソース境界",
             "",
-            f"- Contract-loader calls: {', '.join(f'`{call}`' for call in loader_calls)}",
-            "- Database/SQL: not applicable; this operation reads versioned filesystem artifacts.",
-            "- Provider SDK: not applicable; the operation layer imports no provider adapter.",
-            "- Mutation/rollback: not applicable; this is a safe read with no transaction.",
+            f"- 契約ローダー呼び出し: {', '.join(f'`{call}`' for call in loader_calls)}",
+            "- データベース/SQL: 非該当。この操作はバージョン付き"
+            "ファイルシステム成果物を読み取る。",
+            "- プロバイダーSDK: 非該当。操作層はプロバイダーアダプターをimportしない。",
+            "- 変更/切り戻し: 非該当。トランザクションを伴わない安全な読み取りである。",
             "",
-            "## Compatibility",
+            "## 互換性",
             "",
-            f"- Operation identity `{operation['operationId']}` and path "
-            f"`{operation['path']}` are stable.",
-            "- Response payload validation remains owned by canonical public contract models.",
-            "- Non-backward-compatible public schema changes require a major "
-            "schema/path migration.",
+            f"- 操作ID `{operation['operationId']}` とパス `{operation['path']}` は安定している。",
+            "- レスポンスデータの検証責務は正規公開契約モデルが持つ。",
+            "- 後方互換性のない公開スキーマ変更には、メジャースキーマまたは"
+            "パスの移行が必要である。",
         ]
     )
     return ("\n".join(lines) + "\n").encode()
@@ -318,37 +328,34 @@ def render_detail_design(operation: dict[str, Any]) -> bytes:
 def render_test_factors(operation: dict[str, Any]) -> bytes:
     path_parameters = re.findall(r"{([^}:]+)(?::[^}]+)?}", str(operation["path"]))
     lines = [
-        f"# {operation['operationId']} test factors (generated)",
+        f"# {operation['operationId']} テスト観点(自動生成)",
         "",
-        "| ID | Type | Input/condition | Expected |",
+        "| ID | 種別 | 入力/条件 | 期待結果 |",
         "| --- | --- | --- | --- |",
-        f"| TF-001 | normal | Existing canonical artifact | {operation['success']} "
-        "and response schema match |",
-        "| TF-002 | missing-data | Artifact path does not exist | 404 without fallback data |",
-        "| TF-003 | invalid-data | Stored JSON is malformed or violates its "
-        "canonical model | 500 without private content exposure |",
-        "| TF-004 | compatibility | Stable method/path/operationId are compared "
-        "with manual contract | Generation fails on drift |",
-        "| TF-005 | security | Public read without credentials | No authentication "
-        "requirement or provider credential exposure |",
+        f"| TF-001 | 正常 | 既存の正規成果物 | {operation['success']}かつレスポンススキーマ一致 |",
+        "| TF-002 | データ欠落 | 成果物パスが存在しない | 代替データなしで404 |",
+        "| TF-003 | 不正データ | 保存済みJSONが不正または正規モデルに違反 | "
+        "非公開内容を露出せず500 |",
+        "| TF-004 | 互換性 | 安定したメソッド、パス、操作IDを手動契約と比較 | "
+        "差異があれば生成失敗 |",
+        "| TF-005 | セキュリティ | credentialなしの公開読み取り | "
+        "認証要件もプロバイダーcredential露出もない |",
     ]
     if path_parameters:
         lines.append(
-            f"| TF-006 | boundary/validation | Invalid {', '.join(path_parameters)} path value | "
-            "Declared 422 when framework validation applies; otherwise 404; "
-            "traversal cannot escape contract root |"
+            f"| TF-006 | 境界/検証 | 不正な{', '.join(path_parameters)}パス値 | "
+            "フレームワーク検証が適用される場合は宣言済み422、それ以外は404。"
+            "契約ルート外へ移動できない |"
         )
     lines.extend(
         [
             "",
-            "## Required assertions",
+            "## 必須アサーション",
             "",
-            f"- Declared error statuses: {_csv(operation['errors'])}.",
-            "- Missing optional values remain missing; no fabricated zero, date, "
-            "count, or metadata.",
-            "- Repeated reads are byte/semantic stable for the same release artifact.",
-            "- Generated interface and runtime OpenAPI have the same method, path, "
-            "operation ID, and errors.",
+            f"- 宣言済みエラー状態: {_csv(operation['errors'])}。",
+            "- 任意値の欠落は欠落のまま維持し、架空の0、日付、件数、metadataを補わない。",
+            "- 同じリリース成果物への反復読み取りはバイト列と意味の両方で安定する。",
+            "- 生成インターフェースと実行時OpenAPIでメソッド、パス、操作ID、エラーが一致する。",
         ]
     )
     return ("\n".join(lines) + "\n").encode()
@@ -357,18 +364,17 @@ def render_test_factors(operation: dict[str, Any]) -> bytes:
 def render_examples(operation: dict[str, Any]) -> bytes:
     sample = _sample(operation)
     lines = [
-        f"# {operation['operationId']} examples (generated)",
+        f"# {operation['operationId']} 例(自動生成)",
         "",
-        f"Source: `src/{str(operation['module']).replace('.', '/')}/samples.py`",
+        f"生成元: `src/{str(operation['module']).replace('.', '/')}/samples.py`",
         "",
-        "## Success response",
+        "## 成功レスポンス",
         "",
         "```json",
         json.dumps(sample, ensure_ascii=False, indent=2, sort_keys=True),
         "```",
         "",
-        "Error payloads use FastAPI's classified HTTP error response; no demo "
-        "fallback is generated.",
+        "エラーデータにはFastAPIの分類済みHTTPエラーレスポンスを使用し、デモ用の代替データは生成しない。",
     ]
     return ("\n".join(lines) + "\n").encode()
 
@@ -391,7 +397,7 @@ def _render_operation_documents(
 
 
 def build_outputs() -> dict[Path, bytes]:
-    """Build every deterministic output in dependency order without writing."""
+    """決定的な全出力を依存順に、書き込まず構築する。"""
     document = _manual_document()
     operations = _manual_operations(document)
     openapi = _runtime_openapi(operations)
@@ -437,15 +443,15 @@ def generate(*, check: bool) -> None:
     )
     if check:
         if stale:
-            raise SystemExit(f"generated documentation is stale: {', '.join(stale)}")
-        print(f"documentation is current: {len(outputs)} files")
+            raise SystemExit(f"生成ドキュメントが古い: {', '.join(stale)}")
+        print(f"ドキュメントは最新: {len(outputs)}ファイル")
         return
     for path, intended in sorted(outputs.items(), key=lambda item: str(item[0])):
         path.parent.mkdir(parents=True, exist_ok=True)
         temporary = path.with_suffix(path.suffix + ".tmp")
         temporary.write_bytes(intended)
         temporary.replace(path)
-    print(f"documentation generated: {len(outputs)} files")
+    print(f"ドキュメントを生成: {len(outputs)}ファイル")
 
 
 def main() -> None:

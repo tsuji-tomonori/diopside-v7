@@ -29,7 +29,7 @@ class JobStatus(StrEnum):
 
 
 class PolicyStopped(RuntimeError):
-    """Expected operational stop that must not be retried or sent to the DLQ."""
+    """再試行もDLQ送信も行わない、想定内の運用停止。"""
 
 
 def canonical_job_key(job_type: str, target_id: str, input_version: str) -> str:

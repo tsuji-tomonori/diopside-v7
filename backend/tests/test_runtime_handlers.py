@@ -28,6 +28,7 @@ class FakeQueue:
 
 
 def test_enqueue_job_persists_before_sending() -> None:
+    """ジョブが送信前に永続化されることを検証する。"""
     table = FakeTable()
     queue = FakeQueue()
     result = enqueue_job(
@@ -41,6 +42,7 @@ def test_enqueue_job_persists_before_sending() -> None:
 
 
 def test_scheduled_input_version_is_time_bucketed() -> None:
+    """定期実行入力のversionが時間枠単位になることを検証する。"""
     table = FakeTable()
     queue = FakeQueue()
     enqueue_job(
@@ -60,6 +62,7 @@ def test_scheduled_input_version_is_time_bucketed() -> None:
 
 
 def test_processor_returns_partial_batch_failures(monkeypatch: Any) -> None:
+    """processorが部分的なbatch失敗を返すことを検証する。"""
     table = FakeTable()
     monkeypatch.setenv("CONTROL_TABLE", "table")
 
@@ -82,6 +85,7 @@ def test_processor_returns_partial_batch_failures(monkeypatch: Any) -> None:
 
 
 def test_process_records_marks_success_and_retryable_failure() -> None:
+    """レコード処理が成功と再試行可能失敗を記録することを検証する。"""
     table = FakeTable()
 
     def execute(job: dict[str, Any]) -> dict[str, Any]:
@@ -105,6 +109,7 @@ def test_process_records_marks_success_and_retryable_failure() -> None:
 
 
 def test_process_records_does_not_retry_permanent_failure() -> None:
+    """永続的失敗を再試行しないことを検証する。"""
     table = FakeTable()
 
     def execute(_job: dict[str, Any]) -> None:
@@ -118,6 +123,7 @@ def test_process_records_does_not_retry_permanent_failure() -> None:
 
 
 def test_process_records_schedules_bounded_retry() -> None:
+    """上限付き再試行を予定することを検証する。"""
     table = FakeTable()
     retry = FakeQueue()
     dead_letter = FakeQueue()
@@ -147,6 +153,7 @@ def test_process_records_schedules_bounded_retry() -> None:
 
 
 def test_process_records_sends_exhausted_attempt_to_dlq() -> None:
+    """再試行上限に達したレコードをDLQへ送ることを検証する。"""
     table = FakeTable()
     retry = FakeQueue()
     dead_letter = FakeQueue()
@@ -174,6 +181,7 @@ def test_process_records_sends_exhausted_attempt_to_dlq() -> None:
 
 
 def test_policy_stop_is_cancelled_without_retry_or_dlq() -> None:
+    """ポリシー停止を再試行やDLQ送信なしで取消扱いにすることを検証する。"""
     table = FakeTable()
     retry = FakeQueue()
     dead_letter = FakeQueue()

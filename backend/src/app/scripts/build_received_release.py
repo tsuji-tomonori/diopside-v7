@@ -113,9 +113,7 @@ def _public_aliases(aliases: dict[str, Any], corrections: dict[str, Any]) -> dic
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(
-        description="Build a canonical candidate from the received tag evidence"
-    )
+    parser = argparse.ArgumentParser(description="受領タグ証拠から正規候補を構築する")
     parser.add_argument("--tags-zip", type=Path, required=True)
     parser.add_argument("--corrections", type=Path, required=True)
     parser.add_argument("--usage-decisions", type=Path, required=True)

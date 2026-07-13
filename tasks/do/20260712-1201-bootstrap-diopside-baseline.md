@@ -1,4 +1,4 @@
-# diopside baseline implementation bootstrap
+# diopside基準実装の初期構築
 
 状態: in_progress
 

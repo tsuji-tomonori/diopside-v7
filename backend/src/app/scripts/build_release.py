@@ -16,7 +16,7 @@ def _object(path: Path) -> dict[str, Any]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Build a canonical normal release candidate")
+    parser = argparse.ArgumentParser(description="正規の通常release候補を構築する")
     parser.add_argument("--metadata", type=Path, required=True)
     parser.add_argument("--tags", type=Path, required=True)
     parser.add_argument("--taxonomy", type=Path, required=True)

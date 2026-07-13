@@ -6,5 +6,5 @@ from .schemas import LatestContractResponse
 
 
 def read_latest_contract(contract_dir: Path) -> LatestContractResponse:
-    """Read and validate the active release pointer."""
+    """有効なリリースポインターを読み取り、検証する。"""
     return LatestContractResponse(contract_loader.read_latest(contract_dir))

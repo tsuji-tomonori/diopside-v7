@@ -24,7 +24,7 @@ JobExecutor = Callable[[dict[str, Any]], dict[str, Any] | None]
 
 
 class PermanentJobError(ValueError):
-    """A malformed or unsupported job that must not be retried by SQS."""
+    """SQSで再試行しない、不正または未対応のジョブ。"""
 
 
 class RuntimeRandom:
@@ -156,11 +156,11 @@ def process_records(
 
 
 def dispatch_job(job: dict[str, Any]) -> dict[str, Any]:
-    """Dispatch a runtime job to its configured domain handler.
+    """実行時ジョブを設定済みドメインハンドラーへ振り分ける。
 
-    Domain handlers are supplied as ``module:function`` environment values. This keeps
-    orchestration independent from collection/processing implementations and makes a
-    missing production binding a permanent, observable configuration failure.
+    ドメインハンドラーは ``module:function`` 形式の環境変数で指定する。これにより
+    オーケストレーションを収集・処理実装から分離し、production用bindingの欠落を
+    永続的かつ観測可能な設定エラーとして扱う。
     """
     job_type = job.get("jobType")
     if not isinstance(job_type, str) or job_type not in {item.value for item in JobType}:

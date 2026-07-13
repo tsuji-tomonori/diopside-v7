@@ -1,8 +1,8 @@
-# getReleaseTagsContract examples (generated)
+# getReleaseTagsContract 例(自動生成)
 
-Source: `src/app/apis/public/get_tags/samples.py`
+生成元: `src/app/apis/public/get_tags/samples.py`
 
-## Success response
+## 成功レスポンス
 
 ```json
 {
@@ -24,4 +24,4 @@ Source: `src/app/apis/public/get_tags/samples.py`
 }
 ```
 
-Error payloads use FastAPI's classified HTTP error response; no demo fallback is generated.
+エラーデータにはFastAPIの分類済みHTTPエラーレスポンスを使用し、デモ用の代替データは生成しない。

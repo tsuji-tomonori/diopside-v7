@@ -1,4 +1,4 @@
-# processing pipeline
+# 処理pipeline
 
 ## 実施
 
@@ -14,9 +14,9 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 19 tests pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 19件のtestが合格
 - Coverage: 73%
 
 ## 未対応

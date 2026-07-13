@@ -1,4 +1,4 @@
-# operations policy
+# 運用policy
 
 ## 実施
 
@@ -12,9 +12,9 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 30 tests pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 30件のtestが合格
 - Coverage: 75%
 
 ## 未対応

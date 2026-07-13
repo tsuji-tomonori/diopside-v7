@@ -1,4 +1,4 @@
-# Repository Agents
+# リポジトリエージェント
 
 正本はrepository rootの`AGENTS.md`。本ファイルは互換entry pointとする。
 
@@ -11,7 +11,7 @@
   4. 検証記録
   5. `reports/working` への完了報告
 
-# Local constraints
+# ローカル制約
 
 - 外部デプロイや本番変更は行わない。
 - 破壊的変更は事前確認を必要とする。

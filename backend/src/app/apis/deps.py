@@ -7,7 +7,7 @@ from app.core.config import get_settings
 
 
 def get_contract_directory() -> Path:
-    """Return the configured canonical public contract directory."""
+    """設定済みの正規公開契約ディレクトリを返す。"""
     return get_settings().contract_dir
 
 

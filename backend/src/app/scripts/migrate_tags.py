@@ -25,7 +25,7 @@ def _write(path: Path, value: dict[str, Any]) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Migrate received v2 tags to canonical v3 tagIds")
+    parser = argparse.ArgumentParser(description="受領v2タグを正規v3 tagIdへ移行する")
     parser.add_argument("--tags-zip", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--public-index", type=Path)

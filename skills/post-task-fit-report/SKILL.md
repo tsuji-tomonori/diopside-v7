@@ -3,7 +3,7 @@ name: post-task-fit-report
 description: 実作業ごとに指示、判断、成果、検証、fit、未対応をreports/workingへ記録する。
 ---
 
-# Post Task Fit Report
+# 作業後の適合レポート
 
 原則`reports/working/YYYYMMDD-HHMM-<ascii-summary>.md`へ次を記録する。
 

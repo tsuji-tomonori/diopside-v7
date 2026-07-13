@@ -18,6 +18,7 @@ from app.operations.policy import (
 
 
 def test_canonical_job_key_is_byte_length_aware_and_stable() -> None:
+    """正規ジョブキーがバイト長を考慮し、安定することを検証する。"""
     assert canonical_job_key("normalize", "動画", "v1") == canonical_job_key(
         "normalize", "動画", "v1"
     )
@@ -27,6 +28,8 @@ def test_canonical_job_key_is_byte_length_aware_and_stable() -> None:
 
 
 def test_retry_policy_has_three_bounded_retries() -> None:
+    """再試行ポリシーが上限付き3回の再試行を行うことを検証する。"""
+
     class FixedRandom:
         def __init__(self, ratio: float) -> None:
             self.ratio = ratio
@@ -45,11 +48,13 @@ def test_retry_policy_has_three_bounded_retries() -> None:
 
 
 def test_live_reservation_uses_at_least_eight_hours() -> None:
+    """ライブ収集予約が最低8時間分を確保することを検証する。"""
     assert live_chat_reservation_units(10_000, timedelta(hours=1)) == 14_405
     assert live_chat_reservation_units(10_000, timedelta(hours=10)) == 18_005
 
 
 def test_quota_protects_compliance_and_live_work() -> None:
+    """quota制御が規約対応処理とライブ処理を保護することを検証する。"""
     budget = QuotaBudget(daily_limit=10_000, used=9_500)
     assert quota_action("comment_full_refresh", budget, 1) == QuotaAction.STOP
     assert quota_action("live_chat_collect", budget, 1) == QuotaAction.WARN
@@ -67,6 +72,7 @@ def test_quota_protects_compliance_and_live_work() -> None:
     ],
 )
 def test_retention_boundaries(data_class: DataClass, days: int) -> None:
+    """データ分類ごとの保持期限境界を検証する。"""
     created = datetime(2026, 1, 1, tzinfo=UTC)
     deadline = retention_deadline(data_class, created)
     assert not must_delete(deadline, created + timedelta(days=days, seconds=-1))
@@ -75,6 +81,7 @@ def test_retention_boundaries(data_class: DataClass, days: int) -> None:
 
 
 def test_shorter_permission_or_gate_deadline_wins() -> None:
+    """permissionまたはgateの短い期限を優先することを検証する。"""
     created = datetime(2026, 1, 1, tzinfo=UTC)
     explicit = created + timedelta(days=20)
     gate = created + timedelta(days=10)
@@ -85,6 +92,7 @@ def test_shorter_permission_or_gate_deadline_wins() -> None:
 
 
 def test_deletion_event_requires_every_layer_and_cdn() -> None:
+    """削除イベントに全レイヤーとCDN指定が必須であることを検証する。"""
     with pytest.raises(ValueError, match="layers"):
         DeletionEvent("author", ("raw",), ("/*",), "operator", "now", "request")
     with pytest.raises(ValueError, match="CDN"):

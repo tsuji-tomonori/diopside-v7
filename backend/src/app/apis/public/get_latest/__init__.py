@@ -1,1 +1,1 @@
-"""Read the active release pointer."""
+"""有効なリリースポインターを読み取る。"""

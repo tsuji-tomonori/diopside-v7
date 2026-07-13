@@ -1,4 +1,4 @@
-# CDK infrastructure
+# CDK infrastructure実装
 
 ## 実施
 
@@ -14,15 +14,15 @@
 
 ## 検証
 
-- TypeScript strict typecheck: pass
-- CDK assertion tests: 4 assertions pass
-- `cdk synth`: pass
-- cdk-nag: error/warning 0 after evidence-backed static-site suppressions
-- npm audit: vulnerabilities 0
+- TypeScript strict typecheck: 合格
+- CDK assertion test: 4件のassertionが合格
+- `cdk synth`: 合格
+- cdk-nag: 証拠に基づく静的site抑制後のerror／warning 0件
+- npm audit: 脆弱性0件
 - deploy/bootstrap: 未実行（指示どおり）
 
 ## 未対応
 
 - inline worker placeholderをbackend artifact bundleへ接続。
-- CloudWatch alarms、Budgets、operational dashboard。
+- CloudWatch alarm、Budgets、運用dashboard。
 - API keyをSecrets Managerから取得するcollector runtime adapter。

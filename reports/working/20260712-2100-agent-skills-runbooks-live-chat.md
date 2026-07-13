@@ -1,4 +1,4 @@
-# agent skills, runbooks, live chat
+# agent skill、runbook、live chatの実装
 
 ## 実施
 
@@ -10,13 +10,13 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 32 tests pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 32件のtestが合格
 - Coverage: 77%
 - `git diff --check`: 集約commit前に実施
 
-## Fit
+## 適合性
 
 rag-assistの透明なtask/report/test disciplineを維持しつつ、GPT-5.6 `/goal`と重なるcompletion orchestrationは削減した。
 

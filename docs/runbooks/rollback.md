@@ -1,10 +1,10 @@
-# Public release rollback
+# 公開releaseのrollback
 
-## Trigger
+## 起動条件
 
 - latest取得失敗、schema/join/hash不整合、source/policy失効、重大UI回帰。
 
-## Procedure
+## 手順
 
 1. 新規exportを停止し、correlation IDとactive releaseIdを記録する。
 2. release catalogからpolicy-compliantな直前2版を確認する。削除・失効対象を含む版は除外する。
@@ -13,6 +13,6 @@
 5. 15分以内にhealth、latest、index、代表detailを確認する。
 6. 原因releaseをrollback候補から除外し、incident/reportへ記録する。
 
-## Local drill
+## ローカル訓練
 
 `backend/tests/test_atomic_publisher.py`のvalid A、invalid B、latest不変を実行する。production pointerは変更しない。

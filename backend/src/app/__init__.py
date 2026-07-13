@@ -1,1 +1,1 @@
-"""diopside backend package."""
+"""diopsideバックエンドパッケージ。"""

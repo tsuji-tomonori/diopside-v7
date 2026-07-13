@@ -1,1 +1,1 @@
-"""Deterministic canonical tagging pipeline."""
+"""決定的な正規タグ付けパイプライン。"""

@@ -1,4 +1,4 @@
-# Gate evidence expiry and replacement
+# Gate証拠の失効と置換
 
 1. GATE-001〜006 evidenceのscope、project/account、effectiveAt、expiresAt、ownerを日次確認する。
 2. 失効/不一致時はnormal生成・公開を停止する。

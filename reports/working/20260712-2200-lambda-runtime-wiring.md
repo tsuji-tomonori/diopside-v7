@@ -1,4 +1,4 @@
-# Lambda runtime wiring
+# Lambda runtimeの配線
 
 ## 実施
 
@@ -12,11 +12,11 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 34 tests pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 34件のtestが合格
 - Backend coverage: 76%
-- Infra typecheck/assertion/synth/cdk-nag: pass
+- Infra typecheck／assertion／synth／cdk-nag: 合格
 - deploy: 未実行
 
 ## 未対応

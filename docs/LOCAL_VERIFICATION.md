@@ -1,6 +1,6 @@
-# Local Verification (diopside-v7)
+# ローカル検証（diopside-v7）
 
-## Required commands
+## 必須コマンド
 
 - `task verify`
 - `cd backend && uv run python src/app/scripts/verify_contract.py`
@@ -9,10 +9,10 @@
 - `task dev:backend`
 - `task dev:frontend`
 
-## Acceptance evidence
+## 受け入れ証拠
 
-- Backend contract artifacts exist in:
+- backend契約成果物が次のpathに存在する。
   - `backend/data/public/latest.json`
   - `backend/data/public/releases/<releaseId>/`
-- Frontend route pages are implemented for `/`, `/search`, `/saved`, `/history`, `/videos/:id`.
-- Local state persistence keys include schema version.
+- frontend route pageとして `/`、`/search`、`/saved`、`/history`、`/videos/:id` が実装されている。
+- local stateの永続化keyにschema versionが含まれている。

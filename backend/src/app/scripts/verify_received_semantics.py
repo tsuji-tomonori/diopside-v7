@@ -35,7 +35,7 @@ def assignment_keys(videos: list[dict[str, Any]], field: str) -> set[tuple[str, 
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Verify received semantic review projections")
+    parser = argparse.ArgumentParser(description="受領した意味review投影を検証する")
     parser.add_argument("--tags-zip", type=Path, required=True)
     parser.add_argument("--report", type=Path, required=True)
     args = parser.parse_args()

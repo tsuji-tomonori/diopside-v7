@@ -11,7 +11,8 @@ function template(): Template {
   return Template.fromStack(new DiopsideStack(app, 'TestStack'));
 }
 
-test('uses serverless encrypted storage and queues', () => {
+// serverlessな暗号化storageとqueueだけを使用することを検証する。
+test('serverlessな暗号化storageとqueueを使用する', () => {
   const value = template();
   value.resourceCountIs('AWS::S3::Bucket', 5);
   value.resourceCountIs('AWS::DynamoDB::Table', 1);
@@ -30,7 +31,8 @@ test('uses serverless encrypted storage and queues', () => {
   });
 });
 
-test('separates runtime roles and schedules short batches', () => {
+// 実行roleを分離し、短時間batchを予定することを検証する。
+test('実行roleを分離して短時間batchを予定する', () => {
   const value = template();
   value.resourceCountIs('AWS::IAM::Role', 4);
   value.resourceCountIs('AWS::Lambda::Function', 3);
@@ -43,7 +45,8 @@ test('separates runtime roles and schedules short batches', () => {
   });
 });
 
-test('does not create fixed-cost network or database resources', () => {
+// 固定費のあるnetwork・database resourceを作成しないことを検証する。
+test('固定費のあるnetwork・database resourceを作成しない', () => {
   const resources = template().toJSON().Resources as Record<string, { Type: string }>;
   const forbidden = new Set([
     'AWS::EC2::NatGateway',
@@ -57,7 +60,8 @@ test('does not create fixed-cost network or database resources', () => {
   );
 });
 
-test('serves private S3 through CloudFront with security headers', () => {
+// 非公開S3をsecurity header付きCloudFront経由で配信することを検証する。
+test('非公開S3をsecurity header付きCloudFront経由で配信する', () => {
   const value = template();
   value.resourceCountIs('AWS::CloudFront::Distribution', 1);
   value.hasResourceProperties('AWS::CloudFront::ResponseHeadersPolicy', {

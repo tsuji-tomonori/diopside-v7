@@ -1,4 +1,4 @@
-# FastAPI design-driven refactor
+# FastAPIの設計駆動refactor
 
 状態: done
 
@@ -21,7 +21,7 @@
 - [x] 実行結果と未達gateを `reports/working` に記録する。
 - [x] 検証済み変更を目的単位でcommitしpublic GitHubへpushする。
 
-## Commit evidence
+## Commit証拠
 
 - implementation: `666c05a`
 - verification evidence: 本taskと `reports/working/20260713-0955-fastapi-design-refactor.md`

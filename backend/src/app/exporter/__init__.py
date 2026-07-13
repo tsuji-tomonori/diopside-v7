@@ -1,1 +1,1 @@
-"""Validated atomic public release exporter."""
+"""検証済み公開リリースの原子的エクスポーター。"""

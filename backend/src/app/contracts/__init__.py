@@ -1,1 +1,1 @@
-"""Versioned public contract models."""
+"""バージョン付き公開契約モデル。"""

@@ -1,16 +1,16 @@
-# getReleaseSearchContract detail design (generated)
+# getReleaseSearchContract 詳細設計(自動生成)
 
-- Stable contract slug: `public/get-release-search-contract`
-- Business function: `read_search_contract`
-- Authentication: public
-- Permissions: none
-- Idempotency: safe read
-- Transaction boundary: none
-- External effects: reads the configured public contract directory
+- 安定契約スラッグ: `public/get-release-search-contract`
+- ビジネス関数: `read_search_contract`
+- 認証: public
+- 権限: なし
+- 冪等性: 安全な読み取り
+- トランザクション境界: none
+- 外部影響: 設定済み公開契約ディレクトリを読み取る
 
-## Source ownership
+## ソースの責務
 
-| Concern | Source |
+| 関心事 | ソース |
 | --- | --- |
 | contract | `src/app/apis/public/get_search/contract.py` |
 | router | `src/app/apis/public/get_search/router.py` |
@@ -18,15 +18,15 @@
 | schemas | `src/app/apis/public/get_search/schemas.py` |
 | samples | `src/app/apis/public/get_search/samples.py` |
 
-## Resource boundaries
+## リソース境界
 
-- Contract-loader calls: `contract_loader.read_search_index`
-- Database/SQL: not applicable; this operation reads versioned filesystem artifacts.
-- Provider SDK: not applicable; the operation layer imports no provider adapter.
-- Mutation/rollback: not applicable; this is a safe read with no transaction.
+- 契約ローダー呼び出し: `contract_loader.read_search_index`
+- データベース/SQL: 非該当。この操作はバージョン付きファイルシステム成果物を読み取る。
+- プロバイダーSDK: 非該当。操作層はプロバイダーアダプターをimportしない。
+- 変更/切り戻し: 非該当。トランザクションを伴わない安全な読み取りである。
 
-## Compatibility
+## 互換性
 
-- Operation identity `getReleaseSearchContract` and path `/api/contracts/releases/{release_id}/search` are stable.
-- Response payload validation remains owned by canonical public contract models.
-- Non-backward-compatible public schema changes require a major schema/path migration.
+- 操作ID `getReleaseSearchContract` とパス `/api/contracts/releases/{release_id}/search` は安定している。
+- レスポンスデータの検証責務は正規公開契約モデルが持つ。
+- 後方互換性のない公開スキーマ変更には、メジャースキーマまたはパスの移行が必要である。

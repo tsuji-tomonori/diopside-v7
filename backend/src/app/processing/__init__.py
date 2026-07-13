@@ -1,1 +1,1 @@
-"""Normalization and aggregate processors."""
+"""正規化および集約処理。"""

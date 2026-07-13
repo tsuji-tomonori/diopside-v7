@@ -73,6 +73,7 @@ def candidate(root: Path, release_id: str, *, omit_detail: bool = False) -> Path
 
 
 def test_valid_release_switches_latest_atomically(tmp_path: Path) -> None:
+    """有効なリリースでlatestが原子的に切り替わることを検証する。"""
     public = tmp_path / "public"
     result = AtomicPublisher(public).publish(candidate(tmp_path / "candidates", "release-a"))
 
@@ -83,6 +84,7 @@ def test_valid_release_switches_latest_atomically(tmp_path: Path) -> None:
 
 
 def test_invalid_release_does_not_replace_latest(tmp_path: Path) -> None:
+    """不正なリリースが既存latestを置換しないことを検証する。"""
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-a"))
@@ -96,6 +98,7 @@ def test_invalid_release_does_not_replace_latest(tmp_path: Path) -> None:
 
 
 def test_release_with_private_field_is_rejected(tmp_path: Path) -> None:
+    """非公開フィールドを含むリリースが拒否されることを検証する。"""
     release = candidate(tmp_path / "candidates", "release-private")
     detail_path = release / "videos" / "video-1.json"
     detail = json.loads(detail_path.read_text(encoding="utf-8"))
@@ -107,6 +110,7 @@ def test_release_with_private_field_is_rejected(tmp_path: Path) -> None:
 
 
 def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
+    """安全でないSVGを含むリリースが拒否されることを検証する。"""
     release = candidate(tmp_path / "candidates", "release-svg")
     for relative in ("index.json", "search-index.json"):
         path = release / relative
@@ -129,6 +133,7 @@ def test_release_with_unsafe_svg_is_rejected(tmp_path: Path) -> None:
 
 
 def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path) -> None:
+    """規約対応削除が現行版を基準とし、タグを除去することを検証する。"""
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-base"))
@@ -160,6 +165,7 @@ def test_compliance_purge_requires_current_base_and_removes_tags(tmp_path: Path)
 
 
 def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Path) -> None:
+    """削除候補生成で対象動画と全派生データを除去することを検証する。"""
     public = tmp_path / "public"
     publisher = AtomicPublisher(public)
     publisher.publish(candidate(tmp_path / "candidates", "release-base"))
@@ -185,6 +191,7 @@ def test_purge_builder_removes_requested_video_and_all_derived_data(tmp_path: Pa
 
 
 def test_normal_builder_joins_metadata_and_stable_tag_ids(tmp_path: Path) -> None:
+    """通常候補生成でmetadataと安定タグIDを結合することを検証する。"""
     output = tmp_path / "candidate"
     result = NormalReleaseBuilder().build(
         output,

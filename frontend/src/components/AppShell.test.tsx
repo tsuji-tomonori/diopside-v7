@@ -5,8 +5,9 @@ import { describe, expect, it } from 'vitest';
 
 import { AppShell } from './AppShell';
 
-describe('AppShell accessibility', () => {
-  it('has landmarks, skip navigation, and no detectable structural violations', async () => {
+describe('AppShellのアクセシビリティ', () => {
+  // landmarkとskip navigationがあり、検出可能な構造違反がないことを検証する。
+  it('landmarkとskip navigationを備え、構造違反がない', async () => {
     const { container, getByRole, getByText } = render(
       <MemoryRouter initialEntries={['/search']}>
         <AppShell><h1>検索</h1></AppShell>

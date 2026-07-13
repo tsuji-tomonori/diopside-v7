@@ -1,4 +1,4 @@
-# frontend accessibility review
+# frontendアクセシビリティレビュー
 
 状態: todo
 

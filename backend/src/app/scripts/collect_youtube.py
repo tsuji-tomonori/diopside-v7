@@ -10,7 +10,7 @@ from app.core.config import get_settings
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Collect a YouTube channel uploads snapshot")
+    parser = argparse.ArgumentParser(description="YouTube channelのuploads snapshotを収集する")
     parser.add_argument("--channel-id", required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--checkpoint", type=Path, required=True)

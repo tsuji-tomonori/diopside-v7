@@ -55,6 +55,7 @@ def _snapshot() -> dict[str, Any]:
 
 
 def test_snapshot_schema_accepts_migration_output_and_rejects_invalid_fixture() -> None:
+    """snapshot schemaが移行出力を受理し、不正fixtureを拒否することを検証する。"""
     snapshot = _snapshot()
     validate_tag_document(snapshot, "snapshot")
 
@@ -65,6 +66,7 @@ def test_snapshot_schema_accepts_migration_output_and_rejects_invalid_fixture() 
 
 
 def test_correction_schema_accepts_ledger_and_rejects_unknown_operation() -> None:
+    """補正schemaがledgerを受理し、未知の操作を拒否することを検証する。"""
     path = Path(__file__).resolve().parents[1] / "data" / "tag-corrections-v3.json"
     ledger = json.loads(path.read_text(encoding="utf-8"))
     validate_tag_document(ledger, "correction")
@@ -76,11 +78,13 @@ def test_correction_schema_accepts_ledger_and_rejects_unknown_operation() -> Non
 
 
 def test_schema_resolver_rejects_unknown_version() -> None:
+    """schema解決処理が未知のversionを拒否することを検証する。"""
     with pytest.raises(TagSchemaError, match="unsupported snapshot schemaVersion"):
         validate_tag_document({"schemaVersion": "4.0.0"}, "snapshot")
 
 
 def test_usage_decision_schema_requires_default_exclusion_and_valid_gates() -> None:
+    """利用判断schemaが既定除外と有効なgateを要求することを検証する。"""
     path = Path(__file__).resolve().parents[1] / "data" / "usage-decisions-v1.json"
     ledger = json.loads(path.read_text(encoding="utf-8"))
     validate_tag_document(ledger, "usage")

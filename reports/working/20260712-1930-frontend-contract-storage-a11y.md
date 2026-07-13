@@ -1,4 +1,4 @@
-# frontend contract, storage, accessibility
+# frontend契約、storage、アクセシビリティ
 
 ## 実施
 
@@ -14,11 +14,11 @@
 
 ## 検証
 
-- TypeScript typecheck: pass
-- Vitest: 10 tests pass
+- TypeScript typecheck: 合格
+- Vitest: 10件のtestが合格
 - axe-core: violation 0（jsdom非対応のcolor contrastは除外）
-- Vite production build: pass
-- npm audit: vulnerabilities 0
+- Vite production build: 合格
+- npm audit: 脆弱性0件
 
 ## 未対応
 

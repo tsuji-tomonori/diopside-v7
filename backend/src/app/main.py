@@ -13,7 +13,7 @@ from app.core.config import get_settings
 
 
 async def health() -> dict[str, str]:
-    """Return process readiness without constructing provider clients."""
+    """プロバイダークライアントを構築せず、プロセスの準備状態を返す。"""
     return {"status": "ok"}
 
 
@@ -36,7 +36,14 @@ def create_app() -> FastAPI:
         name="public-data",
     )
 
-    app.add_api_route("/health", health, methods=["GET"], tags=["system"])
+    app.add_api_route(
+        "/health",
+        health,
+        methods=["GET"],
+        tags=["system"],
+        summary="プロセスの準備状態を取得する。",
+        responses={200: {"description": "成功レスポンス"}},
+    )
     app.include_router(get_latest_router)
     app.include_router(get_release_router)
     app.include_router(get_search_router)

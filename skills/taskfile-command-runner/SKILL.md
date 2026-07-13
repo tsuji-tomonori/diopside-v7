@@ -3,7 +3,7 @@ name: taskfile-command-runner
 description: Taskfile commandの実体を確認し、安全なlocal commandだけを実行する。
 ---
 
-# Taskfile Command Runner
+# Taskfileコマンド実行
 
 1. `Taskfile.yml`と委譲先npm/uv scriptを読む。
 2. 既存のnarrow taskを優先し、なければpackage commandを使う。

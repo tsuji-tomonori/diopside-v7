@@ -1,4 +1,4 @@
-# DLQ diagnosis and redrive
+# DLQ診断とredrive
 
 1. DLQ alertから30分以内にjobId、canonicalJobKey、inputVersion、attempt、errorCode、correlationIdを結合する。
 2. secret、本文、author IDをlogへ出さず、分類済みreasonを確認する。

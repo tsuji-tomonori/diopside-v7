@@ -6,17 +6,17 @@ env:
 
 tasks:
   install:
-    desc: Install frontend and infra dependencies.
+    desc: frontendとinfraの依存関係をinstallする。
     cmds:
       - npm install
 
   install:backend:
-    desc: Install backend dependency via uv.
+    desc: uvでbackendの依存関係をinstallする。
     cmds:
       - cd backend && uv sync
 
   verify:
-    desc: Run local static verification, tests, builds, and canonical contract checks.
+    desc: ローカルの静的検証、test、build、正規契約検査を実行する。
     cmds:
       - npm run typecheck --workspaces --if-present
       - npm test --workspaces --if-present
@@ -36,7 +36,7 @@ tasks:
       - npm run test:e2e -w frontend
 
   dev:backend:
-    desc: Run FastAPI backend (public contract host).
+    desc: 公開契約hostのFastAPI backendを起動する。
     env:
       DIO_CONTRACT_DIR: 'backend/data/public'
       UVICORN_PORT: '{{.BACKEND_PORT}}'
@@ -44,33 +44,33 @@ tasks:
       - cd backend && uv run --locked uvicorn app.main:app --app-dir src --reload --host 0.0.0.0 --port {{.BACKEND_PORT}}
 
   dev:frontend:
-    desc: Run frontend local dev server.
+    desc: frontendのローカル開発serverを起動する。
     cmds:
       - npm run dev -w frontend -- --host 0.0.0.0 --port {{.FRONTEND_PORT}}
 
   dev:all:
-    desc: Start backend and frontend in local terminals before use.
+    desc: 利用前にbackendとfrontendをローカルterminalで起動する。
     cmds:
       - task -s dev:backend
       - task -s dev:frontend
 
   export:check:
-    desc: Validate static release contract format.
+    desc: 静的release契約の形式を検証する。
     cmds:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
 
   docs:generate:
-    desc: Generate the API index, OpenAPI, and all per-operation design documents.
+    desc: API索引、OpenAPI、全操作別設計文書を生成する。
     cmds:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-docs generate
 
   docs:check:
-    desc: Check every generated API document without writing files.
+    desc: ファイルを書き込まず、全生成APIドキュメントを検査する。
     cmds:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-docs generate --check
 
   tags:migrate:preview:
-    desc: Migrate received v2 tags into deterministic canonical v3 preview files.
+    desc: 受領v2タグを決定的な正規v3 preview fileへ移行する。
     cmds:
       - >-
         cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}}
@@ -81,7 +81,7 @@ tasks:
         --release-id migration-preview
 
   tags:release:verify:
-    desc: Build and validate the full received-snapshot normal release candidate.
+    desc: 受領snapshot全体から通常release候補を構築・検証する。
     cmds:
       - >-
         rm -rf /tmp/diopside-received-release &&
@@ -95,7 +95,7 @@ tasks:
         --report /tmp/diopside-received-release-report.json
 
   tags:semantics:verify:
-    desc: Verify accepted and rejected spoken, collaborator, and group projections.
+    desc: 発話、collaborator、group投影の受理・拒否結果を検証する。
     cmds:
       - >-
         cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}}
@@ -104,26 +104,26 @@ tasks:
         --report /tmp/diopside-semantic-verification.json
 
   cost:verify:
-    desc: Verify the current monthly AWS cost evidence arithmetic and target.
+    desc: 現在の月次AWS cost証拠の計算と目標を検証する。
     cmds:
       - python3 tools/verify_cost_estimate.py
 
   quota:verify:
-    desc: Verify YouTube method costs, standard load, peak shedding, and reservation.
+    desc: YouTube method cost、標準負荷、peak抑制、予約を検証する。
     cmds:
       - python3 tools/verify_youtube_quota.py
 
   cdk:test:
-    desc: Build and run CDK assertion tests without contacting AWS.
+    desc: AWSへ接続せずCDK assertion testをbuild・実行する。
     cmds:
       - npm test -w @diopside/infra
 
   cdk:synth:
-    desc: Synthesize and run cdk-nag locally without deployment.
+    desc: deployせずローカルでsynthとcdk-nagを実行する。
     cmds:
       - npm run synth -w @diopside/infra
 
   test:e2e:
-    desc: Run desktop and mobile Chrome route/keyboard acceptance tests locally.
+    desc: desktop・mobile Chromeのroute・keyboard受け入れtestをローカル実行する。
     cmds:
       - npm run test:e2e -w frontend

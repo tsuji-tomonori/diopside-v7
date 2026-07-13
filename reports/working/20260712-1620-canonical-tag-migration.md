@@ -1,4 +1,4 @@
-# canonical tag migration
+# 正規タグ移行
 
 ## 指示
 
@@ -17,10 +17,10 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 11 tests pass
-- 実snapshot migration: pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 11件のtestが合格
+- 実スナップショット移行: 合格
 - videoCount: 2,062
 - assignmentCount: 15,997
 - 本人1,378件と外部684件の重複: 0
@@ -29,5 +29,5 @@
 
 - 受領snapshotに残るsemantic/provenance gapのデータ修正。
 - review ledgerと人手承認CLI。
-- v1 integer/flat/composite key migration fixture。
+- v1のinteger／flat／composite key移行fixture。
 - canonical v3 snapshotからatomic public releaseを生成・publishするexporter。

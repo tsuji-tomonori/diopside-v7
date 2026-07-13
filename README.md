@@ -1,41 +1,37 @@
 # diopside-v7
 
-This repository owns the diopside target implementation:
-- `backend/`: YouTube collectors, processing/tagging pipelines, atomic exporter,
-  operator CLI, FastAPI contract host, and runtime Lambda handlers.
-- `frontend/`: React public app with canonical versioned release loading.
-- `infra/`: AWS CDK stack for S3, DynamoDB, SQS, Lambda, EventBridge,
-  Secrets Manager, CloudFront, monitoring, and cost controls.
-- `tasks/`, `agents/`, `skills/`, `reports/`: execution workflow and audit artifacts.
+このリポジトリはdiopsideの目標実装を管理する。
 
-## Local start
+- `backend/`: YouTube収集、処理・タグ付けパイプライン、原子的export、operator CLI、FastAPI契約host、Lambda実行時handler
+- `frontend/`: 正規のversion付きreleaseを読み込むReact公開app
+- `infra/`: S3、DynamoDB、SQS、Lambda、EventBridge、Secrets Manager、CloudFront、監視、cost制御を構成するAWS CDK stack
+- `tasks/`、`agents/`、`skills/`、`reports/`: 実行workflowと監査成果物
+
+## ローカル起動
 
 ```bash
 npm install
 cd backend && uv sync
 task verify
 task dev:backend
-# another terminal
+# 別のterminalで実行する
 task dev:frontend
 ```
 
-Backend serves `/health` and `/data/*` contract endpoints from `backend/data/public`.
+backendは `backend/data/public` から `/health` と `/data/*` の契約endpointを提供する。
 
-## Verification-first commands
+## 検証優先のコマンド
 
-- `task verify` runs type checks, unit tests, builds, contract validation, CDK
-  assertions/nag synth, and desktop/mobile browser E2E.
-- `cd backend && uv run --locked python -m app.scripts.verify_contract` validates
-  the checked-in canonical release.
-- `task tags:migrate:preview` verifies deterministic migration of the received
-  `.workspace/tags.zip` snapshot when that private evidence is available.
+- `task verify` は型検査、unit test、build、契約検証、CDK assertion・nag synth、desktop・mobile browser E2Eを実行する。
+- `cd backend && uv run --locked python -m app.scripts.verify_contract` は保存済みの正規releaseを検証する。
+- `task tags:migrate:preview` は非公開証拠 `.workspace/tags.zip` を利用できる場合に、受領snapshotの決定的移行を検証する。
 
-No verification command deploys, bootstraps, or destroys AWS resources.
+どの検証コマンドもAWS resourceのdeploy、bootstrap、destroyを実行しない。
 
-## Operator CLI
+## 運用 CLI
 
-`diopside-admin` uses the operator's normal AWS IAM credentials. State-changing
-commands require `--yes`. Its environment is populated from CDK outputs:
+`diopside-admin` はoperatorの通常のAWS IAM credentialを使用する。状態変更コマンドには
+`--yes` が必要であり、環境変数はCDK出力から設定する。
 
 ```bash
 export CONTROL_TABLE=...
@@ -49,5 +45,5 @@ uv run --locked diopside-admin publish-candidate /path/to/release --yes
 uv run --locked diopside-admin request-deletion VIDEO_ID --reason 'request reference' --yes
 ```
 
-Production normal publication remains fail-closed until GATE-001 through
-GATE-006 evidence is valid in `gates/current.json`.
+`gates/current.json` でGATE-001〜006の証拠が有効になるまで、productionの通常公開は
+fail-closedを維持する。

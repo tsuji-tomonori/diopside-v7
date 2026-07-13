@@ -1,1 +1,1 @@
-"""AWS Lambda runtime adapters."""
+"""AWS Lambda実行時アダプター。"""

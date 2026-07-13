@@ -4,4 +4,4 @@ from pydantic import RootModel
 
 
 class VideoContractResponse(RootModel[dict[str, Any]]):
-    """Canonical video detail payload."""
+    """正規動画詳細データ。"""

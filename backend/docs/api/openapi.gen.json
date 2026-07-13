@@ -3,19 +3,19 @@
     "schemas": {
       "LatestContractResponse": {
         "additionalProperties": true,
-        "description": "Canonical latest.json payload.",
+        "description": "正規 `latest.json` データ。",
         "title": "LatestContractResponse",
         "type": "object"
       },
       "ReleaseContractResponse": {
         "additionalProperties": true,
-        "description": "Canonical release index payload.",
+        "description": "正規リリースインデックスデータ。",
         "title": "ReleaseContractResponse",
         "type": "object"
       },
       "SearchContractResponse": {
         "additionalProperties": true,
-        "description": "Canonical search index payload.",
+        "description": "正規検索インデックスデータ。",
         "title": "SearchContractResponse",
         "type": "object"
       },
@@ -47,7 +47,7 @@
       },
       "VideoContractResponse": {
         "additionalProperties": true,
-        "description": "Canonical video detail payload.",
+        "description": "正規動画詳細データ。",
         "title": "VideoContractResponse",
         "type": "object"
       }
@@ -71,16 +71,16 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           },
           "404": {
-            "description": "The requested canonical contract artifact was not found."
+            "description": "要求された正規契約成果物が見つからない。"
           },
           "500": {
-            "description": "The stored canonical contract is invalid or inconsistent."
+            "description": "保存済みの正規契約が不正または不整合である。"
           }
         },
-        "summary": "Read the active canonical release pointer."
+        "summary": "有効な正規リリースポインターを取得する。"
       }
     },
     "/api/contracts/release/{release_id}": {
@@ -106,19 +106,19 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           },
           "404": {
-            "description": "The requested canonical contract artifact was not found."
+            "description": "要求された正規契約成果物が見つからない。"
           },
           "422": {
-            "description": "A path parameter failed validation."
+            "description": "パスパラメーターの検証に失敗した。"
           },
           "500": {
-            "description": "The stored canonical contract is invalid or inconsistent."
+            "description": "保存済みの正規契約が不正または不整合である。"
           }
         },
-        "summary": "Read one canonical release index."
+        "summary": "正規リリースインデックスを1件取得する。"
       }
     },
     "/api/contracts/releases/{release_id}/search": {
@@ -144,19 +144,19 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           },
           "404": {
-            "description": "The requested canonical contract artifact was not found."
+            "description": "要求された正規契約成果物が見つからない。"
           },
           "422": {
-            "description": "A path parameter failed validation."
+            "description": "パスパラメーターの検証に失敗した。"
           },
           "500": {
-            "description": "The stored canonical contract is invalid or inconsistent."
+            "description": "保存済みの正規契約が不正または不整合である。"
           }
         },
-        "summary": "Read one release search index."
+        "summary": "リリースの検索インデックスを1件取得する。"
       }
     },
     "/api/contracts/releases/{release_id}/tags": {
@@ -182,19 +182,19 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           },
           "404": {
-            "description": "The requested canonical contract artifact was not found."
+            "description": "要求された正規契約成果物が見つからない。"
           },
           "422": {
-            "description": "A path parameter failed validation."
+            "description": "パスパラメーターの検証に失敗した。"
           },
           "500": {
-            "description": "The stored canonical contract is invalid or inconsistent."
+            "description": "保存済みの正規契約が不正または不整合である。"
           }
         },
-        "summary": "Read taxonomy, tag index, and alias projections."
+        "summary": "分類体系、タグインデックス、別名投影を取得する。"
       }
     },
     "/api/contracts/releases/{release_id}/videos/{video_id}": {
@@ -229,24 +229,24 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           },
           "404": {
-            "description": "The requested canonical contract artifact was not found."
+            "description": "要求された正規契約成果物が見つからない。"
           },
           "422": {
-            "description": "A path parameter failed validation."
+            "description": "パスパラメーターの検証に失敗した。"
           },
           "500": {
-            "description": "The stored canonical contract is invalid or inconsistent."
+            "description": "保存済みの正規契約が不正または不整合である。"
           }
         },
-        "summary": "Read one public video detail."
+        "summary": "公開動画の詳細を1件取得する。"
       }
     },
     "/health": {
       "get": {
-        "description": "Return process readiness without constructing provider clients.",
+        "description": "プロバイダークライアントを構築せず、プロセスの準備状態を返す。",
         "operationId": "health_health_get",
         "responses": {
           "200": {
@@ -261,10 +261,10 @@
                 }
               }
             },
-            "description": "Successful Response"
+            "description": "成功レスポンス"
           }
         },
-        "summary": "Health",
+        "summary": "プロセスの準備状態を取得する。",
         "tags": [
           "system"
         ]

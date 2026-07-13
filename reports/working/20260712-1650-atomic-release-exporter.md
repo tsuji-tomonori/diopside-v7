@@ -1,4 +1,4 @@
-# atomic release exporter
+# 原子的release exporter
 
 ## 実施
 
@@ -11,9 +11,9 @@
 
 ## 検証
 
-- Ruff: pass
-- Pyright strict: pass
-- Pytest: 13 tests pass
+- Ruff: 合格
+- Pyright strict: 合格
+- Pytest: 13件のtestが合格
 - Coverage: 69%
 
 ## 未対応

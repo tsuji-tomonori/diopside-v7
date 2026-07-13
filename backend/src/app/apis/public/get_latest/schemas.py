@@ -4,4 +4,4 @@ from pydantic import RootModel
 
 
 class LatestContractResponse(RootModel[dict[str, Any]]):
-    """Canonical latest.json payload."""
+    """正規 `latest.json` データ。"""

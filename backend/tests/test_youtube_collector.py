@@ -7,6 +7,7 @@ from app.collectors.youtube import JsonCheckpoint, YouTubeApiError, YouTubeDataC
 
 
 def test_videos_batches_at_fifty_and_records_quota() -> None:
+    """動画取得を50件単位に分割し、quotaを記録することを検証する。"""
     batch_sizes: list[int] = []
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -23,6 +24,7 @@ def test_videos_batches_at_fifty_and_records_quota() -> None:
 
 
 def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
+    """API keyを漏らさず、再試行不能理由を保持することを検証する。"""
     requests = 0
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -47,6 +49,7 @@ def test_non_retryable_reason_is_preserved_without_leaking_key() -> None:
 
 
 def test_retryable_status_is_retried() -> None:
+    """再試行可能なHTTP状態を再試行することを検証する。"""
     requests = 0
 
     def handler(request: httpx.Request) -> httpx.Response:
@@ -66,6 +69,7 @@ def test_retryable_status_is_retried() -> None:
 
 
 def test_live_chat_resumes_deduplicates_and_respects_poll_interval(tmp_path: Path) -> None:
+    """ライブチャット再開時の重複排除とpoll間隔を検証する。"""
     calls = 0
     sleeps: list[float] = []
 
@@ -102,6 +106,8 @@ def test_live_chat_resumes_deduplicates_and_respects_poll_interval(tmp_path: Pat
 
 
 def test_live_chat_terminal_reason_is_checkpointed(tmp_path: Path) -> None:
+    """ライブチャット終了理由をcheckpointへ保存することを検証する。"""
+
     def handler(_request: httpx.Request) -> httpx.Response:
         return httpx.Response(
             403,

@@ -4,4 +4,4 @@ from pydantic import RootModel
 
 
 class ReleaseContractResponse(RootModel[dict[str, Any]]):
-    """Canonical release index payload."""
+    """正規リリースインデックスデータ。"""

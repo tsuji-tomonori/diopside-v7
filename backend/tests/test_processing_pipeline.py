@@ -18,6 +18,7 @@ from app.processing.pipeline import (
 
 
 def test_metadata_preserves_missing_values_and_separates_source_tags() -> None:
+    """metadataの欠落値を維持し、ソースタグを分離することを検証する。"""
     metadata = normalize_metadata(
         {
             "id": "abcdefghijk",
@@ -40,6 +41,7 @@ def test_metadata_preserves_missing_values_and_separates_source_tags() -> None:
 
 
 def test_chat_normalization_is_idempotent_and_video_scoped() -> None:
+    """チャット正規化が冪等で動画単位に閉じることを検証する。"""
     item = {
         "id": "message-1",
         "snippet": {
@@ -61,6 +63,7 @@ def test_chat_normalization_is_idempotent_and_video_scoped() -> None:
 
 
 def test_public_aggregate_excludes_private_fields() -> None:
+    """公開集約から非公開フィールドを除外することを検証する。"""
     coverage = Coverage(
         "2026-01-01T00:00:00Z",
         "2026-01-01T01:00:00Z",
@@ -86,6 +89,7 @@ def test_public_aggregate_excludes_private_fields() -> None:
 
 
 def test_wordcloud_has_safe_svg_or_honest_empty_state() -> None:
+    """wordcloudが安全なSVGまたは正直な空状態を返すことを検証する。"""
     coverage = Coverage("a", "b", False, "c")
     empty, svg = wordcloud_artifact(
         "abcdefghijk", "chat", {"topTerms": []}, coverage, "2026-01-01T00:00:00Z"
@@ -113,15 +117,18 @@ def test_wordcloud_has_safe_svg_or_honest_empty_state() -> None:
 
 
 def test_private_field_guard_is_recursive() -> None:
+    """非公開フィールド検査が入れ子を再帰的に確認することを検証する。"""
     with pytest.raises(ProcessingError, match="private field"):
         assert_public({"nested": [{"authorChannelId": "secret"}]})
 
 
 def test_text_normalization_is_deterministic() -> None:
+    """テキスト正規化が決定的であることを検証する。"""
     assert normalize_text("\uff21\uff22\uff23\r\nhttps://example.test\x00") == "ABC"
 
 
 def test_timestamp_candidates_are_deterministic_and_within_duration() -> None:
+    """時刻候補が決定的かつ動画時間内であることを検証する。"""
     coverage = Coverage("a", "b", True, "c")
     aggregate = {
         "timeline": [

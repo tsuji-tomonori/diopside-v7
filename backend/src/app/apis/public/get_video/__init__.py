@@ -1,1 +1,1 @@
-"""Read a release video detail."""
+"""リリースの動画詳細を読み取る。"""

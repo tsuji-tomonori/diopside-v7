@@ -4,4 +4,4 @@ from pydantic import RootModel
 
 
 class SearchContractResponse(RootModel[dict[str, Any]]):
-    """Canonical search index payload."""
+    """正規検索インデックスデータ。"""

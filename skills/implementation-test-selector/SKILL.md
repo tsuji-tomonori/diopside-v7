@@ -3,7 +3,7 @@ name: implementation-test-selector
 description: 変更範囲に応じた最小十分なlint、typecheck、test、build、smoke、E2E、synthを選ぶ。
 ---
 
-# Implementation Test Selector
+# 実装テスト選択
 
 1. `git diff --name-only`で変更範囲を確認する。
 2. backend変更はRuff、Pyright、Pytest、contract verifierを選ぶ。

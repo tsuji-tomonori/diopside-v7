@@ -1,1 +1,1 @@
-"""Deterministic developer tools."""
+"""決定的な開発支援ツール。"""

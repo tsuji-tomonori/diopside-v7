@@ -1,1 +1,1 @@
-"""External source collectors."""
+"""外部ソースの収集処理。"""

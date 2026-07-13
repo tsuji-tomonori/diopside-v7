@@ -1,4 +1,4 @@
-# Complete per-operation API documentation generation
+# 操作別APIドキュメント生成の完成
 
 ## 指示と要件
 
@@ -34,29 +34,29 @@
 ## 検証結果
 
 ```text
-task docs:generate: pass（28 files generated）
-task docs:check: pass（28 files current）
-ruff: fail（line length）-> source分割 -> pass
-pyright: fail（dynamic sample/empty list型）-> explicit typing -> pass
-mypy src tests: pass
-app-archlint: pass
-pytest tests/tools/test_app_docs.py: fail（unsorted renderer）-> renderer sort -> 2 passed
-pytest初回全件: interrupted。test_main途中で出力停止したためpassに数えず停止
-pytest tests/test_main.py -vv: pass（2 tests）
-pytest全件再実行: pass（62 tests、branch coverage 66%）
-verify_contract: pass（release 20260711-001、3 videos）
-task verify: pass（frontend 13 unit、infra 4 assertion+synth、backend 62、Playwright 14）
-git diff --check: pass
+task docs:generate: 合格（28ファイルを生成）
+task docs:check: 合格（28ファイルが最新）
+ruff: 失敗（行長）→ ソース分割 → 合格
+pyright: 失敗（動的サンプル・空リスト型）→ 明示的な型付け → 合格
+mypy src tests: 合格
+app-archlint: 合格
+pytest tests/tools/test_app_docs.py: 失敗（rendererの並び順）→ rendererを整列 → 2件合格
+pytest初回全件: 中断。test_main途中で出力停止したため合格に数えず停止
+pytest tests/test_main.py -vv: 合格（2件）
+pytest全件再実行: 合格（62件、分岐カバレッジ66%）
+verify_contract: 合格（release 20260711-001、3動画）
+task verify: 合格（frontend単体13件、infra assertionとsynth 4件、backend 62件、Playwright 14件）
+git diff --check: 合格
 ```
 
-## Fit、非対象、残余risk
+## 適合性、非対象、残余リスク
 
 - 要求されたAPI一覧とAPI別文書は生成・実行・drift検査・内容修正まで完了した。
 - 現行5 APIはDB、SQL、provider SDKを使わないため、SQL/ER/外部resource CRUD独立文書は生成せずdetailで非該当根拠を明記した。
 - 生成文書はmanual/runtime整合の証拠であり、外部approvalやproduction acceptanceの代替ではない。
 - deploy、bootstrap、destroy、production変更は実施していない。
 
-## Commit evidence
+## Commit証拠
 
 - implementation: `b240f4a`
 - 本追記をverification evidence commitとして作成し、両commitを`origin/main`へpushする。
