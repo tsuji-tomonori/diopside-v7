@@ -74,9 +74,19 @@ tasks:
         uv run --locked python -m app.scripts.build_received_release
         --tags-zip ../.workspace/tags.zip
         --corrections data/tag-corrections-v3.json
+        --usage-decisions data/usage-decisions-v1.json
         --release-id received-preview-v3
         --output /tmp/diopside-received-release
         --report /tmp/diopside-received-release-report.json
+
+  tags:semantics:verify:
+    desc: Verify accepted and rejected spoken, collaborator, and group projections.
+    cmds:
+      - >-
+        cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}}
+        uv run --locked python -m app.scripts.verify_received_semantics
+        --tags-zip ../.workspace/tags.zip
+        --report /tmp/diopside-semantic-verification.json
 
   cost:verify:
     desc: Verify the current monthly AWS cost evidence arithmetic and target.

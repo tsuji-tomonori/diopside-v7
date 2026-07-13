@@ -78,3 +78,19 @@ def test_correction_schema_accepts_ledger_and_rejects_unknown_operation() -> Non
 def test_schema_resolver_rejects_unknown_version() -> None:
     with pytest.raises(TagSchemaError, match="unsupported snapshot schemaVersion"):
         validate_tag_document({"schemaVersion": "4.0.0"}, "snapshot")
+
+
+def test_usage_decision_schema_requires_default_exclusion_and_valid_gates() -> None:
+    path = Path(__file__).resolve().parents[1] / "data" / "usage-decisions-v1.json"
+    ledger = json.loads(path.read_text(encoding="utf-8"))
+    validate_tag_document(ledger, "usage")
+
+    invalid = copy.deepcopy(ledger)
+    invalid["defaultDecision"] = "allow"
+    with pytest.raises(TagSchemaError, match="defaultDecision"):
+        validate_tag_document(invalid, "usage")
+
+    duplicate = copy.deepcopy(ledger)
+    duplicate["decisions"].append(copy.deepcopy(duplicate["decisions"][0]))
+    with pytest.raises(TagSchemaError, match="sourceKind values must be unique"):
+        validate_tag_document(duplicate, "usage")

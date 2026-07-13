@@ -122,12 +122,15 @@ def main() -> int:
     )
     parser.add_argument("--tags-zip", type=Path, required=True)
     parser.add_argument("--corrections", type=Path, required=True)
+    parser.add_argument("--usage-decisions", type=Path, required=True)
     parser.add_argument("--release-id", required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--report", type=Path, required=True)
     args = parser.parse_args()
     corrections = _file_object(args.corrections)
     validate_tag_document(corrections, "correction")
+    usage_decisions = _file_object(args.usage_decisions)
+    validate_tag_document(usage_decisions, "usage")
     with ZipFile(args.tags_zip) as archive:
         own = _archive_object(archive, "tags/video_tags_v2.json")
         external = _archive_object(archive, "tags/collaboration_video_tags_v2.json")
@@ -191,6 +194,7 @@ def main() -> int:
         "assignmentCount": snapshot["assignmentCount"],
         "reviewAssignmentCount": snapshot["reviewAssignmentCount"],
         "correctionVersion": snapshot["correctionVersion"],
+        "usageDecisionVersion": usage_decisions["decisionVersion"],
         "releaseFingerprint": hashlib.sha256(
             json.dumps(
                 result.artifact_hashes,

@@ -7,12 +7,13 @@ from typing import Any, Literal, cast
 from jsonschema import Draft202012Validator, FormatChecker
 from jsonschema.exceptions import SchemaError, ValidationError
 
-DocumentKind = Literal["snapshot", "correction"]
+DocumentKind = Literal["snapshot", "correction", "usage"]
 
 SCHEMA_ROOT = Path(__file__).resolve().parents[3] / "schemas"
 SCHEMA_FILES = {
     ("snapshot", "3.0.0"): "tag-snapshot-v3.schema.json",
     ("correction", "1.0.0"): "tag-correction-ledger-v3.schema.json",
+    ("usage", "1.0.0"): "usage-decision-ledger-v1.schema.json",
 }
 
 
@@ -45,3 +46,18 @@ def validate_tag_document(document: dict[str, Any], kind: DocumentKind) -> None:
     except (SchemaError, ValidationError) as exc:
         path = ".".join(str(part) for part in exc.absolute_path) or "$"
         raise TagSchemaError(f"{kind} schema violation at {path}: {exc.message}") from exc
+    if kind == "usage":
+        _validate_usage_semantics(document)
+
+
+def _validate_usage_semantics(document: dict[str, Any]) -> None:
+    decisions = cast(list[dict[str, Any]], document["decisions"])
+    source_kinds = [cast(str, decision["sourceKind"]) for decision in decisions]
+    if len(source_kinds) != len(set(source_kinds)):
+        raise TagSchemaError("usage sourceKind values must be unique")
+    unknown = next(
+        (decision for decision in decisions if decision["sourceKind"] == "unknown"),
+        None,
+    )
+    if unknown is None or unknown["decision"] != "exclude":
+        raise TagSchemaError("usage ledger requires unknown=exclude")

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0.0",
+  "decisionVersion": "20260713-v1",
+  "generatedAt": "2026-07-13T00:00:00Z",
+  "defaultDecision": "exclude",
+  "decisions": [
+    {
+      "sourceKind": "official_channel_metadata",
+      "decision": "conditional",
+      "requiredGates": ["GATE-001", "GATE-002", "GATE-004"],
+      "publishableFields": ["videoId", "title", "publishedAt", "channelTitle", "duration", "thumbnail"],
+      "evidence": ["https://developers.google.com/youtube/terms/api-services-terms-of-service"],
+      "reason": "Public API metadata only; publication requires current policy, permission, and privacy gates"
+    },
+    {
+      "sourceKind": "external_channel_metadata",
+      "decision": "conditional",
+      "requiredGates": ["GATE-001", "GATE-002", "GATE-004"],
+      "publishableFields": ["videoId", "title", "publishedAt", "channelTitle", "duration", "thumbnail"],
+      "evidence": ["https://developers.google.com/youtube/terms/api-services-terms-of-service"],
+      "reason": "External-channel public metadata remains blocked until explicit scope and privacy approval"
+    },
+    {
+      "sourceKind": "public_comments",
+      "decision": "conditional",
+      "requiredGates": ["GATE-001", "GATE-004"],
+      "publishableFields": ["aggregateCount", "derivedWordcloud", "derivedTimestamps"],
+      "evidence": ["https://developers.google.com/youtube/terms/developer-policies"],
+      "reason": "Raw author identifiers and text are private pipeline data; only approved aggregates may publish"
+    },
+    {
+      "sourceKind": "public_live_chat",
+      "decision": "conditional",
+      "requiredGates": ["GATE-001", "GATE-004"],
+      "publishableFields": ["aggregateCount", "derivedWordcloud", "derivedTimestamps"],
+      "evidence": ["https://developers.google.com/youtube/terms/developer-policies"],
+      "reason": "Raw author identifiers and text are private pipeline data; only approved aggregates may publish"
+    },
+    {
+      "sourceKind": "wiki_fact_provenance",
+      "decision": "conditional",
+      "requiredGates": ["GATE-002"],
+      "publishableFields": ["tagAssignment", "sourceAttribution"],
+      "evidence": ["https://wikiwiki.jp/nijisanji/"],
+      "reason": "Factual provenance is retained, but publication remains subject to scope approval"
+    },
+    {
+      "sourceKind": "unknown",
+      "decision": "exclude",
+      "requiredGates": [],
+      "publishableFields": [],
+      "evidence": [],
+      "reason": "Unknown or unclassified sources are excluded by default"
+    }
+  ]
+}
