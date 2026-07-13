@@ -34,3 +34,8 @@
 - 文書と説明コメントの日本語化、生成再現性、対象関数・テストの説明、回帰防止という受け入れ条件に適合する。
 - AWS、CDK、OpenAPIなどが生成する固定キー・識別子・機械文言、および公開契約の列挙値は翻訳していない。
 - deploy、CDK bootstrap/destroy、production変更、外部approval gateの判定は実施していない。
+
+## Commit証跡
+
+- 実装・検証: `bb00913`
+- `origin/main` へのpush: 完了

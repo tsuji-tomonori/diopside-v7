@@ -1,6 +1,6 @@
 # ドキュメントとコードコメントの日本語統一
 
-状態: in_progress
+状態: done
 
 ## 対象
 
@@ -27,7 +27,7 @@
 - [x] 対象漏れを検査する静的テストまたは検証スクリプトを追加し、回帰を防止する。
 - [x] narrow check、`task docs:check`、`task verify`、`git diff --check` が成功する。
 - [x] 実行結果と残余リスクを `reports/working` に記録する。
-- [ ] 検証済み変更を目的単位でcommitし、public GitHubへpushする。
+- [x] 検証済み変更を目的単位でcommitし、public GitHubへpushする。
 
 ## 非対象
 
