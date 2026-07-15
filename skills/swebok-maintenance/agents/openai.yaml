@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK 保守"
+  short_description: "保守工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-maintenance to perform an evidence-based self-check for this work."

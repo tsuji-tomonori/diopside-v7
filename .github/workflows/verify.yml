@@ -27,6 +27,10 @@ jobs:
         working-directory: backend
       - run: uv run --locked ruff check src tests
         working-directory: backend
+      - run: uv run --locked ruff check ../tools/sync_swebok_ka.py
+        working-directory: backend
+      - run: uv run --locked ruff format --check ../tools/sync_swebok_ka.py
+        working-directory: backend
       - run: uv run --locked pyright
         working-directory: backend
       - run: uv run --locked pytest

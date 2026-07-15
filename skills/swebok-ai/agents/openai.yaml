@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK AI"
+  short_description: "AI工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-ai to perform an evidence-based self-check for this work."

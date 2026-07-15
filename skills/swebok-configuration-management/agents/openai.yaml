@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK 構成管理"
+  short_description: "構成管理工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-configuration-management to perform an evidence-based self-check for this work."

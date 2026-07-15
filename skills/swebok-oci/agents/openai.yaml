@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK OCI"
+  short_description: "OCI工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-oci to perform an evidence-based self-check for this work."

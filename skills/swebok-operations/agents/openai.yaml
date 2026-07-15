@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK 運用"
+  short_description: "運用工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-operations to perform an evidence-based self-check for this work."

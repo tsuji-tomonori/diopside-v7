@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK 要件定義"
+  short_description: "要件定義工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-requirements to perform an evidence-based self-check for this work."

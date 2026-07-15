@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWEBOK プロセス"
+  short_description: "プロセス工程をSWEBOKチェックリストで証跡付き自己検査"
+  default_prompt: "Use $swebok-engineering-process to perform an evidence-based self-check for this work."
