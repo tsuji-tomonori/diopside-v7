@@ -1,6 +1,6 @@
 # SWEBOK KA別AI駆動開発ワークフロー
 
-状態: in_progress
+状態: complete
 
 ## 入力
 
@@ -26,7 +26,7 @@
 - [x] Excelからの再生成が決定的で、元シート名・全ID・項目数・内容の一致を自動検証できる。
 - [x] 全skillを`quick_validate.py`で検証し、agent TOML/YAML、Markdown link、生成差分なしを検証する。
 - [x] `reports/working`にコマンド結果、fit、未対応、残余riskを事実どおり記録する。
-- [ ] 変更を目的単位でcommitし、public GitHubの`main`へpushする。
+- [x] 変更を目的単位でcommitし、public GitHubの`main`へpushする。
 
 ## 非対象
 

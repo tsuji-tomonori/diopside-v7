@@ -4,7 +4,7 @@
 
 `.workspace/swebok_checklist.xlsx`をread-only入力として、KAごとのskill、agent、AGENTS.md、Git管理可能なチェックリストを整備し、AI駆動の計画・実装・検証・報告gateで都度セルフチェックする仕組みを作る。
 
-対象task: `tasks/do/20260715-2345-swebok-ka-ai-workflow.md`
+対象task: `tasks/done/20260715-2345-swebok-ka-ai-workflow.md`
 
 ## 判断と非対象
 
@@ -78,7 +78,7 @@ task verify（権限委譲2回目）: 合格。frontend 13、infra 4、backend 6
 | CON-010 | pass | Ruff check/formatとCI設定 | 新規Python toolを機械検査 | なし |
 | CON-112 | blocked | 独立review記録なし | self-reviewを独立reviewの代用にしない | user/peer review |
 | CON-113 | pass | lint/testで検出した全指摘を修正 | Critical/High相当の未解消なし | なし |
-| CON-114 | blocked | commit前 | 現時点で履歴証跡なし | 目的単位commit後に更新 |
+| CON-114 | pass | commit `86c0a26` | task ID付きの目的単位commitをpublic `main`へpush | なし |
 | TST-009 | pass | narrow→aggregate command選定 | 自動検証範囲と手動reviewを分離 | なし |
 | TST-311 | pass | 本reportの4 status列 | 結果欄を定義 | なし |
 | TST-401 | pass | 75 filesの再生成digest一致 | 同一入力で同一出力 | なし |
@@ -94,5 +94,5 @@ task verify（権限委譲2回目）: 合格。frontend 13、infra 4、backend 6
 - 実装fit: 18 KAすべてにskill、UI metadata、専門agent、全行チェックリストがあり、元ブックのサマリ・gapもGit管理可能な形で保持した。
 - 検証fit: 元Excelの全ID、件数、重要度集計、gap反映ID、生成内容の完全一致を検査し、repository aggregate検証も合格した。
 - 外部gate: CON-112の独立reviewは未取得であり`blocked`。実装完了と区別する。
-- commit/push証跡は本report作成時点で未取得。取得後にtask状態とCON-114を更新する。
+- commit/push証跡: `86c0a26`をpublic GitHubの`main`へpush済み。
 - 元Excelが更新された場合はread-only入力を置き換え、`task swebok:check`の差分検出後に`--write`と同一検証を再実行する。
