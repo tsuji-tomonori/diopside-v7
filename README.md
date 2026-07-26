@@ -28,6 +28,17 @@ backendは `backend/data/public` から `/health` と `/data/*` の契約endpoin
 
 どの検証コマンドもAWS resourceのdeploy、bootstrap、destroyを実行しない。
 
+## ブラウザE2EとUI証跡
+
+`npm run test:e2e -w frontend` はdesktop ChromiumとPixel 7相当のmobile Chromiumで次を検証する。
+
+- 全公開route、URL正規化、skip link、非公開admin route
+- homeのresponsive navigationと主要archive表示
+- keyboardによるtag候補選択、検索条件のURL・localStorage永続化
+- detailのpolicy同意、派生情報表示、保存、履歴への一連の遷移
+
+主要画面はPlaywright testへ画像として添付する。GitHub ActionsではHTML report、trace、失敗時のvideo・screenshot、明示的に撮影したUI画像を `playwright-e2e-<run-id>` artifactとして14日間保持する。
+
 ## 運用 CLI
 
 `diopside-admin` はoperatorの通常のAWS IAM credentialを使用する。状態変更コマンドには
