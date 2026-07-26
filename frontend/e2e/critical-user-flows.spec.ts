@@ -88,14 +88,15 @@ test.describe('主要な公開ユーザー導線', () => {
     await captureUi(page, testInfo, 'home');
 
     await page.getByRole('link', { name: '検索', exact: true }).click();
-    await expect(page).toHaveURL(/\/search\?sort=newest$/);
+    await expect(page).toHaveURL(/\/search$/);
     await expect(page.getByRole('heading', { name: 'search', level: 1 })).toBeVisible();
+    await expect(page.getByRole('combobox', { name: '並び順' })).toHaveValue('newest');
 
     assertNoRuntimeErrors();
   });
 
-  // キーボード検索で候補を選択し、正規化された条件が再読込後も残ることを検証する。
-  test('キーボード検索が候補選択と正規条件の永続化を行う', async ({ page }, testInfo) => {
+  // キーボード検索で候補を選択し、保存された検索条件を再読込後に再適用できることを検証する。
+  test('キーボード検索が候補選択と検索条件の再適用を行う', async ({ page }, testInfo) => {
     const assertNoRuntimeErrors = observeRuntimeErrors(page);
     await seedConsent(page);
 
@@ -111,14 +112,17 @@ test.describe('主要な公開ユーザー導線', () => {
     await expect(suggestion).toHaveAttribute('aria-selected', 'true');
     await query.press('Enter');
 
-    await expect(page).toHaveURL(/\/search\?q=%E6%AD%8C%E6%9E%A0&tag=tag-001&sort=newest$/);
+    const canonicalSearchUrl = /\/search\?q=%E6%AD%8C%E6%9E%A0&tag=tag-001&sort=newest$/;
+    await expect(page).toHaveURL(canonicalSearchUrl);
     await expect(page.getByText('1 件', { exact: true })).toBeVisible();
     await expect(page.getByRole('heading', { name: '歌枠 深夜 リクエスト 大会', level: 3 })).toBeVisible();
-    await expect(page.getByRole('button', { name: 'recent search 歌枠 を再適用' })).toBeVisible();
 
     await page.reload();
-    await expect(page).toHaveURL(/\/search\?q=%E6%AD%8C%E6%9E%A0&tag=tag-001&sort=newest$/);
-    await expect(page.getByRole('button', { name: 'recent search 歌枠 を再適用' })).toBeVisible();
+    const recentSearch = page.getByRole('button', { name: 'recent search 歌枠 を再適用' });
+    await expect(recentSearch).toBeVisible();
+    await recentSearch.click();
+    await expect(page).toHaveURL(canonicalSearchUrl);
+    await expect(page.getByText('1 件', { exact: true })).toBeVisible();
 
     await captureUi(page, testInfo, 'search-result');
     assertNoRuntimeErrors();
