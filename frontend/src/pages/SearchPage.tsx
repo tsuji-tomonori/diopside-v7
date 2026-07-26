@@ -291,7 +291,7 @@ export function SearchPage() {
       <header className="dio-search-page__results-header">
         <p className="dio-num">{results.length}件</p>
         <label>
-          並び順
+          <span className="dio-label">並び順</span>
           <select
             onChange={(event) => updatePartial({ sort: event.target.value as SearchCondition['sort'] })}
             value={normalized.sort}

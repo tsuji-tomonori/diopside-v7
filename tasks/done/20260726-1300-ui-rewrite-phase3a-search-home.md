@@ -1,5 +1,7 @@
 # UI 全面書き直し Phase 3a: 検索・ホーム
 
+状態: done
+
 ## 対象と受入条件
 
 - `SearchPage.tsx` と `HomePage.tsx` を Phase 2 UI component と wireframe 4a に移植する。
@@ -35,3 +37,8 @@
 | CON-080 | pending | Search/Home testを追加予定 | 変更分岐をテストする | Vitest実行後に判定 |
 | TST-001 | pass | 対象/非対象と narrow→aggregate の実行順 | テスト範囲を明示した | 実施統計をreportへ記録 |
 | TST-801 | pending | 実行前 | 終了基準は未検証 | 全command後に判定 |
+
+## 完了整理時の確認
+
+- 実装と受入条件別の検証結果は`reports/working/20260726-ui-rewrite-phase3.md`に記録済みである。後続のPhase 4 E2EおよびPhase 7dの`task verify`終了コード0で、統合・aggregateの回帰も確認した。
+- 計画時表の`pending`は実行前の記録であり、完了時の判定は上記reportを正本とする。

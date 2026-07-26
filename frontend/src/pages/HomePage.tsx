@@ -55,7 +55,7 @@ export function HomePage() {
   if (loading) {
     return (
       <section className="dio-home-page">
-        <h1>diopside</h1>
+        <h1 className="dio-display">diopside</h1>
         <SearchBar onQueryChange={setQuery} onSubmit={onSubmit} query={query} />
         <LoadingState label="データを読み込んでいます…" />
       </section>
@@ -69,7 +69,7 @@ export function HomePage() {
   return (
     <section className="dio-home-page">
       <header>
-        <h1>diopside</h1>
+        <h1 className="dio-display">diopside</h1>
         <p>白雪巴の公開配信を素早く見つける検索型ビューア</p>
       </header>
       <SearchBar onQueryChange={setQuery} onSubmit={onSubmit} query={query} />

@@ -206,19 +206,18 @@ export function DetailPage() {
           <section className="policy-card" aria-labelledby="consent-title">
             <h2 id="consent-title">利用前の確認</h2>
             <p>YouTube/API由来の情報・派生表示は同意後に有効です。</p>
-            <div className="chips">
-              <a href={POLICY_LINKS.youtubeTerms} target="_blank" rel="noreferrer">YouTube Terms</a>
-              <a href={POLICY_LINKS.youtubePrivacy} target="_blank" rel="noreferrer">Google Privacy Policy</a>
-              <a href={POLICY_LINKS.diopsideTerms} target="_blank" rel="noreferrer">diopside利用規約</a>
-              <a href={POLICY_LINKS.diopsidePrivacy} target="_blank" rel="noreferrer">diopsideプライバシーポリシー</a>
-              <a href={POLICY_LINKS.youtubeDerived} target="_blank" rel="noreferrer">YouTube Derived Metrics</a>
-            </div>
+            <ul className="dio-policy-links" aria-label="確認する規約と方針">
+              <li><a href={POLICY_LINKS.youtubeTerms} target="_blank" rel="noreferrer">YouTube Terms</a></li>
+              <li><a href={POLICY_LINKS.youtubePrivacy} target="_blank" rel="noreferrer">Google Privacy Policy</a></li>
+              <li><a href={POLICY_LINKS.diopsideTerms} target="_blank" rel="noreferrer">diopside利用規約</a></li>
+              <li><a href={POLICY_LINKS.diopsidePrivacy} target="_blank" rel="noreferrer">diopsideプライバシーポリシー</a></li>
+              <li><a href={POLICY_LINKS.youtubeDerived} target="_blank" rel="noreferrer">YouTubeの派生指標に関する方針</a></li>
+            </ul>
             <p>同意後、YouTube導線・派生データを確認できます。</p>
             <div className="dio-page-actions">
               <Button type="button" variant="primary" onClick={acceptConsent}>同意して進む</Button>
-              <Button type="button" variant="text" onClick={withdrawConsent}>同意を取り下げる</Button>
             </div>
-            <a href="https://www.youtube.com/channel/UCdummy" target="_blank" rel="noreferrer">運営者チャンネル（固定）</a>
+            <p className="dio-policy-channel"><a href="https://www.youtube.com/channel/UCdummy" target="_blank" rel="noreferrer">運営者チャンネル（固定）</a></p>
             {notice ? <p role="status">{notice}</p> : null}
           </section>
         </>

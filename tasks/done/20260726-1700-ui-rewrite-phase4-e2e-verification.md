@@ -1,6 +1,6 @@
 # UI全面書き直し Phase 4: E2E更新・全体検証・視覚証跡・完了記録
 
-状態: completed_with_blocked_repository_gate（frontend受入・視覚証跡は完了。`task verify`の既存Phase 1〜3 test comment違反はreport参照）
+状態: done
 
 ## 対象と受入条件
 
@@ -30,3 +30,9 @@
 | Chromeまたはbackend起動不可→E2E/PNG取得不能→browser品質を証明できない | Playwright webServerの起動結果を確認し、未解消ならblockedとして記録する |
 | UI targetのrole/label不一致→testが脆弱またはa11y欠陥を見逃す→回帰検出不能 | role/name中心のassertionとaxe実行を使い、必要なら実装をtargetへ修正する |
 | visual撮影が通常suiteへ混入→通常検証が遅延/不安定→CI品質低下 | root `tools/`の独立scriptとして置き、通常E2Eから分離する |
+
+## 完了整理時の確認
+
+- 当時の`task verify`失敗はblockedではなく、Phase 1〜4で持ち込んだ日本語コンテンツgate 243件の回帰`fail`だった。Phase 5で243件を0件へ是正し、`reports/working/20260726-ui-rewrite-phase4.md`の最終実行は終了コード0、backend 63件、frontend 69件、E2E 26件の合格を記録している。
+- Phase 7dでは`reports/working/20260726-ui-design-conformance.md`に、`task verify`終了コード0、backend 63件、frontend 76件、E2E 58件を記録している。したがってrepository gateは解消済みである。
+- screen readerおよびChrome以外のbrowser matrixは`AC-NFR-02`の外部検証として未実施のまま残る。これはPhase 4の受入条件で完了済みとしたChrome E2E、axe、PNG、aggregate検証を覆すものではない。

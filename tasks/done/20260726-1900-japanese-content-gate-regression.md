@@ -1,6 +1,6 @@
 # Phase 5: 日本語コンテンツgate回帰の是正
 
-状態: completed
+状態: done
 
 ## 対象と受け入れ条件
 

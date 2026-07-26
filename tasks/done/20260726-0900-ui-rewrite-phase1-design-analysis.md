@@ -1,6 +1,6 @@
 # UI全面書き直し Phase 1: 設計参照の解析と計画策定
 
-状態: in_progress
+状態: done
 
 ## 対象
 

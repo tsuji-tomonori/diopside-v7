@@ -1,6 +1,6 @@
 # UI全面書き直し Phase 6: 視覚レビュー不具合修正
 
-状態: implementation_and_verification_completed（親agentの再視覚評価待ち）
+状態: done
 
 ## 対象と受入条件
 
@@ -35,3 +35,7 @@
 ## 実行結果
 
 詳細は`reports/working/20260726-ui-rewrite-phase6.md`を参照。frontend typecheck、75 unit tests、build、26 E2E、backend 63 tests、14枚の再撮影はすべて合格した。親agentの最終視覚評価は外部review gateとして残す。
+
+## 完了整理時の確認
+
+- 外部review gateは本taskの実装・検証完了と区別する。Phase 7dの`reports/working/20260726-ui-design-conformance.md`では、実要素の直接測定、E2E 58件、`task verify`終了コード0を記録しており、Phase 6の受入条件に関する回帰は確認されていない。

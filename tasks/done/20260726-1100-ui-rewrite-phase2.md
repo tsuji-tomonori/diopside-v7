@@ -1,6 +1,6 @@
 # UI全面書き直し Phase 2: design tokens / AppShell / 共通コンポーネント
 
-状態: in_progress（Phase 2b 是正）
+状態: done
 
 ## 受け入れ条件
 
@@ -64,3 +64,8 @@
 | --- | --- |
 | artifactがない動画にchat countを0として表示する | `artifactFlags.chat=false`とcount有りの組合せをtestし、実装をprops補完なしに限定する |
 | 既存の未是正test以外へ差分が広がる | 対象8ファイル以外のtestは変更せず、必要実装だけを差分確認する |
+
+## 完了整理時の確認
+
+- Phase 2、2b、2cの実装・検証結果は`reports/working/20260726-ui-rewrite-phase2.md`に記録済みである。E2EはPhase 4で実施し、後続のPhase 7dでは`task verify`を終了コード0で完走した。
+- commit、push、外部peer reviewは本taskの実施対象ではない。これらの外部gateを完了済みとは記録しない。

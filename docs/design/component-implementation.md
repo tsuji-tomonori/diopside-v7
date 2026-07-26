@@ -1,10 +1,11 @@
 # diopside コンポーネント実装仕様
 
 - 文書ID: DIO-COMPONENT-001
-- 版: v1.1
+- 版: v1.2
 - 状態: UI component contractの正本移植
 - 更新日: 2026-07-26
 - v1.1変更: LengthSliderの単一トラック2つまみ実装を視覚レビュー後の実装へ反映した。
+- v1.2変更: PCサイドバー項目の視覚背景と44pxヒット領域を分離して明記した。
 - 移植元: `.workspace/design-reference/components.html`（SSRレンダリング済み、全量確認）
 - 関連: [デザインシステム](design-system.md) / [ワイヤーフレーム](wireframes.md)
 
@@ -50,4 +51,4 @@ listは`article > Link(行全体) > thumbnail + metadata`、gridも`article > Li
 
 ## Navigation
 
-mobileは`nav[aria-label="mobile navigation"] > Link×4`、h56+safe-area、activeはprimary-500とfilled icon。PCは`aside > nav[aria-label="main navigation"]`、w220、項目h40/radius10、activeはprimary-100面+primary-600。順は検索・ホーム・保存・履歴でも、mobileとroute写像は一対一。管理は罫線分離する場合でも未認証ではdisabled表示でなくDOMから除外する。skip link、`main#main-content tabindex=-1`、footerの規約・privacyリンクを維持する。
+mobileは`nav[aria-label="mobile navigation"] > Link×4`、h56+safe-area、activeはprimary-500とfilled icon。PCは`aside > nav[aria-label="main navigation"]`、w220、項目の視覚背景h40/radius10、リンクのヒット領域44px以上、activeはprimary-100面+primary-600。順は検索・ホーム・保存・履歴でも、mobileとroute写像は一対一。管理は罫線分離する場合でも未認証ではdisabled表示でなくDOMから除外する。skip link、`main#main-content tabindex=-1`、footerの規約・privacyリンクを維持する。

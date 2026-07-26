@@ -82,6 +82,8 @@ describe('DetailPage', () => {
     // 3. アサーション
     expect(queryByText('YouTubeで見る')).toBeNull();
     expect(queryByText('派生情報')).toBeNull();
+    expect(queryByText('同意を取り下げる')).toBeNull();
+    expect(getByRole('list', { name: '確認する規約と方針' })).toBeTruthy();
   });
 
   // このテストケースの公開契約を検証する。
@@ -160,5 +162,18 @@ describe('DetailPage', () => {
 
     // 3. アサーション
     expect(getByRole('alert').textContent).toContain('公開データサーバーでエラー');
+  });
+
+  // エラーの主表示を日本語の利用者向け説明にする。
+  it('技術エラー詳細を補助表示へ分離する', () => {
+    // 1. 初期化
+    publicData.current = { ...publicData.current, error: 'failed to load /data/latest.json: HTTP 503', errorKind: 'server', latest: null };
+
+    // 2. テストの実行
+    const { getByRole, getByText } = renderPage();
+
+    // 3. アサーション
+    expect(getByRole('alert').textContent).toContain('しばらく待ってから');
+    expect(getByText('技術情報を表示')).toBeTruthy();
   });
 });
