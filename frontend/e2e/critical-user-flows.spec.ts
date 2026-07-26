@@ -66,12 +66,13 @@ async function captureUi(page: Page, testInfo: TestInfo, name: string): Promise<
   });
 }
 
-test.describe('critical public user journeys', () => {
+test.describe('主要な公開ユーザー導線', () => {
   test.beforeEach(async ({ page }) => {
     await prepareDeterministicBrowser(page);
   });
 
-  test('home and primary navigation adapt to the viewport', async ({ page }, testInfo) => {
+  // ホーム画面と主要ナビゲーションが画面幅に応じて切り替わることを検証する。
+  test('ホームと主要ナビゲーションが画面幅へ適応する', async ({ page }, testInfo) => {
     const assertNoRuntimeErrors = observeRuntimeErrors(page);
 
     await page.goto('/');
@@ -93,7 +94,8 @@ test.describe('critical public user journeys', () => {
     assertNoRuntimeErrors();
   });
 
-  test('keyboard search selects a suggestion and persists a canonical condition', async ({ page }, testInfo) => {
+  // キーボード検索で候補を選択し、正規化された条件が再読込後も残ることを検証する。
+  test('キーボード検索が候補選択と正規条件の永続化を行う', async ({ page }, testInfo) => {
     const assertNoRuntimeErrors = observeRuntimeErrors(page);
     await seedConsent(page);
 
@@ -122,7 +124,8 @@ test.describe('critical public user journeys', () => {
     assertNoRuntimeErrors();
   });
 
-  test('detail consent, save, and history form one complete journey', async ({ page }, testInfo) => {
+  // 詳細画面の同意から保存・履歴確認までが一続きの導線として成立することを検証する。
+  test('詳細同意・保存・履歴が一つの利用導線として成立する', async ({ page }, testInfo) => {
     const assertNoRuntimeErrors = observeRuntimeErrors(page);
 
     await page.goto('/videos/rY4A7Lxk12Q');
