@@ -1,4 +1,5 @@
-import { expect, Page, test, TestInfo } from '@playwright/test';
+import { expect, test } from '@playwright/test';
+import type { Page, TestInfo } from '@playwright/test';
 
 const consentStorageKey = 'diopside_consent_v1';
 const fixtureVideoTitle = '【歌枠】深夜リクエスト大会！';
@@ -40,7 +41,7 @@ async function prepareDeterministicBrowser(page: Page): Promise<void> {
 }
 
 async function seedConsent(page: Page): Promise<void> {
-  await page.addInitScript(([key]) => {
+  await page.addInitScript(({ key }) => {
     window.localStorage.setItem(
       key,
       JSON.stringify({
@@ -49,7 +50,7 @@ async function seedConsent(page: Page): Promise<void> {
         acceptedAt: '2026-07-26T00:00:00.000Z',
       }),
     );
-  }, [consentStorageKey]);
+  }, { key: consentStorageKey });
 }
 
 async function captureUi(page: Page, testInfo: TestInfo, name: string): Promise<void> {
@@ -111,6 +112,10 @@ test.describe('critical public user journeys', () => {
     await expect(page).toHaveURL(/\/search\?q=%E6%AD%8C%E6%9E%A0&tag=tag-001&sort=newest$/);
     await expect(page.getByText('1 件', { exact: true })).toBeVisible();
     await expect(page.getByRole('heading', { name: '歌枠 深夜 リクエスト 大会', level: 3 })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'recent search 歌枠 を再適用' })).toBeVisible();
+
+    await page.reload();
+    await expect(page).toHaveURL(/\/search\?q=%E6%AD%8C%E6%9E%A0&tag=tag-001&sort=newest$/);
     await expect(page.getByRole('button', { name: 'recent search 歌枠 を再適用' })).toBeVisible();
 
     await captureUi(page, testInfo, 'search-result');
