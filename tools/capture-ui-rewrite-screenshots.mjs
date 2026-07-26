@@ -34,6 +34,15 @@ async function capture(browser, screen, state, kind, prepare = async () => {}) {
   await context.close();
 }
 
+async function captureViewport(browser, screen, state, kind, prepare = async () => {}) {
+  const context = await browser.newContext({ viewport: viewports[kind] });
+  await context.addInitScript((value) => localStorage.setItem('diopside_consent_v1', JSON.stringify(value)), consent);
+  const page = await context.newPage();
+  await prepare(page);
+  await page.screenshot({ path: `${outputDir}/${screen}-${state}-${kind}.png`, fullPage: false });
+  await context.close();
+}
+
 async function both(browser, screen, state, prepare) {
   for (const kind of Object.keys(viewports)) await capture(browser, screen, state, kind, prepare);
 }
@@ -83,6 +92,11 @@ try {
   for (const [screen, path] of Object.entries({ home: '/', search: '/search', saved: '/saved', history: '/history', detail: '/videos/rY4A7Lxk12Q', terms: '/terms', privacy: '/privacy', 'not-found': '/not-defined', admin: '/admin' })) {
     await both(browser, screen, 'normal', await normalRoute(path));
   }
+  await captureViewport(browser, 'home', 'bottom-viewport', 'mobile', async (page) => {
+    await page.goto(`${baseURL}/`, { waitUntil: 'networkidle' });
+    await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+    await page.locator('.site-footer').waitFor();
+  });
   await both(browser, 'search', 'results', async (page) => {
     await page.goto(`${baseURL}/search`, { waitUntil: 'networkidle' });
     await page.getByRole('combobox', { name: 'キーワード' }).fill('雑談');
@@ -124,7 +138,7 @@ try {
     });
   }
   await browser.close();
-  console.log(`Captured ${Object.keys(viewports).length * 2 * 5 + 18 + 4 + 4 + 6} screenshots in ${outputDir}`);
+  console.log(`Captured ${Object.keys(viewports).length * 2 * 5 + 18 + 4 + 4 + 6 + 1} screenshots in ${outputDir}`);
 } finally {
   backend.kill('SIGTERM');
   frontend.kill('SIGTERM');

@@ -203,3 +203,30 @@ test('操作領域を実要素のbounding rectで測定する', async ({ page })
   // 3. アサーション
   expect(controls.filter((control) => control.width < 44 || control.height < 44), JSON.stringify(controls)).toEqual([]);
 });
+
+// カレンダーを開いた状態で、視覚セルと操作領域を別々に測定する。
+test('カレンダー日付セルの視覚寸法と操作領域を実要素で測定する', async ({ page }) => {
+  // 1. 初期化
+  await enableConsent(page);
+  const dialog = await openConditions(page);
+  await dialog.getByRole('button', { name: 'カレンダー' }).click();
+  const date = dialog.locator('.dio-calendar__row > button:not(:disabled)').first();
+
+  // 2. テストの実行
+  const dimensions = await date.evaluate((element) => {
+    const hitArea = element.getBoundingClientRect();
+    const visual = getComputedStyle(element, '::before');
+    return {
+      hitHeight: hitArea.height,
+      hitWidth: hitArea.width,
+      visualHeight: visual.height,
+      visualWidth: visual.width,
+    };
+  });
+
+  // 3. アサーション
+  expect(dimensions.visualWidth).toBe('40px');
+  expect(dimensions.visualHeight).toBe('40px');
+  expect(dimensions.hitWidth).toBeGreaterThanOrEqual(44);
+  expect(dimensions.hitHeight).toBeGreaterThanOrEqual(44);
+});

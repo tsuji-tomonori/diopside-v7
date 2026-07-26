@@ -628,18 +628,36 @@ a {
   border-radius:50%;
 }
 
-.dio-calendar__row>button.is-selected {
+.dio-calendar__row>button::before {
+  position:absolute;
+  z-index:0;
+  width:40px;
+  height:40px;
+  border-radius:50%;
+  content:'';
+}
+
+.dio-calendar__row>button > * {
+  position:relative;
+  z-index:1;
+}
+
+.dio-calendar__row>button.is-selected::before {
   background:var(--sumire-500);
+}
+
+.dio-calendar__row>button.is-selected {
   color:#fff;
 }
 
-.dio-calendar__row>button.is-in-range {
+.dio-calendar__row>button.is-in-range::before {
   border-radius:0;
   background:var(--sumire-100);
 }
 
 .dio-calendar__row i {
   position:absolute;
+  z-index:1;
   bottom:5px;
   width:4px;
   height:4px;

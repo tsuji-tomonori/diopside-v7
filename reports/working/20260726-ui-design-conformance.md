@@ -32,8 +32,9 @@
 | sidebar radius | 10px | 疑似要素のborder-top-left-radius 10px | 寸法を実要素のbounding rectと`::before`のcomputed styleで測定する | 適合 |
 | right panel幅 | 320px | 320px | 寸法を実要素のbounding rectで測定する | 適合 |
 | visible button/link | 44×44px以上 | 全件44×44px以上 | 操作領域を実要素のbounding rectで測定する | 適合 |
+| カレンダー日付セルの視覚寸法 / hit領域 | 視覚40×40px / 44×44px以上 | 疑似要素40×40px / 日付button矩形44×44px | カレンダーを開いた状態で、疑似要素のcomputed styleとbuttonのbounding rectを別々に測定する | 適合 |
 
-集計: 適合28、不適合0、未検証0、対象外0。
+集計: 適合29、不適合0、未検証0、対象外0。
 
 ## Phase 7c/7dの決着
 
@@ -41,8 +42,21 @@
 - `wireframes.md`をv1.1、`component-implementation.md`をv1.2へ更新し、PCサイドバーを「視覚背景h40/radius10、リンクのhit領域44px以上」と正本へ明記した。
 - mobile Chrome（Pixel 7、DPR 2.625）ではinput/chip/buttonの`getComputedStyle().borderTopWidth`が1pxを返した。一方、同一renderの`cssRules`は3要素とも1.5pxである。これはChromeがborder幅をdevice pixelへ丸めてcomputed値をserializeする測定環境の制約であり、CSS指定は正しいため適合とした。
 - sidebar radiusはdesktop Chromeで疑似要素の`border-top-left-radius`が10pxであることを直接測定した。
+- calendarは日付buttonを44×44pxのhit領域として保ち、`::before`の40×40pxを選択・範囲表示の視覚セルとして分離した。`カレンダー日付セルの視覚寸法と操作領域を実要素で測定する`は、条件パネルを開きcalendarへ切り替えた後に両方を直接測定する。
 
 ## 実行結果
+
+### Phase 8b（2026-07-26）
+
+| command | 実結果 |
+| --- | --- |
+| `cd frontend && npm run test:e2e` | 合格、終了コード0、40.3秒。desktop-chrome 30件、mobile-chrome 30件、計60件。calendarを開いた状態の視覚40×40px／button hit領域44×44px測定を両projectで含む。 |
+| `cd backend && .venv/bin/python -m pytest -q` | 合格、63 passed、2.95秒。 |
+| `task verify` | 合格、終了コード0。workspace typecheck、frontend 76 tests、infra 4 tests、workspace build、Ruff、Pyright、Mypy、architecture、docs、backend pytest 63件、contract、cost/quota、infra plan/synth、E2E（60 passed、40.3秒）がすべて完走。 |
+
+`task verify`は通常の実行セッションでは30秒で出力取得が途切れたため、同じcommandをPTYで継続して終了コード0まで確認した。これはtimeoutをpass扱いにしたものではなく、PTY実行の完走結果を記録している。
+
+### Phase 7d（2026-07-26、履歴）
 
 | command | 実結果 |
 | --- | --- |
@@ -67,4 +81,4 @@ Playwrightの既定並列workerはWSL2上でプロセスごとexit code 144でki
 | PRC-001, SCM-001, QUA-001 | pass | `playwright.config.ts`、`task verify`終了コード0、aggregate検証ログ | worker数を構成として固定し、実装・検証・記録を同じ変更単位で完結した | Playwright更新時は単一E2Eとaggregateを再実行 |
 | TST-801, MNT-001 | pass | `npm run test:e2e`終了コード0（58 passed、44.3秒）、`task verify`終了コード0（E2E 58 passed、39.8秒） | 全体E2Eとaggregate検証がともに終了コード0で完走し、保守変更の回帰範囲を直接確認した | UI変更時は指定6 commandをnarrowからaggregateへ再実行 |
 
-残余risk: 設計適合表は適合28、不適合0、未検証0、対象外0である。E2Eと`task verify`の完走を妨げていたWSL2の既定並列worker killは、worker数の明示で解消した。DPR 2.625環境のborder computed値は1pxへの丸めを受けるため、CSS指定1.5pxの確認にはcssRulesを併用する。
+Phase 7d時点の残余risk: 設計適合表は適合28、不適合0、未検証0、対象外0である。E2Eと`task verify`の完走を妨げていたWSL2の既定並列worker killは、worker数の明示で解消した。DPR 2.625環境のborder computed値は1pxへの丸めを受けるため、CSS指定1.5pxの確認にはcssRulesを併用する。Phase 8bの最新集計は上記の適合29、不適合0、未検証0である。
