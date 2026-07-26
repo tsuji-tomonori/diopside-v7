@@ -43,4 +43,15 @@ jobs:
       - run: npm test -w @diopside/infra
       - run: npm run synth -w @diopside/infra
       - run: npx playwright install --with-deps chromium
-      - run: npm run test:e2e -w frontend
+      - name: Run browser E2E
+        run: npm run test:e2e -w frontend
+      - name: Upload Playwright report and UI screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-e2e-${{ github.run_id }}
+          path: |
+            frontend/playwright-report/
+            frontend/test-results/
+          if-no-files-found: warn
+          retention-days: 14
