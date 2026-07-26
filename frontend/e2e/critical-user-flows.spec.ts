@@ -54,10 +54,15 @@ async function seedConsent(page: Page): Promise<void> {
 }
 
 async function captureUi(page: Page, testInfo: TestInfo, name: string): Promise<void> {
+  const isMobile = testInfo.project.name.includes('mobile');
+  if (isMobile) {
+    await page.evaluate(() => window.scrollTo(0, 0));
+  }
+
   const screenshotPath = testInfo.outputPath(`${testInfo.project.name}-${name}.png`);
   await page.screenshot({
     path: screenshotPath,
-    fullPage: true,
+    fullPage: !isMobile,
     animations: 'disabled',
   });
   await testInfo.attach(`${testInfo.project.name}-${name}`, {
