@@ -1,17 +1,17 @@
 # diopside デザインシステム
 
 - 文書ID: DIO-DESIGN-001
-- 版: v1.1
+- 版: v1.2
 - 状態: UI design systemの正本
-- 更新日: 2026-07-11
+- 更新日: 2026-07-26
 - 移植元: `.workspace/diopside デザイン仕様書 (standalone).html`
 - 製品scope: [docs/spec/10.use-cases-personas-value.md](../spec/10.use-cases-personas-value.md)
 - 要件: [docs/spec/20.requirements-definition.md](../spec/20.requirements-definition.md)
 - UI仕様: [docs/spec/22.system-specifications.md](../spec/22.system-specifications.md)
 - ベース: ワイヤー 6b(PCサイドバー)+ 5a(検索・条件UI)+ 4a(統合検索フロー)
-- トークン実体: `apps/web/assets/css/main.css` の `@theme`
+- トークン実体: `frontend/src/styles.css` の CSS custom properties
 
-本文書がtoken、component、responsive、interaction、accessibilityのtarget正本である。要求／画面flowは`docs/spec`、実装値はCSS tokenを参照し、差がある場合はcurrent implementationをtarget仕様へ合わせるか、本文書を明示的にversion updateする。現行の44px、keyboard、live region、focus return差は`GAP-FE-A11Y-001`で追跡する。
+本文書がtoken、component、responsive、interaction、accessibilityのtarget正本である。要求／画面flowは`docs/spec`、実装値はCSS tokenを参照し、差がある場合はcurrent implementationをtarget仕様へ合わせるか、本文書を明示的にversion updateする。2026-07-26のPhase 4で44px hit area、keyboard、live region、focus returnをdesktop/mobile Chrome E2Eと主要3 routeのaxeで確認し、`GAP-FE-A11Y-001`をresolvedの実証へ更新した。
 
 ## 1. デザイン原則
 
@@ -75,15 +75,15 @@ Material Symbols(Iconify `@iconify-json/material-symbols`、outlined 系)。サ�
 | 仕様書 §                | Target component contract                                                                                                         | Current implementation／status                                              |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 6.1 ボタン              | primary h48/radius12(1画面1つ)・secondary 枠1.5px・text                                                                           | 各 画面 内                                                                |
-| 6.2 チップ4種＋選択状態 | 選択可（selected stateあり）/ 適用中(removable) / 追加(dashed) / アクション(バッジ付き)                                           | `components/dio/DioChip.vue`                                                |
-| 6.3 検索バー            | 自然言語+タグトークン、h44/radius14                                                                                               | `components/dio/SearchBar.vue`                                              |
-| 6.4 サジェスト          | 最大4行=タグ≤2+日付≤1+キーワード1、行h44                                                                                          | `components/dio/SuggestList.vue` + `shared/search/suggest.ts`               |
-| 6.5 条件行(sticky)      | 条件ゼロ=追加チップ3種、適用後=removable+条件(n)                                                                                  | `components/dio/ConditionRow.vue`                                           |
-| 6.6 条件シート/右パネル | mobile ボトムシート / PC 右パネル w320、3セクション固定、CTA 件数ライブ                                                           | `components/dio/ConditionSheet.vue` + `ConditionPanel.vue`                  |
-| 6.7 レンジスライダー    | 0〜5h+、15分スナップ、上限振り切り=上限なし                                                                                       | `components/dio/LengthSlider.vue`                                           |
-| 6.8 カレンダー          | 2タップ範囲選択、配信ドット、visual cell 40px／hit area 44px以上、未来日disabled                                                  | `components/dio/RangeCalendar.vue`のhit areaはcurrent 40px。GAP-FE-A11Y-001 |
-| 6.9 動画カード          | リスト行(サムネ120×68)/ グリッドカード、タグ最大2、チャット数は集計がある動画のみ                                                 | `components/dio/VideoListItem.vue` / `VideoGridCard.vue` / `VideoThumb.vue` |
-| 6.10 ナビゲーション     | mobile 下タブ4項目 h56+safe-area / PC サイドバー w220。targetは未認証時に「管理」を表示しない。current disabled表示はGAP-AUTH-001 | `components/dio/AppShell.vue`                                               |
+| 6.2 チップ4種＋選択状態 | 選択可（selected stateあり）/ 適用中(removable) / 追加(dashed) / アクション(バッジ付き)                                           | `frontend/src/components/ui/Chip.tsx`                                       |
+| 6.3 検索バー            | 自然言語+タグトークン、h44/radius14                                                                                               | `frontend/src/components/ui/SearchBar.tsx`                                  |
+| 6.4 サジェスト          | 最大4行=タグ≤2+日付≤1+キーワード1、行h44                                                                                          | `frontend/src/components/ui/SuggestList.tsx` + `lib/search.ts`              |
+| 6.5 条件行(sticky)      | 条件ゼロ=追加チップ3種、適用後=removable+条件(n)                                                                                  | `frontend/src/components/ui/ConditionRow.tsx`                               |
+| 6.6 条件シート/右パネル | mobile ボトムシート / PC 右パネル w320、3セクション固定、CTA 件数ライブ                                                           | `frontend/src/components/ui/ConditionSheet.tsx` + `ConditionPanel.tsx`      |
+| 6.7 レンジスライダー    | 0〜5h+、15分スナップ、上限振り切り=上限なし                                                                                       | `frontend/src/components/ui/LengthSlider.tsx`                               |
+| 6.8 カレンダー          | 2タップ範囲選択、配信ドット、visual cell 40px／hit area 44px以上、未来日disabled                                                  | `frontend/src/components/ui/RangeCalendar.tsx`（button hit area 44px）     |
+| 6.9 動画カード          | リスト行(サムネ120×68)/ グリッドカード、タグ最大2、チャット数は集計がある動画のみ                                                 | `frontend/src/components/ui/VideoListItem.tsx` / `VideoGridCard.tsx`        |
+| 6.10 ナビゲーション     | mobile 下タブ4項目 h56+safe-area / PC サイドバー w220。targetは未認証時に「管理」を表示しない。                                   | `frontend/src/components/AppShell.tsx`                                      |
 
 ## 7. レイアウト・ブレークポイント
 

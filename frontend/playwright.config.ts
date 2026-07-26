@@ -3,6 +3,9 @@ import { defineConfig, devices } from '@playwright/test';
 export default defineConfig({
   testDir: './e2e',
   fullyParallel: false,
+  // WSL2ではデフォルト並列実行時にworkerプロセスがexit code 144でkillされるため、既定は直列実行とする。
+  // CIなど並列実行が安定している環境ではPLAYWRIGHT_WORKERSで明示的に上書きできる。
+  workers: process.env.PLAYWRIGHT_WORKERS ? Number.parseInt(process.env.PLAYWRIGHT_WORKERS, 10) : 1,
   retries: 0,
   reporter: 'line',
   use: {
