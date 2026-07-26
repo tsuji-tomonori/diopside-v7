@@ -1,4 +1,5 @@
 import { ContractErrorKind } from '@/lib/contract';
+import { Button } from '@/components/ui/Button';
 
 const labels: Record<ContractErrorKind, string> = {
   not_found: '公開データが見つかりません。',
@@ -20,7 +21,7 @@ export function DataErrorState({ kind, detail, retry }: Props) {
     <section className="status-card" role="alert">
       <h2>{labels[kind]}</h2>
       <p>{detail}</p>
-      <button type="button" onClick={retry}>再取得</button>
+      <Button type="button" onClick={retry}>再取得</Button>
     </section>
   );
 }

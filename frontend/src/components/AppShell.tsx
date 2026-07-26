@@ -1,17 +1,18 @@
 import { ReactNode, useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { storageErrorEvent } from '@/lib/storage';
+import { Icon, IconName } from '@/components/ui/Icon';
 
 interface AppShellProps {
   children: ReactNode;
 }
 
 const navItems = [
-  { label: 'ホーム', to: '/' },
-  { label: '検索', to: '/search' },
-  { label: '保存', to: '/saved' },
-  { label: '履歴', to: '/history' },
-];
+  { label: 'ホーム', to: '/', icon: 'home' },
+  { label: '検索', to: '/search', icon: 'search' },
+  { label: '保存', to: '/saved', icon: 'star' },
+  { label: '履歴', to: '/history', icon: 'history' },
+] as { label: string; to: string; icon: IconName }[];
 
 export function AppShell({ children }: AppShellProps) {
   const location = useLocation();
@@ -36,7 +37,7 @@ export function AppShell({ children }: AppShellProps) {
               className={active === item.to ? 'is-active' : ''}
               to={item.to}
             >
-              {item.label}
+              <Icon name={item.icon} size={20} /><span>{item.label}</span>
             </Link>
           ))}
         </nav>
@@ -45,8 +46,8 @@ export function AppShell({ children }: AppShellProps) {
       <main className="main-content" id="main-content" tabIndex={-1}>
         {storageError ? (
           <div className="storage-alert" role="alert">
-            端末への保存に失敗しました。空き容量やブラウザ設定を確認してください。
-            <button type="button" onClick={() => setStorageError(false)}>閉じる</button>
+            <span>端末への保存に失敗しました。空き容量やブラウザ設定を確認してください。</span>
+            <button type="button" onClick={() => setStorageError(false)} aria-label="通知を閉じる"><Icon name="close" size={20}/></button>
           </div>
         ) : null}
         {children}
@@ -63,7 +64,7 @@ export function AppShell({ children }: AppShellProps) {
             to={item.to}
             className={active === item.to ? 'is-active' : ''}
           >
-            {item.label}
+            <Icon name={item.icon} size={20} /><span>{item.label}</span>
           </Link>
         ))}
       </nav>
