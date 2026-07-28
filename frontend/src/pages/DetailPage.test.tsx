@@ -149,7 +149,7 @@ describe('DetailPage', () => {
     expect(getAllByText('チャット')).toHaveLength(2);
     expect(getByText(/12,480件/)).toBeTruthy();
     expect(getByText(/2:00 · 開始/)).toBeTruthy();
-    expect(getByText('（信頼度: high）')).toBeTruthy();
+    expect(getByText('（信頼度: 高）')).toBeTruthy();
     expect(getByText('アーカイブ情報生成から作成 · 作成日: 2026/07/01 00:45')).toBeTruthy();
     expect(queryByText(/sourceUpdatedAt:/)).toBeNull();
   });

@@ -28,6 +28,12 @@ const artifactLabels = {
   wordcloud: 'ワードクラウド',
 } as const;
 
+const confidenceLabels = {
+  high: '高',
+  medium: '中',
+  low: '低',
+} as const;
+
 function formatSource(source: string): string {
   const labels: Record<string, string> = {
     live_chat_messages: 'ライブチャット',
@@ -284,7 +290,7 @@ export function DetailPage() {
                         <a href={`https://www.youtube.com/watch?v=${video.videoId}&t=${Math.max(item.atSec, 0)}s`} target="_blank" rel="noreferrer">
                           {formatTimestamp(item.atSec)} · {item.label}
                         </a>
-                        {item.confidenceLevel ? <span className="dio-caption">（信頼度: {item.confidenceLevel}）</span> : null}
+                        {item.confidenceLevel ? <span className="dio-caption">（信頼度: {confidenceLabels[item.confidenceLevel]}）</span> : null}
                       </li>
                     ))}
                   </ul>
