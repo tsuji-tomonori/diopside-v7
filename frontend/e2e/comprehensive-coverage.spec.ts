@@ -16,7 +16,7 @@ async function reproduceArtifactNotGenerated(page: import('@playwright/test').Pa
   const noArtifacts = {
     chat: false, comments: false, timestamps: false, wordcloudChat: false, wordcloudComments: false, wordcloudBoth: false,
   };
-  await page.route('**/data/releases/20260711-001/index.json', async (route) => {
+  await page.route('**/data/releases/20260729-001/index.json', async (route) => {
     const value = await (await route.fetch()).json();
     const video = value.videos.find((item: { videoId: string }) => item.videoId === 'rY4A7Lxk12Q');
     video.artifactFlags = noArtifacts;
@@ -24,7 +24,7 @@ async function reproduceArtifactNotGenerated(page: import('@playwright/test').Pa
     delete video.comments;
     await route.fulfill({ json: value });
   });
-  await page.route('**/data/releases/20260711-001/videos/rY4A7Lxk12Q.json', async (route) => {
+  await page.route('**/data/releases/20260729-001/videos/rY4A7Lxk12Q.json', async (route) => {
     const value = await (await route.fetch()).json();
     value.artifactFlags = noArtifacts;
     delete value.chat;
@@ -170,7 +170,7 @@ test('派生artifact未作成を0件と表示せずに区別する', async ({ pa
 
   // 3. アサーション
   await expect(page.getByText('派生データは未作成です')).toBeVisible();
-  await expect(page.getByText('未作成', { exact: true })).toHaveCount(4);
+  await expect(page.getByText('未作成', { exact: true })).toHaveCount(3);
   await expect(page.getByText('0件')).toHaveCount(0);
 });
 

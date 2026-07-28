@@ -32,6 +32,7 @@ function formatSource(source: string): string {
   const labels: Record<string, string> = {
     live_chat_messages: 'ライブチャット',
     timestamp_learner_v1: '自動抽出',
+    get_archives_info_v1: 'アーカイブ情報生成',
   };
 
   return labels[source] ?? '派生データ';
@@ -274,20 +275,21 @@ export function DetailPage() {
                 <h3>コメント</h3>
                 {artifact.comments ? <p>{formatCount(artifact.comments.totalCount)}件</p> : <p>未作成</p>}
               </section>
-              <section>
-                <h3>タイムスタンプ</h3>
-                {artifact.timestamps?.items?.length ? (
+              {artifact.timestamps?.items?.length ? (
+                <section>
+                  <h3>タイムスタンプ</h3>
                   <ul>
                     {artifact.timestamps.items.map((item, index) => (
                       <li key={`${item.atSec}-${index}`}>
                         <a href={`https://www.youtube.com/watch?v=${video.videoId}&t=${Math.max(item.atSec, 0)}s`} target="_blank" rel="noreferrer">
                           {formatTimestamp(item.atSec)} · {item.label}
                         </a>
+                        {item.confidenceLevel ? <span className="dio-caption">（信頼度: {item.confidenceLevel}）</span> : null}
                       </li>
                     ))}
                   </ul>
-                ) : <p>未作成</p>}
-              </section>
+                </section>
+              ) : null}
               <section>
                 <h3>ワードクラウド</h3>
                 {artifact.wordcloud && wordcloudImage ? <img alt="wordcloud" className="detail-wordcloud" src={wordcloudImage} /> : <p>未作成</p>}

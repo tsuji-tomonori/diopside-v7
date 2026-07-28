@@ -110,7 +110,7 @@ describe('DetailPage', () => {
     await waitFor(() => expect(getByText('派生データは未作成です')).toBeTruthy());
 
     // 3. アサーション
-    expect(getAllByText('未作成')).toHaveLength(4);
+    expect(getAllByText('未作成')).toHaveLength(3);
     expect(queryByText('0件')).toBeNull();
   });
 
@@ -137,7 +137,7 @@ describe('DetailPage', () => {
         coverageStart: '2026-06-30T22:10:00Z', coverageEnd: '2026-07-01T00:43:00Z', completeFromStart: true, sourceUpdatedAt: '2026-06-30T22:12:00Z',
       },
       chat: { totalCount: 12480, source: 'live_chat_messages', generatedAt: '2026-07-01T00:45:00Z', status: 'ready' },
-      timestamps: { items: [{ atSec: 120, label: '開始' }], source: 'timestamp_learner_v1', generatedAt: '2026-07-01T00:45:00Z', status: 'ready' },
+      timestamps: { items: [{ atSec: 120, label: '開始', confidenceLevel: 'high' }], source: 'get_archives_info_v1', generatedAt: '2026-07-01T00:45:00Z', status: 'ready' },
     });
     const { getAllByText, getByText, queryByText } = renderPage();
 
@@ -149,6 +149,8 @@ describe('DetailPage', () => {
     expect(getAllByText('チャット')).toHaveLength(2);
     expect(getByText(/12,480件/)).toBeTruthy();
     expect(getByText(/2:00 · 開始/)).toBeTruthy();
+    expect(getByText('（信頼度: high）')).toBeTruthy();
+    expect(getByText('アーカイブ情報生成から作成 · 作成日: 2026/07/01 00:45')).toBeTruthy();
     expect(queryByText(/sourceUpdatedAt:/)).toBeNull();
   });
 

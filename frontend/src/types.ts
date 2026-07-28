@@ -137,6 +137,7 @@ export interface VideoDetailTimestampItem {
   atSec: number;
   label: string;
   confidence?: number;
+  confidenceLevel?: 'high' | 'medium' | 'low';
 }
 
 export interface VideoDetailArtifact {

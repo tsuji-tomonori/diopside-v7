@@ -26,12 +26,12 @@ describe('契約の読み込み', () => {
     // 2. テストの実行
     const results = [
       latestReleaseSchema.safeParse(read('latest.json')),
-      releaseIndexSchema.safeParse(read('releases/20260711-001/index.json')),
-      searchIndexSchema.safeParse(read('releases/20260711-001/search-index.json')),
-      tagIndexSchema.safeParse(read('releases/20260711-001/tag-index.json')),
-      taxonomySchema.safeParse(read('releases/20260711-001/tag-taxonomy.json')),
-      aliasSchema.safeParse(read('releases/20260711-001/tag-alias-index.json')),
-      videoDetailSchema.safeParse(read('releases/20260711-001/videos/rY4A7Lxk12Q.json')),
+      releaseIndexSchema.safeParse(read('releases/20260729-001/index.json')),
+      searchIndexSchema.safeParse(read('releases/20260729-001/search-index.json')),
+      tagIndexSchema.safeParse(read('releases/20260729-001/tag-index.json')),
+      taxonomySchema.safeParse(read('releases/20260729-001/tag-taxonomy.json')),
+      aliasSchema.safeParse(read('releases/20260729-001/tag-alias-index.json')),
+      videoDetailSchema.safeParse(read('releases/20260729-001/videos/rY4A7Lxk12Q.json')),
     ];
 
     // 3. アサーション
@@ -92,7 +92,7 @@ describe('契約の読み込み', () => {
     latest.purgeTrigger = 'deletion:test';
 
     const index = JSON.parse(
-      readFileSync(path.join(publicRoot, 'releases/20260711-001/index.json'), 'utf8'),
+      readFileSync(path.join(publicRoot, 'releases/20260729-001/index.json'), 'utf8'),
     );
     index.releaseMode = 'compliance_purge';
     delete index.taxonomyVersion;
