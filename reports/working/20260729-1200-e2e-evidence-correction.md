@@ -10,7 +10,7 @@
 
 `npm run typecheck -w frontend`: pass。
 
-`npm test -w frontend -- --run`: 26 files、77 tests passed。
+`npm test -w frontend -- --run`の実行結果: 26ファイル、77件が成功。
 
 `npm run build -w frontend`: pass。
 
