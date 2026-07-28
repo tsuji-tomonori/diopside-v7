@@ -25,6 +25,7 @@ test('色を実要素のcomputed styleで測定する', async ({ page }) => {
   await enableConsent(page);
   const dialog = await openConditions(page);
   await dialog.getByRole('button', { name: '雑談' }).click();
+  await page.mouse.move(0, 0);
 
   // 2. テストの実行
   const colors = {

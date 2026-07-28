@@ -112,6 +112,7 @@ test('条件dialogは背景クリックとfocus trapに対応しslider範囲を�
   const min = dialog.getByRole('slider', { name: '長さの下限' });
   const max = dialog.getByRole('slider', { name: '長さの上限' });
   await min.press('End');
+  await expect(min).toHaveValue('300');
   await max.press('Home');
   // 3. アサーション
   await expect(min).toHaveValue('300');

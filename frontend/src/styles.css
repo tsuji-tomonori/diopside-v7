@@ -427,6 +427,10 @@ a {
   gap:12px;
 }
 
+.dio-home-page__mobile-videos>.dio-video-list-item {
+  min-width:0;
+}
+
 .dio-home-page__videos {
   display:none;
 }
@@ -514,21 +518,38 @@ a {
 .dio-sheet-backdrop {
   position:fixed;
   z-index:30;
-  inset:0;
-  display:grid;
-  align-items:end;
+  top:auto;
+  right:0;
+  bottom:0;
+  left:0;
+  display:flex;
+  height:100vh;
+  height:100dvh;
+  align-items:flex-end;
   background:rgba(33,29,43,.35);
 }
 
 .dio-condition-sheet {
+  position:fixed;
+  top:calc(100vh - min(90vh,640px));
+  top:calc(100dvh - min(90dvh,640px));
   display:grid;
-  grid-template-rows:auto auto 1fr auto;
+  align-self:flex-end;
+  flex:none;
+  grid-template-rows:auto auto minmax(0,1fr) auto;
+  width:100%;
+  min-width:0;
+  max-width:100vw;
+  height:min(90vh,640px);
+  height:min(90dvh,640px);
   max-height:90vh;
+  max-height:90dvh;
   padding:8px 16px 16px;
   background:var(--surface);
   border-radius:20px 20px 0 0;
   box-shadow:var(--elevation-2);
   animation:sheet-in 240ms ease-out;
+  overflow:hidden;
 }
 
 .dio-sheet-handle {
@@ -556,7 +577,10 @@ a {
 }
 
 .dio-condition-sheet__body {
-  overflow:auto;
+  min-width:0;
+  min-height:0;
+  overflow-x:hidden;
+  overflow-y:auto;
   padding:8px 0;
 }
 
@@ -571,6 +595,7 @@ a {
 /* Calendar */
 .dio-calendar {
   display:grid;
+  min-width:0;
   gap:4px;
 }
 
@@ -603,6 +628,7 @@ a {
 .dio-calendar__week,
 .dio-calendar__row {
   display:grid;
+  min-width:0;
   grid-template-columns:repeat(7,1fr);
   text-align:center;
 }
@@ -621,7 +647,7 @@ a {
   position:relative;
   display:grid;
   place-items:center;
-  min-width:44px;
+  min-width:0;
   min-height:44px;
   border:0;
   background:transparent;
@@ -666,6 +692,7 @@ a {
 }
 
 .dio-video-list-item,.dio-video-grid-card,.video-card {
+  min-width:0;
   background:var(--surface);
   border:1px solid var(--line);
   border-radius:12px;
@@ -678,6 +705,10 @@ a {
   padding:8px;
   color:inherit;
   text-decoration:none;
+}
+
+.dio-video-list-item>a>span:last-child {
+  min-width:0;
 }
 
 .dio-video-grid-card>a {
@@ -1063,7 +1094,10 @@ to {
 }
 
 .dio-condition-panel .dio-condition-sheet {
+  position:static;
+  top:auto;
   width:min(320px,100vw);
+  height:100%;
   max-height:none;
   border-radius:0;
   animation:none;

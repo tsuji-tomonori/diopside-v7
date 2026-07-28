@@ -1,4 +1,4 @@
-import { KeyboardEvent, ReactNode, useEffect, useRef } from 'react';
+import { KeyboardEvent, ReactNode, useLayoutEffect, useRef } from 'react';
 
 import { Icon } from './Icon';
 
@@ -29,20 +29,24 @@ export function ConditionSheet({
   const triggerRef = useRef<HTMLElement | null>(null);
   const wasOpenRef = useRef(false);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (open) {
       triggerRef.current = document.activeElement as HTMLElement;
       wasOpenRef.current = true;
-      window.setTimeout(() => {
-        sheetRef.current?.querySelector<HTMLElement>(focusableSelector)?.focus();
-        if (!initialSection) {
-          return;
+      sheetRef.current?.focus({ preventScroll: true });
+      if (!initialSection) {
+        return;
+      }
+      const section = sheetRef.current?.querySelector<HTMLElement>(`#${initialSection}`);
+      const body = sheetRef.current?.querySelector<HTMLElement>('.dio-condition-sheet__body');
+      if (section && body) {
+        const top = Math.max(0, section.offsetTop - body.offsetTop - 8);
+        if (top > 0) {
+          body.scrollTo({ top });
         }
-        const section = sheetRef.current?.querySelector<HTMLElement>(`#${initialSection}`);
-        section?.scrollIntoView({ block: 'nearest' });
-        section?.classList.add('is-highlighted');
-        window.setTimeout(() => section?.classList.remove('is-highlighted'), 1200);
-      }, 0);
+      }
+      section?.classList.add('is-highlighted');
+      window.setTimeout(() => section?.classList.remove('is-highlighted'), 1200);
       return;
     }
 
@@ -102,6 +106,7 @@ export function ConditionSheet({
         onKeyDown={handleKeyDown}
         ref={sheetRef}
         role="dialog"
+        tabIndex={-1}
       >
         <div className="dio-sheet-handle" />
         <header>

@@ -30,7 +30,7 @@
 | `npm run typecheck -w frontend` | 合格 |
 | `npm test -w frontend -- --run` | 合格: 26ファイル、77件 |
 | `npm run build -w frontend` | 合格 |
-| `task verify` | 合格: frontend 77件、infra 4件、backend 65件、契約検証、CDK synth、desktop/mobile E2Eを含む |
+| `task verify` | 失敗: 9 failed、51 passed。利用者実測でE2Eが失敗した。 |
 | `git diff --check` | 合格 |
 
 ## KAセルフチェック
@@ -41,7 +41,7 @@
 | MGT-060 | pass | force手順、検索test | 上書きと回帰のriskを制御した | なし |
 | PRC-001 | pass | script、data、frontend、test | 定義した修正工程を実行した | なし |
 | SCM-001 | pass | runbook、release差分 | 再生成可能な構成を記録した | なし |
-| QUA-001 | pass | `task verify` | 集約品質検証を実行した | なし |
+| QUA-001 | fail | 利用者実測の`task verify`: 9 failed、51 passed | E2E失敗が残っており集約品質検証は合格していない | E2E修正後に再実行する |
 | REQ-102 | pass | 実release検索test、画面test | 要求の検索可能性と日本語表示を確認した | なし |
 | DES-001 | pass | tokenizerと表示写像 | frontend規則に合わせた詳細設計を実装した | なし |
 | CON-080 | pass | script、contract verifier | 再生成後の公開contractを検証した | なし |

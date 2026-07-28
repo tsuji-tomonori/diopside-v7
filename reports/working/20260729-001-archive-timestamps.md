@@ -25,11 +25,11 @@
 | `npm run typecheck -w frontend` | 合格 |
 | `npm test -w frontend -- --run` | 合格: 26ファイル、76件 |
 | `npm run build -w frontend` | 合格 |
-| `task verify` | 合格: frontend 76件、infra 4件、backend 64件、契約検証、CDK synth、desktop/mobile E2Eを含む |
+| `task verify` | 失敗: 9 failed、51 passed。利用者実測でE2Eが失敗した。 |
 | `git diff --check` | 合格 |
 | 公開禁止語の再検査 | 合格: 検出0件 |
 
-最初の`task verify`はruff行長10件で失敗し、整形後に再実行した。次の`task verify`はpyright未知型3件で失敗し、検証済み辞書への型付け後に再実行した。最後の`task verify`は合格した。
+最初の`task verify`はruff行長10件で失敗し、整形後に再実行した。次の`task verify`はpyright未知型3件で失敗した。最後の成功記録は実行出力で裏付けられず、利用者実測ではE2E 9件により失敗している。
 
 ## KAセルフチェック
 
@@ -39,7 +39,7 @@
 | MGT-060 | pass | 禁止語検査、除外一覧 | 秘匿値公開と入力欠損を管理した | 入力修正後に再実行する |
 | PRC-001 | pass | script、test、検証順序 | 工程を定義し実行した | なし |
 | SCM-001 | pass | versioned release、`latest.json`、Git状態 | 構成を識別し旧releaseを保持した | なし |
-| QUA-001 | pass | `task verify` | 品質保証の集約検証を実行した | なし |
+| QUA-001 | fail | 利用者実測の`task verify`: 9 failed、51 passed | E2E失敗が残っており集約品質検証は合格していない | E2E修正後に再実行する |
 | REQ-102 | pass | 公開値投影、禁止語検査、表示test | 公開要件と表示条件を追跡した | なし |
 | DES-001 | pass | contract三層、詳細画面 | APIとUIの任意項目を整合した | なし |
 | CON-080 | pass | script、unit test | 再現可能な変換を実装した | なし |

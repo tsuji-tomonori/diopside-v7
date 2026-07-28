@@ -22,6 +22,15 @@ async function openConditions(page: import('@playwright/test').Page) {
   return { dialog, trigger };
 }
 
+function localDateKey(offset: number): string {
+  const value = new Date();
+  value.setDate(value.getDate() + offset);
+  const year = value.getFullYear();
+  const month = String(value.getMonth() + 1).padStart(2, '0');
+  const day = String(value.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 // 全公開routeがconsole errorなしで表示されることを検証する。
 test('全公開routeをconsole errorなしで表示する', async ({ page }) => {
   const errors: string[] = [];
@@ -117,15 +126,9 @@ test('カレンダーはsheet内で範囲を確定し、未来日を選択でき
   await expect(dialog.locator('#tags')).toHaveCount(0);
   await expect(page).toHaveURL(/\/search(?:\?|$)/);
 
-  const today = new Date();
-  const dateKey = (offset: number) => {
-    const value = new Date(today);
-    value.setDate(value.getDate() + offset);
-    return value.toISOString().slice(0, 10);
-  };
-  const start = dateKey(-2);
-  const end = dateKey(-1);
-  const future = dateKey(1);
+  const start = localDateKey(-2);
+  const end = localDateKey(-1);
+  const future = localDateKey(1);
 
   await expect(dialog.locator(`[data-date="${future}"]`)).toBeDisabled();
   await dialog.locator(`[data-date="${start}"]`).click();
