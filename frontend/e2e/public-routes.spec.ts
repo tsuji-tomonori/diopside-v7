@@ -88,7 +88,11 @@ test('条件sheetまたはright panelはEscapeで閉じ、triggerへfocusを戻�
 
   if (testInfo.project.name === 'mobile-chrome') {
     await expect(dialog).toHaveClass(/dio-condition-sheet/);
-    await expect(page.locator('.dio-sheet-backdrop')).toHaveCSS('align-items', 'end');
+    const placement = await dialog.evaluate((element) => {
+      const bounds = element.getBoundingClientRect();
+      return { bottom: Math.round(bounds.bottom), viewportBottom: window.innerHeight };
+    });
+    expect(placement.bottom).toBe(placement.viewportBottom);
   } else {
     await expect(page.locator('.dio-condition-panel .dio-condition-sheet')).toBeVisible();
     await expect(page.locator('.dio-condition-panel .dio-condition-sheet')).toHaveCSS('width', '320px');
