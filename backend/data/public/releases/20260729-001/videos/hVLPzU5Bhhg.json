@@ -1,0 +1,75 @@
+{
+  "videoId": "hVLPzU5Bhhg",
+  "title": "【スプラトゥーン2】雑談しながらガチマ潜ってB帯あがりたイカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-22T13:48:18Z",
+  "duration": "PT32M12S",
+  "durationSec": 1932,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hVLPzU5Bhhg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:21:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雑談とスプラ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 208,
+        "label": "ブキ・ギアを整えてガチマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 389,
+        "label": "ガチマッチ① エリアに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 673,
+        "label": "ガチマッチ② マップと立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1117,
+        "label": "ガチマッチ③ 中央のラインを意識",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1353,
+        "label": "マップ理解とブキ・ギア相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1539,
+        "label": "ガチマッチ④ エリアで味方をカバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1847,
+        "label": "試合後の立ち回り振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

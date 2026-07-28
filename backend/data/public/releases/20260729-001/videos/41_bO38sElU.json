@@ -1,0 +1,120 @@
+{
+  "videoId": "41_bO38sElU",
+  "title": "【#にじスプラ大会】白雪巴視点。大会当日～極肆姉妹～【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-20T11:12:19Z",
+  "duration": "PT53M38S",
+  "durationSec": 3218,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/41_bO38sElU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:56:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会直前の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 131,
+        "label": "大会の進行と初戦の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 262,
+        "label": "ステージ・装備と役割を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 369,
+        "label": "大会試合を観戦しながら実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 947,
+        "label": "観戦後に試合内容と相性を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1184,
+        "label": "次のステージに向けた操作練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1316,
+        "label": "チームメンバーと大会・練習を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1562,
+        "label": "大会の進行確認とインタビュー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1721,
+        "label": "大会インタビューで意気込みを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2037,
+        "label": "作戦と武器を調整して初戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2184,
+        "label": "初戦のヤグラをチームでプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "試合後の反応と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2766,
+        "label": "大会参加への感謝と配信の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2846,
+        "label": "大会の振り返りとチームの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2952,
+        "label": "練習への感謝と今後の意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2992,
+        "label": "スーパーチャットを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3167,
+        "label": "配信終了の挨拶と次回のスプラ案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

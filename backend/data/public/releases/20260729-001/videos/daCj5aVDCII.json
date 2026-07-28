@@ -1,0 +1,120 @@
+{
+  "videoId": "daCj5aVDCII",
+  "title": "＃40【崩壊：スターレイル】オンパロス編。Ver.3.3ヒアンシー覚醒するのか…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-07-03T15:37:00Z",
+  "duration": "PT2H18M39S",
+  "durationSec": 8319,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/daCj5aVDCII/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:24:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音量調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 473,
+        "label": "制服ホタル鑑賞",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 991,
+        "label": "育成状況・本編準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1399,
+        "label": "前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2111,
+        "label": "宝探しの誘い・スティコシアへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3097,
+        "label": "丹恒とライコスの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3848,
+        "label": "ファイノンの訓練",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4199,
+        "label": "有愛の館で読書",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4949,
+        "label": "占いと運命の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5304,
+        "label": "ファイノンと覆面の一団",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5609,
+        "label": "ヒアンシーたちの場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6050,
+        "label": "アグライアを巡る緊迫の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6747,
+        "label": "過去をたどる回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7188,
+        "label": "スティコシアで宝探し再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7392,
+        "label": "ゲームを区切って感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7733,
+        "label": "今後の予定・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7872,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

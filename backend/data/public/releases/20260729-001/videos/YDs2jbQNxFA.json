@@ -1,0 +1,120 @@
+{
+  "videoId": "YDs2jbQNxFA",
+  "title": "【Splatoon3】行くぜ雪月シスターズ！！！ #にじスプラ祭り【海妹四葉/にじさんじ】",
+  "publishedAt": "2022-10-14T15:35:17Z",
+  "duration": "PT2H15M49S",
+  "durationSec": 8149,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YDs2jbQNxFA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T17:22:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "雪月シスターズ集合・練習開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 342,
+        "label": "最初のナワバリ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 599,
+        "label": "練習と雪月シスターズ結成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1027,
+        "label": "合流後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1332,
+        "label": "チームの役割と作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1449,
+        "label": "ギア選び・練習試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2280,
+        "label": "ナワバリ練習・武器の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3277,
+        "label": "ヤグラの立ち回りと練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4000,
+        "label": "ヤグラ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4176,
+        "label": "ヤグラで連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4514,
+        "label": "ホコのルール・練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5043,
+        "label": "アサリのルール・練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5762,
+        "label": "練習の振り返り・役割コーチング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6360,
+        "label": "最後の練習準備・ヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6960,
+        "label": "最後のホコ練習・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7384,
+        "label": "試合後の振り返り・散歩モード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "告知・練習の総括",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

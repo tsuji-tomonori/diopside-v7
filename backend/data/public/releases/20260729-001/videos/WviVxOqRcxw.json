@@ -1,0 +1,105 @@
+{
+  "videoId": "WviVxOqRcxw",
+  "title": "【メイドインワリオ】初見でおすそわける。ゲスト：白雪さん【にじさんじフミ】",
+  "publishedAt": "2021-10-05T14:22:30Z",
+  "duration": "PT1H1M51S",
+  "durationSec": 3711,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WviVxOqRcxw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 337,
+        "label": "ゲーム紹介・プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 497,
+        "label": "チュートリアル・初見プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1219,
+        "label": "隕石を反射するミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "次のステージを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1712,
+        "label": "ステージ2のミニゲームを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2229,
+        "label": "条件付きミニゲームに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2511,
+        "label": "ステージを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2704,
+        "label": "終盤のミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3011,
+        "label": "ゲームの進行と二人プレイの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3179,
+        "label": "続きのプレイとゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3297,
+        "label": "配信の感想とコラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3432,
+        "label": "今後の予定・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3643,
+        "label": "終了挨拶・チャンネル案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

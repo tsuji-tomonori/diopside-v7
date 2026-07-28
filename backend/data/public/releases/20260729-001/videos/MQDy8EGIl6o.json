@@ -1,0 +1,150 @@
+{
+  "videoId": "MQDy8EGIl6o",
+  "title": "【スプラトゥーン2】練習最終日。とにかく仕上げる！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-20T08:12:25Z",
+  "duration": "PT1H51M23S",
+  "durationSec": 6683,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MQDy8EGIl6o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T13:36:10.400521Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 353,
+        "label": "最初の練習マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 701,
+        "label": "試合後の振り返り・参加型準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 761,
+        "label": "参加型マッチ・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 988,
+        "label": "試合後の戦術レビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1103,
+        "label": "次の参加型マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1271,
+        "label": "参加型マッチ後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "練習バトル・立ち回り調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2461,
+        "label": "試合後の爆弾対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2608,
+        "label": "練習バトル・ボムへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2727,
+        "label": "練習戦後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2961,
+        "label": "練習バトル・中央の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3052,
+        "label": "チーム反省会・戦術調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3616,
+        "label": "新しい参加者チームの作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3950,
+        "label": "参加型バトル・中央と連携の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5104,
+        "label": "参加型バトル後のデブリーフ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5374,
+        "label": "追加の練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5534,
+        "label": "基本に戻るコーチング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5905,
+        "label": "参加者への感謝・追加プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6195,
+        "label": "最終振り返り・次の練習計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "最後の練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6448,
+        "label": "練習終了・参加者へのお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6530,
+        "label": "本番に向けた告知・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

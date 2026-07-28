@@ -1,0 +1,85 @@
+{
+  "videoId": "0lIk2Ok83d4",
+  "title": "にじさんじ4周年ライブDay1組でオンコラボ！！【おしゃべりとお絵かき伝言ゲーム】",
+  "publishedAt": "2022-01-22T11:25:16Z",
+  "duration": "PT1H17M55S",
+  "durationSec": 4675,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0lIk2Ok83d4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T21:31:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 347,
+        "label": "4周年ライブの練習裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1900,
+        "label": "お絵描き伝言ゲームのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1978,
+        "label": "第1ラウンド・お絵描き開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2785,
+        "label": "第1ラウンド・結果発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3255,
+        "label": "第2ラウンド・お絵描き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "第2ラウンド・結果発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4426,
+        "label": "結果を振り返り・8人の一体感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4470,
+        "label": "グッズ・翌日のライブ振り返り案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4600,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

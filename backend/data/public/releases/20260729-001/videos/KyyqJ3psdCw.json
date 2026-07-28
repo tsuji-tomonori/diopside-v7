@@ -1,0 +1,90 @@
+{
+  "videoId": "KyyqJ3psdCw",
+  "title": "【WE WERE HERE Too】コミュ力が試される！？謎解き協力アドベンチャーゲーム＃２【来栖夏芽/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-09T14:09:15Z",
+  "duration": "PT2H48M14S",
+  "durationSec": 10094,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KyyqJ3psdCw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:06:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "最初の部屋で騎士像を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2719,
+        "label": "動物と人物の特徴を見比べる謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "ステンドグラスの肖像を組み合わせる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4196,
+        "label": "次の部屋の扉・肖像・手がかりを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5104,
+        "label": "動くブロックのルールを探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "迷路のルール説明と初挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7689,
+        "label": "迷路を再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9171,
+        "label": "迷路の終盤と次の謎解きへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9457,
+        "label": "額縁の模様を見比べる謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9928,
+        "label": "エンディング・告知と振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "Oq6BZEyCMEQ",
+  "title": "#最終回【SILENT HILL2】サイレントヒル2を布教したいお姉さんのリメイク版実況【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-22T18:12:46Z",
+  "duration": "PT4H55M5S",
+  "durationSec": 17705,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Oq6BZEyCMEQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T23:22:42.172Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 619,
+        "label": "レイクビューホテル・探索再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 899,
+        "label": "ホテルでの主要シーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1234,
+        "label": "ホテル1階の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2184,
+        "label": "ホテル2階の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2767,
+        "label": "図書室と鏡のパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "3階・客室周辺の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4938,
+        "label": "広間での戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5344,
+        "label": "地下・庭園の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6094,
+        "label": "従業員エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7202,
+        "label": "地下通路と所持品回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7756,
+        "label": "鏡のパズル・探索再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8323,
+        "label": "オルゴールのパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9123,
+        "label": "312号室への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9325,
+        "label": "312号室の主要シーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9742,
+        "label": "変貌したホテルの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10709,
+        "label": "炎の階段・主要シーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10973,
+        "label": "終盤の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11663,
+        "label": "終盤の回廊",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12013,
+        "label": "終盤の戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12899,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13266,
+        "label": "エンディング後の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13787,
+        "label": "クリア後の考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15738,
+        "label": "今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16717,
+        "label": "スーパーチャット・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

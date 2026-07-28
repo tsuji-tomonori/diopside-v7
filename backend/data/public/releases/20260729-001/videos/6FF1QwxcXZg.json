@@ -1,0 +1,120 @@
+{
+  "videoId": "6FF1QwxcXZg",
+  "title": "【マイクラ】お姉さん３人で深夜の××××‥♡#フルートイトイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-30T18:26:21Z",
+  "duration": "PT2H33M15S",
+  "durationSec": 9195,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6FF1QwxcXZg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:41:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "共有ハウスとナイトプールの計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 686,
+        "label": "建築候補地を探して移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1164,
+        "label": "候補地で資材集めと建築開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1843,
+        "label": "拠点整備と資材探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2603,
+        "label": "雪道の資材集めと拠点づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "動物・食料の準備とケーキ作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3630,
+        "label": "夜の探索と動物・資材の運搬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4512,
+        "label": "ナイトプールの案と3人の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "資材集めから朝の建築作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5487,
+        "label": "深夜の雑談とナイトプール作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6003,
+        "label": "画面酔い対策とメンバー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6498,
+        "label": "ナイトプールの内装を構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7150,
+        "label": "ベッドの材料集めと拠点整備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7804,
+        "label": "猫やラマを迎える準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8408,
+        "label": "プールと温泉の建築案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8796,
+        "label": "作業の区切りと今後のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9077,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

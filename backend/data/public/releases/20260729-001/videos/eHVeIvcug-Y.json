@@ -1,0 +1,110 @@
+{
+  "videoId": "eHVeIvcug-Y",
+  "title": "【スプラトゥーン2】三角関係‥‥え、えらべないよ‥‥！【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-14T10:02:58Z",
+  "duration": "PT2H36M50S",
+  "durationSec": 9410,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eHVeIvcug-Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:39:12.850804Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会に向けた作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 956,
+        "label": "最初の練習試合・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1369,
+        "label": "2試合目・装備と大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2242,
+        "label": "ガチホコの試合・立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2842,
+        "label": "ガチホコの試合・スペシャル運用を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3564,
+        "label": "ガチエリアの試合・武器を見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4738,
+        "label": "ナワバリで武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5226,
+        "label": "ガチエリアの試合・連携を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6028,
+        "label": "ガチエリアの試合・ゾーン維持",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7025,
+        "label": "延長練習・立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8179,
+        "label": "ガチエリアの試合・守りと打開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8761,
+        "label": "終盤の予定確認・試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8866,
+        "label": "終盤のガチエリア・作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9025,
+        "label": "ガチエリア・チーム連携で対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9324,
+        "label": "配信終了・感謝とコメント読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "jqEsNEoJ83U",
+  "title": "【バイオRE:3】殺意高めの強気ビビりでバイオプレイ#2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-04T18:54:44Z",
+  "duration": "PT2H58M29S",
+  "durationSec": 10709,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jqEsNEoJ83U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "地下鉄を目指して探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1183,
+        "label": "地下鉄ルートの謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1506,
+        "label": "ルート確定後の探索と装備整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2058,
+        "label": "施設の仕掛けと戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2662,
+        "label": "研究記録と装備の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "バッテリー施設を進み戦闘に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4352,
+        "label": "追跡者との戦闘と施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4845,
+        "label": "放送記録と戦闘準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5007,
+        "label": "追跡者戦の攻略を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6938,
+        "label": "電気設備の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7217,
+        "label": "戦闘区画の探索とイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7742,
+        "label": "イベントシーンと施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8204,
+        "label": "地下鉄へ戻り新たな区画へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8842,
+        "label": "会話シーンと次の任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9305,
+        "label": "警察署内の探索と遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10116,
+        "label": "記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10298,
+        "label": "部屋と金庫を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10481,
+        "label": "設備を確認してアイテム回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10620,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

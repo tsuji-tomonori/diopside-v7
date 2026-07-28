@@ -1,0 +1,120 @@
+{
+  "videoId": "yBYQ5GXgpBg",
+  "title": "【ポーカーチェイス】夜の女王のブラフ‥見抜けるかしら？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-29T14:14:14Z",
+  "duration": "PT3H1M16S",
+  "durationSec": 10876,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yBYQ5GXgpBg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 532,
+        "label": "ポーカーチェイスの説明・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 903,
+        "label": "ランク戦の序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2481,
+        "label": "ランク戦の追い上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3550,
+        "label": "ガチャとキャラクター選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4066,
+        "label": "キャラクター育成・進化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4845,
+        "label": "ランク戦へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5800,
+        "label": "対局を振り返り大会談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "ランク戦の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7831,
+        "label": "リスナー参加対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8402,
+        "label": "スパチャ読み・対局再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8437,
+        "label": "リスナー対戦の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9118,
+        "label": "参加者交代・最後の対局準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9176,
+        "label": "最後の対局",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10293,
+        "label": "終盤のポーカー戦略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10595,
+        "label": "終盤の勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10780,
+        "label": "エンディング・大会告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

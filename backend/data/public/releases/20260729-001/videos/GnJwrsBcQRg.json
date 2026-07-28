@@ -1,0 +1,110 @@
+{
+  "videoId": "GnJwrsBcQRg",
+  "title": "悪魔と朝飲酒を…… #10 ゲスト：なな湖【でびでび・でびる/なな湖】",
+  "publishedAt": "2022-04-08T02:30:14Z",
+  "duration": "PT1H14M58S",
+  "durationSec": 4498,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GnJwrsBcQRg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:51:36.609Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・朝飲酒企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 265,
+        "label": "新生活・就活の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 608,
+        "label": "模擬面接",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 986,
+        "label": "面接講評と活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1185,
+        "label": "北海道の食と旅行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1499,
+        "label": "思い出話と新企画の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1822,
+        "label": "滋賀・琵琶湖トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2046,
+        "label": "尊敬する人と考え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2292,
+        "label": "贈り物と写真の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "断捨離企画と服の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3075,
+        "label": "ディズニー作品・歌の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3416,
+        "label": "ディズニーランドの思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3695,
+        "label": "旅先のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "次回企画の告知・参加者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4315,
+        "label": "桜の写真と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

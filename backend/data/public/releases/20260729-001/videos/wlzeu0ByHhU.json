@@ -1,0 +1,120 @@
+{
+  "videoId": "wlzeu0ByHhU",
+  "title": "【暗示】話題の縦型ホラーゲームが激コワらしい【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-06T13:48:30Z",
+  "duration": "PT42M56S",
+  "durationSec": 2576,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wlzeu0ByHhU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:32:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・「暗示」の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 263,
+        "label": "ゲーム開始・赤い扉の階段",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 425,
+        "label": "階段に響く音と足音",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 666,
+        "label": "階段探索・中盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 780,
+        "label": "再起動・警告の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 898,
+        "label": "階段探索・再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1046,
+        "label": "階段の異変が深まる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1166,
+        "label": "終盤の階段探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1433,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1509,
+        "label": "ゲームプレイを続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1603,
+        "label": "もう一度、階段を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1695,
+        "label": "テープを探して終了判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1780,
+        "label": "ゲーム終了・配信予定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1895,
+        "label": "スパチャ読み・ホラーの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2304,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2337,
+        "label": "配信頻度と休養の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2488,
+        "label": "最後のおやすみ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

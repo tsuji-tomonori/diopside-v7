@@ -1,0 +1,110 @@
+{
+  "videoId": "NVrGI4thv9I",
+  "title": "【バイオRE:2】番外編The Ghost Survivorsを初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-05T12:26:09Z",
+  "duration": "PT2H11M48S",
+  "durationSec": 7908,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NVrGI4thv9I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 598,
+        "label": "最初のシナリオを開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1488,
+        "label": "最初のシナリオを再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2480,
+        "label": "次のシナリオの導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2695,
+        "label": "リハーサルで進み方を探る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3337,
+        "label": "再試行で突破を目指す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4046,
+        "label": "新しいシナリオの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4197,
+        "label": "新しいシナリオを攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4918,
+        "label": "攻略方針を見直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5042,
+        "label": "難易度を変えて再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5378,
+        "label": "装備を見直して再試行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5970,
+        "label": "長い再試行でルートを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6906,
+        "label": "リハーサルを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7040,
+        "label": "攻略手順を参考にルート進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7810,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

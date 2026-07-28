@@ -1,0 +1,120 @@
+{
+  "videoId": "1Dr9h37ezBo",
+  "title": "【サムネ講座】初心者が教えるサムネ作りのきほん【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-12T15:49:22Z",
+  "duration": "PT2H23M34S",
+  "durationSec": 8614,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1Dr9h37ezBo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:00:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・サムネ講座の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 542,
+        "label": "既存サムネ分解・素材の基本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 841,
+        "label": "キャンバス作成・背景編集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1281,
+        "label": "キャラクター画像の加工",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "文字入れと文字の装飾",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2079,
+        "label": "2つ目のタイトルとレイヤー合成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2778,
+        "label": "ゲーム配信サムネの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3309,
+        "label": "参加者の配置と見やすさ調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4430,
+        "label": "ペイント素材で仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4945,
+        "label": "ペイント素材を探して保存・読み込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6133,
+        "label": "ペイントの切り抜きと配置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7064,
+        "label": "グラデーションツールを使う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7258,
+        "label": "文字にグラデーションを付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7427,
+        "label": "講座の振り返りと保存",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7581,
+        "label": "透過画像の作り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7950,
+        "label": "素材選びと背景色の注意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8391,
+        "label": "色選択で背景を抜く・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "videoId": "PBm5owSirQY",
+  "title": "【#Crossick】お芝居好きVtuberが声優になろうで遊んでみた【白雪巴×健屋花那/にじさんじ】",
+  "publishedAt": "2020-08-23T14:00:11Z",
+  "duration": "PT28M1S",
+  "durationSec": 1681,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PBm5owSirQY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Crossick紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27,
+        "label": "ゲーム紹介・遊び方の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 166,
+        "label": "最初のオーディション・侍役の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 485,
+        "label": "中二病役のオーディション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 729,
+        "label": "悪の女幹部役に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 985,
+        "label": "大根ブラック役のオーディション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "サイボーグ主人公役の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1436,
+        "label": "ロボット役のオーディション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1579,
+        "label": "遊び方のアレンジと感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1605,
+        "label": "コラボの感想・今後の案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "rZsF_EDqR0E",
+  "title": "【FNAF VR】3DコラボでVRホラーチャレンジって本気？？【#らぶスノ/愛園 愛美/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-06T11:32:15Z",
+  "duration": "PT1H10M35S",
+  "durationSec": 4235,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rZsF_EDqR0E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3Dコラボの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 281,
+        "label": "ホラーゲーム紹介・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 535,
+        "label": "最初の警備プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 926,
+        "label": "プレイヤー交代・VR視点の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1094,
+        "label": "ピザ屋の警備とカメラ操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1596,
+        "label": "VRで遊ぶ怖さ・攻略相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1738,
+        "label": "覗き込みとキツネ対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1925,
+        "label": "足音を頼りに夜間警備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2190,
+        "label": "警備の振り返り・節電作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2464,
+        "label": "節電作戦で再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2857,
+        "label": "第三夜の警備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3325,
+        "label": "プレイ後の振り返り・再挑戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3660,
+        "label": "再挑戦・敵の動きを見張る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3986,
+        "label": "ゲーム後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4074,
+        "label": "コラボタグ・告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

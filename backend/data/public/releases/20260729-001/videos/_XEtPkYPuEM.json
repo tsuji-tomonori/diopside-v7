@@ -1,0 +1,230 @@
+{
+  "videoId": "_XEtPkYPuEM",
+  "title": "【ファッションドリーマー】自分好みのマイブランド服つくってみるわよ♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-17T19:14:14Z",
+  "duration": "PT5H56M57S",
+  "durationSec": 21417,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_XEtPkYPuEM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T02:56:08.407Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・マイブランド作りの目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 515,
+        "label": "プリーツスカートの色を決めて作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 823,
+        "label": "ドット柄ガウチョパンツを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1221,
+        "label": "型紙を解放して初期アイテムを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1889,
+        "label": "女性向けノースリーブを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2001,
+        "label": "ルームウェアとニットの色を比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2329,
+        "label": "ブランド服を試着して本命コーデを絞る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2767,
+        "label": "本命トップスとパジャマを仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3346,
+        "label": "ブランド服を着せて全身コーデを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3568,
+        "label": "靴下とブーツを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4179,
+        "label": "帽子とアクセサリーを整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4659,
+        "label": "メンズ服のポイント稼ぎを準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5001,
+        "label": "完成コーデを確認して画像を準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5168,
+        "label": "ルカット依頼でエレガント系コーデ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5826,
+        "label": "ピンク髪モデルの可愛い系コーデ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6555,
+        "label": "紫チェック系モデルをコーディネート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7394,
+        "label": "ワンピースを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8034,
+        "label": "メンズ向けトップスを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8783,
+        "label": "メンズトップスを色展開する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9441,
+        "label": "メンズパンツを揃える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10268,
+        "label": "女性向けアウターを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10443,
+        "label": "プリーツスカートとチェック系トップス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11015,
+        "label": "リボン付きショートパンツを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11382,
+        "label": "ロング・ストライプスカートを追加する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11846,
+        "label": "紫チェック系のルカット依頼に対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12927,
+        "label": "茶色・シンプル系の依頼を仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13941,
+        "label": "カジュアル依頼のコーデを完成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14679,
+        "label": "ショールームを見てルーム整理へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15236,
+        "label": "家具を買ってルーム配置を始める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15400,
+        "label": "ブランド服を展示してルームを整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16199,
+        "label": "水色好きの依頼をコーディネート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16484,
+        "label": "ピンク好きの依頼をコーディネート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16711,
+        "label": "緑・伝統柄・カジュアル系の依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17205,
+        "label": "緑髪モデルの制服風コーデ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17501,
+        "label": "白好きモデルの冬コーデ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18000,
+        "label": "グレー・シンプル系の依頼を仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18458,
+        "label": "フェミニンなメンズ依頼に合わせる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19572,
+        "label": "黄色系ルームウェアの依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21109,
+        "label": "配信の振り返り・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

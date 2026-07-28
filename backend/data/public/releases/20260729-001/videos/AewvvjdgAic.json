@@ -1,0 +1,110 @@
+{
+  "videoId": "AewvvjdgAic",
+  "title": "【スマブラSP】3回目スマブラ。CPUレベル9に勝てたらノルマ達成【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-24T06:34:17Z",
+  "duration": "PT1H55M41S",
+  "durationSec": 6941,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AewvvjdgAic/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スマブラの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 239,
+        "label": "アイテムの使い方と基本操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 607,
+        "label": "アイテムの効果を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1931,
+        "label": "CPUレベル9への挑戦を準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2005,
+        "label": "CPU戦スタート・アイテムを活用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "レベル9戦に向けてCPU戦を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3915,
+        "label": "難しいCPU戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4806,
+        "label": "対戦の振り返りとキャラ変更の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5420,
+        "label": "新しいキャラでレベル9戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5764,
+        "label": "後半のCPU戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6007,
+        "label": "最後の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "最後のCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6430,
+        "label": "ゲームの振り返り・練習ポイント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6625,
+        "label": "スマブラ運動会のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6663,
+        "label": "スパチャ読み・雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

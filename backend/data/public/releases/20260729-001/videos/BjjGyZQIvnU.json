@@ -1,0 +1,110 @@
+{
+  "videoId": "BjjGyZQIvnU",
+  "title": "【SUPER BOMBERMAN Ｒ２】ニンジャtomoe参上ナリ！逃げて隠れて漁夫の利すべし！！#にじさんじ6周年【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-03T13:17:13Z",
+  "duration": "PT1H59M1S",
+  "durationSec": 7141,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BjjGyZQIvnU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:43:22.525908Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "開幕戦・チームバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 787,
+        "label": "2試合目と作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1331,
+        "label": "次の対戦・チーム替えと準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2001,
+        "label": "声を掛け合うチームバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2483,
+        "label": "続くバトルと次ラウンド準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3164,
+        "label": "大人数チーム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3595,
+        "label": "位置取りを考えるチーム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4140,
+        "label": "パワーアップを使う対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4694,
+        "label": "終盤戦と最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5305,
+        "label": "最終ラウンド・第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5756,
+        "label": "最終ラウンド・第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6345,
+        "label": "最終試合・最後の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6709,
+        "label": "大会後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6920,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

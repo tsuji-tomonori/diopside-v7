@@ -1,0 +1,110 @@
+{
+  "videoId": "3oHSewE58BY",
+  "title": "声枯れてるけど少しだけお話し【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-09-08T15:17:39Z",
+  "duration": "PT1H53M50S",
+  "durationSec": 6830,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3oHSewE58BY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:36:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・充電トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 191,
+        "label": "夏芽ちゃん誕生日3Dライブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1012,
+        "label": "コーラス収録の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1581,
+        "label": "夏芽ちゃんとの支え合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1788,
+        "label": "声帯手術と休止の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1961,
+        "label": "グウェルさんの卒業発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2740,
+        "label": "夜王国の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3865,
+        "label": "初対面とデビュー当時",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4191,
+        "label": "夜王国の企画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4676,
+        "label": "残り1か月と今後の共演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5066,
+        "label": "ファンアートと夜王国のこれから",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5511,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6555,
+        "label": "残り1か月を見守る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6668,
+        "label": "今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6770,
+        "label": "おやすみのご挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

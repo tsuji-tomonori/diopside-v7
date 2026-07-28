@@ -1,0 +1,150 @@
+{
+  "videoId": "ayXNp9BJfRY",
+  "title": "【スプラトゥーン3】初見ガチヒーローモード攻略(裏)＆昇格戦！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-27T14:03:20Z",
+  "duration": "PT2H41M38S",
+  "durationSec": 9698,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ayXNp9BJfRY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T17:05:23.670Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・裏ステージと昇格戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 221,
+        "label": "初見の裏ステージ序盤攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1542,
+        "label": "壁塗り・イカロールの登りと再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2038,
+        "label": "風船ルートと攻略方針の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2955,
+        "label": "チェックポイント後の新ギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3263,
+        "label": "ヘビブロックのルート攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3976,
+        "label": "終点までの仕掛けルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4721,
+        "label": "裏ステージ最終戦・序盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5175,
+        "label": "最終戦の波を耐える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6006,
+        "label": "最終戦の湧き管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6521,
+        "label": "最終波のスペシャル対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6728,
+        "label": "高台を維持して最終戦を継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7048,
+        "label": "最終段階の敵に対処",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7296,
+        "label": "裏ステージの振り返りとログ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7523,
+        "label": "報酬確認・昇格戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7809,
+        "label": "昇格戦・最初のガチホコ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8043,
+        "label": "初戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8114,
+        "label": "昇格戦・次のガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8475,
+        "label": "試合後トーク・次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8575,
+        "label": "昇格戦・続くガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8832,
+        "label": "試合後トーク・配信告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9124,
+        "label": "スーパーチャット読みとゲーム雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9470,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

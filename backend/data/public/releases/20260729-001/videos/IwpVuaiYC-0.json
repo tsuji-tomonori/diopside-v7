@@ -1,0 +1,125 @@
+{
+  "videoId": "IwpVuaiYC-0",
+  "title": "【DbDカスタム】知らないパークが100個くらいある。【#ライブハック】",
+  "publishedAt": "2022-05-26T15:26:07Z",
+  "duration": "PT2H48M36S",
+  "durationSec": 10116,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IwpVuaiYC-0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:21:10Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 443,
+        "label": "第1試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 663,
+        "label": "第1試合・チェーンと箱の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1798,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2185,
+        "label": "第2試合・見慣れないキラーの能力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2962,
+        "label": "第2試合後の振り返り・パーク談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3301,
+        "label": "第3試合・一撃状態の能力を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3991,
+        "label": "第3試合後の振り返り・ゲーム調整談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4392,
+        "label": "第4試合・遠距離攻撃とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5224,
+        "label": "第4試合後の振り返り・ネメシス戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5638,
+        "label": "ネメシス戦・感染とゾンビ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6198,
+        "label": "ネメシス戦後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6811,
+        "label": "第6試合・箱の仕組みを実戦で確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7673,
+        "label": "第6試合後の振り返り・構成談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8392,
+        "label": "第7試合・狂乱を使うキラー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9799,
+        "label": "最終試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "参加者への感謝と締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10023,
+        "label": "告知・今後の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

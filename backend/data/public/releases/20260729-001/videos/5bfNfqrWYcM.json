@@ -1,0 +1,95 @@
+{
+  "videoId": "5bfNfqrWYcM",
+  "title": "【第一回】ローションだるまさんがころんだ【にじさんじ/愛園愛美/ドーラ/アンジュ・カトリーナ/ニュイ・ソシエール/白雪巴】",
+  "publishedAt": "2025-04-07T09:00:06Z",
+  "duration": "PT23M51S",
+  "durationSec": 1431,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5bfNfqrWYcM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:46:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画紹介・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 134,
+        "label": "ルール説明・投票方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 243,
+        "label": "フィールド準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 339,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 512,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 663,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 765,
+        "label": "第4試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 914,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1130,
+        "label": "投票・結果発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1219,
+        "label": "ご褒美紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1249,
+        "label": "参加者の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1360,
+        "label": "企画の振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "ae9v1iGyk-U",
+  "title": "【Minecraft】ひとりで挑戦！！！命がけのネザー＆地下探索【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-03T20:09:53Z",
+  "duration": "PT6H37M21S",
+  "durationSec": 23841,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ae9v1iGyk-U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:07:08.226525Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ネザー探索の計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 431,
+        "label": "探索ルートと装備の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2128,
+        "label": "出発・村人交易",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2702,
+        "label": "目標を立て直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3251,
+        "label": "村人交易とエンチャント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3962,
+        "label": "エンダーチェスト作成に向けた装備強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4988,
+        "label": "出発前のトラブルと雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5407,
+        "label": "装備のエンチャントと最終確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6314,
+        "label": "経験値集めとネザー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7503,
+        "label": "最終装備を整えて出発準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8341,
+        "label": "ネザーへ移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8707,
+        "label": "ネザー要塞で素材集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9211,
+        "label": "トラップ見学とシーランタン作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10150,
+        "label": "エンダーマントラップで経験値集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11038,
+        "label": "ボート挑戦とフロッグライトトラップ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12076,
+        "label": "資材サーバーと次の収集計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13043,
+        "label": "森で木材・苗木を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14129,
+        "label": "地下探索と粘土集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16642,
+        "label": "危険な地下採掘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17739,
+        "label": "帰路を探して黒曜石集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18951,
+        "label": "帰還とアイテム整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20284,
+        "label": "建材を集めて帰宅",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21000,
+        "label": "拠点整理と暖炉づくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21785,
+        "label": "暖炉の作業と安全確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23207,
+        "label": "振り返り・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -33,4 +33,4 @@ async def test_latest_contract() -> None:
 
     # 3. アサーション
     assert response.status_code == 200
-    assert response.json()["releaseId"] == "20260711-001"
+    assert response.json()["releaseId"] == "20260729-001"

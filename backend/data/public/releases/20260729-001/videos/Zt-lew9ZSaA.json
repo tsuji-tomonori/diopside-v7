@@ -1,0 +1,165 @@
+{
+  "videoId": "Zt-lew9ZSaA",
+  "title": "【白雪巴視点】私達ならきっと大丈夫‥！そうよね？│違う冬のぼくら/BOKURA【#女王と会長/にじさんじ】",
+  "publishedAt": "2023-04-16T13:41:31Z",
+  "duration": "PT8H5M28S",
+  "durationSec": 29128,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Zt-lew9ZSaA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:52:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 566,
+        "label": "プロローグ：冬の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1414,
+        "label": "山道の協力ギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3459,
+        "label": "不思議な世界へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3898,
+        "label": "二つの視点で進むパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5291,
+        "label": "家族の話と選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6997,
+        "label": "山道の仕掛けを再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8463,
+        "label": "二人の見え方を確かめる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8700,
+        "label": "犬の追跡と仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10577,
+        "label": "犬と協力して進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11890,
+        "label": "家の探索と世界の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12464,
+        "label": "過去の出来事と選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14119,
+        "label": "エレベーターの仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15684,
+        "label": "コピーを使うパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17710,
+        "label": "夕暮れの少年との出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18854,
+        "label": "頭と身体を分けるギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21412,
+        "label": "記号を使う装置",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21999,
+        "label": "数字箱のパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22898,
+        "label": "次の道を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23546,
+        "label": "終盤の山道パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25323,
+        "label": "山頂の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26258,
+        "label": "物語終盤の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26999,
+        "label": "エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 27548,
+        "label": "考察・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 28121,
+        "label": "ゲームの感想・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 28294,
+        "label": "雑談・スーパーチャット",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

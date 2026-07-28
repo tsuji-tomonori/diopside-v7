@@ -1,0 +1,105 @@
+{
+  "videoId": "ZBaDk4APdIA",
+  "title": "【unpacking】唐突に掃除がしたくなる夜ってあるわよね…🌟【白雪巴/にじさんじ】",
+  "publishedAt": "2026-03-25T16:09:53Z",
+  "duration": "PT2H26M16S",
+  "durationSec": 8776,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZBaDk4APdIA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T11:06:30.836Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 81,
+        "label": "オープニング・アルバム確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 367,
+        "label": "箱開け・各部屋を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1442,
+        "label": "寝室とクローゼットを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2891,
+        "label": "寝室と作業机の小物整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3365,
+        "label": "キッチンを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4228,
+        "label": "浴室を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4958,
+        "label": "残りの部屋を仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6318,
+        "label": "ステージ確認・ひと休み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6545,
+        "label": "箱開け・浴室とキッチン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6934,
+        "label": "寝室を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7748,
+        "label": "キッチンの仕上げ・ステージ確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8199,
+        "label": "プレイ後の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8584,
+        "label": "スーパーチャット・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "videoId": "fLNl3i-Hh7Q",
+  "title": "【#97 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-08-15T03:00:11Z",
+  "duration": "PT13M32S",
+  "durationSec": 812,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fLNl3i-Hh7Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 48,
+        "label": "オリンピックの話題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 115,
+        "label": "ARライブを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 206,
+        "label": "ゲスト紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 256,
+        "label": "ゲスト登場・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 315,
+        "label": "呼び名と学生時代のつながり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "名前の由来と外出エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 557,
+        "label": "小倉唯との買い物エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 593,
+        "label": "出演作とキャラクターの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 718,
+        "label": "出演作をきっかけにアニメ談義",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

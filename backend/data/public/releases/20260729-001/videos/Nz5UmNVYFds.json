@@ -1,0 +1,95 @@
+{
+  "videoId": "Nz5UmNVYFds",
+  "title": "【雑談】先出し告知！なんならカウントダウンしちゃお？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-01T15:42:37Z",
+  "duration": "PT1H26M13S",
+  "durationSec": 5173,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Nz5UmNVYFds/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4月の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 415,
+        "label": "SHUT-OUTデジタルリリース告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 712,
+        "label": "4月季節ボイス・オリジナル曲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1115,
+        "label": "4月の予定・新衣装とカバー曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1536,
+        "label": "花粉症・鼻炎薬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1951,
+        "label": "ノロウイルス体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "入院・手術の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3043,
+        "label": "3月のゲーム・ホラー作品の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3470,
+        "label": "SHUT-OUT配信開始・リリースを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3979,
+        "label": "スパチャ読み・4月の活動予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4598,
+        "label": "SHUT-OUT一周年と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5000,
+        "label": "新年度の雑談・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

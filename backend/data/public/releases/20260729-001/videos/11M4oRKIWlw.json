@@ -1,0 +1,120 @@
+{
+  "videoId": "11M4oRKIWlw",
+  "title": "【ロードモバイル】リスナー巻き込み全面対決！最強の軍隊を結成するわよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-15T14:52:44Z",
+  "duration": "PT59M43S",
+  "durationSec": 3583,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/11M4oRKIWlw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 189,
+        "label": "ゲーム概要と企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 348,
+        "label": "参加者の城を集合地点へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "連合と城の防衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 735,
+        "label": "建設・研究・育成の基本操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 846,
+        "label": "ストーリーモードとキャラクター紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1128,
+        "label": "ギルド名・タグ・エンブレム決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1523,
+        "label": "ギルド作成と参加者案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1711,
+        "label": "防衛シールドとギルド準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1984,
+        "label": "ギルドチャット・資源・ヘルプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2209,
+        "label": "闇の巣窟対決のルールと参加準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2532,
+        "label": "全面対決に向けた育成方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2587,
+        "label": "ストーリーモードで戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2871,
+        "label": "戦闘後の強化と出撃準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3049,
+        "label": "闇の巣窟へ出撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "ギルド設定を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3430,
+        "label": "次回対決の告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

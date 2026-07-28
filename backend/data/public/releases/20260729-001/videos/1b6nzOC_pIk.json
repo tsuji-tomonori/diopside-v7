@@ -1,0 +1,160 @@
+{
+  "videoId": "1b6nzOC_pIk",
+  "title": "【マリオカート8DX】大会当日に初めてマリカをプレイする白雪の一夜漬け練習【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-20T20:32:48Z",
+  "duration": "PT3H27M37S",
+  "durationSec": 12457,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1b6nzOC_pIk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:55:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オンライン対戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 598,
+        "label": "明日の大会とマリオカート経験の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 923,
+        "label": "大会番号を入力して参加者を募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1149,
+        "label": "初めての参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1819,
+        "label": "アシスト設定を試しながらレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2309,
+        "label": "ドリフト練習と大会部屋の再準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2931,
+        "label": "参加型レースを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3705,
+        "label": "新しい大会とリプレイで操作を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4226,
+        "label": "次のレースとジャンプアクション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4410,
+        "label": "部屋準備と朗読コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5039,
+        "label": "参加型レース・アシストなし走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5592,
+        "label": "ルール変更・部屋再作成と通信トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "参加型レースと上達の実感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6779,
+        "label": "リプレイでアシストとアイテムを学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7160,
+        "label": "離席中の雑談とノルマ達成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7520,
+        "label": "再集合後の参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8189,
+        "label": "マシンカスタムとレインボーロード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8673,
+        "label": "参加者交代・マシンカスタムと部屋調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9447,
+        "label": "練習レースと両手操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10175,
+        "label": "お酒マリカの案と操作指南",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10672,
+        "label": "深夜のレースと眠気",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11409,
+        "label": "終盤のレースと参加者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11815,
+        "label": "最後の参加者を募ってレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12038,
+        "label": "レース後の感謝・エンディング準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12315,
+        "label": "エンディング・翌日の大会告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

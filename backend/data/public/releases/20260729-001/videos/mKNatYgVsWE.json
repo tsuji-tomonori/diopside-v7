@@ -1,0 +1,110 @@
+{
+  "videoId": "mKNatYgVsWE",
+  "title": "【雑談】Vtuberあるあるなど…雑談ネタがたまってるので話させてーっ✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-25T16:00:36Z",
+  "duration": "PT2H37M54S",
+  "durationSec": 9474,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mKNatYgVsWE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:29:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況と雑談ネタ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 600,
+        "label": "海で毒魚に刺された話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1301,
+        "label": "毒魚の正体を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2052,
+        "label": "海の危険と弟のクラゲ話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2823,
+        "label": "VTuberあるある・ゲームアカウント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3222,
+        "label": "身バレとプライバシー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4423,
+        "label": "クレープ屋さんの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5034,
+        "label": "ファンミ特番の裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5484,
+        "label": "喉の治療と休養予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6064,
+        "label": "配信と生活のバランス・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6496,
+        "label": "クレープ屋さん再び・恋愛トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7313,
+        "label": "スーパーチャット読み・健康トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8346,
+        "label": "過去アーカイブと視聴者の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8549,
+        "label": "スーパーチャット読み後半・企画案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9317,
+        "label": "エンディング・次回予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

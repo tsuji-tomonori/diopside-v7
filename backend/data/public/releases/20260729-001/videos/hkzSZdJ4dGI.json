@@ -1,0 +1,175 @@
+{
+  "videoId": "hkzSZdJ4dGI",
+  "title": "文野環5周年記念　逆凸配信☆☆　【にじさんじ】",
+  "publishedAt": "2023-03-15T18:06:14Z",
+  "duration": "PT5H37M54S",
+  "durationSec": 20274,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hkzSZdJ4dGI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:51:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・5周年の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 300,
+        "label": "逆凸企画スタート・えなこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1322,
+        "label": "海外からの逆凸・英語と日本語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2481,
+        "label": "鈴鹿詩子との5周年トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3023,
+        "label": "後輩ライバーへの逆凸・思い出トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3889,
+        "label": "歌ってみた・2期生の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4476,
+        "label": "はじめとの5周年トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5294,
+        "label": "安土桃との雑談・企画相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7130,
+        "label": "虫眼鏡との活動トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7550,
+        "label": "尼崎との雑談・コラボ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8214,
+        "label": "ペトラとの国際交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9318,
+        "label": "周年の振り返り・企画相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10042,
+        "label": "はねるとの近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10565,
+        "label": "いちご・アリスとの6年目トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11411,
+        "label": "小野町はるかとの同期トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12100,
+        "label": "セミのコツを聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12666,
+        "label": "クリスマス会の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13615,
+        "label": "凸待ちの合間の雑談・5周年の気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14019,
+        "label": "大井隆晴との麻雀・5周年トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14491,
+        "label": "モイラとの初対面トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15106,
+        "label": "凸待ちの渋滞・参加者を待つ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15503,
+        "label": "フミとの5周年トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16076,
+        "label": "犬山たまきとの声似せトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16784,
+        "label": "周央サンゴとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17978,
+        "label": "音楽と納豆の思い出トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18494,
+        "label": "終盤の逆凸・5周年のお祝い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18720,
+        "label": "終盤の5周年トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19504,
+        "label": "3Dとこれからの活動・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

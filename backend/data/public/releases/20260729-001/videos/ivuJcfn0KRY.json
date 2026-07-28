@@ -1,0 +1,155 @@
+{
+  "videoId": "ivuJcfn0KRY",
+  "title": "＃09【ブルーアーカイブ】エデン条約編 3章後半。誰か…誰かたすけて…どうして【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-19T09:52:16Z",
+  "duration": "PT2H42M58S",
+  "durationSec": 9778,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ivuJcfn0KRY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:42:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 265,
+        "label": "エデン条約編3章後半を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1397,
+        "label": "物語の余韻と「楽園」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1875,
+        "label": "爆発後の状況整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2224,
+        "label": "緊急事態とトリニティの危機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2904,
+        "label": "アズサの決意とミカをめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3605,
+        "label": "ミカの告白とアリウスへの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4361,
+        "label": "補習授業部の再集結",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4767,
+        "label": "アズサとサオリの対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "仲間たちが加勢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5328,
+        "label": "ヒナの心情と先生との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5880,
+        "label": "ヒナの復帰と戦線の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6153,
+        "label": "タイトル回収と新たな条約",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "条約をめぐる対立と共闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6488,
+        "label": "生徒たちの総力戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6840,
+        "label": "楽園をめぐる対話と地下聖堂へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7207,
+        "label": "アズサとサオリの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "地下での戦闘・終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7875,
+        "label": "戦いの後とエピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8225,
+        "label": "帰還とそれぞれのこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8569,
+        "label": "後日談と次章予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8836,
+        "label": "配信後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9240,
+        "label": "スパチャ読みと物語の余韻",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9650,
+        "label": "次回予定・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

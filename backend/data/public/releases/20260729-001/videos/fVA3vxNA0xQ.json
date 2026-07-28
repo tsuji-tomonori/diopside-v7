@@ -1,0 +1,90 @@
+{
+  "videoId": "fVA3vxNA0xQ",
+  "title": "【うちには天使がいる！】これが「幸せ」なんだね【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-29T09:53:52Z",
+  "duration": "PT46M42S",
+  "durationSec": 2802,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fVA3vxNA0xQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 631,
+        "label": "ただいまルート・夕食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1021,
+        "label": "おはようルート・朝のやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1138,
+        "label": "行ってらっしゃいルート・朝食と見送り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1329,
+        "label": "おやすみルート・励ましの言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1617,
+        "label": "ゲーム終了・作者あとがきと感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1845,
+        "label": "再プレイで場面を見返す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2021,
+        "label": "誕生日ルート・特別な一日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2273,
+        "label": "ゲームの演出と怖さを考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2473,
+        "label": "再確認で見えるゲームの裏側",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "配信終了・今後の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

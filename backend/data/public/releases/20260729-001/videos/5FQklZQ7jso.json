@@ -1,0 +1,130 @@
+{
+  "videoId": "5FQklZQ7jso",
+  "title": "【#綺沙良と巴のほろ良い雑談】初めましてのドキドキセクシーコラボ💋【綺沙良/にじさんじ】",
+  "publishedAt": "2024-08-27T14:59:42Z",
+  "duration": "PT1H44M47S",
+  "durationSec": 6287,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5FQklZQ7jso/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:05:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "自己紹介・ほろ酔い雑談スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 368,
+        "label": "コラボのきっかけ・セクシー担当トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 622,
+        "label": "セクシーなお姉さんの魅力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 934,
+        "label": "大人っぽく見せる方法・身長差",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1460,
+        "label": "お酒の席を楽しむ方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "飲み過ぎを防ぐ話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2045,
+        "label": "お酒の失敗談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "ビールの苦味・味の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2905,
+        "label": "『鋼の錬金術師』トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3586,
+        "label": "ホラーゲーム経験・コラボ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3975,
+        "label": "本格ホラー・VR体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4256,
+        "label": "SMについての質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4605,
+        "label": "ドキッとする口説き文句",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4805,
+        "label": "リスナーのツンデレ・デレデレ傾向",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4938,
+        "label": "手の好み・手相の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5215,
+        "label": "コラボ・歌ってみたの構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5458,
+        "label": "言ってほしいセリフを考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5904,
+        "label": "セリフ実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6003,
+        "label": "スクショタイム・コラボ振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
