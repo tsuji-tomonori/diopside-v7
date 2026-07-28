@@ -26,7 +26,10 @@ def test_build_release_exports_only_approved_public_timestamp_values(tmp_path: P
             "videos": [
                 {
                     "videoId": "known",
-                    "title": "実動画",
+                    "title": (
+                        "【第五人格】脱下手プを目指して一から始めるアイデンティティ"
+                        "【白雪 巴/にじさんじ】"
+                    ),
                     "publishedAt": "2026-01-01T00:00:00Z",
                     "duration": "PT1M",
                     "durationSeconds": 60,
@@ -108,3 +111,46 @@ def test_build_release_exports_only_approved_public_timestamp_values(tmp_path: P
         ]["timestamps"]
         is True
     )
+    search = json.loads((tmp_path / "output" / "search-index.json").read_text(encoding="utf-8"))
+    assert search["videos"][1]["titleTokens"] == [
+        "第五人格",
+        "脱下手プを目指して一から始めるアイデンティティ",
+        "白雪",
+        "巴",
+        "にじさんじ",
+    ]
+    regenerated = build_release(
+        final_root=final_root,
+        manifest_path=manifest,
+        seed_release=seed,
+        output=tmp_path / "output",
+        release_id="release",
+        generated_at="2026-01-03T00:00:00Z",
+        force=True,
+    )
+    assert regenerated == result
+
+
+def test_build_release_replaces_only_explicit_force_output(tmp_path: Path) -> None:
+    """明示的なforce指定だけが既存の生成出力を再構築することを検証する。"""
+    # 1. 初期化
+    output = tmp_path / "output"
+    output.mkdir()
+
+    # 2. テストの実行
+    error: ValueError | None = None
+    try:
+        build_release(
+            final_root=tmp_path / "finals",
+            manifest_path=tmp_path / "manifest.json",
+            seed_release=tmp_path / "seed",
+            output=output,
+            release_id="release",
+            generated_at="2026-01-03T00:00:00Z",
+        )
+    except ValueError as caught:
+        error = caught
+
+    # 3. アサーション
+    assert error is not None
+    assert str(error) == f"output already exists: {output}"

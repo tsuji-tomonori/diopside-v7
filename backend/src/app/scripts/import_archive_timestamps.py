@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import shutil
+import unicodedata
 from collections.abc import Iterable
 from pathlib import Path
 from typing import Any, cast
@@ -117,10 +118,26 @@ def _index_record(
     }
 
 
+def _title_tokens(value: str) -> list[str]:
+    normalized = unicodedata.normalize("NFKC", value).lower()
+    tokens: list[str] = []
+    current: list[str] = []
+    for character in normalized:
+        if unicodedata.category(character).startswith(("L", "N")):
+            current.append(character)
+            continue
+        if current:
+            tokens.append("".join(current))
+            current = []
+    if current:
+        tokens.append("".join(current))
+    return tokens
+
+
 def _search_record(video: dict[str, Any]) -> dict[str, Any]:
     return {
         "videoId": video["videoId"],
-        "titleTokens": [video["title"]],
+        "titleTokens": _title_tokens(video["title"]),
         "sourceKind": video["sourceKind"],
         "metadataStatus": video["metadataStatus"],
         "publishedAt": video["publishedAt"],
@@ -144,9 +161,12 @@ def build_release(
     output: Path,
     release_id: str,
     generated_at: str,
+    force: bool = False,
 ) -> dict[str, Any]:
     if output.exists():
-        raise ValueError(f"output already exists: {output}")
+        if not force:
+            raise ValueError(f"output already exists: {output}")
+        shutil.rmtree(output)
     manifest_document = _read_object(manifest_path)
     manifest_generated_at = manifest_document.get("generatedAt")
     if not isinstance(manifest_generated_at, str):
@@ -246,6 +266,7 @@ def main() -> int:
     parser.add_argument("--generated-at", required=True)
     parser.add_argument("--report", type=Path, required=True)
     parser.add_argument("--latest-output", type=Path)
+    parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
     result = build_release(
         final_root=args.final_root,
@@ -254,6 +275,7 @@ def main() -> int:
         output=args.output,
         release_id=args.release_id,
         generated_at=args.generated_at,
+        force=args.force,
     )
     _write_json(args.report, result)
     if args.latest_output:
