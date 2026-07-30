@@ -26,6 +26,7 @@ export function DetailPage() {
   const [detail, setDetail] = useState<VideoDetail | null>(null);
   const [detailLoading, setDetailLoading] = useState(false);
   const [detailError, setDetailError] = useState<{ kind: ContractErrorKind; message: string } | null>(null);
+  const [thumbnailUnavailable, setThumbnailUnavailable] = useState(false);
   const [isSaved, setIsSaved] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
   const [consentVersion, setConsentVersionState] = useState(() => getConsentMajorVersion());
@@ -35,6 +36,7 @@ export function DetailPage() {
   useEffect(() => {
     setIsSaved(getSavedVideoIds().includes(id));
     setConsentVersionState(getConsentMajorVersion());
+    setThumbnailUnavailable(false);
   }, [id]);
 
   useEffect(() => {
@@ -171,7 +173,14 @@ export function DetailPage() {
 
           <div className="detail-hero">
             <div className="detail-media">
-              <img src={video.thumbnail.url} alt="" className="detail-thumb" />
+              {!thumbnailUnavailable ? (
+                <img
+                  src={video.thumbnail.url}
+                  alt=""
+                  className="detail-thumb"
+                  onError={() => setThumbnailUnavailable(true)}
+                />
+              ) : null}
               <a className="detail-play" href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noreferrer">
                 <NavIcon name="play" />
                 <span>YouTubeで再生</span>

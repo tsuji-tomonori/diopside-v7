@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArtifactFlags } from '@/types';
 import { NavIcon } from '@/components/NavIcon';
@@ -24,11 +25,26 @@ export function VideoCard({
   flags,
   chatCount,
 }: Props) {
+  const [thumbnailUnavailable, setThumbnailUnavailable] = useState(false);
+
   return (
     <article className="video-card">
       <Link className="video-card-link" to={`/videos/${videoId}`}>
         <span className="video-thumb-wrap">
-          <img src={thumbnail} alt="" className="video-thumb" loading="lazy" />
+          {thumbnailUnavailable ? (
+            <span className="video-thumb-fallback">
+              <NavIcon name="play" />
+              <span className="sr-only">サムネイルを表示できません</span>
+            </span>
+          ) : (
+            <img
+              src={thumbnail}
+              alt=""
+              className="video-thumb"
+              loading="lazy"
+              onError={() => setThumbnailUnavailable(true)}
+            />
+          )}
           <span className="duration-badge">{formatDuration(duration)}</span>
         </span>
         <div className="video-meta">
