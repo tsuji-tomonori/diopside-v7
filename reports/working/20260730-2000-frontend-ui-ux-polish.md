@@ -32,6 +32,7 @@
 - `npm test -w frontend`: 5 files / 16 tests 合格。App shellのaxe-core検査を含む。
 - `npm run build -w frontend`: 合格
 - `npm run test:e2e -w frontend`: desktop / mobile Chrome、20 tests 合格
+- `cd backend && uv run --locked pytest`: 63 tests 合格。repository全体の日本語説明 / AAA規約検査を含む。
 - `git diff --check`: 合格
 
 E2Eはsystem Chromeがない環境だったため、Playwright設定に任意のChromium executable pathを渡せる構成を追加し、検証時のみローカルChromiumを指定した。
