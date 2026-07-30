@@ -1,4 +1,4 @@
-import { FormEvent, KeyboardEvent, useEffect, useMemo, useState } from 'react';
+import { FormEvent, KeyboardEvent, useEffect, useMemo, useRef, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { SearchCondition } from '@/types';
 import {
@@ -17,6 +17,7 @@ import {
 import { usePublicData } from '@/state/PublicDataContext';
 import { VideoCard } from '@/components/VideoCard';
 import { DataErrorState } from '@/components/DataErrorState';
+import { NavIcon } from '@/components/NavIcon';
 
 function unique<T>(values: T[]): T[] {
   return [...new Set(values)];
@@ -42,6 +43,9 @@ export function SearchPage() {
   const [recentSearches, setRecentSearches] = useState(() => getRecentSearchEntries());
   const [suggestionsOpen, setSuggestionsOpen] = useState(false);
   const [activeSuggestion, setActiveSuggestion] = useState(-1);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const filterButtonRef = useRef<HTMLButtonElement>(null);
+  const closeFilterRef = useRef<HTMLButtonElement>(null);
 
   const parsed = useMemo(() => {
     const source = new URLSearchParams(location.search);
@@ -129,8 +133,54 @@ export function SearchPage() {
     }
     return tags
       .filter((tag) => tag.displayName.toLocaleLowerCase('ja').includes(term))
-      .slice(0, 8);
+      .slice(0, 4);
   }, [isFeatureEnabled, query, tags]);
+
+  const activeConditionCount =
+    normalized.tags.length
+    + normalized.artifacts.length
+    + Number(normalized.lmin !== undefined)
+    + Number(normalized.lmax !== undefined)
+    + Number(normalized.from !== undefined)
+    + Number(normalized.to !== undefined)
+    + Number(normalized.sort !== 'newest');
+
+  useEffect(() => {
+    if (!filtersOpen) {
+      return undefined;
+    }
+    closeFilterRef.current?.focus();
+    const handleFilterKeyDown = (event: globalThis.KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        setFiltersOpen(false);
+        filterButtonRef.current?.focus();
+        return;
+      }
+      if (event.key !== 'Tab') {
+        return;
+      }
+
+      const panel = document.getElementById('search-filters');
+      const focusable = panel?.querySelectorAll<HTMLElement>(
+        'button:not([disabled]), input:not([disabled]), select:not([disabled]), [href], [tabindex]:not([tabindex="-1"])',
+      );
+      if (!focusable?.length) {
+        return;
+      }
+
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+    window.addEventListener('keydown', handleFilterKeyDown);
+    return () => window.removeEventListener('keydown', handleFilterKeyDown);
+  }, [filtersOpen]);
 
   function selectSuggestion(index: number): void {
     const selected = suggestions[index];
@@ -249,11 +299,17 @@ export function SearchPage() {
   }
 
   return (
-    <section>
-      <h1>search</h1>
-      <form className="search-form" onSubmit={onSubmit}>
-        <label>
-          キーワード
+    <section className="page search-page">
+      <header className="page-header">
+        <p className="eyebrow">ARCHIVE SEARCH</p>
+        <h1>アーカイブを探す</h1>
+        <p className="page-lead">覚えている言葉、テーマ、配信の長さから絞り込めます。</p>
+      </header>
+
+      <form className="search-toolbar" onSubmit={onSubmit}>
+        <label className="search-field">
+          <span className="sr-only">キーワード</span>
+          <NavIcon name="search" />
           <input
             value={query}
             role="combobox"
@@ -268,7 +324,7 @@ export function SearchPage() {
             }}
             onFocus={() => setSuggestionsOpen(true)}
             onKeyDown={onSuggestionKeyDown}
-            placeholder="例: 歌枠"
+            placeholder="タイトルや覚えている言葉"
           />
           {suggestionsOpen && suggestions.length ? (
             <ul className="suggestions" id="tag-suggestions" role="listbox">
@@ -280,143 +336,268 @@ export function SearchPage() {
                   aria-selected={activeSuggestion === index}
                 >
                   <button type="button" onMouseDown={(event) => event.preventDefault()} onClick={() => selectSuggestion(index)}>
-                    {tag.displayName}
+                    <span>{tag.displayName}</span>
+                    <span className="suggestion-meta">{tag.count}本</span>
                   </button>
                 </li>
               ))}
             </ul>
           ) : null}
         </label>
-        <label>
-          最短（分）
-          <input
-            type="number"
-            value={normalized.lmin ?? ''}
-            onChange={(event) =>
-              applyFromInputs({
-                lmin: event.target.value ? Number(event.target.value) : undefined,
-              })
-            }
-          />
-        </label>
-        <label>
-          最長（分）
-          <input
-            type="number"
-            value={normalized.lmax ?? ''}
-            onChange={(event) =>
-              applyFromInputs({
-                lmax: event.target.value ? Number(event.target.value) : undefined,
-              })
-            }
-          />
-        </label>
-        <label>
-          並び順
-          <select
-            value={normalized.sort}
-            onChange={(event) =>
-              applyFromInputs({
-                sort: event.target.value as SearchCondition['sort'],
-              })
-            }
-          >
-            <option value="newest">newest</option>
-            <option value="oldest">oldest</option>
-            <option value="longest">longest</option>
-            {isFeatureEnabled ? <option value="mostChat">mostChat</option> : null}
-          </select>
-        </label>
-        <button type="submit">更新</button>
+        <button className="button button-primary search-submit" type="submit">検索</button>
+        <button
+          className="button button-secondary filter-trigger"
+          type="button"
+          ref={filterButtonRef}
+          aria-expanded={filtersOpen}
+          aria-controls="search-filters"
+          onClick={() => setFiltersOpen(true)}
+        >
+          条件{activeConditionCount ? `（${activeConditionCount}）` : ''}
+        </button>
       </form>
 
-      {isFeatureEnabled && tags.length ? (
-        <section className="section">
-          <h2>tag</h2>
-          <div className="chips">
-            {tags.slice(0, 8).map((tag) => (
-              <button
-                key={tag.tagId}
-                type="button"
-                className={normalized.tags.includes(tag.tagId) ? 'chip' : ''}
-                onClick={() => toggleTag(tag.tagId)}
-              >
-                {tag.displayName}
+      {normalized.tags.length ? (
+        <div className="active-conditions" aria-label="適用中の条件">
+          {normalized.tags.map((tagId) => {
+            const tag = tags.find((item) => item.tagId === tagId);
+            return (
+              <button className="chip chip-selected" key={tagId} type="button" onClick={() => toggleTag(tagId)}>
+                {tag?.displayName ?? tagId}
+                <span aria-hidden="true">×</span>
+                <span className="sr-only">の条件を解除</span>
               </button>
-            ))}
-          </div>
-        </section>
+            );
+          })}
+        </div>
       ) : null}
 
-      <section className="section">
-        <h2>recent search</h2>
-        {recentSearches.length === 0 ? <p className="muted">履歴はありません</p> : null}
-        {recentSearches.length > 0 ? (
-          <>
-            <div className="chips">
-              {recentSearches.map((entry, index) => (
-                <div key={`${entry.createdAt}-${index}`} className="chip-row">
-                  <button
-                    type="button"
-                    onClick={() => applyRecent(index)}
-                    aria-label={`recent search ${entry.condition.q || 'no keyword'} を再適用`}
-                  >
-                    {entry.condition.q || '(条件なし)'}
-                    {entry.condition.tags.length ? ` / ${entry.condition.tags.length}tag` : ''}
-                  </button>
-                  <button type="button" onClick={() => removeRecent(index)}>
-                    削除
-                  </button>
-                </div>
-              ))}
-            </div>
-            <button type="button" onClick={clearRecent}>
-              recent searchを全削除
-            </button>
-          </>
-        ) : null}
-      </section>
+      {filtersOpen ? <button className="filter-backdrop" type="button" aria-label="検索条件を閉じる" onClick={() => setFiltersOpen(false)} /> : null}
 
-      <p className="status">{videos.length} 件</p>
-      {notice ? <p role="status" aria-live="polite">{notice}</p> : null}
+      <div className="search-layout">
+        <div className="search-results">
+          <div className="result-heading">
+            <h2>検索結果</h2>
+            <p className="result-count" aria-live="polite">{videos.length}件</p>
+          </div>
+          {notice ? <p className="notice" role="status" aria-live="polite">{notice}</p> : null}
 
-      <section className="video-list">
-        {videos.length === 0 ? (
-          <div className="status-card">
-            <p>0件です。条件をゆるめると見つかりやすくなります。</p>
-            <button
-              type="button"
-              onClick={() =>
-                applyFromInputs({
-                  tags: normalized.tags.slice(0, Math.max(normalized.tags.length - 1, 0)),
-                })
+          <section className="video-list" aria-label="検索結果の動画">
+            {videos.length === 0 ? (
+              <div className="empty-state">
+                <span className="empty-mark" aria-hidden="true">0</span>
+                <h3>条件に合うアーカイブがありません</h3>
+                <p>キーワードを短くするか、適用中の条件をひとつ外してみてください。</p>
+                <button
+                  className="button button-secondary"
+                  type="button"
+                  onClick={() => {
+                    if (normalized.tags.length) {
+                      applyFromInputs({ tags: normalized.tags.slice(0, -1) });
+                    } else {
+                      setQuery('');
+                      applyFromInputs({ q: '' });
+                    }
+                  }}
+                >
+                  条件をひとつ解除
+                </button>
+              </div>
+            ) : null}
+
+            {videos.map((video) => {
+              const releaseVideo = release?.videos.find((item) => item.videoId === video.videoId);
+              if (!releaseVideo) {
+                return null;
               }
+              const names = tags
+                .filter((tag) => (video.tagIds ?? []).includes(tag.tagId))
+                .map((tag) => tag.displayName);
+              return (
+                <VideoCard
+                  key={video.videoId}
+                  videoId={video.videoId}
+                  title={releaseVideo.title}
+                  publishedAt={video.publishedAt}
+                  duration={releaseVideo.duration}
+                  thumbnail={releaseVideo.thumbnail.url}
+                  tagNames={isFeatureEnabled ? names : []}
+                  flags={video.artifactFlags}
+                  chatCount={releaseVideo.chat?.totalCount}
+                />
+              );
+            })}
+          </section>
+
+          <section className="section recent-section" aria-labelledby="recent-heading">
+            <div className="section-heading">
+              <div>
+                <p className="eyebrow">RECENT</p>
+                <h2 id="recent-heading">最近の検索</h2>
+              </div>
+              {recentSearches.length ? (
+                <button className="text-button danger-text" type="button" onClick={clearRecent}>すべて削除</button>
+              ) : null}
+            </div>
+            {recentSearches.length === 0 ? <p className="muted">検索条件を保存すると、ここからすぐに再開できます。</p> : null}
+            {recentSearches.length > 0 ? (
+              <div className="recent-list">
+                {recentSearches.map((entry, index) => (
+                  <div key={`${entry.createdAt}-${index}`} className="recent-row">
+                    <button
+                      className="recent-apply"
+                      type="button"
+                      onClick={() => applyRecent(index)}
+                      aria-label={`${entry.condition.q || '条件のみの検索'}を再適用`}
+                    >
+                      <NavIcon name="history" />
+                      <span>{entry.condition.q || '条件のみの検索'}</span>
+                      {entry.condition.tags.length ? <small>{entry.condition.tags.length}タグ</small> : null}
+                    </button>
+                    <button className="icon-button" type="button" onClick={() => removeRecent(index)} aria-label="この検索履歴を削除">×</button>
+                  </div>
+                ))}
+              </div>
+            ) : null}
+          </section>
+        </div>
+
+        <aside className={filtersOpen ? 'condition-panel is-open' : 'condition-panel'} id="search-filters" aria-label="検索条件">
+          <div className="panel-header">
+            <div>
+              <p className="eyebrow">FILTER</p>
+              <h2>検索条件</h2>
+            </div>
+            <button
+              className="icon-button panel-close"
+              type="button"
+              ref={closeFilterRef}
+              onClick={() => {
+                setFiltersOpen(false);
+                filterButtonRef.current?.focus();
+              }}
+              aria-label="検索条件を閉じる"
             >
-              条件を1件解除
+              ×
             </button>
           </div>
-        ) : null}
 
-        {videos.map((video) => {
-          const names = tags
-            .filter((tag) => (video.tagIds ?? []).includes(tag.tagId))
-            .map((tag) => tag.displayName);
-          const releaseVideo = release?.videos.find((item) => item.videoId === video.videoId);
-          return (
-            <VideoCard
-              key={video.videoId}
-              videoId={video.videoId}
-              title={video.titleTokens.join(' ')}
-              publishedAt={video.publishedAt}
-              duration={String(releaseVideo?.duration ?? '')}
-              thumbnail={releaseVideo?.thumbnail.url ?? ''}
-              tagNames={isFeatureEnabled ? names : []}
-              flags={video.artifactFlags}
-              chatCount={releaseVideo?.chat?.totalCount}
-            />
-          );
-        })}
-      </section>
+          {isFeatureEnabled && tags.length ? (
+            <fieldset className="filter-group">
+              <legend>テーマ</legend>
+              <div className="chips">
+                {tags.slice(0, 8).map((tag) => (
+                  <button
+                    key={tag.tagId}
+                    type="button"
+                    className={normalized.tags.includes(tag.tagId) ? 'chip chip-selected' : 'chip chip-selectable'}
+                    aria-pressed={normalized.tags.includes(tag.tagId)}
+                    onClick={() => toggleTag(tag.tagId)}
+                  >
+                    {tag.displayName}
+                  </button>
+                ))}
+              </div>
+            </fieldset>
+          ) : null}
+
+          <fieldset className="filter-group">
+            <legend>配信の長さ</legend>
+            <div className="range-fields">
+              <label>
+                <span>最短</span>
+                <span className="field-with-unit">
+                  <input
+                    type="number"
+                    min="0"
+                    inputMode="numeric"
+                    value={normalized.lmin ?? ''}
+                    onChange={(event) => applyFromInputs({ lmin: event.target.value ? Number(event.target.value) : undefined })}
+                  />
+                  <span>分</span>
+                </span>
+              </label>
+              <span aria-hidden="true">—</span>
+              <label>
+                <span>最長</span>
+                <span className="field-with-unit">
+                  <input
+                    type="number"
+                    min="0"
+                    inputMode="numeric"
+                    value={normalized.lmax ?? ''}
+                    onChange={(event) => applyFromInputs({ lmax: event.target.value ? Number(event.target.value) : undefined })}
+                  />
+                  <span>分</span>
+                </span>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset className="filter-group">
+            <legend>投稿日</legend>
+            <div className="date-fields">
+              <label>
+                <span>開始日</span>
+                <input
+                  type="date"
+                  max={normalized.to ?? new Date().toISOString().slice(0, 10)}
+                  value={normalized.from ?? ''}
+                  onChange={(event) => applyFromInputs({ from: event.target.value || undefined })}
+                />
+              </label>
+              <label>
+                <span>終了日</span>
+                <input
+                  type="date"
+                  min={normalized.from}
+                  max={new Date().toISOString().slice(0, 10)}
+                  value={normalized.to ?? ''}
+                  onChange={(event) => applyFromInputs({ to: event.target.value || undefined })}
+                />
+              </label>
+            </div>
+          </fieldset>
+
+          <label className="filter-group select-label">
+            <span>並び順</span>
+            <select
+              value={normalized.sort}
+              onChange={(event) => applyFromInputs({ sort: event.target.value as SearchCondition['sort'] })}
+            >
+              <option value="newest">新しい順</option>
+              <option value="oldest">古い順</option>
+              <option value="longest">長い順</option>
+              {isFeatureEnabled ? <option value="mostChat">チャットが多い順</option> : null}
+            </select>
+          </label>
+
+          <div className="panel-actions">
+            <button
+              className="button button-quiet"
+              type="button"
+              onClick={() => {
+                setQuery('');
+                apply({
+                  q: '',
+                  tags: [],
+                  artifacts: [],
+                  lmin: undefined,
+                  lmax: undefined,
+                  from: undefined,
+                  to: undefined,
+                  sort: 'newest',
+                }, { recordRecent: false });
+              }}
+            >
+              リセット
+            </button>
+            <button className="button button-primary" type="button" onClick={() => setFiltersOpen(false)}>
+              {videos.length}件を見る
+            </button>
+          </div>
+        </aside>
+      </div>
     </section>
   );
 }

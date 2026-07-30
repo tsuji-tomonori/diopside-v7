@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { usePublicData } from '@/state/PublicDataContext';
 import {
   clearConsent,
@@ -17,6 +17,8 @@ import {
   removeSavedVideoId,
 } from '@/lib/storage';
 import { TagInfo, VideoDetail } from '@/types';
+import { NavIcon } from '@/components/NavIcon';
+import { formatCount, formatDuration, formatPublishedDate } from '@/lib/format';
 
 export function DetailPage() {
   const { id = '' } = useParams();
@@ -24,6 +26,7 @@ export function DetailPage() {
   const [detail, setDetail] = useState<VideoDetail | null>(null);
   const [detailLoading, setDetailLoading] = useState(false);
   const [detailError, setDetailError] = useState<{ kind: ContractErrorKind; message: string } | null>(null);
+  const [thumbnailUnavailable, setThumbnailUnavailable] = useState(false);
   const [isSaved, setIsSaved] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
   const [consentVersion, setConsentVersionState] = useState(() => getConsentMajorVersion());
@@ -33,6 +36,7 @@ export function DetailPage() {
   useEffect(() => {
     setIsSaved(getSavedVideoIds().includes(id));
     setConsentVersionState(getConsentMajorVersion());
+    setThumbnailUnavailable(false);
   }, [id]);
 
   useEffect(() => {
@@ -109,154 +113,211 @@ export function DetailPage() {
   const wordcloudImage = artifact.wordcloud?.svgPath
     ? `/data/${artifact.wordcloud.svgPath.replace(/^\/?(data\/)?/, '')}`
     : null;
+  const wordcloudTerms = artifact.wordcloud?.topTerms ?? [];
+  const largestWordCount = Math.max(...wordcloudTerms.map((term) => term.count), 1);
 
   return (
-    <section>
-      <h1>video detail</h1>
-      <p className="status">{video.publishedAt} · {video.duration}</p>
+    <section className="page detail-page">
+      <Link className="back-link" to="/search">← 検索結果へ戻る</Link>
 
       {!hasConsent ? (
         <section className="policy-card">
-          <p>YouTube/API由来の情報・派生表示は同意後に有効です。</p>
-          <div className="chips">
+          <p className="eyebrow">BEFORE YOU CONTINUE</p>
+          <h1>動画情報を表示する前に</h1>
+          <p className="page-lead">
+            この画面はYouTube API由来の情報を表示します。関連規約とデータの扱いを確認してから進んでください。
+          </p>
+          <div className="policy-links">
             <a href={POLICY_LINKS.youtubeTerms} target="_blank" rel="noreferrer">
-              YouTube Terms
+              YouTube 利用規約
             </a>
             <a href={POLICY_LINKS.youtubePrivacy} target="_blank" rel="noreferrer">
-              Google Privacy Policy
+              Google プライバシーポリシー
             </a>
             <a href={POLICY_LINKS.diopsideTerms} target="_blank" rel="noreferrer">
-              diopside利用規約
+              diopside 利用規約
             </a>
             <a href={POLICY_LINKS.diopsidePrivacy} target="_blank" rel="noreferrer">
-              diopsideプライバシーポリシー
+              diopside プライバシーポリシー
             </a>
             <a href={POLICY_LINKS.youtubeDerived} target="_blank" rel="noreferrer">
-              YouTube Derived Metrics
+              派生指標について
             </a>
           </div>
-          <p>
-            同意後、YouTube導線・派生データを確認できます。
-          </p>
-          <button
-            type="button"
-            onClick={() => {
-              setConsentVersion(POLICY_MAJOR_VERSION);
-              setConsentVersionState(POLICY_MAJOR_VERSION);
-              setNotice('同意を反映しました。');
-            }}
-          >
-            同意して進む
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              clearConsent();
-              setConsentVersionState(null);
-              setNotice('同意を取り下げました。');
-            }}
-          >
-            同意を取り下げる
-          </button>
-          <a href="https://www.youtube.com/channel/UCdummy" target="_blank" rel="noreferrer">
-            運営者チャンネル（固定）
-          </a>
+          <div className="policy-actions">
+            <button
+              className="button button-primary"
+              type="button"
+              onClick={() => {
+                setConsentVersion(POLICY_MAJOR_VERSION);
+                setConsentVersionState(POLICY_MAJOR_VERSION);
+                setNotice('同意を反映しました。');
+              }}
+            >
+              内容を確認して進む
+            </button>
+            <Link className="button button-quiet" to="/">ホームへ戻る</Link>
+          </div>
           {notice ? <p role="status">{notice}</p> : null}
         </section>
       ) : (
         <>
-          <p>
-            受理バージョン: {consentVersion ?? POLICY_MAJOR_VERSION}
-          </p>
-          <img src={video.thumbnail.url} alt="thumbnail" className="detail-thumb" />
-          <h2>{video.title}</h2>
-          <p className="chips">
-            {tags.map((name) => (
-              <span key={name} className="chip">
-                {name}
-              </span>
-            ))}
-          </p>
-          <p>
-            <a className="yt-button" href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noreferrer">
-              YouTubeで見る
-            </a>
-          </p>
+          <header className="detail-header">
+            <p className="eyebrow">ARCHIVE DETAIL</p>
+            <h1>{video.title}</h1>
+            <div className="detail-meta">
+              <span>{formatPublishedDate(video.publishedAt)}</span>
+              <span>{formatDuration(video.duration)}</span>
+            </div>
+          </header>
 
-          <p>
-            <button
-              type="button"
-              onClick={() => {
-                if (isSaved) {
-                  removeSavedVideoId(video.videoId);
-                  setIsSaved(false);
-                  setNotice('保存を解除しました。');
-                } else {
-                  addSavedVideoId(video.videoId);
-                  setIsSaved(true);
-                  setNotice('保存しました。');
-                }
-              }}
-            >
-              {isSaved ? '保存を外す' : '保存する'}
-            </button>
-          </p>
+          <div className="detail-hero">
+            <div className="detail-media">
+              {!thumbnailUnavailable ? (
+                <img
+                  src={video.thumbnail.url}
+                  alt=""
+                  className="detail-thumb"
+                  onError={() => setThumbnailUnavailable(true)}
+                />
+              ) : null}
+              <a className="detail-play" href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noreferrer">
+                <NavIcon name="play" />
+                <span>YouTubeで再生</span>
+              </a>
+            </div>
+            <aside className="detail-summary">
+              {tags.length ? (
+                <div>
+                  <p className="summary-label">テーマ</p>
+                  <div className="chips">
+                    {tags.map((name) => <span key={name} className="chip">{name}</span>)}
+                  </div>
+                  <p className="source-note">diopside独自の分類です。YouTube公式情報ではありません。</p>
+                </div>
+              ) : null}
+              <div className="detail-actions">
+                <a className="button button-primary" href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noreferrer">
+                  <NavIcon name="external" />
+                  YouTubeで見る
+                </a>
+                <button
+                  className={isSaved ? 'button button-secondary is-selected' : 'button button-secondary'}
+                  type="button"
+                  aria-pressed={isSaved}
+                  onClick={() => {
+                    if (isSaved) {
+                      removeSavedVideoId(video.videoId);
+                      setIsSaved(false);
+                      setNotice('保存を解除しました。');
+                    } else {
+                      addSavedVideoId(video.videoId);
+                      setIsSaved(true);
+                      setNotice('保存しました。');
+                    }
+                  }}
+                >
+                  <NavIcon name="saved" />
+                  {isSaved ? '保存済み' : 'あとで見る'}
+                </button>
+              </div>
+            </aside>
+          </div>
         </>
       )}
 
-      {(notice && hasConsent) ? <p role="status">{notice}</p> : null}
+      {(notice && hasConsent) ? <p className="notice" role="status">{notice}</p> : null}
 
       {hasConsent && canShowDerived ? (
-        <section>
-          <h3>metadata</h3>
-          <p>sourceUpdatedAt: {video.sourceUpdatedAt}</p>
-          {video.coverage ? (
-            <p>
-              coverage: {video.coverage.coverageStart} - {video.coverage.coverageEnd}
-            </p>
-          ) : null}
+        <section className="section detail-insights" aria-labelledby="insights-heading">
+          <div className="section-heading">
+            <div>
+              <p className="eyebrow">INSIGHTS</p>
+              <h2 id="insights-heading">配信の手がかり</h2>
+            </div>
+            <span className="detail-version">データ版 {consentVersion ?? POLICY_MAJOR_VERSION}</span>
+          </div>
+          <p className="section-description">チャットや公開情報をもとに、配信の雰囲気と見どころ候補を整理しています。</p>
 
-          <h3>derived artifacts</h3>
-          {artifactNotice.length ? (
-            artifactNotice.map((artifactItem) => (
-              <section key={artifactItem.label}>
-                <h4>{artifactItem.label}</h4>
-                <p>
-                  source: {artifactItem.value.source} / generatedAt: {artifactItem.value.generatedAt}
-                </p>
-              </section>
-            ))
-          ) : (
-            <p>派生データは未作成です</p>
-          )}
+          <div className="insight-grid">
+            <section className="insight-card">
+              <p className="eyebrow">REACTIONS</p>
+              <h3>反応の集計</h3>
+              {artifact.chat || artifact.comments ? (
+                <dl className="metric-list">
+                  {artifact.chat ? <><dt>チャット</dt><dd>{formatCount(artifact.chat.totalCount)}件</dd></> : null}
+                  {artifact.comments ? <><dt>コメント</dt><dd>{formatCount(artifact.comments.totalCount)}件</dd></> : null}
+                </dl>
+              ) : <p className="muted">集計データはまだありません。</p>}
+            </section>
 
-          <h3>chat</h3>
-          {artifact.chat ? <p>{artifact.chat.totalCount}件 / source: {artifact.chat.source}</p> : <p>未作成</p>}
+            <section className="insight-card insight-card-wide">
+              <p className="eyebrow">TIMESTAMPS</p>
+              <h3>見どころ候補</h3>
+              {artifact.timestamps?.items?.length ? (
+                <ol className="timestamp-list">
+                  {artifact.timestamps.items.map((item, index) => (
+                    <li key={`${item.atSec}-${index}`}>
+                      <a href={`https://www.youtube.com/watch?v=${video.videoId}&t=${Math.max(item.atSec, 0)}s`} target="_blank" rel="noreferrer">
+                        <span className="timestamp-time">{Math.floor(item.atSec / 60)}:{String(item.atSec % 60).padStart(2, '0')}</span>
+                        <span>{item.label}</span>
+                        <NavIcon name="external" />
+                      </a>
+                    </li>
+                  ))}
+                </ol>
+              ) : <p className="muted">見どころ候補はまだありません。</p>}
+            </section>
 
-          <h3>comments</h3>
-          {artifact.comments ? <p>{artifact.comments.totalCount}件 / source: {artifact.comments.source}</p> : <p>未作成</p>}
+            <section className="insight-card">
+              <p className="eyebrow">WORD CLOUD</p>
+              <h3>よく現れた言葉</h3>
+              {wordcloudTerms.length ? (
+                <div className="detail-wordcloud" aria-label={`配信内でよく現れた言葉。${wordcloudTerms.slice(0, 5).map((term) => term.term).join('、')}`}>
+                  {wordcloudTerms.map((term) => (
+                    <span
+                      key={term.term}
+                      style={{ fontSize: `${1 + (term.count / largestWordCount) * 1.25}rem` }}
+                    >
+                      {term.term}
+                    </span>
+                  ))}
+                </div>
+              ) : artifact.wordcloud && wordcloudImage ? (
+                <img
+                  src={wordcloudImage}
+                  alt="配信内でよく現れた言葉"
+                  className="detail-wordcloud"
+                />
+              ) : <p className="muted">ワードクラウドはまだありません。</p>}
+            </section>
+          </div>
 
-          <h3>timestamps</h3>
-          {artifact.timestamps?.items?.length ? (
-            <ul>
-              {artifact.timestamps.items.map((item, index) => (
-                <li key={`${item.atSec}-${index}`}>
-                  <a href={`https://www.youtube.com/watch?v=${video.videoId}&t=${Math.max(item.atSec, 0)}s`} target="_blank" rel="noreferrer">
-                    {item.atSec}s · {item.label}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            <p>未作成</p>
-          )}
-
-          <h3>wordcloud</h3>
-          {artifact.wordcloud ? <img src={wordcloudImage ?? ''} alt="wordcloud" className="detail-wordcloud" /> : <p>未作成</p>}
+          <details className="provenance">
+            <summary>データの出典と更新情報</summary>
+            <p>動画情報更新: {formatPublishedDate(video.sourceUpdatedAt)}</p>
+            {video.coverage ? <p>収集範囲: {video.coverage.coverageStart}〜{video.coverage.coverageEnd}</p> : null}
+            {artifactNotice.map((item) => (
+              <p key={item.label}>{item.label}: {item.value.source} / {formatPublishedDate(item.value.generatedAt)}</p>
+            ))}
+          </details>
         </section>
       ) : null}
 
-      {hasConsent && !canShowDerived ? <p>このリリースは派生公開対象外です。</p> : null}
+      {hasConsent && !canShowDerived ? <p className="notice">このリリースでは派生情報を公開していません。</p> : null}
+      {hasConsent ? (
+        <button
+          className="text-button consent-withdraw"
+          type="button"
+          onClick={() => {
+            clearConsent();
+            setConsentVersionState(null);
+            setNotice('同意を取り下げました。');
+          }}
+        >
+          データ表示への同意を取り下げる
+        </button>
+      ) : null}
     </section>
   );
 }

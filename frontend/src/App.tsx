@@ -1,4 +1,4 @@
-import { Navigate, Route, Routes } from 'react-router-dom';
+import { Link, Navigate, Route, Routes } from 'react-router-dom';
 import { AppShell } from '@/components/AppShell';
 import { HomePage } from '@/pages/HomePage';
 import { SearchPage } from '@/pages/SearchPage';
@@ -10,7 +10,14 @@ import { TermsPage } from '@/pages/TermsPage';
 import { PublicDataProvider } from '@/state/PublicDataContext';
 
 function NotFound() {
-  return <p className="status">ページが見つかりません</p>;
+  return (
+    <section className="page empty-state">
+      <span className="empty-mark" aria-hidden="true">404</span>
+      <h1>ページが見つかりません</h1>
+      <p>URLが変わったか、ページが公開されていない可能性があります。</p>
+      <Link className="button button-primary" to="/">ホームへ戻る</Link>
+    </section>
+  );
 }
 
 function AppRoutes() {
