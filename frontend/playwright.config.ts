@@ -1,5 +1,7 @@
 import { defineConfig, devices } from '@playwright/test';
 
+const executablePath = process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH;
+
 export default defineConfig({
   testDir: './e2e',
   fullyParallel: false,
@@ -7,8 +9,15 @@ export default defineConfig({
   reporter: 'line',
   use: {
     baseURL: 'http://127.0.0.1:5173',
-    channel: 'chrome',
     trace: 'retain-on-failure',
+    ...(executablePath
+      ? {
+          launchOptions: {
+            executablePath,
+            args: ['--no-sandbox', '--disable-setuid-sandbox'],
+          },
+        }
+      : { channel: 'chrome' }),
   },
   projects: [
     { name: 'desktop-chrome', use: { ...devices['Desktop Chrome'] } },
