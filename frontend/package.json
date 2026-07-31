@@ -12,22 +12,24 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
+    "@fontsource/shippori-mincho": "^5.3.0",
+    "@fontsource/zen-kaku-gothic-new": "^5.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.0.0",
     "zod": "^4.0.5"
   },
   "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "@types/node": "^22.0.0",
-    "@testing-library/react": "^16.3.0",
-    "@playwright/test": "^1.55.0",
+    "@vitejs/plugin-react": "^4.6.0",
     "axe-core": "^4.10.3",
+    "jsdom": "^26.1.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.0",
-    "@vitejs/plugin-react": "^4.6.0",
-    "vitest": "^3.2.4",
-    "jsdom": "^26.1.0"
+    "vitest": "^3.2.4"
   }
 }

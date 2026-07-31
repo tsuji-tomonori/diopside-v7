@@ -1,113 +1,137 @@
-import { FormEvent, useMemo, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-
-import { DataErrorState } from '@/components/DataErrorState';
-import { Chip } from '@/components/ui/Chip';
-import { EmptyState } from '@/components/ui/EmptyState';
-import { LoadingState } from '@/components/ui/LoadingState';
-import { SearchBar } from '@/components/ui/SearchBar';
-import { VideoGridCard } from '@/components/ui/VideoGridCard';
-import { VideoListItem } from '@/components/ui/VideoListItem';
-import { buildSearchParams } from '@/lib/search';
-import { hasActiveConsentVersion } from '@/lib/storage';
+import { useMemo } from 'react';
+import { Link } from 'react-router-dom';
 import { usePublicData } from '@/state/PublicDataContext';
-import { SearchCondition, VideoIndex } from '@/types';
-
-const emptyCondition: SearchCondition = {
-  q: '',
-  tags: [],
-  artifacts: [],
-  sort: 'newest',
-};
+import { VideoCard } from '@/components/VideoCard';
+import { DataErrorState } from '@/components/DataErrorState';
+import { TagInfo } from '@/types';
+import { NavIcon } from '@/components/NavIcon';
 
 export function HomePage() {
-  const navigate = useNavigate();
   const { loading, release, tagIndex, error, errorKind, refresh, latest } = usePublicData();
-  const [query, setQuery] = useState('');
-  const featureEnabled = latest?.releaseMode === 'normal' && hasActiveConsentVersion('1');
+
   const videos = release?.videos ?? [];
-  const latestVideos = useMemo(
-    () => [...videos].sort((left, right) => right.publishedAt.localeCompare(left.publishedAt)),
+  const featureEnabled = latest?.releaseMode === 'normal';
+
+  const newest = useMemo(
+    () => [...videos].sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()),
     [videos],
   );
-  const quickTags = featureEnabled ? tagIndex?.tags.slice(0, 8) ?? [] : [];
 
-  function search(condition: SearchCondition): void {
-    const params = buildSearchParams(condition);
-    navigate(`/search${params ? `?${params}` : ''}`);
-  }
+  const random = useMemo(() => {
+    if (!videos.length) {
+      return [];
+    }
+    const pool = [...videos];
+    for (let index = pool.length - 1; index > 0; index -= 1) {
+      const selected = Math.floor(Math.random() * (index + 1));
+      [pool[index], pool[selected]] = [pool[selected], pool[index]];
+    }
+    return pool.slice(0, 2);
+  }, [videos]);
 
-  function onSubmit(event: FormEvent<HTMLFormElement>): void {
-    event.preventDefault();
-    search({ ...emptyCondition, q: query.trim() });
-  }
-
-  function tagNames(video: VideoIndex): string[] {
+  const getTagNames = (tagIds: string[] | undefined): string[] => {
     if (!featureEnabled) {
       return [];
     }
-
     return (tagIndex?.tags ?? [])
-      .filter((tag) => video.tagIds?.includes(tag.tagId))
-      .map((tag) => tag.displayName);
-  }
+      .filter((tag: TagInfo) => (tagIds ?? []).includes(tag.tagId))
+      .map((tag: TagInfo) => tag.displayName);
+  };
 
   if (loading) {
-    return (
-      <section className="dio-home-page">
-        <h1 className="dio-display">diopside</h1>
-        <SearchBar onQueryChange={setQuery} onSubmit={onSubmit} query={query} />
-        <LoadingState label="データを読み込んでいます…" />
-      </section>
-    );
+    return <p className="status">データを読込んでいます…</p>;
   }
 
   if (error && errorKind) {
-    return <DataErrorState detail={error} kind={errorKind} retry={() => void refresh()} />;
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
   }
 
   return (
-    <section className="dio-home-page">
-      <header>
-        <h1 className="dio-display">diopside</h1>
-        <p>白雪巴の公開配信を素早く見つける検索型ビューア</p>
+    <section className="page home-page">
+      <header className="page-header home-intro">
+        <p className="eyebrow">SHIRAYUKI TOMOE ARCHIVE</p>
+        <h1>あの配信を、<br />もう一度見つける。</h1>
+        <p className="page-lead">
+          白雪巴さんの公開アーカイブを、タグや覚えている言葉から探せます。
+        </p>
+        <Link className="button button-primary home-search-action" to="/search">
+          <NavIcon name="search" />
+          アーカイブを検索
+        </Link>
       </header>
-      <SearchBar onQueryChange={setQuery} onSubmit={onSubmit} query={query} />
-      <section className="section" aria-labelledby="quick-tags-title">
-        <h2 id="quick-tags-title">クイックタグ</h2>
-        <div className="chips">
-          {quickTags.map((tag) => (
-            <Chip
-              key={tag.tagId}
-              label={tag.displayName}
-              onClick={() => search({ ...emptyCondition, tags: [tag.tagId] })}
-            />
+
+      <section className="section quick-section" aria-labelledby="quick-heading">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">QUICK SEARCH</p>
+            <h2 id="quick-heading">よく探されるテーマ</h2>
+          </div>
+          <Link className="text-link" to="/search">すべての条件を見る</Link>
+        </div>
+        <div className="chips quick-tags">
+          {(tagIndex?.tags ?? []).slice(0, 3).map((tag: TagInfo) => (
+            <Link key={tag.tagId} className="chip chip-action" to={`/search?tag=${tag.tagId}&sort=newest`}>
+              {tag.displayName}
+              <span aria-hidden="true">→</span>
+            </Link>
           ))}
-          {!quickTags.length ? <p className="muted">現在のクイックタグはありません。</p> : null}
+          {(!tagIndex || tagIndex.tags.length === 0) ? <span className="muted">現在のクイックタグはありません</span> : null}
         </div>
       </section>
-      <section className="section" aria-labelledby="latest-videos-title">
-        <h2 id="latest-videos-title">最新の動画</h2>
-        {latestVideos.length === 0 ? (
-          <EmptyState title="公開中の動画はありません">
-            <p>キーワードや条件から、公開データを検索できます。</p>
-            <Link to="/search">検索を開く</Link>
-          </EmptyState>
-        ) : null}
-        <div className="dio-home-page__videos">
-          {latestVideos.map((video) => (
-            <VideoGridCard chatCount={video.chat?.totalCount} key={video.videoId} tagNames={tagNames(video)} video={video} />
-          ))}
+
+      <section className="section" aria-labelledby="newest-heading">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">LATEST</p>
+            <h2 id="newest-heading">新着アーカイブ</h2>
+          </div>
+          <span className="section-count">{newest.length}本</span>
         </div>
-        <div className="dio-home-page__mobile-videos">
-          {latestVideos.map((video) => (
-            <VideoListItem
-              chatCount={video.chat?.totalCount}
-              key={video.videoId}
-              tagNames={tagNames(video)}
-              video={video}
-            />
-          ))}
+        <div className="video-list">
+          {newest.map((video) => {
+            return (
+              <VideoCard
+                key={video.videoId}
+                videoId={video.videoId}
+                title={video.title}
+                publishedAt={video.publishedAt}
+                duration={video.duration}
+                thumbnail={video.thumbnail.url}
+                flags={video.artifactFlags}
+                tagNames={getTagNames(video.tagIds)}
+                chatCount={video.chat?.totalCount}
+              />
+            );
+          })}
+        </div>
+      </section>
+
+      <section className="section discovery-section" aria-labelledby="discovery-heading">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">DISCOVERY</p>
+            <h2 id="discovery-heading">偶然の一枠</h2>
+          </div>
+          <NavIcon name="shuffle" />
+        </div>
+        <p className="section-description">いつもの探し方から少し離れて、過去の配信に出会えます。</p>
+        <div className="video-list">
+          {random.map((video) => {
+            return (
+              <VideoCard
+                key={video.videoId}
+                videoId={video.videoId}
+                title={video.title}
+                publishedAt={video.publishedAt}
+                duration={video.duration}
+                thumbnail={video.thumbnail.url}
+                flags={video.artifactFlags}
+                tagNames={getTagNames(video.tagIds)}
+                chatCount={video.chat?.totalCount}
+              />
+            );
+          })}
+          {!random.length ? <p className="muted">候補がありません</p> : null}
         </div>
       </section>
     </section>

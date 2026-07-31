@@ -1,202 +1,199 @@
-import { FormEvent, KeyboardEvent, useEffect, useMemo, useState } from 'react';
+import { FormEvent, KeyboardEvent, useEffect, useMemo, useRef, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-
-import { DataErrorState } from '@/components/DataErrorState';
-import { Button } from '@/components/ui/Button';
-import { Chip } from '@/components/ui/Chip';
-import { ConditionPanel } from '@/components/ui/ConditionPanel';
-import { ConditionRow } from '@/components/ui/ConditionRow';
-import { EmptyState } from '@/components/ui/EmptyState';
-import { LengthSlider } from '@/components/ui/LengthSlider';
-import { LoadingState } from '@/components/ui/LoadingState';
-import { RangeCalendar } from '@/components/ui/RangeCalendar';
-import { SearchBar } from '@/components/ui/SearchBar';
-import { SuggestItem, SuggestList } from '@/components/ui/SuggestList';
-import { VideoListItem } from '@/components/ui/VideoListItem';
-import { applySearchQuery, buildSearchParams, parseSearchParamsWithReport } from '@/lib/search';
-import { hasActiveConsentVersion } from '@/lib/storage';
+import { SearchCondition } from '@/types';
+import {
+  addRecentSearch,
+  clearRecentSearches,
+  getRecentSearchEntries,
+  removeRecentSearchAt,
+  hasActiveConsentVersion,
+} from '@/lib/storage';
+import {
+  applySearchQuery,
+  buildSearchParams,
+  parseSearchParams,
+  parseSearchParamsWithReport,
+} from '@/lib/search';
 import { usePublicData } from '@/state/PublicDataContext';
-import { SearchCondition, TagInfo, VideoIndex } from '@/types';
+import { VideoCard } from '@/components/VideoCard';
+import { DataErrorState } from '@/components/DataErrorState';
+import { NavIcon } from '@/components/NavIcon';
 
-const suggestionListId = 'search-suggestions';
+function unique<T>(values: T[]): T[] {
+  return [...new Set(values)];
+}
 
 function normalizeTerm(value: string): string {
-  return value.normalize('NFKC').trim().replace(/\s+/g, ' ');
-}
-
-function isSameCondition(left: SearchCondition, right: SearchCondition): boolean {
-  return JSON.stringify(left) === JSON.stringify(right);
-}
-
-function formatLength(value: number, upper = false): string {
-  if (upper && value >= 300) {
-    return '上限なし';
-  }
-
-  const hours = Math.floor(value / 60);
-  const minutes = value % 60;
-  return `${hours}h${minutes ? `${minutes}m` : ''}`;
-}
-
-function formatDateRange(condition: SearchCondition): string {
-  if (condition.from && condition.to) {
-    return `${condition.from}〜${condition.to}`;
-  }
-
-  return condition.from ?? condition.to ?? '';
-}
-
-function toConditionList(condition: SearchCondition, tags: TagInfo[]) {
-  const tagLabels = condition.tags
-    .map((tagId) => tags.find((tag) => tag.tagId === tagId)?.displayName)
-    .filter((label): label is string => Boolean(label));
-  const conditions = tagLabels.map((label, index) => ({
-    id: `tag-${condition.tags[index]}`,
-    label,
-    section: 'tags',
-  }));
-
-  if (typeof condition.lmin === 'number' || typeof condition.lmax === 'number') {
-    conditions.push({
-      id: 'length',
-      label: `${formatLength(condition.lmin ?? 0)}〜${formatLength(condition.lmax ?? 300, true)}`,
-      section: 'length',
-    });
-  }
-
-  if (condition.from || condition.to) {
-    conditions.push({ id: 'date', label: formatDateRange(condition), section: 'date' });
-  }
-
-  return conditions;
+  return value
+    .normalize('NFKC')
+    .trim()
+    .replace(/\s+/g, ' ');
 }
 
 export function SearchPage() {
   const location = useLocation();
   const navigate = useNavigate();
   const { loading, error, errorKind, release, search, tagIndex, alias, refresh, latest } = usePublicData();
-  const featureEnabled = latest?.releaseMode === 'normal' && hasActiveConsentVersion('1');
+
+  const isFeatureEnabled =
+    latest?.releaseMode === 'normal' && hasActiveConsentVersion('1');
+
   const [query, setQuery] = useState('');
+  const [notice, setNotice] = useState<string | null>(null);
+  const [recentSearches, setRecentSearches] = useState(() => getRecentSearchEntries());
   const [suggestionsOpen, setSuggestionsOpen] = useState(false);
   const [activeSuggestion, setActiveSuggestion] = useState(-1);
-  const [notice, setNotice] = useState('');
-  const [panelOpen, setPanelOpen] = useState(false);
-  const [initialSection, setInitialSection] = useState<string | undefined>();
-  const [calendarOpen, setCalendarOpen] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const filterButtonRef = useRef<HTMLButtonElement>(null);
+  const closeFilterRef = useRef<HTMLButtonElement>(null);
 
-  const parsed = useMemo(
-    () => parseSearchParamsWithReport(new URLSearchParams(location.search)),
-    [location.search],
-  );
-  const tags = tagIndex?.tags ?? [];
-  const aliasMap = useMemo(() => new Map(Object.entries(alias?.aliases ?? {})), [alias?.aliases]);
-  const knownTagIds = useMemo(() => new Set(tags.map((tag) => tag.tagId)), [tags]);
+  const parsed = useMemo(() => {
+    const source = new URLSearchParams(location.search);
+    return parseSearchParamsWithReport(source);
+  }, [location.search]);
+
+  const aliasMap = useMemo(() => new Map<string, string>(Object.entries(alias?.aliases ?? {})), [alias?.aliases]);
+  const knownTagIds = useMemo(() => new Set((tagIndex?.tags ?? []).map((tag) => tag.tagId)), [tagIndex?.tags]);
+  const canonicalizationNotices = useMemo(() => {
+    if (!isFeatureEnabled) {
+      return parsed.notices;
+    }
+    const aliases = parsed.condition.tags.map((tagId) => {
+      const next = aliasMap.get(tagId) ?? tagId;
+      return next.trim();
+    });
+    const hadAliasConversion = parsed.condition.tags.some((tagId) => {
+      const mapped = aliasMap.get(tagId);
+      return Boolean(mapped && mapped !== tagId);
+    });
+    const knownAliases = aliases.filter((tagId) => knownTagIds.has(tagId));
+    const uniqueAliases = unique(knownAliases);
+    const notices: string[] = [...parsed.notices];
+
+    if (hadAliasConversion) {
+      notices.push('tagエイリアスをcanonical idへ変換しました。');
+    }
+    if (uniqueAliases.length < aliases.length) {
+      notices.push('未知/無効なtag条件を除外しました。');
+    }
+    return notices;
+  }, [aliasMap, isFeatureEnabled, knownTagIds, parsed.condition.tags, parsed.notices]);
+
   const normalized = useMemo(() => {
-    const tagIds = featureEnabled
-      ? Array.from(new Set(parsed.condition.tags.map((tag) => aliasMap.get(tag) ?? tag)))
-        .filter((tag) => knownTagIds.has(tag))
+    const base = parsed.condition;
+    const tags = isFeatureEnabled
+      ? base.tags
+          .map((tagId) => aliasMap.get(tagId) ?? tagId)
+          .map((tagId) => tagId.trim())
+          .filter(Boolean)
+          .filter((tagId) => knownTagIds.has(tagId))
+          .filter((tagId, index, all) => all.indexOf(tagId) === index)
       : [];
 
     return {
-      ...parsed.condition,
-      tags: tagIds,
-      artifacts: featureEnabled ? parsed.condition.artifacts : [],
-      sort: featureEnabled ? parsed.condition.sort : 'newest',
+      ...base,
+      tags,
+      artifacts: isFeatureEnabled ? base.artifacts : [],
+      sort: isFeatureEnabled ? base.sort : 'newest',
     } satisfies SearchCondition;
-  }, [aliasMap, featureEnabled, knownTagIds, parsed.condition]);
+  }, [aliasMap, isFeatureEnabled, knownTagIds, parsed.condition]);
 
   useEffect(() => {
     setQuery(normalized.q);
-    if (parsed.normalized || !isSameCondition(parsed.condition, normalized)) {
+    if (parsed.normalized || isDifferent(normalized, parseSearchParams(new URLSearchParams(location.search)))) {
       const params = buildSearchParams(normalized);
       navigate(`/search${params ? `?${params}` : ''}`, { replace: true });
     }
-  }, [navigate, normalized, parsed.condition, parsed.normalized]);
+    if (canonicalizationNotices.length) {
+      setNotice(canonicalizationNotices[0]);
+    }
+  }, [isFeatureEnabled, location.search, navigate, normalized, canonicalizationNotices, parsed]);
 
-  const chatCounts = useMemo(
-    () => new Map(
-      (release?.videos ?? [])
-        .filter((video) => typeof video.chat?.totalCount === 'number')
-        .map((video) => [video.videoId, video.chat!.totalCount]),
-    ),
-    [release?.videos],
-  );
-  const results = useMemo(
-    () => applySearchQuery(search?.videos ?? [], normalized, chatCounts),
-    [chatCounts, normalized, search?.videos],
-  );
-  const videosById = useMemo(
-    () => new Map((release?.videos ?? []).map((video) => [video.videoId, video])),
-    [release?.videos],
-  );
-  const suggestions = useMemo<SuggestItem[]>(() => {
+  useEffect(() => {
+    setRecentSearches(getRecentSearchEntries());
+  }, [location.search]);
+
+  const chatCounts = useMemo(() => {
+    const map = new Map<string, number>();
+    for (const video of release?.videos ?? []) {
+      if (typeof video.chat?.totalCount === 'number') {
+        map.set(video.videoId, video.chat.totalCount);
+      }
+    }
+    return map;
+  }, [release?.videos]);
+
+  const videos = applySearchQuery(search?.videos ?? [], normalized, chatCounts);
+
+  const tags = tagIndex?.tags ?? [];
+  const suggestions = useMemo(() => {
     const term = normalizeTerm(query).toLocaleLowerCase('ja');
-    if (!featureEnabled || !term) {
+    if (!term || !isFeatureEnabled) {
       return [];
     }
-
-    const tagSuggestions = tags
+    return tags
       .filter((tag) => tag.displayName.toLocaleLowerCase('ja').includes(term))
-      .sort((left, right) => right.count - left.count || left.displayName.localeCompare(right.displayName, 'ja'))
-      .slice(0, 2)
-      .map((tag) => ({
-        id: `tag:${tag.tagId}`,
-        label: tag.displayName,
-        detail: `${tag.count}件`,
-      }));
+      .slice(0, 4);
+  }, [isFeatureEnabled, query, tags]);
 
-    return [...tagSuggestions, { id: 'keyword', label: `「${normalizeTerm(query)}」を検索` }].slice(0, 4);
-  }, [featureEnabled, query, tags]);
-  const conditions = toConditionList(normalized, tags);
-  const streamedDates = useMemo(
-    () => (release?.videos ?? []).map((video) => video.publishedAt.slice(0, 10)),
-    [release?.videos],
-  );
+  const activeConditionCount =
+    normalized.tags.length
+    + normalized.artifacts.length
+    + Number(normalized.lmin !== undefined)
+    + Number(normalized.lmax !== undefined)
+    + Number(normalized.from !== undefined)
+    + Number(normalized.to !== undefined)
+    + Number(normalized.sort !== 'newest');
 
-  function updateCondition(next: SearchCondition): void {
-    const params = buildSearchParams({ ...next, q: normalizeTerm(next.q) });
-    navigate(`/search${params ? `?${params}` : ''}`);
-  }
-
-  function updatePartial(next: Partial<SearchCondition>): void {
-    updateCondition({ ...normalized, ...next, q: query });
-  }
-
-  function openConditions(section?: string): void {
-    setInitialSection(section);
-    setCalendarOpen(false);
-    setPanelOpen(true);
-  }
-
-  function removeCondition(id: string): void {
-    if (id.startsWith('tag-')) {
-      updatePartial({ tags: normalized.tags.filter((tag) => `tag-${tag}` !== id) });
-      return;
+  useEffect(() => {
+    if (!filtersOpen) {
+      return undefined;
     }
-    if (id === 'length') {
-      updatePartial({ lmin: undefined, lmax: undefined });
-      return;
-    }
-    updatePartial({ from: undefined, to: undefined });
-  }
-
-  function selectSuggestion(item: SuggestItem): void {
-    if (item.id.startsWith('tag:')) {
-      const tagId = item.id.slice(4);
-      if (!normalized.tags.includes(tagId)) {
-        updatePartial({ tags: [...normalized.tags, tagId] });
+    closeFilterRef.current?.focus();
+    const handleFilterKeyDown = (event: globalThis.KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        setFiltersOpen(false);
+        filterButtonRef.current?.focus();
+        return;
       }
-      const label = tags.find((tag) => tag.tagId === tagId)?.displayName ?? 'タグ';
-      setNotice(`${label} を検索条件へ追加しました。`);
-    } else {
-      updatePartial({ q: normalizeTerm(query) });
-      setNotice('キーワードを検索条件へ追加しました。');
+      if (event.key !== 'Tab') {
+        return;
+      }
+
+      const panel = document.getElementById('search-filters');
+      const focusable = panel?.querySelectorAll<HTMLElement>(
+        'button:not([disabled]), input:not([disabled]), select:not([disabled]), [href], [tabindex]:not([tabindex="-1"])',
+      );
+      if (!focusable?.length) {
+        return;
+      }
+
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+    window.addEventListener('keydown', handleFilterKeyDown);
+    return () => window.removeEventListener('keydown', handleFilterKeyDown);
+  }, [filtersOpen]);
+
+  function selectSuggestion(index: number): void {
+    const selected = suggestions[index];
+    if (!selected) {
+      return;
     }
+    toggleTag(selected.tagId);
     setSuggestionsOpen(false);
     setActiveSuggestion(-1);
+    setNotice(`${selected.displayName} を検索条件へ追加しました。`);
   }
 
-  function onKeyDown(event: KeyboardEvent<HTMLInputElement>): void {
+  function onSuggestionKeyDown(event: KeyboardEvent<HTMLInputElement>): void {
     if (event.key === 'Escape') {
       setSuggestionsOpen(false);
       setActiveSuggestion(-1);
@@ -216,191 +213,395 @@ export function SearchPage() {
     }
     if (event.key === 'Enter' && suggestionsOpen && activeSuggestion >= 0) {
       event.preventDefault();
-      selectSuggestion(suggestions[activeSuggestion]);
+      selectSuggestion(activeSuggestion);
     }
   }
 
-  function onSubmit(event: FormEvent<HTMLFormElement>): void {
-    event.preventDefault();
-    updatePartial({ q: normalizeTerm(query) });
-    setSuggestionsOpen(false);
-  }
-
-  function tagNames(video: VideoIndex): string[] {
-    if (!featureEnabled) {
-      return [];
+  function syncUrl(condition: SearchCondition, { recordRecent }: { recordRecent: boolean }): void {
+    const payload: SearchCondition = {
+      ...normalized,
+      ...condition,
+      q: normalizeTerm(condition.q),
+      tags: isFeatureEnabled ? unique(condition.tags).filter(Boolean) : [],
+      artifacts: isFeatureEnabled ? unique(condition.artifacts) : [],
+      sort: !isFeatureEnabled && condition.sort === 'mostChat' ? 'newest' : condition.sort,
+    };
+    const param = buildSearchParams(payload);
+    navigate(`/search${param ? `?${param}` : ''}`, { replace: true });
+    if (recordRecent) {
+      addRecentSearch(payload);
+      setRecentSearches(getRecentSearchEntries());
     }
-
-    return tags
-      .filter((tag) => video.tagIds?.includes(tag.tagId))
-      .map((tag) => tag.displayName);
+    setNotice('検索条件を更新しました。');
   }
 
-  if (loading) {
-    return (
-      <section className="dio-search-page">
-        <h1>検索</h1>
-        <LoadingState label="検索インデックスを読み込んでいます…" />
-      </section>
+  function apply(next: SearchCondition, options: { recordRecent: boolean }): void {
+    syncUrl(next, options);
+  }
+
+  function applyFromInputs(next: Partial<SearchCondition>, options: { recordRecent: boolean } = { recordRecent: true }): void {
+    apply(
+      {
+        ...normalized,
+        ...next,
+        q: query,
+      },
+      options,
     );
   }
 
-  if (error && errorKind) {
-    return <DataErrorState detail={error} kind={errorKind} retry={() => void refresh()} />;
+  function onSubmit(event: FormEvent): void {
+    event.preventDefault();
+    applyFromInputs({ q: normalizeTerm(query) }, { recordRecent: true });
   }
 
-  if (!search || !release) {
-    return <DataErrorState detail="公開artifactが不足しているため検索結果を表示できません。" kind="not_found" retry={() => void refresh()} />;
+  function toggleTag(candidate: string): void {
+    const canonical = aliasMap.get(candidate) ?? candidate;
+    const nextTags = normalized.tags.includes(canonical)
+      ? normalized.tags.filter((tag) => tag !== canonical)
+      : [...normalized.tags, canonical];
+
+    applyFromInputs({ tags: nextTags }, { recordRecent: true });
+  }
+
+  function applyRecent(entryIndex: number): void {
+    const entry = recentSearches[entryIndex];
+    if (!entry) {
+      return;
+    }
+    const next = {
+      ...normalized,
+      ...entry.condition,
+    };
+    syncUrl(next, { recordRecent: false });
+    setQuery(next.q);
+    setNotice('最近の検索条件を再適用しました。');
+  }
+
+  function removeRecent(index: number): void {
+    removeRecentSearchAt(index);
+    setRecentSearches(getRecentSearchEntries());
+    setNotice('最近の検索条件を1件削除しました。');
+  }
+
+  function clearRecent(): void {
+    clearRecentSearches();
+    setRecentSearches([]);
+    setNotice('最近の検索条件を全削除しました。');
+  }
+
+  if (loading) {
+    return <p className="status">検索インデックスを読込んでいます…</p>;
+  }
+
+  if (error && errorKind) {
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
   }
 
   return (
-    <section className="dio-search-page">
-      <h1>検索</h1>
-      <div className="dio-search-page__input">
-        <SearchBar
-          activeSuggestionId={activeSuggestion >= 0 ? `${suggestionListId}-${activeSuggestion}` : undefined}
-          onKeyDown={onKeyDown}
-          onQueryChange={(value) => {
-            setQuery(value);
-            setSuggestionsOpen(true);
-            setActiveSuggestion(-1);
-          }}
-          onSubmit={onSubmit}
-          onTokenRemove={(tagId) => updatePartial({ tags: normalized.tags.filter((tag) => tag !== tagId) })}
-          query={query}
-          suggestionListId={suggestionListId}
-          suggestionsOpen={suggestionsOpen && suggestions.length > 0}
-          tokens={normalized.tags.map((tagId) => ({
-            id: tagId,
-            label: tags.find((tag) => tag.tagId === tagId)?.displayName ?? tagId,
-          }))}
-        />
-        {suggestionsOpen ? (
-          <SuggestList
-            activeIndex={activeSuggestion}
-            id={suggestionListId}
-            items={suggestions}
-            onSelect={selectSuggestion}
-          />
-        ) : null}
-      </div>
-      <ConditionRow conditions={conditions} onOpen={openConditions} onRemove={removeCondition} />
-      <div aria-live="polite" className="sr-only" role="status">
-        {notice || `${results.length}件の検索結果です。`}
-      </div>
-      <header className="dio-search-page__results-header">
-        <p className="dio-num">{results.length}件</p>
-        <label>
-          <span className="dio-label">並び順</span>
-          <select
-            onChange={(event) => updatePartial({ sort: event.target.value as SearchCondition['sort'] })}
-            value={normalized.sort}
-          >
-            <option value="newest">新しい順</option>
-            <option value="oldest">古い順</option>
-            <option value="longest">長い順</option>
-            {featureEnabled ? <option value="mostChat">チャット数順</option> : null}
-          </select>
-        </label>
+    <section className="page search-page">
+      <header className="page-header">
+        <p className="eyebrow">ARCHIVE SEARCH</p>
+        <h1>アーカイブを探す</h1>
+        <p className="page-lead">覚えている言葉、テーマ、配信の長さから絞り込めます。</p>
       </header>
-      <div className="video-list">
-        {results.length === 0 ? (
-          <EmptyState title="条件に合う動画はありません">
-            <p>条件をゆるめると見つかりやすくなります。</p>
-            <Button
-              onClick={() => updatePartial({ tags: [], lmin: undefined, lmax: undefined, from: undefined, to: undefined })}
-              type="button"
-            >
-              条件をゆるめる
-            </Button>
-          </EmptyState>
-        ) : null}
-        {results.map((result) => {
-          const video = videosById.get(result.videoId);
-          if (!video) {
-            return null;
-          }
 
-          return (
-            <VideoListItem
-              chatCount={result.chatCount}
-              key={video.videoId}
-              tagNames={tagNames(video)}
-              video={video}
-            />
-          );
-        })}
-      </div>
-      <ConditionPanel
-        initialSection={initialSection}
-        onClose={() => setPanelOpen(false)}
-        open={panelOpen}
-        resultCount={results.length}
-      >
-        {calendarOpen ? (
-          <section className="dio-condition-section">
-            <RangeCalendar
-              from={normalized.from}
-              onBack={() => setCalendarOpen(false)}
-              onChange={(range) => updatePartial(range)}
-              streamedDates={streamedDates}
-              to={normalized.to}
-            />
+      <form className="search-toolbar" onSubmit={onSubmit}>
+        <label className="search-field">
+          <span className="sr-only">キーワード</span>
+          <NavIcon name="search" />
+          <input
+            value={query}
+            role="combobox"
+            aria-autocomplete="list"
+            aria-controls="tag-suggestions"
+            aria-expanded={suggestionsOpen && suggestions.length > 0}
+            aria-activedescendant={activeSuggestion >= 0 ? `tag-suggestion-${activeSuggestion}` : undefined}
+            onChange={(event) => {
+              setQuery(event.target.value);
+              setSuggestionsOpen(true);
+              setActiveSuggestion(-1);
+            }}
+            onFocus={() => setSuggestionsOpen(true)}
+            onKeyDown={onSuggestionKeyDown}
+            placeholder="タイトルや覚えている言葉"
+          />
+          {suggestionsOpen && suggestions.length ? (
+            <ul className="suggestions" id="tag-suggestions" role="listbox">
+              {suggestions.map((tag, index) => (
+                <li
+                  id={`tag-suggestion-${index}`}
+                  key={tag.tagId}
+                  role="option"
+                  aria-selected={activeSuggestion === index}
+                >
+                  <button type="button" onMouseDown={(event) => event.preventDefault()} onClick={() => selectSuggestion(index)}>
+                    <span>{tag.displayName}</span>
+                    <span className="suggestion-meta">{tag.count}本</span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          ) : null}
+        </label>
+        <button className="button button-primary search-submit" type="submit">検索</button>
+        <button
+          className="button button-secondary filter-trigger"
+          type="button"
+          ref={filterButtonRef}
+          aria-expanded={filtersOpen}
+          aria-controls="search-filters"
+          onClick={() => setFiltersOpen(true)}
+        >
+          条件{activeConditionCount ? `（${activeConditionCount}）` : ''}
+        </button>
+      </form>
+
+      {normalized.tags.length ? (
+        <div className="active-conditions" aria-label="適用中の条件">
+          {normalized.tags.map((tagId) => {
+            const tag = tags.find((item) => item.tagId === tagId);
+            return (
+              <button className="chip chip-selected" key={tagId} type="button" onClick={() => toggleTag(tagId)}>
+                {tag?.displayName ?? tagId}
+                <span aria-hidden="true">×</span>
+                <span className="sr-only">の条件を解除</span>
+              </button>
+            );
+          })}
+        </div>
+      ) : null}
+
+      {filtersOpen ? <button className="filter-backdrop" type="button" aria-label="検索条件を閉じる" onClick={() => setFiltersOpen(false)} /> : null}
+
+      <div className="search-layout">
+        <div className="search-results">
+          <div className="result-heading">
+            <h2>検索結果</h2>
+            <p className="result-count" aria-live="polite">{videos.length}件</p>
+          </div>
+          {notice ? <p className="notice" role="status" aria-live="polite">{notice}</p> : null}
+
+          <section className="video-list" aria-label="検索結果の動画">
+            {videos.length === 0 ? (
+              <div className="empty-state">
+                <span className="empty-mark" aria-hidden="true">0</span>
+                <h3>条件に合うアーカイブがありません</h3>
+                <p>キーワードを短くするか、適用中の条件をひとつ外してみてください。</p>
+                <button
+                  className="button button-secondary"
+                  type="button"
+                  onClick={() => {
+                    if (normalized.tags.length) {
+                      applyFromInputs({ tags: normalized.tags.slice(0, -1) });
+                    } else {
+                      setQuery('');
+                      applyFromInputs({ q: '' });
+                    }
+                  }}
+                >
+                  条件をひとつ解除
+                </button>
+              </div>
+            ) : null}
+
+            {videos.map((video) => {
+              const releaseVideo = release?.videos.find((item) => item.videoId === video.videoId);
+              if (!releaseVideo) {
+                return null;
+              }
+              const names = tags
+                .filter((tag) => (video.tagIds ?? []).includes(tag.tagId))
+                .map((tag) => tag.displayName);
+              return (
+                <VideoCard
+                  key={video.videoId}
+                  videoId={video.videoId}
+                  title={releaseVideo.title}
+                  publishedAt={video.publishedAt}
+                  duration={releaseVideo.duration}
+                  thumbnail={releaseVideo.thumbnail.url}
+                  tagNames={isFeatureEnabled ? names : []}
+                  flags={video.artifactFlags}
+                  chatCount={releaseVideo.chat?.totalCount}
+                />
+              );
+            })}
           </section>
-        ) : (
-          <div className="dio-condition-sections">
-            <section className="dio-condition-section" id="tags">
-              <h3>タグ</h3>
-              <div className="chips">
-                {tags.map((tag) => (
-                  <Chip
-                    key={tag.tagId}
-                    label={tag.displayName}
-                    onClick={() => updatePartial({
-                      tags: normalized.tags.includes(tag.tagId)
-                        ? normalized.tags.filter((tagId) => tagId !== tag.tagId)
-                        : [...normalized.tags, tag.tagId],
-                    })}
-                    selected={normalized.tags.includes(tag.tagId)}
-                  />
+
+          <section className="section recent-section" aria-labelledby="recent-heading">
+            <div className="section-heading">
+              <div>
+                <p className="eyebrow">RECENT</p>
+                <h2 id="recent-heading">最近の検索</h2>
+              </div>
+              {recentSearches.length ? (
+                <button className="text-button danger-text" type="button" onClick={clearRecent}>すべて削除</button>
+              ) : null}
+            </div>
+            {recentSearches.length === 0 ? <p className="muted">検索条件を保存すると、ここからすぐに再開できます。</p> : null}
+            {recentSearches.length > 0 ? (
+              <div className="recent-list">
+                {recentSearches.map((entry, index) => (
+                  <div key={`${entry.createdAt}-${index}`} className="recent-row">
+                    <button
+                      className="recent-apply"
+                      type="button"
+                      onClick={() => applyRecent(index)}
+                      aria-label={`${entry.condition.q || '条件のみの検索'}を再適用`}
+                    >
+                      <NavIcon name="history" />
+                      <span>{entry.condition.q || '条件のみの検索'}</span>
+                      {entry.condition.tags.length ? <small>{entry.condition.tags.length}タグ</small> : null}
+                    </button>
+                    <button className="icon-button" type="button" onClick={() => removeRecent(index)} aria-label="この検索履歴を削除">×</button>
+                  </div>
                 ))}
               </div>
-            </section>
-            <section className="dio-condition-section" id="length">
-              <h3>長さ</h3>
-              <LengthSlider
-                max={normalized.lmax ?? 300}
-                min={normalized.lmin ?? 0}
-                onChange={(range) => updatePartial({
-                  lmin: range.min === 0 ? undefined : range.min,
-                  lmax: range.max === 300 ? undefined : range.max,
-                })}
-              />
-            </section>
-            <section className="dio-condition-section" id="date">
-              <h3>{formatDateRange(normalized) || '投稿日'}</h3>
-              <div className="chips">
-                <Chip
-                  label="3ヶ月以内"
-                  onClick={() => {
-                    const to = new Date().toISOString().slice(0, 10);
-                    const from = new Date();
-                    from.setMonth(from.getMonth() - 3);
-                    updatePartial({ from: from.toISOString().slice(0, 10), to });
-                  }}
-                  variant="preset"
-                />
-                <Chip
-                  label="今年"
-                  onClick={() => updatePartial({ from: `${new Date().getFullYear()}-01-01`, to: undefined })}
-                  variant="preset"
-                />
-                <Chip label="カレンダー" onClick={() => setCalendarOpen(true)} variant="action" />
-              </div>
-            </section>
+            ) : null}
+          </section>
+        </div>
+
+        <aside className={filtersOpen ? 'condition-panel is-open' : 'condition-panel'} id="search-filters" aria-label="検索条件">
+          <div className="panel-header">
+            <div>
+              <p className="eyebrow">FILTER</p>
+              <h2>検索条件</h2>
+            </div>
+            <button
+              className="icon-button panel-close"
+              type="button"
+              ref={closeFilterRef}
+              onClick={() => {
+                setFiltersOpen(false);
+                filterButtonRef.current?.focus();
+              }}
+              aria-label="検索条件を閉じる"
+            >
+              ×
+            </button>
           </div>
-        )}
-      </ConditionPanel>
+
+          {isFeatureEnabled && tags.length ? (
+            <fieldset className="filter-group">
+              <legend>テーマ</legend>
+              <div className="chips">
+                {tags.slice(0, 8).map((tag) => (
+                  <button
+                    key={tag.tagId}
+                    type="button"
+                    className={normalized.tags.includes(tag.tagId) ? 'chip chip-selected' : 'chip chip-selectable'}
+                    aria-pressed={normalized.tags.includes(tag.tagId)}
+                    onClick={() => toggleTag(tag.tagId)}
+                  >
+                    {tag.displayName}
+                  </button>
+                ))}
+              </div>
+            </fieldset>
+          ) : null}
+
+          <fieldset className="filter-group">
+            <legend>配信の長さ</legend>
+            <div className="range-fields">
+              <label>
+                <span>最短</span>
+                <span className="field-with-unit">
+                  <input
+                    type="number"
+                    min="0"
+                    inputMode="numeric"
+                    value={normalized.lmin ?? ''}
+                    onChange={(event) => applyFromInputs({ lmin: event.target.value ? Number(event.target.value) : undefined })}
+                  />
+                  <span>分</span>
+                </span>
+              </label>
+              <span aria-hidden="true">—</span>
+              <label>
+                <span>最長</span>
+                <span className="field-with-unit">
+                  <input
+                    type="number"
+                    min="0"
+                    inputMode="numeric"
+                    value={normalized.lmax ?? ''}
+                    onChange={(event) => applyFromInputs({ lmax: event.target.value ? Number(event.target.value) : undefined })}
+                  />
+                  <span>分</span>
+                </span>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset className="filter-group">
+            <legend>投稿日</legend>
+            <div className="date-fields">
+              <label>
+                <span>開始日</span>
+                <input
+                  type="date"
+                  max={normalized.to ?? new Date().toISOString().slice(0, 10)}
+                  value={normalized.from ?? ''}
+                  onChange={(event) => applyFromInputs({ from: event.target.value || undefined })}
+                />
+              </label>
+              <label>
+                <span>終了日</span>
+                <input
+                  type="date"
+                  min={normalized.from}
+                  max={new Date().toISOString().slice(0, 10)}
+                  value={normalized.to ?? ''}
+                  onChange={(event) => applyFromInputs({ to: event.target.value || undefined })}
+                />
+              </label>
+            </div>
+          </fieldset>
+
+          <label className="filter-group select-label">
+            <span>並び順</span>
+            <select
+              value={normalized.sort}
+              onChange={(event) => applyFromInputs({ sort: event.target.value as SearchCondition['sort'] })}
+            >
+              <option value="newest">新しい順</option>
+              <option value="oldest">古い順</option>
+              <option value="longest">長い順</option>
+              {isFeatureEnabled ? <option value="mostChat">チャットが多い順</option> : null}
+            </select>
+          </label>
+
+          <div className="panel-actions">
+            <button
+              className="button button-quiet"
+              type="button"
+              onClick={() => {
+                setQuery('');
+                apply({
+                  q: '',
+                  tags: [],
+                  artifacts: [],
+                  lmin: undefined,
+                  lmax: undefined,
+                  from: undefined,
+                  to: undefined,
+                  sort: 'newest',
+                }, { recordRecent: false });
+              }}
+            >
+              リセット
+            </button>
+            <button className="button button-primary" type="button" onClick={() => setFiltersOpen(false)}>
+              {videos.length}件を見る
+            </button>
+          </div>
+        </aside>
+      </div>
     </section>
   );
+}
+
+function isDifferent(a: SearchCondition, b: SearchCondition): boolean {
+  return JSON.stringify(a) !== JSON.stringify(b);
 }

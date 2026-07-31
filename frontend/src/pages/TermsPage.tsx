@@ -2,7 +2,7 @@ import { POLICY_LINKS } from '@/lib/policy';
 
 export function TermsPage() {
   return (
-    <article className="legal-page dio-static-page">
+    <article className="legal-page">
       <h1>利用規約</h1>
       <p>diopsideは公開YouTubeアーカイブを検索・再訪するための非公式サービスです。</p>
       <h2>利用データ</h2>

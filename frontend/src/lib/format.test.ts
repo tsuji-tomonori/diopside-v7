@@ -1,45 +1,44 @@
 import { describe, expect, it } from 'vitest';
+import { formatCount, formatDuration, formatPublishedDate } from './format';
 
-import { formatCount, formatDateTime, formatDuration, formatPublishedAt, formatTimestamp } from './format';
-
-describe('表示用整形', () => {
-  // このテストケースの公開契約を検証する。
-  it('投稿日と更新日時を日本語の表示形式へ整形する', () => {
+describe('表示用フォーマット', () => {
+  // ISO 8601 durationを読みやすい日本語表現へ変換することを検証する。
+  it('ISO durationを日本語の時間表現へ変換する', () => {
     // 1. 初期化
-    const publishedAt = '2026-06-30T22:10:00Z';
+    const longDuration = 'PT2H30M20S';
 
     // 2. テストの実行
-    const date = formatPublishedAt(publishedAt);
-    const dateTime = formatDateTime(publishedAt);
+    const formattedDuration = formatDuration(longDuration);
 
     // 3. アサーション
-    expect(date).toBe('2026/06/30');
-    expect(dateTime).toBe('2026/06/30 22:10');
+    expect(formattedDuration).toBe('2時間30分');
+    expect(formatDuration('PT22M')).toBe('22分');
+    expect(formatDuration('PT45S')).toBe('45秒');
   });
 
-  // このテストケースの公開契約を検証する。
-  it('秒数を動画長とタイムスタンプの表示形式へ整形する', () => {
+  // 不正な入力をもっともらしい日時や配信時間へ改変しないことを検証する。
+  it('不正な値を架空値へ置き換えない', () => {
     // 1. 初期化
-    const longDuration = 9020;
+    const unknownValue = 'unknown';
 
     // 2. テストの実行
-    const duration = formatDuration(longDuration);
-    const timestamp = formatTimestamp(120);
+    const duration = formatDuration(unknownValue);
+    const publishedDate = formatPublishedDate(unknownValue);
 
     // 3. アサーション
-    expect(duration).toBe('2:30:20');
-    expect(timestamp).toBe('2:00');
+    expect(duration).toBe(unknownValue);
+    expect(publishedDate).toBe(unknownValue);
   });
 
-  // このテストケースの公開契約を検証する。
-  it('件数を三桁区切りで整形する', () => {
+  // 集計件数を日本語UIで読みやすい桁区切りへ整形することを検証する。
+  it('件数をロケールに合わせる', () => {
     // 1. 初期化
-    const count = 12480;
+    const count = 12345;
 
     // 2. テストの実行
-    const formatted = formatCount(count);
+    const formattedCount = formatCount(count);
 
     // 3. アサーション
-    expect(formatted).toBe('12,480');
+    expect(formattedCount).toBe('12,345');
   });
 });

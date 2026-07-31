@@ -1,17 +1,14 @@
-import { Link } from 'react-router-dom';
 import { useMemo, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { usePublicData } from '@/state/PublicDataContext';
-import { clearSaved, getSavedVideoIds, hasActiveConsentVersion, removeSavedVideoId } from '@/lib/storage';
+import { clearSaved, getSavedVideoIds, removeSavedVideoId } from '@/lib/storage';
+import { VideoCard } from '@/components/VideoCard';
 import { DataErrorState } from '@/components/DataErrorState';
-import { Button } from '@/components/ui/Button';
-import { EmptyState } from '@/components/ui/EmptyState';
-import { LoadingState } from '@/components/ui/LoadingState';
-import { VideoListItem } from '@/components/ui/VideoListItem';
-import { VideoIndex } from '@/types';
 
 export function SavedPage() {
-  const { loading, release, refresh, error, errorKind, latest, tagIndex } = usePublicData();
+  const { loading, release, refresh, error, errorKind } = usePublicData();
   const [saved, setSaved] = useState<string[]>(() => getSavedVideoIds());
+  const [notice, setNotice] = useState<string | null>(null);
 
   const videos = useMemo(
     () =>
@@ -27,71 +24,62 @@ export function SavedPage() {
   const clearAll = (): void => {
     clearSaved();
     setSaved([]);
+    setNotice('保存した動画をすべて削除しました。');
   };
 
   const removeOne = (videoId: string): void => {
     removeSavedVideoId(videoId);
     setSaved((prev) => prev.filter((id) => id !== videoId));
+    setNotice('保存を1件解除しました。');
   };
 
-  const canShowTags = latest?.releaseMode === 'normal' && hasActiveConsentVersion('1');
-
-  function tagNames(video: VideoIndex): string[] {
-    if (!canShowTags) {
-      return [];
-    }
-
-    return (tagIndex?.tags ?? [])
-      .filter((tag) => video.tagIds?.includes(tag.tagId))
-      .map((tag) => tag.displayName);
-  }
-
   if (loading) {
-    return (
-      <section className="dio-library-page">
-        <h1>保存した動画</h1>
-        <LoadingState label="保存した動画を読み込んでいます…" />
-      </section>
-    );
+    return <p className="status">読込中…</p>;
   }
 
   if (error && errorKind) {
-    return (
-      <section className="dio-library-page">
-        <h1>保存した動画</h1>
-        <DataErrorState detail={error} kind={errorKind} retry={() => void refresh()} />
-      </section>
-    );
+    return <DataErrorState kind={errorKind} detail={error} retry={() => void refresh()} />;
   }
 
   return (
-    <section className="dio-library-page">
-      <header className="dio-page-header">
-        <div>
-          <h1>保存した動画</h1>
-          <p>あとで見返したい動画です。</p>
+      <section className="page library-page">
+        <header className="page-header">
+          <p className="eyebrow">SAVED ARCHIVES</p>
+          <h1>あとで見る</h1>
+          <p className="page-lead">気になった配信を、この端末だけに保存しています。</p>
+        </header>
+        <div className="library-toolbar">
+          <p>{videos.length}本を保存中</p>
+          {videos.length ? <button className="text-button danger-text" type="button" onClick={clearAll}>すべて削除</button> : null}
         </div>
-        {videos.length ? <Button type="button" variant="text" onClick={clearAll}>すべて削除</Button> : null}
-      </header>
-      {videos.length === 0 ? (
-        <EmptyState title="保存した動画はありません">
-          <p>動画詳細の保存操作から追加できます。</p>
-          <Link to="/search">検索を開く</Link>
-        </EmptyState>
-      ) : (
+        {notice ? <p className="notice" role="status">{notice}</p> : null}
         <div className="video-list">
+          {videos.length === 0 ? (
+            <div className="empty-state">
+              <span className="empty-mark" aria-hidden="true">◇</span>
+              <h2>保存した動画はまだありません</h2>
+              <p>動画詳細の「あとで見る」から、この端末に保存できます。</p>
+              <Link className="button button-primary" to="/search">アーカイブを探す</Link>
+            </div>
+          ) : null}
           {videos.map(({ video }) => (
-            <article key={video.videoId} className="dio-library-item">
-              <VideoListItem
+            <article key={video.videoId} className="video-card-wrap">
+              <VideoCard
+                videoId={video.videoId}
+                title={video.title}
+                publishedAt={video.publishedAt}
+                duration={video.duration}
+                thumbnail={video.thumbnail.url}
+                tagNames={[]}
+                flags={video.artifactFlags}
                 chatCount={video.chat?.totalCount}
-                tagNames={tagNames(video)}
-                video={video}
               />
-              <Button type="button" variant="text" onClick={() => removeOne(video.videoId)}>保存を外す</Button>
+              <button className="button button-quiet remove-row-action" type="button" onClick={() => removeOne(video.videoId)}>
+                保存を解除
+              </button>
             </article>
           ))}
         </div>
-      )}
-    </section>
+      </section>
   );
 }

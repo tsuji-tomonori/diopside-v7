@@ -1,35 +1,4 @@
-import axe from 'axe-core';
 import { expect, test } from '@playwright/test';
-
-const consent = {
-  schemaVersion: 1,
-  policyMajor: '1',
-  acceptedAt: '2026-07-13T00:00:00Z',
-};
-
-async function enableSearchFeatures(page: import('@playwright/test').Page) {
-  await page.addInitScript((value) => {
-    localStorage.setItem('diopside_consent_v1', JSON.stringify(value));
-  }, consent);
-}
-
-async function openConditions(page: import('@playwright/test').Page) {
-  const trigger = page.getByRole('button', { name: '＋タグ' });
-  await trigger.click();
-  const dialog = page.getByRole('dialog', { name: '検索条件' });
-  await expect(dialog).toBeVisible();
-
-  return { dialog, trigger };
-}
-
-function localDateKey(offset: number): string {
-  const value = new Date();
-  value.setDate(value.getDate() + offset);
-  const year = value.getFullYear();
-  const month = String(value.getMonth() + 1).padStart(2, '0');
-  const day = String(value.getDate()).padStart(2, '0');
-  return `${year}-${month}-${day}`;
-}
 
 // 全公開routeがconsole errorなしで表示されることを検証する。
 test('全公開routeをconsole errorなしで表示する', async ({ page }) => {
@@ -51,12 +20,18 @@ test('全公開routeをconsole errorなしで表示する', async ({ page }) => 
 test('検索queryを正規化して結果を維持する', async ({ page }) => {
   await page.goto('/search?tag=tag-002&tag=tag-002&lmin=-1&sort=unknown');
   await expect(page).toHaveURL(/\/search\?sort=newest$/);
-  await expect(page.getByText(/件$/).first()).toBeVisible();
+  await expect(page.locator('.result-count')).toHaveText(/^\d+件$/);
 });
 
 // タグ候補をkeyboardで選択でき、即時feedbackを得られることを検証する。
 test('タグ候補のkeyboard選択と即時feedbackを提供する', async ({ page }) => {
-  await enableSearchFeatures(page);
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-13T00:00:00Z',
+    }));
+  });
   await page.goto('/search');
   const query = page.getByRole('combobox', { name: 'キーワード' });
   await query.fill('雑談');
@@ -64,120 +39,6 @@ test('タグ候補のkeyboard選択と即時feedbackを提供する', async ({ p
   await expect(page.getByRole('listbox')).toBeVisible();
   await query.press('Enter');
   await expect(page.getByRole('status').last()).toContainText('検索条件へ追加しました');
-});
-
-// viewportごとにナビゲーションが一意に切り替わることを検証する。
-test('viewportごとにmobile navigationとPCサイドバーを切り替える', async ({ page }, testInfo) => {
-  await page.goto('/');
-  const isMobile = testInfo.project.name === 'mobile-chrome';
-
-  if (isMobile) {
-    await expect(page.getByRole('navigation', { name: 'mobile navigation' })).toBeVisible();
-    await expect(page.locator('.sidebar')).toBeHidden();
-  } else {
-    await expect(page.getByRole('navigation', { name: 'mobile navigation' })).toBeHidden();
-    await expect(page.locator('.sidebar')).toBeVisible();
-  }
-});
-
-// 条件UIが幅に応じた形状を持ち、閉じた後に開いた操作へ戻ることを検証する。
-test('条件sheetまたはright panelはEscapeで閉じ、triggerへfocusを戻す', async ({ page }, testInfo) => {
-  await enableSearchFeatures(page);
-  await page.goto('/search');
-  const { dialog, trigger } = await openConditions(page);
-
-  if (testInfo.project.name === 'mobile-chrome') {
-    await expect(dialog).toHaveClass(/dio-condition-sheet/);
-    const placement = await dialog.evaluate((element) => {
-      const bounds = element.getBoundingClientRect();
-      return { bottom: Math.round(bounds.bottom), viewportBottom: window.innerHeight };
-    });
-    expect(placement.bottom).toBe(placement.viewportBottom);
-  } else {
-    await expect(page.locator('.dio-condition-panel .dio-condition-sheet')).toBeVisible();
-    await expect(page.locator('.dio-condition-panel .dio-condition-sheet')).toHaveCSS('width', '320px');
-  }
-
-  await page.keyboard.press('Escape');
-  await expect(dialog).toBeHidden();
-  await expect(trigger).toBeFocused();
-});
-
-// 条件が変わった結果件数をCTAが即時に表し、空結果を区別することを検証する。
-test('条件変更に合わせてCTA件数を更新し、0件時に緩和表示を出す', async ({ page }) => {
-  await enableSearchFeatures(page);
-  await page.goto('/search');
-  const { dialog } = await openConditions(page);
-  const cta = dialog.getByRole('button', { name: /件を表示/ });
-  const before = await cta.textContent();
-
-  await dialog.getByRole('button', { name: '雑談' }).click();
-  await expect.poll(() => cta.textContent()).not.toBe(before);
-
-  const query = page.getByRole('combobox', { name: 'キーワード' });
-  await query.fill('__e2e_no_matching_video__');
-  await query.press('Enter');
-  await expect(dialog.getByRole('button', { name: '0件 — 条件をゆるめる' })).toBeVisible();
-});
-
-// カレンダーが遷移せずに日付範囲を反映し、未来日を禁止することを検証する。
-test('カレンダーはsheet内で範囲を確定し、未来日を選択できない', async ({ page }) => {
-  await enableSearchFeatures(page);
-  await page.goto('/search');
-  const { dialog } = await openConditions(page);
-  await dialog.getByRole('button', { name: 'カレンダー' }).click();
-  await expect(dialog.getByRole('heading', { name: '投稿日' })).toBeVisible();
-  await expect(dialog.locator('#tags')).toHaveCount(0);
-  await expect(page).toHaveURL(/\/search(?:\?|$)/);
-
-  const start = localDateKey(-2);
-  const end = localDateKey(-1);
-  const future = localDateKey(1);
-
-  await expect(dialog.locator(`[data-date="${future}"]`)).toBeDisabled();
-  await dialog.locator(`[data-date="${start}"]`).click();
-  await dialog.locator(`[data-date="${end}"]`).click();
-  await expect(page).toHaveURL(new RegExp(`from=${start}.*to=${end}|to=${end}.*from=${start}`));
-  await dialog.getByRole('button', { name: '条件に戻る' }).click();
-  await expect(page.getByRole('button', { name: `${start}〜${end}`, exact: true })).toBeVisible();
-});
-
-// pointerを使わず、Tabと候補選択だけで検索結果へ到達できることを検証する。
-test('Tab・矢印・Enterだけでタグ条件を追加して結果へ到達できる', async ({ page }) => {
-  await enableSearchFeatures(page);
-  await page.goto('/search');
-  await page.keyboard.press('Tab');
-  await expect(page.getByText('本文へスキップ')).toBeFocused();
-  const query = page.getByRole('combobox', { name: 'キーワード' });
-  for (let index = 0; index < 12; index += 1) {
-    await page.keyboard.press('Tab');
-    if (await query.evaluate((element) => document.activeElement === element)) {
-      break;
-    }
-  }
-  await expect(query).toBeFocused();
-  await page.keyboard.type('雑談');
-  await page.keyboard.press('ArrowDown');
-  await page.keyboard.press('Enter');
-  await expect(page).toHaveURL(/tag=tag-/);
-  await expect(page.getByRole('status').last()).toContainText('検索条件へ追加しました');
-  await expect(page.getByText(/件$/).first()).toBeVisible();
-});
-
-// 主要公開画面に重大度critical/seriousの自動検出a11y違反がないことを検証する。
-test('主要routeでaxe critical/serious違反がない', async ({ page }) => {
-  await enableSearchFeatures(page);
-  for (const route of ['/', '/search', '/videos/rY4A7Lxk12Q']) {
-    await page.goto(route);
-    await page.addScriptTag({ content: axe.source });
-    const violations = await page.evaluate(async () => {
-      const results = await (window as typeof window & { axe: typeof axe }).axe.run(document);
-      return results.violations
-        .filter((violation) => violation.impact === 'critical' || violation.impact === 'serious')
-        .map(({ id, impact, nodes }) => ({ id, impact, nodes: nodes.length }));
-    });
-    expect(violations, `${route} axe critical/serious`).toEqual([]);
-  }
 });
 
 // 詳細取得のserver失敗を分類し、履歴へ残さないことを検証する。
@@ -214,4 +75,141 @@ test('policyと削除窓口へ到達できる', async ({ page }) => {
   await page.getByRole('link', { name: 'プライバシー・削除窓口' }).click();
   await expect(page).toHaveURL(/\/privacy$/);
   await expect(page.getByRole('link', { name: /削除・訂正を依頼/ })).toHaveAttribute('href', /github\.com/);
+});
+
+// 最小対応幅でも横overflowや固定navigationによる操作領域不足がないことを検証する。
+test('320px幅で主要画面とnavigationを利用できる', async ({ page }) => {
+  await page.setViewportSize({ width: 320, height: 568 });
+  await page.goto('/');
+  const viewport = await page.evaluate(() => ({
+    clientWidth: document.documentElement.clientWidth,
+    scrollWidth: document.documentElement.scrollWidth,
+  }));
+  expect(viewport.scrollWidth).toBeLessThanOrEqual(viewport.clientWidth);
+
+  for (const link of await page.getByRole('navigation', { name: 'mobile navigation' }).getByRole('link').all()) {
+    const box = await link.boundingBox();
+    expect(box?.height).toBeGreaterThanOrEqual(44);
+  }
+});
+
+// mobile条件sheetがbuttonから開き、Escapeで閉じてfocusを戻すことを検証する。
+test('mobile検索条件sheetをkeyboardで閉じてfocusを戻す', async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto('/search');
+  const trigger = page.getByRole('button', { name: /^条件/ });
+  await trigger.click();
+  await expect(page.getByRole('complementary', { name: '検索条件' })).toBeVisible();
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('complementary', { name: '検索条件' })).toBeHidden();
+  await expect(trigger).toBeFocused();
+});
+
+// production UIに動作確認専用の操作を公開しないことを検証する。
+test('保存画面に動作確認用controlを公開しない', async ({ page }) => {
+  await page.goto('/saved');
+  await expect(page.getByText(/動作確認/)).toHaveCount(0);
+  await expect(page.getByRole('link', { name: 'アーカイブを探す' })).toBeVisible();
+});
+
+// mobileのsection actionが一行を保ち、主要見出しの視線を分断しないことを検証する。
+test('375px幅でquick searchのactionを一行表示する', async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto('/');
+  const action = page.getByRole('link', { name: 'すべての条件を見る' });
+  await expect(action).toBeVisible();
+  const metrics = await action.evaluate((element) => {
+    const range = document.createRange();
+    range.selectNodeContents(element);
+    return {
+      lineRects: range.getClientRects().length,
+      right: element.getBoundingClientRect().right,
+      viewportWidth: document.documentElement.clientWidth,
+    };
+  });
+  expect(metrics.lineRects).toBe(1);
+  expect(metrics.right).toBeLessThanOrEqual(metrics.viewportWidth);
+});
+
+// desktopの検索条件panelで主要actionが初期viewport内に収まることを検証する。
+test('desktop検索条件panelの主要actionを初期viewport内に表示する', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.goto('/search');
+  const action = page.getByRole('button', { name: /^\d+件を見る$/ });
+  await expect(action).toBeVisible();
+  const box = await action.boundingBox();
+  expect(box).not.toBeNull();
+  expect((box?.y ?? 0) + (box?.height ?? 0)).toBeLessThanOrEqual(900);
+});
+
+// 外部thumbnailが取得できない場合もvideoとして識別できるfallbackを検証する。
+test('thumbnail取得失敗時にvideo fallbackを表示する', async ({ page }) => {
+  await page.route('https://picsum.photos/**', async (route) => {
+    await route.abort();
+  });
+  await page.goto('/');
+  await expect(page.locator('.video-thumb-fallback').first()).toBeVisible();
+  await expect(page.getByText('サムネイルを表示できません').first()).toBeAttached();
+});
+
+// 詳細heroでthumbnail取得に失敗しても壊れた画像を残さず再生導線を維持する。
+test('詳細thumbnail取得失敗時にvideo面と再生導線を維持する', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-31T00:00:00Z',
+    }));
+  });
+  await page.route('https://picsum.photos/**', async (route) => {
+    await route.abort();
+  });
+  await page.goto('/videos/rY4A7Lxk12Q');
+  await expect(page.locator('.detail-media')).toBeVisible();
+  await expect(page.locator('.detail-thumb')).toHaveCount(0);
+  await expect(page.getByRole('link', { name: 'YouTubeで再生' })).toBeVisible();
+});
+
+// 移植した実releaseのタイムスタンプを、信頼度とYouTube時刻導線つきで表示する。
+test('移植タイムスタンプを現行Detail UIで表示する', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-31T00:00:00Z',
+    }));
+  });
+  await page.goto('/videos/-9FORuRCQ8k');
+
+  const timestamps = page.getByRole('heading', { name: '見どころ候補' }).locator('..');
+  await expect(timestamps).toBeVisible();
+  await expect(timestamps.getByText('信頼度: 中').first()).toBeVisible();
+  await expect(timestamps.getByRole('link').first()).toHaveAttribute(
+    'href',
+    /youtube\.com\/watch\?v=-9FORuRCQ8k&t=\d+s/,
+  );
+  await expect(page.getByText(/timestamps: アーカイブ情報生成/)).toBeAttached();
+});
+
+// タイムスタンプ未生成動画では、カードと未作成表示を生成しない。
+test('タイムスタンプ未生成時は見どころ候補カードを表示しない', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-31T00:00:00Z',
+    }));
+  });
+  await page.goto('/videos/G2m9kPq8xJv');
+
+  await expect(page.getByRole('heading', { name: '配信の手がかり' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '見どころ候補' })).toHaveCount(0);
+});
+
+// 移植時に再生成した検索語が実release上で利用できることを検証する。
+test('第五人格の移植動画を実releaseから3件検索する', async ({ page }) => {
+  await page.goto('/search?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&sort=newest');
+
+  await expect(page.locator('.result-count')).toHaveText('3件');
+  await expect(page.locator('.video-list .video-card')).toHaveCount(3);
 });

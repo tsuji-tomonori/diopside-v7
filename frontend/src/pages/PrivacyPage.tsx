@@ -2,7 +2,7 @@ import { POLICY_LINKS } from '@/lib/policy';
 
 export function PrivacyPage() {
   return (
-    <article className="legal-page dio-static-page">
+    <article className="legal-page">
       <h1>プライバシーポリシー</h1>
       <p>保存、履歴、最近の検索、同意状態はversion付きlocalStorageへ保存され、サーバーへ送信しません。</p>
       <h2>YouTube API Services</h2>

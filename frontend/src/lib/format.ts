@@ -1,38 +1,32 @@
-const twoDigits = (value: number): string => String(value).padStart(2, '0');
-
-export function formatPublishedAt(value: string): string {
-  const matched = /^(\d{4})-(\d{2})-(\d{2})/.exec(value);
-  if (!matched) {
-    return value;
-  }
-
-  return `${matched[1]}/${matched[2]}/${matched[3]}`;
-}
-
-export function formatDateTime(value: string): string {
+export function formatPublishedDate(value: string): string {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) {
     return value;
   }
-
-  return `${formatPublishedAt(value)} ${twoDigits(date.getUTCHours())}:${twoDigits(date.getUTCMinutes())}`;
+  return new Intl.DateTimeFormat('ja-JP', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  }).format(date);
 }
 
-export function formatDuration(durationSec: number): string {
-  const normalized = Math.max(0, Math.floor(durationSec));
-  const hours = Math.floor(normalized / 3600);
-  const minutes = Math.floor((normalized % 3600) / 60);
-  const seconds = normalized % 60;
-
-  return hours > 0
-    ? `${hours}:${twoDigits(minutes)}:${twoDigits(seconds)}`
-    : `${minutes}:${twoDigits(seconds)}`;
+export function formatDuration(value: string): string {
+  const match = value.match(/^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/);
+  if (!match) {
+    return value;
+  }
+  const hours = Number(match[1] ?? 0);
+  const minutes = Number(match[2] ?? 0);
+  const seconds = Number(match[3] ?? 0);
+  if (hours > 0) {
+    return `${hours}時間${minutes ? `${minutes}分` : ''}`;
+  }
+  if (minutes > 0) {
+    return `${minutes}分${seconds ? `${seconds}秒` : ''}`;
+  }
+  return `${seconds}秒`;
 }
 
 export function formatCount(value: number): string {
   return new Intl.NumberFormat('ja-JP').format(value);
-}
-
-export function formatTimestamp(atSec: number): string {
-  return formatDuration(atSec);
 }

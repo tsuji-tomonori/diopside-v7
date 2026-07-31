@@ -2,14 +2,12 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { getHistoryVideoIds, clearHistory, removeHistoryVideoId } from '@/lib/storage';
 import { usePublicData } from '@/state/PublicDataContext';
-import { Button } from '@/components/ui/Button';
-import { EmptyState } from '@/components/ui/EmptyState';
-import { LoadingState } from '@/components/ui/LoadingState';
-import { VideoListItem } from '@/components/ui/VideoListItem';
+import { VideoCard } from '@/components/VideoCard';
 
 export function HistoryPage() {
   const { loading, release } = usePublicData();
   const [history, setHistory] = useState<string[]>(() => getHistoryVideoIds());
+  const [notice, setNotice] = useState<string | null>(null);
 
   useEffect(() => {
     setHistory(getHistoryVideoIds());
@@ -34,46 +32,58 @@ export function HistoryPage() {
   const clearAll = (): void => {
     clearHistory();
     setHistory([]);
+    setNotice('閲覧履歴をすべて削除しました。');
   };
 
   const removeOne = (videoId: string): void => {
     removeHistoryVideoId(videoId);
     setHistory((prev) => prev.filter((id) => id !== videoId));
+    setNotice('閲覧履歴を1件削除しました。');
   };
 
   if (loading) {
-    return (
-      <section className="dio-library-page">
-        <h1>閲覧履歴</h1>
-        <LoadingState label="閲覧履歴を読み込んでいます…" />
-      </section>
-    );
+    return <p className="status">履歴を読込んでいます…</p>;
   }
 
   return (
-    <section className="dio-library-page">
-      <header className="dio-page-header">
-        <div>
-          <h1>閲覧履歴</h1>
-          <p>これまでに開いた動画です。</p>
-        </div>
-        {videos.length ? <Button type="button" variant="text" onClick={clearAll}>すべて削除</Button> : null}
+    <section className="page library-page">
+      <header className="page-header">
+        <p className="eyebrow">VIEW HISTORY</p>
+        <h1>閲覧履歴</h1>
+        <p className="page-lead">最近開いたアーカイブへ、すぐに戻れます。</p>
       </header>
-      {videos.length === 0 ? (
-        <EmptyState title="閲覧履歴はありません">
-          <p>検索結果から動画を開くと、ここに表示されます。</p>
-          <Link to="/search">検索を開く</Link>
-        </EmptyState>
-      ) : (
-        <div className="video-list">
-          {videos.map(({ video }) => (
-            <article key={video.videoId} className="dio-library-item">
-              <VideoListItem chatCount={video.chat?.totalCount} tagNames={[]} video={video} />
-              <Button type="button" variant="text" onClick={() => removeOne(video.videoId)}>履歴から削除</Button>
-            </article>
-          ))}
-        </div>
-      )}
+      <div className="library-toolbar">
+        <p>{videos.length}本の履歴</p>
+        {videos.length ? <button className="text-button danger-text" type="button" onClick={clearAll}>すべて削除</button> : null}
+      </div>
+      {notice ? <p className="notice" role="status">{notice}</p> : null}
+      <div className="video-list">
+        {videos.length === 0 ? (
+          <div className="empty-state">
+            <span className="empty-mark" aria-hidden="true">○</span>
+            <h2>閲覧履歴はまだありません</h2>
+            <p>動画詳細を開くと、この端末の履歴に追加されます。</p>
+            <Link className="button button-primary" to="/search">アーカイブを探す</Link>
+          </div>
+        ) : null}
+        {videos.map(({ video }) => (
+          <article key={video.videoId} className="video-card-wrap">
+            <VideoCard
+              videoId={video.videoId}
+              title={video.title}
+              publishedAt={video.publishedAt}
+              duration={video.duration}
+              thumbnail={video.thumbnail.url}
+              tagNames={[]}
+              flags={video.artifactFlags}
+              chatCount={video.chat?.totalCount}
+            />
+            <button className="button button-quiet remove-row-action" type="button" onClick={() => removeOne(video.videoId)}>
+              履歴から削除
+            </button>
+          </article>
+        ))}
+      </div>
     </section>
   );
 }

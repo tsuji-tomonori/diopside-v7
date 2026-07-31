@@ -1,17 +1,23 @@
 import { defineConfig, devices } from '@playwright/test';
 
+const executablePath = process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH;
+
 export default defineConfig({
   testDir: './e2e',
   fullyParallel: false,
-  // WSL2ではデフォルト並列実行時にworkerプロセスがexit code 144でkillされるため、既定は直列実行とする。
-  // CIなど並列実行が安定している環境ではPLAYWRIGHT_WORKERSで明示的に上書きできる。
-  workers: process.env.PLAYWRIGHT_WORKERS ? Number.parseInt(process.env.PLAYWRIGHT_WORKERS, 10) : 1,
   retries: 0,
   reporter: 'line',
   use: {
     baseURL: 'http://127.0.0.1:5173',
-    channel: 'chrome',
     trace: 'retain-on-failure',
+    ...(executablePath
+      ? {
+          launchOptions: {
+            executablePath,
+            args: ['--no-sandbox', '--disable-setuid-sandbox'],
+          },
+        }
+      : { channel: 'chrome' }),
   },
   projects: [
     { name: 'desktop-chrome', use: { ...devices['Desktop Chrome'] } },
