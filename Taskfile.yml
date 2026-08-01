@@ -25,6 +25,8 @@ tasks:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff format --check src tests
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff check ../tools/sync_swebok_ka.py
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff format --check ../tools/sync_swebok_ka.py
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff check ../tools/verify_architecture_diagram.py
+      - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked ruff format --check ../tools/verify_architecture_diagram.py
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked pyright
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked mypy src tests
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked app-archlint
@@ -33,6 +35,7 @@ tasks:
       - cd backend && UV_CACHE_DIR={{.UV_CACHE_DIR | default "/tmp/diopside-uv-cache"}} uv run --locked python -m app.scripts.verify_contract
       - task: cost:verify
       - task: quota:verify
+      - task: architecture:verify
       - npm run plan -w infra
       - npm run synth -w @diopside/infra
       - npm run test:e2e -w frontend
@@ -114,6 +117,11 @@ tasks:
     desc: YouTube method cost、標準負荷、peak抑制、予約を検証する。
     cmds:
       - python3 tools/verify_youtube_quota.py
+
+  architecture:verify:
+    desc: AWS物理構成図のdraw.io model、service inventory、接続線、vector構造を検証する。
+    cmds:
+      - python3 tools/verify_architecture_diagram.py
 
   swebok:check:
     desc: read-only受領ExcelとKA別skill、agent、Markdownチェックリストの完全一致を検証する。
