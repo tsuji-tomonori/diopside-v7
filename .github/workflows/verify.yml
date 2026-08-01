@@ -27,9 +27,9 @@ jobs:
         working-directory: backend
       - run: uv run --locked ruff check src tests
         working-directory: backend
-      - run: uv run --locked ruff check ../tools/sync_swebok_ka.py
+      - run: uv run --locked ruff check ../tools/sync_swebok_ka.py ../tools/verify_architecture_diagram.py
         working-directory: backend
-      - run: uv run --locked ruff format --check ../tools/sync_swebok_ka.py
+      - run: uv run --locked ruff format --check ../tools/sync_swebok_ka.py ../tools/verify_architecture_diagram.py
         working-directory: backend
       - run: uv run --locked pyright
         working-directory: backend
@@ -37,6 +37,7 @@ jobs:
         working-directory: backend
       - run: uv run --locked python -m app.scripts.verify_contract
         working-directory: backend
+      - run: python3 tools/verify_architecture_diagram.py
       - run: npm run typecheck -w frontend
       - run: npm test -w frontend
       - run: npm run build -w frontend
