@@ -1,0 +1,170 @@
+{
+  "videoId": "Gd1rQTOHeSI",
+  "title": "【Unknown Tapes】音をたてたら終了。恐竜の獲物として逃げ隠れしながら生存するゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-10T17:41:20Z",
+  "duration": "PT4H22M17S",
+  "durationSec": 15737,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gd1rQTOHeSI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 346,
+        "label": "墜落地点から科学ステーションへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 682,
+        "label": "科学ステーションで手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1121,
+        "label": "音を避けて研究記録を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1612,
+        "label": "湖と屋外エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2162,
+        "label": "地下金庫の手掛かり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2636,
+        "label": "地下金庫と電源復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3464,
+        "label": "地下入口へ向けた潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3882,
+        "label": "地下施設レベル1を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4380,
+        "label": "市街地を抜けてアラン宅へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5061,
+        "label": "アラン宅の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6043,
+        "label": "色の手掛かりと金庫パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7014,
+        "label": "アラン宅からの脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7524,
+        "label": "学校へ向かい校内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8086,
+        "label": "地下施設への帰路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8838,
+        "label": "地下入口の大きな局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9298,
+        "label": "地下研究施設で化合物探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10042,
+        "label": "研究施設の奥へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10916,
+        "label": "レベル4とタンクルーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11916,
+        "label": "合成室への帰路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12678,
+        "label": "薬剤合成・地下18階へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13103,
+        "label": "地下18階の危険区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13846,
+        "label": "操作トラブルを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14341,
+        "label": "操作復帰・最終目標へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14865,
+        "label": "散布装置の作動へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15061,
+        "label": "プレイ後の感想・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15255,
+        "label": "スーパーチャット読み・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

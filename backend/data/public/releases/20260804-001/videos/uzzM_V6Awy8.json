@@ -1,0 +1,135 @@
+{
+  "videoId": "uzzM_V6Awy8",
+  "title": "【#マリカにじさんじ杯】Aリーグで遅延0の走りをお見せします【#エリーコニファー/#にじさんじ】#マリオカート8DX",
+  "publishedAt": "2020-12-19T05:10:17Z",
+  "duration": "PT1H4M30S",
+  "durationSec": 3870,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uzzM_V6Awy8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:53:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会出場前の準備と意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 199,
+        "label": "大会放送を見ながら待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 405,
+        "label": "レースへの期待と大会観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1212,
+        "label": "機材確認と出場準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1505,
+        "label": "Aリーグの出場と試合開始待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1626,
+        "label": "大会レースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2082,
+        "label": "次のレースに向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "走行を続けて最終レースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2302,
+        "label": "最終レースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2485,
+        "label": "大会を振り返り次回へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2559,
+        "label": "通常練習・エキシビション走行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2628,
+        "label": "エキシビション終了と感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2708,
+        "label": "大会の余韻と成長を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2886,
+        "label": "大会後インタビューと走りの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3260,
+        "label": "大会後の振り返りと遅延ゼロの操作感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3313,
+        "label": "遅延ゼロの走りと工夫を総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3429,
+        "label": "練習時間とショートカットの課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3505,
+        "label": "大会後の走りを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3576,
+        "label": "大会後の雑談と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3664,
+        "label": "応援と配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

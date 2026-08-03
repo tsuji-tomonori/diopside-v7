@@ -1,0 +1,145 @@
+{
+  "videoId": "Es7YghQ6KU0",
+  "title": "【作業配信】寝落ちOK♥お姉さんの雑談しながらガチ作業配信【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-22T16:54:46Z",
+  "duration": "PT3H38M52S",
+  "durationSec": 13132,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Es7YghQ6KU0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:47:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ドライヤー雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1293,
+        "label": "最近のゲームと作業予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1876,
+        "label": "会社作業と予防接種の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2586,
+        "label": "声についての雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3607,
+        "label": "声真似と笑い方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4061,
+        "label": "漫画広告と読書の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4527,
+        "label": "漫画・百合談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5413,
+        "label": "本棚と居場所の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5764,
+        "label": "作業に戻る・帰宅後の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6319,
+        "label": "アラジン・ゲーム・推しの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7102,
+        "label": "ゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7342,
+        "label": "夜更けの作業と仕事あるある",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7795,
+        "label": "会社資料の確認・文書作成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8402,
+        "label": "口座・財布と郵送作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9068,
+        "label": "利き酒コラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "お酒の失敗談と向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10503,
+        "label": "飲み会と働き方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11095,
+        "label": "作業再開・ファッションの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11486,
+        "label": "スプラと映画の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11944,
+        "label": "配信の振り返り・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12266,
+        "label": "スーパーチャット読み・感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12970,
+        "label": "Cパート・締め演出",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

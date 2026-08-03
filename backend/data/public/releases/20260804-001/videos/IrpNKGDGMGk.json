@@ -1,0 +1,135 @@
+{
+  "videoId": "IrpNKGDGMGk",
+  "title": "【Q REMASTERED】詰んだら凸して助けに来てもらってもいいですか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-15T06:29:13Z",
+  "duration": "PT4H54M37S",
+  "durationSec": 17677,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IrpNKGDGMGk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:37:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Q REMASTEREDの遊び方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 587,
+        "label": "序盤の物理パズルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1174,
+        "label": "赤いボールを左壁へ導く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2180,
+        "label": "5個以上のボールを皿へ入れる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "姿勢と接触のパズルを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4570,
+        "label": "夏芽先生と赤玉パズルを攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5405,
+        "label": "助言を応用して難問に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6646,
+        "label": "ヒーローと相撲のパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7130,
+        "label": "右向きの姿勢を作るパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7995,
+        "label": "ヒーローを右壁へ導く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8702,
+        "label": "難関の赤玉パズルに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9913,
+        "label": "ルイス先生と攻略法を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11421,
+        "label": "難関パズルをソロで再検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13902,
+        "label": "フミ先生と難問に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15027,
+        "label": "助っ人への感謝と終盤のパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15330,
+        "label": "ヒーローを右壁へ導く終盤戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15999,
+        "label": "ボールを容器へ運び、接触させる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16501,
+        "label": "終盤のフック型パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17266,
+        "label": "本編の振り返り・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17401,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

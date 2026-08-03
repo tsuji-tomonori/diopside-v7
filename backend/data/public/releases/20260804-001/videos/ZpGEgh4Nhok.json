@@ -1,0 +1,145 @@
+{
+  "videoId": "ZpGEgh4Nhok",
+  "title": "【雑談】みんなの理想の♥X'mas♥の過ごし方を読めば幸せになれる説【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-24T16:06:01Z",
+  "duration": "PT2H36M8S",
+  "durationSec": 9368,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZpGEgh4Nhok/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:26:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・クリスマスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 457,
+        "label": "マシュマロ企画スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 839,
+        "label": "理想のクリスマスを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1904,
+        "label": "恋愛を含む理想の過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2838,
+        "label": "一人・家族で過ごすクリスマス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "創作シチュエーションを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3389,
+        "label": "家で過ごす理想とクリスマス談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3762,
+        "label": "恋愛の報告と家で過ごす理想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4028,
+        "label": "カヤックで巡るイルミネーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4233,
+        "label": "一緒に過ごすクリスマスと感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4432,
+        "label": "先輩後輩の料理シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4778,
+        "label": "思い出とクリスマス談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5251,
+        "label": "長文の妄想劇を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5659,
+        "label": "感想と理想のデート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6086,
+        "label": "イルミネーションのシチュエーションを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6399,
+        "label": "クリスマスの理想を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "台詞読み・シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7145,
+        "label": "配信の振り返り・年末予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8698,
+        "label": "記念配信のスパチャを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "今後の予定とスパチャ読みの締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9159,
+        "label": "最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

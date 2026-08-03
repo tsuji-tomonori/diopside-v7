@@ -1,0 +1,100 @@
+{
+  "videoId": "pPuuXBQmTCk",
+  "title": "【第五人格】健屋さん参戦！目指せ4逃げ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-10T15:45:07Z",
+  "duration": "PT2H10M39S",
+  "durationSec": 7839,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pPuuXBQmTCk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ説明と目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 608,
+        "label": "初戦・第五人格の基本を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1345,
+        "label": "ピエロ戦・ゲート開放を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2112,
+        "label": "リッパー戦・解読と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2730,
+        "label": "病院マップ戦・解読とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3340,
+        "label": "電車のあるマップで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4576,
+        "label": "ピエロ戦・ダッシュと逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5270,
+        "label": "雪玉が飛び交う対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5681,
+        "label": "占い師で対戦・解読と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6113,
+        "label": "遠距離攻撃への対応と長いチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6799,
+        "label": "長いチェイスと次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7225,
+        "label": "写真家戦・写真世界の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7689,
+        "label": "対戦の振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

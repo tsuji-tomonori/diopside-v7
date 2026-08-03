@@ -1,0 +1,130 @@
+{
+  "videoId": "-kB9YnJ_ezQ",
+  "title": "【#Niji_AmongUs】こんな所にいられるか！俺は帰らせて貰う！│Among Us【神田笑一/にじさんじ 】",
+  "publishedAt": "2020-11-18T13:53:00Z",
+  "duration": "PT2H29M21S",
+  "durationSec": 8961,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-kB9YnJ_ezQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介とルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 842,
+        "label": "第1ゲーム開始・序盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1528,
+        "label": "タスク進行と行動確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1804,
+        "label": "監視情報を交えた議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2308,
+        "label": "右側タスクと移動確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2634,
+        "label": "視認情報をめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "停電対応と配電盤の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3595,
+        "label": "行動経路を整理する議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "クールタイムと移動経路の再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "酸素サボタージュをめぐる最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5350,
+        "label": "第2ゲーム開始・情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6360,
+        "label": "第2ゲームの移動と証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6729,
+        "label": "第2ゲーム終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7232,
+        "label": "第3ゲーム開始前の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7349,
+        "label": "第3ゲーム開始・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7624,
+        "label": "停電対応と同行者の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7804,
+        "label": "タスク継続と距離の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8107,
+        "label": "タスク進捗と終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8604,
+        "label": "感想・告知・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

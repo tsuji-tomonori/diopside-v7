@@ -1,0 +1,115 @@
+{
+  "videoId": "dpOaZ8m8Gp8",
+  "title": "【 雪山人狼 】裏切者は誰だ？！極寒の中で生き残れ！【 project winter￤ 鏑木ろこ￤にじさんじ 】",
+  "publishedAt": "2025-01-17T14:47:26Z",
+  "duration": "PT2H43S",
+  "durationSec": 7243,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dpOaZ8m8Gp8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:53:38Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 399,
+        "label": "第1試合開始・探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1133,
+        "label": "第1試合の食料確保",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1548,
+        "label": "第1試合・発電所修理と危機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "第1試合後の振り返り・第2試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2537,
+        "label": "第2試合開始・資材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3154,
+        "label": "第2試合の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "第2試合の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4573,
+        "label": "最後の試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4741,
+        "label": "第3試合・資材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5391,
+        "label": "第3試合・発電所修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5899,
+        "label": "最終修理と脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6131,
+        "label": "脱出地点へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "雪山でのトラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6854,
+        "label": "ゲーム終了後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7045,
+        "label": "エンディングトーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

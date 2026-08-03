@@ -1,0 +1,65 @@
+{
+  "videoId": "aWREVyyXwuE",
+  "title": "【#ロリアモアス】いんぽすたーってなあに？？【フレン・E・ルスタリオ/にじさんじ】",
+  "publishedAt": "2021-03-03T12:27:26Z",
+  "duration": "PT17M11S",
+  "durationSec": 1031,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aWREVyyXwuE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画導入・ゲーム開始前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 361,
+        "label": "Among Usのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 402,
+        "label": "参加者紹介・ゲーム開始の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 633,
+        "label": "ゲーム開始・初動の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 717,
+        "label": "ゲーム内の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 982,
+        "label": "ゲーム内の議論",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

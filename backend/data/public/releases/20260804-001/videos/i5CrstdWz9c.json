@@ -1,0 +1,170 @@
+{
+  "videoId": "i5CrstdWz9c",
+  "title": "【#白雪巴新衣装】4周年ありがとう♡新衣装でお返しっ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-29T14:43:27Z",
+  "duration": "PT2H35M31S",
+  "durationSec": 9331,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i5CrstdWz9c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:39:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "4周年の挨拶と衣装紹介の予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 317,
+        "label": "通常衣装と差分紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 537,
+        "label": "初期からの衣装振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1047,
+        "label": "フォーマル衣装の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1249,
+        "label": "3着目の衣装紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "私服衣装と差分紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "着物衣装の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1934,
+        "label": "軍服・戦闘服の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2338,
+        "label": "部屋着衣装の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2536,
+        "label": "秋服・カジュアル衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2765,
+        "label": "3Dライブ用衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2946,
+        "label": "ボンデージ衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "歴代衣装の振り返りまとめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3484,
+        "label": "新衣装お披露目・足元から紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3955,
+        "label": "新衣装の上半身と色違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4347,
+        "label": "新衣装のスクショタイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4482,
+        "label": "新衣装で遊びたいゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4575,
+        "label": "新衣装の細部を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "新衣装のデザインと色違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5191,
+        "label": "新衣装披露の締め・スパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6731,
+        "label": "新衣装の感想とスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7323,
+        "label": "グリーンバックとクローズアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7519,
+        "label": "全身確認と新衣装の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8152,
+        "label": "祝福メッセージと衣装の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8550,
+        "label": "好きな衣装について語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8718,
+        "label": "新衣装への感想・スパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9029,
+        "label": "最後のスクショと4周年の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

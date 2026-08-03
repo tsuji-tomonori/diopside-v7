@@ -1,0 +1,200 @@
+{
+  "videoId": "eeNAoKiZIFA",
+  "title": "【告知あり】記念雑談で今更聞けないお互いのことをアンケート！！【＃フルトイ２周年】",
+  "publishedAt": "2022-01-17T14:14:44Z",
+  "duration": "PT1H22M56S",
+  "durationSec": 4976,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eeNAoKiZIFA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:53:09.756203Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 257,
+        "label": "フルトイ2周年の活動振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 463,
+        "label": "アンケート企画の説明・回答方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 595,
+        "label": "メンバーアンケート：大人だと思うのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 969,
+        "label": "メンバーアンケート：お酒に強いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1234,
+        "label": "メンバーアンケート：気が利くのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1459,
+        "label": "メンバーアンケート：ゲームが上手いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1673,
+        "label": "メンバーアンケート：動物に好かれるのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1936,
+        "label": "メンバーアンケート：恋愛上手そうなのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2157,
+        "label": "メンバーアンケート：部屋が綺麗そうなのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2359,
+        "label": "メンバーアンケート：お料理上手いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2484,
+        "label": "メンバーアンケート：泣き虫なのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2651,
+        "label": "メンバーアンケート：困ったとき頼るなら？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2859,
+        "label": "ファンアンケート：大人だと思うのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "ファンアンケート：お酒に強いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2995,
+        "label": "ファンアンケート：気が利くのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3102,
+        "label": "ファンアンケート：ゲームが上手いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3174,
+        "label": "ファンアンケート：動物に好かれているのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3274,
+        "label": "ファンアンケート：恋愛上手そうなのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3358,
+        "label": "ファンアンケート：部屋が綺麗そうなのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3445,
+        "label": "ファンアンケート：お料理上手いのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3564,
+        "label": "ファンアンケート：泣き虫なのは？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3718,
+        "label": "ファンアンケート：困ったとき頼るなら？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3899,
+        "label": "アンケート総括・3曲目のオリジナル曲告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4077,
+        "label": "これまでのオリジナル曲と公開先",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4196,
+        "label": "新曲タイトル・クリエイター発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4287,
+        "label": "新曲の構成・ラップ収録エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4472,
+        "label": "新曲に込めたフルトイらしさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4555,
+        "label": "今後の音楽とライブへの展望",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4653,
+        "label": "ボイスドラマ・グッズ・新曲公開のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4745,
+        "label": "2周年の一言感想・これからのフルトイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4830,
+        "label": "チャンネル・イベント・チケット案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4929,
+        "label": "エンディング・お礼と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

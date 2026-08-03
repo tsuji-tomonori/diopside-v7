@@ -1,0 +1,105 @@
+{
+  "videoId": "ugwraYJDnRo",
+  "title": "【APEX】初心者お姉さんズで夜更かしAPEX【#フルートイトイ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-02T20:01:07Z",
+  "duration": "PT3H47M8S",
+  "durationSec": 13628,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ugwraYJDnRo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T12:00:05.216Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 223,
+        "label": "オープニング・乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 451,
+        "label": "接続と配信設定を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1104,
+        "label": "実戦・操作確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1420,
+        "label": "ランク戦を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4862,
+        "label": "食事休憩・ロビー雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5233,
+        "label": "休憩明けのランク戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7585,
+        "label": "射撃訓練場で鬼ごっこ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10652,
+        "label": "訓練場を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11231,
+        "label": "ランク戦へ復帰",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11930,
+        "label": "試合間の調整・雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12152,
+        "label": "ランク戦を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12740,
+        "label": "最後のランク戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13370,
+        "label": "振り返り・お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

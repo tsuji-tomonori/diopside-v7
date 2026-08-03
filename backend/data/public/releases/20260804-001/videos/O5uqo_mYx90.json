@@ -1,0 +1,110 @@
+{
+  "videoId": "O5uqo_mYx90",
+  "title": "【Dark Deception】諦めが悪いのはお互い様【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-23T14:52:42Z",
+  "duration": "PT2H36M32S",
+  "durationSec": 9392,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/O5uqo_mYx90/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "前回からの再開と今回の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 449,
+        "label": "収集物集めを開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 945,
+        "label": "チェックポイントから再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2978,
+        "label": "新しい収集ルートを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "失敗を振り返り戦略を立て直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4245,
+        "label": "敵の動きを利用して再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "追跡を避けながら収集を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5445,
+        "label": "回収順を見直して再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5735,
+        "label": "終盤の回収順を組み直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5995,
+        "label": "地図を確認して次の試行へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8012,
+        "label": "終盤の進み方を確認する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8402,
+        "label": "最後の収集と追跡を切り抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "ゲートへ続くルートを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9010,
+        "label": "終盤のルートを締めくくる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9205,
+        "label": "ゲームの展開を振り返る",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

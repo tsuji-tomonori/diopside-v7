@@ -1,0 +1,205 @@
+{
+  "videoId": "R5I5mvpU-7s",
+  "title": "【#にじさんじスマブラ杯】出場ライバーのキャラ選択音声収録配信 後半戦【にじさんじ/ジョー・力一】",
+  "publishedAt": "2023-04-05T16:55:27Z",
+  "duration": "PT3H17M54S",
+  "durationSec": 11874,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R5I5mvpU-7s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スマブラ杯音声収録の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 220,
+        "label": "葛葉のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 609,
+        "label": "赤羽葉子のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1029,
+        "label": "フレン・E・ルスタリオのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1370,
+        "label": "鏑木ろこのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1701,
+        "label": "小清水透のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2171,
+        "label": "獅子堂あかりのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2518,
+        "label": "石神のぞみのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3031,
+        "label": "倉持めるとのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3432,
+        "label": "家長むぎのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3842,
+        "label": "椎名唯華のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4124,
+        "label": "卯月コウのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4553,
+        "label": "海妹四葉のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4787,
+        "label": "北小路ヒスイのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "Aブロック・西園チグサの音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5463,
+        "label": "白雪巴のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5923,
+        "label": "鷹宮リオンのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6197,
+        "label": "渡会雲雀のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6533,
+        "label": "星川サラのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6950,
+        "label": "四季凪アキラのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7386,
+        "label": "夜見れなのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7963,
+        "label": "不破湊のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8146,
+        "label": "弦月藤士郎のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8521,
+        "label": "Cブロック下段・桜凛月の音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8948,
+        "label": "エリー・コニファーのキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9136,
+        "label": "安土桃のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9324,
+        "label": "葉加瀬冬雪のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9611,
+        "label": "葉山舞鈴のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10133,
+        "label": "長尾景のキャラクター選択音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10578,
+        "label": "実況・解説者の追加収録へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10638,
+        "label": "実況担当オムナオトの音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10986,
+        "label": "解説担当あばだんごの音声収録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11629,
+        "label": "収録完了・スマブラ杯の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11727,
+        "label": "収録音声を一括再生",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

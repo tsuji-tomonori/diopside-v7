@@ -1,0 +1,130 @@
+{
+  "videoId": "6nuN5lLyH2I",
+  "title": "【 #メアリ生誕祭３D 】誕生日お祝いしてね！ゲストあり！お祝いメッセージ動画あり！ Mary's Birthday Celebration 3D【西園寺メアリ / ハニスト】",
+  "publishedAt": "2021-11-22T12:51:37Z",
+  "duration": "PT1H39M19S",
+  "durationSec": 5959,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6nuN5lLyH2I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:26:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "1年間の思い出を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 478,
+        "label": "誕生日のお祝い・乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 764,
+        "label": "誕生日グッズ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1000,
+        "label": "お祝いメッセージ動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1647,
+        "label": "ゲスト登場・メイン企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1969,
+        "label": "手押し相撲対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2453,
+        "label": "罰ゲーム・セクシーポーズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3020,
+        "label": "胸キュン台詞対決のルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3252,
+        "label": "胸キュンシチュエーション①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3530,
+        "label": "胸キュンシチュエーション②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3843,
+        "label": "胸キュンシチュエーション③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4298,
+        "label": "企画の締め・集合写真とゲスト退場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4592,
+        "label": "隠されたプレゼント探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4816,
+        "label": "プレゼント開封①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4959,
+        "label": "プレゼント開封②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5176,
+        "label": "プレゼント開封③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5311,
+        "label": "バースデーソング・ゲストのお見送り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5466,
+        "label": "エンディングトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5550,
+        "label": "エンディング曲・お別れ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

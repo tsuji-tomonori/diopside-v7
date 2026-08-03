@@ -1,0 +1,150 @@
+{
+  "videoId": "KI6FeE4Rjy8",
+  "title": "【unpacking】二日酔い後の休日といえばお掃除ですよね【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-11T08:40:53Z",
+  "duration": "PT3H13M32S",
+  "durationSec": 11612,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KI6FeE4Rjy8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:38:34.637Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "Unpacking開始・二日酔いの休日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 367,
+        "label": "仕事と二日酔いの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 858,
+        "label": "湘南ベルマーレとJ1コラボの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1072,
+        "label": "カラオケとJ-POPの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "下着と靴下の仕分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1651,
+        "label": "衣類整理と女子トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1886,
+        "label": "今週の配信予定とコラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1935,
+        "label": "クローゼットの衣類整理と靴収納準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3002,
+        "label": "靴とスリッパを靴箱へ収納",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3095,
+        "label": "映画の感想と収納の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4031,
+        "label": "部屋の小物配置とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4726,
+        "label": "浴室まわりの収納整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5639,
+        "label": "キッチン収納の配置を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "コーヒー用品と調理器具を収納",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7504,
+        "label": "調味料と冷蔵庫まわりの整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7864,
+        "label": "キッチン整理完了・次の部屋へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8191,
+        "label": "本・DVD・アルバムの仕分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8802,
+        "label": "部屋の飾りとメディア整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9603,
+        "label": "ゲームソフトとコントローラーを収納",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10123,
+        "label": "楽器と寝室の棚を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10827,
+        "label": "仕上げの部屋チェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11020,
+        "label": "次回配信とホワイトデーの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11146,
+        "label": "スパチャ読み・片付け雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

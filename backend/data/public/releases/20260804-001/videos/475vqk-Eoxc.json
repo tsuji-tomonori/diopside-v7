@@ -1,0 +1,155 @@
+{
+  "videoId": "475vqk-Eoxc",
+  "title": "【雑談】推しに●●されたいマシュマロ読み【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-16T16:26:09Z",
+  "duration": "PT1H43M9S",
+  "durationSec": 6189,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/475vqk-Eoxc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:37:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "注意事項と企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 674,
+        "label": "最初のシチュエーションと効果音調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1315,
+        "label": "サイコパス風のシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1640,
+        "label": "ヤンデレ演技と感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1916,
+        "label": "首を絞めるシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "吸血鬼シチュエーションの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2369,
+        "label": "吸血鬼の朗読パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2675,
+        "label": "吸血鬼後の感想と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2816,
+        "label": "お酒の席のシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3080,
+        "label": "最後の言葉の朗読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3392,
+        "label": "暗殺者シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3699,
+        "label": "ヤンデレのシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4004,
+        "label": "次のシチュエーションを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4104,
+        "label": "推しへの独占欲を描くシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4304,
+        "label": "終盤のシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4408,
+        "label": "最後のシチュエーションを選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4575,
+        "label": "毒のシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4800,
+        "label": "お気に入りの演技を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4989,
+        "label": "リクエストの声を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5190,
+        "label": "最後のシチュエーション準備・演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5559,
+        "label": "企画の感想と次回の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5729,
+        "label": "終盤のシチュエーション朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6052,
+        "label": "企画終了とお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6089,
+        "label": "次回コラボのお知らせとおやすみ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

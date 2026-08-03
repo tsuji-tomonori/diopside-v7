@@ -1,0 +1,110 @@
+{
+  "videoId": "p0XLORc3HFc",
+  "title": "【作業配信】VAPE吸いながらサクッとタスク終わらせる👓【白雪巴/にじさんじ】",
+  "publishedAt": "2026-03-23T15:49:30Z",
+  "duration": "PT2H9M44S",
+  "durationSec": 7784,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/p0XLORc3HFc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T06:01:17.116Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 129,
+        "label": "オープニング・作業方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 259,
+        "label": "VAPEの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 372,
+        "label": "最近見た作品の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 706,
+        "label": "VAPE雑談・作業開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1011,
+        "label": "作業中の近況雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1701,
+        "label": "タスク切替・VAPE雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2002,
+        "label": "メール作業・喫煙文化の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3412,
+        "label": "VAPEとマナーの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4410,
+        "label": "作業完了・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4862,
+        "label": "最近の購入品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5708,
+        "label": "入浴・スキンケアの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6952,
+        "label": "配信予定・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7064,
+        "label": "スーパーチャット・アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7695,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

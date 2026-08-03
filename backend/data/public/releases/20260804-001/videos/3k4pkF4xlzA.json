@@ -1,0 +1,170 @@
+{
+  "videoId": "3k4pkF4xlzA",
+  "title": "＃２【TOKYO DARK】精神状態で左右される！？サイコロジカルホラーゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-10T17:58:50Z",
+  "duration": "PT3H34M11S",
+  "durationSec": 12851,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3k4pkF4xlzA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:49:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回あらすじ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 287,
+        "label": "証拠品管理室を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 541,
+        "label": "屋上へ向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 805,
+        "label": "証拠品管理室への侵入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1219,
+        "label": "新宿で聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1950,
+        "label": "下水道の再調査と謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "地下通路の先を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2821,
+        "label": "警視庁で次の手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3238,
+        "label": "写真の手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4028,
+        "label": "秋葉原を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4343,
+        "label": "猫メイドカフェを訪れる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4648,
+        "label": "猫メイドカフェと秋葉原の聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5428,
+        "label": "猫カフェ周辺の手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5944,
+        "label": "下水道への手がかりを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6151,
+        "label": "下水道の場面を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6726,
+        "label": "猫メイドの導線をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7278,
+        "label": "猫カフェの出来事を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7762,
+        "label": "地下で話を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8495,
+        "label": "鎌倉へ戻り手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9070,
+        "label": "神社から浅草へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9967,
+        "label": "道場で話を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10205,
+        "label": "祖母と話す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10798,
+        "label": "浅草で兄と再会する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11098,
+        "label": "兄から話を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11627,
+        "label": "面の歴史を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12144,
+        "label": "本編終了・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12582,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

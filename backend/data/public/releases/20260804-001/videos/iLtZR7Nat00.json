@@ -1,0 +1,165 @@
+{
+  "videoId": "iLtZR7Nat00",
+  "title": "【No, I'm not a Human】いいよ！いいよ！…あ、無理です。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-01T17:41:00Z",
+  "duration": "PT4H27M27S",
+  "durationSec": 16047,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iLtZR7Nat00/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:38:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 341,
+        "label": "ニューゲーム開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 730,
+        "label": "1日目・昼の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1403,
+        "label": "1日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2240,
+        "label": "2日目・住人の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "2日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3635,
+        "label": "3日目・新たな兆候を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4746,
+        "label": "3日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5166,
+        "label": "4日目・住人を再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6386,
+        "label": "4日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7477,
+        "label": "5日目・判断材料を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8131,
+        "label": "5日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8783,
+        "label": "6日目・新しい検査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9786,
+        "label": "7日目・FEMAの情報を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10629,
+        "label": "7日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11282,
+        "label": "8日目・住人の再検査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11890,
+        "label": "8日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12608,
+        "label": "9日目・新しい住人たち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13543,
+        "label": "9日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14120,
+        "label": "10日目・最後の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14737,
+        "label": "10日目・夜の来訪者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15073,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15225,
+        "label": "別ルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15532,
+        "label": "ゲームの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15705,
+        "label": "今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15775,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

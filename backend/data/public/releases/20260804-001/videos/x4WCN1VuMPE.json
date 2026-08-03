@@ -1,0 +1,70 @@
+{
+  "videoId": "x4WCN1VuMPE",
+  "title": "【#96 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-08-08T03:00:31Z",
+  "duration": "PT12M17S",
+  "durationSec": 737,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/x4WCN1VuMPE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:52:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介・夏のトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 140,
+        "label": "ゲスト登場・夏衣装トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 234,
+        "label": "お便り紹介・放送内容の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 450,
+        "label": "恋バナのお便り・帰り道のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 514,
+        "label": "出演者の恋愛エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 612,
+        "label": "最近キュンとした出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "お便り募集・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

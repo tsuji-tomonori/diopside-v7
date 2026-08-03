@@ -1,0 +1,125 @@
+{
+  "videoId": "JVLF2x28Ehs",
+  "title": "【ポケモンユナイト】Hチーム初めての練習試合！【にじさんじ/＃りりむとあそぼう 】",
+  "publishedAt": "2021-09-08T15:41:05Z",
+  "duration": "PT1H52M58S",
+  "durationSec": 6778,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JVLF2x28Ehs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 278,
+        "label": "1試合目・初回の練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 972,
+        "label": "1試合目の振り返り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1276,
+        "label": "2試合目・練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1835,
+        "label": "2試合目の振り返り・編成相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2291,
+        "label": "3試合目・練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2919,
+        "label": "3試合目の振り返り・構成変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3158,
+        "label": "4試合目・カビゴンを試す練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3771,
+        "label": "4試合目の振り返り・立ち回り講座",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4064,
+        "label": "5試合目の準備・カビゴンの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4204,
+        "label": "5試合目・カビゴンで練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4730,
+        "label": "5試合目の振り返り・序盤の動き方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5126,
+        "label": "6試合目・最後の練習バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5666,
+        "label": "6試合目の振り返り・押し込み方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "立ち回り講座・膠着の崩し方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "キャラクター連携の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6490,
+        "label": "わざのタイミングを練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6662,
+        "label": "振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

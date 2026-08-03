@@ -1,0 +1,120 @@
+{
+  "videoId": "mEQow5QrsCE",
+  "title": "【Minecraft】みんなで作ったマイクラ都市を観光しましょ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-14T06:33:20Z",
+  "duration": "PT2H32M15S",
+  "durationSec": 9135,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mEQow5QrsCE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T15:59:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・街の観光準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 994,
+        "label": "街の観光スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2227,
+        "label": "病院を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "不思議な建物を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "住宅エリアを見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4318,
+        "label": "アパートを内覧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4788,
+        "label": "街の散策・公園と水辺",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5107,
+        "label": "結婚式場を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5294,
+        "label": "牛舎・牧場を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5551,
+        "label": "乗馬体験・競走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5830,
+        "label": "商店と施設を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6445,
+        "label": "神社からホテル街へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6813,
+        "label": "ホテルエリアの見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7199,
+        "label": "ホテルの設備を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8134,
+        "label": "食事・庭園・景色を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8687,
+        "label": "街づくりを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9081,
+        "label": "最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

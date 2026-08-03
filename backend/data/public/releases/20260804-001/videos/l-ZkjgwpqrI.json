@@ -1,0 +1,145 @@
+{
+  "videoId": "l-ZkjgwpqrI",
+  "title": "#1【HEAVY RAIN-心の軋むとき-】折り紙殺人鬼を狩るその先には‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-17T16:58:29Z",
+  "duration": "PT3H12M39S",
+  "durationSec": 11559,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l-ZkjgwpqrI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:51:50.682Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 454,
+        "label": "イーサンの朝と誕生日準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1522,
+        "label": "誕生日会の準備を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "家族の時間と外出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "外出後の家庭場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3248,
+        "label": "家の中を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "夜の家を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4377,
+        "label": "探偵の聞き込みと対立",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5123,
+        "label": "新たな捜査官と事件現場の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6177,
+        "label": "診察と事故後の心境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6405,
+        "label": "公園で父子の時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7209,
+        "label": "捜査パートと事件資料の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8193,
+        "label": "事件資料から手がかりを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8538,
+        "label": "事情聴取と捜査側の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8858,
+        "label": "薬局での聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9198,
+        "label": "夜の家で眠れない時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "家の中の異変から逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9900,
+        "label": "チケットの意味を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10062,
+        "label": "人混みを抜けてロッカーへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10712,
+        "label": "ロッカーの箱と手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11127,
+        "label": "捜査会議で事件を分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11459,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

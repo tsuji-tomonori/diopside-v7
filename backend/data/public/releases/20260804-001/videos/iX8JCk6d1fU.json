@@ -1,0 +1,155 @@
+{
+  "videoId": "iX8JCk6d1fU",
+  "title": "【The Outlast Trials】治験バイトに呼ばれたのにどうしてこんなことに・・・【にじさんじ/ベルモンド・バンデラス/白雪巴/ましろ爻/ガッチマン】",
+  "publishedAt": "2024-03-24T14:50:18Z",
+  "duration": "PT2H40M33S",
+  "durationSec": 9633,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iX8JCk6d1fU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:15:08.318629Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "出演者紹介・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "ステージ説明・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 734,
+        "label": "警察署を探索して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1204,
+        "label": "密告者を処刑場へ運ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1295,
+        "label": "地下室で発電機を復旧",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1925,
+        "label": "鍵を集めて三つのゲートを開く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2403,
+        "label": "警察署チャレンジ終盤から拠点へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2855,
+        "label": "裁判所プログラムXの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3052,
+        "label": "ラジオ室の仕掛けを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3675,
+        "label": "教室間で上映フィルムを交換",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4104,
+        "label": "教会へ向かい次の目標を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4350,
+        "label": "鍵探しと発電機の復旧",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4824,
+        "label": "前半を振り返り裁判所へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "裁判所の罠とバッテリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5169,
+        "label": "裁判所で追跡と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5658,
+        "label": "暗号を探して時間制限に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5887,
+        "label": "頭部と液体を運ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "数字のコードと証拠品集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7048,
+        "label": "証拠を運んで法廷へ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7345,
+        "label": "裁判の開始とレーダーの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7502,
+        "label": "レーダーで標的を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8479,
+        "label": "最終機械を動かして出口へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9048,
+        "label": "挑戦を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9450,
+        "label": "腕相撲と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

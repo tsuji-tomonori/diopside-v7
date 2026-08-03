@@ -1,0 +1,100 @@
+{
+  "videoId": "coJRsKpiIZ4",
+  "title": "【WE WERE HERE Too】コミュ力が試される！？謎解き協力アドベンチャーゲーム＃最終回【来栖夏芽/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-25T12:51:01Z",
+  "duration": "PT1H40M46S",
+  "durationSec": 6046,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/coJRsKpiIZ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 633,
+        "label": "最初の記号パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "人物と記号の照合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "人物・記号パズルから移動指示へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "タイムアタックの移動ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2841,
+        "label": "告知・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2940,
+        "label": "時計盤の迷路を協力攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4505,
+        "label": "新たな記号パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4911,
+        "label": "レバーを分担して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5018,
+        "label": "記号を照合して扉を開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5358,
+        "label": "エレベーター周辺の協力操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5495,
+        "label": "ゲームの難易度・構成を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5694,
+        "label": "告知・締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

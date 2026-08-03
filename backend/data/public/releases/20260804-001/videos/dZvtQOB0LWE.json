@@ -1,0 +1,110 @@
+{
+  "videoId": "dZvtQOB0LWE",
+  "title": "【お悩み相談】女性限定のお悩み相談マシュマロ#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-30T16:12:37Z",
+  "duration": "PT1H13M57S",
+  "durationSec": 4437,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dZvtQOB0LWE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・女性限定お悩み相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 441,
+        "label": "童顔の悩みへのアドバイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 603,
+        "label": "大人っぽく見せるメイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 909,
+        "label": "似合うメイク・髪型の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1078,
+        "label": "コスメのおすすめと使い分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1469,
+        "label": "服・ファッションの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1815,
+        "label": "香り・ボディケア・スキンケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2030,
+        "label": "肌荒れ・ニキビへの向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2542,
+        "label": "メイクや服との向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2704,
+        "label": "体型の悩みと運動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3048,
+        "label": "気遣い上手になるために",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "タトゥーとピアスの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3711,
+        "label": "恋愛相談に答える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "匿名の悩みと寄り添う話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4254,
+        "label": "企画のまとめ・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

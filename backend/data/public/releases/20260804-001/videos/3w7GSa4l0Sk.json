@@ -1,0 +1,195 @@
+{
+  "videoId": "3w7GSa4l0Sk",
+  "title": "＃12【崩壊：スターレイル】ピノコニー編！ホタル…それでも前を向くって決めたから【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-23T10:47:05Z",
+  "duration": "PT3H35M36S",
+  "durationSec": 12936,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3w7GSa4l0Sk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 438,
+        "label": "記憶から見える事件",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 877,
+        "label": "アベンチュリンの協力提案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1382,
+        "label": "事件の手掛かりを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1886,
+        "label": "ホテルへ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2220,
+        "label": "レンジャーとギャングの対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2847,
+        "label": "レンジャーとサムの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3401,
+        "label": "協力方針を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "報酬を受け取り育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4080,
+        "label": "手掛かりと調査方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4668,
+        "label": "ヴェルトとレンジャー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5407,
+        "label": "ブラックスワンの記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5857,
+        "label": "アベンチュリンの過去",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6264,
+        "label": "ロビンをめぐる調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6876,
+        "label": "邸宅へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7047,
+        "label": "邸宅の探索と仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7645,
+        "label": "模型の仕掛けを調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8293,
+        "label": "小さなゴールデンアワーへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8709,
+        "label": "ピンボールの仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9013,
+        "label": "サンデーとの面会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9278,
+        "label": "サンデーの問いかけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9903,
+        "label": "箱をめぐる問い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10146,
+        "label": "レイシオ合流と箱の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10662,
+        "label": "次の調査条件",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11126,
+        "label": "アベンチュリンの回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11424,
+        "label": "ホテルで手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11706,
+        "label": "会社の作戦開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11960,
+        "label": "ストーリー終了・スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12115,
+        "label": "アナイアレイトギャングPV視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12276,
+        "label": "PVの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12456,
+        "label": "ストーリーの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12841,
+        "label": "最終スパチャ読み・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

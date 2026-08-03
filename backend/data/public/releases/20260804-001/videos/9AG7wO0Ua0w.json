@@ -1,0 +1,105 @@
+{
+  "videoId": "9AG7wO0Ua0w",
+  "title": "【晩酌】ぶっちゃけスピったこと…ある？お姉さんの一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 12軒目【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-04-03T15:10:37Z",
+  "duration": "PT1H32M8S",
+  "durationSec": 5528,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9AG7wO0Ua0w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T08:03:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今夜の飲み物",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 211,
+        "label": "乾杯・年度替わりの近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 333,
+        "label": "春のお出かけと願いごとの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 895,
+        "label": "みんなの不思議な体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1281,
+        "label": "最近のコンディション相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1513,
+        "label": "不思議な話題をさらに深掘り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1745,
+        "label": "舞台の感想・作品トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2368,
+        "label": "見たい映画・おすすめ作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3788,
+        "label": "今日の振り返り・近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3941,
+        "label": "春の体調管理トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4099,
+        "label": "次回ゲーム配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4148,
+        "label": "みんなで組み分けアンケート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5115,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5457,
+        "label": "次回のお知らせ・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

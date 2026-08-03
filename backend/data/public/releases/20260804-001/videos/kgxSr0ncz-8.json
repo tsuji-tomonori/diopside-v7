@@ -1,0 +1,115 @@
+{
+  "videoId": "kgxSr0ncz-8",
+  "title": "【Dark Deception】鬼畜ステージ？望むところよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-18T17:22:38Z",
+  "duration": "PT2H40M38S",
+  "durationSec": 9638,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kgxSr0ncz-8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 323,
+        "label": "前回配信を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 580,
+        "label": "ゲームの攻略方針を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 917,
+        "label": "ステージ1を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3045,
+        "label": "ステージ2の攻略を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3830,
+        "label": "宝石収集と敵回避のルールを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4448,
+        "label": "再挑戦で進行を伸ばす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5110,
+        "label": "危険箇所の攻略手順を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5828,
+        "label": "終盤のルートを組み立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6605,
+        "label": "進行状況を確認して次へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7168,
+        "label": "振り子の仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7974,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8021,
+        "label": "ゲーム再開と画面停止の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8201,
+        "label": "終盤の敵回避を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8729,
+        "label": "休憩を挟んで再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9521,
+        "label": "配信終了・次回の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

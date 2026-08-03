@@ -1,0 +1,100 @@
+{
+  "videoId": "lHTk-cajnJU",
+  "title": "【#秋麗賞】ウマ娘ルームマッチ【Vtuber】",
+  "publishedAt": "2021-10-30T11:56:36Z",
+  "duration": "PT50M35S",
+  "durationSec": 3035,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lHTk-cajnJU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "秋麗賞の導入・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 240,
+        "label": "ルール・コース・コンディション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 343,
+        "label": "出走者紹介①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 806,
+        "label": "出走者紹介②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1222,
+        "label": "出走者紹介③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1621,
+        "label": "出走者紹介④・ゴールドシップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1921,
+        "label": "枠順・人気・馬場確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2127,
+        "label": "発走待機・レース開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2240,
+        "label": "秋麗賞本戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2411,
+        "label": "レース後コメント・上位結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2479,
+        "label": "順位発表・走りの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2651,
+        "label": "レース総括・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2853,
+        "label": "秋麗賞レースリプレイ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

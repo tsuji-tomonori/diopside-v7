@@ -1,0 +1,130 @@
+{
+  "videoId": "YM82T73Sj4o",
+  "title": "【#異色あもあす/Among US】可愛い子はちゃ～んと見張っておかなきゃ‥ね？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-02T13:47:39Z",
+  "duration": "PT1H39M16S",
+  "durationSec": 5956,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YM82T73Sj4o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:30:49.407Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 303,
+        "label": "Among Us企画の説明・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 552,
+        "label": "第1試合・探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "第1試合・通報と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1438,
+        "label": "第1試合・再開後の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1763,
+        "label": "第1試合・終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2139,
+        "label": "第1試合・終了後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2343,
+        "label": "第2試合・序盤のタスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2620,
+        "label": "第2試合・通報と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3005,
+        "label": "第2試合・終了後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3339,
+        "label": "第3試合・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3673,
+        "label": "第3試合・通報と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3860,
+        "label": "第3試合・終了後と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4043,
+        "label": "第4試合・序盤のタスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4194,
+        "label": "第4試合・通報と停電下の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5164,
+        "label": "第4試合・終盤と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5610,
+        "label": "終了挨拶・ゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5689,
+        "label": "今後の予定・関連ボイスの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5795,
+        "label": "配信の感想・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

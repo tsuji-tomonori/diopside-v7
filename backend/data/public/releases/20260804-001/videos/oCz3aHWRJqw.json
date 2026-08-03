@@ -1,0 +1,105 @@
+{
+  "videoId": "oCz3aHWRJqw",
+  "title": "【Gartic Phone】全員画伯！？#オール画伯 でお絵かき伝言ゲームしたらこうなった【白雪巴 / 朝ノ瑠璃 / 夕刻ロベル / 花咲みやび / 柚原いづみ】",
+  "publishedAt": "2021-07-16T14:37:08Z",
+  "duration": "PT1H25M6S",
+  "durationSec": 5106,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oCz3aHWRJqw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 454,
+        "label": "Gartic Phoneのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 638,
+        "label": "最初のお題と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1108,
+        "label": "2つ目のお題と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "3つ目のお題と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "シークレット形式の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2005,
+        "label": "シークレット形式でお絵かき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2711,
+        "label": "後半のお題と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3258,
+        "label": "シークレット形式を再び説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3294,
+        "label": "シークレット形式で後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3922,
+        "label": "続く答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4599,
+        "label": "ゲーム終了・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4651,
+        "label": "出演者の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4942,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

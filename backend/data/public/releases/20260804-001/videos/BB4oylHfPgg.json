@@ -1,0 +1,75 @@
+{
+  "videoId": "BB4oylHfPgg",
+  "title": "【#88 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-06-13T03:00:03Z",
+  "duration": "PT16M36S",
+  "durationSec": 996,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BB4oylHfPgg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組オープニング・ゲスト登場前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 109,
+        "label": "ゲスト紹介・髪型と服装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 176,
+        "label": "7月からの番組パーソナリティ発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 240,
+        "label": "これからのラジオ企画を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 344,
+        "label": "街で見かけた美少女コーナーの企画会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 443,
+        "label": "リスナー相談：ゲームで負けたときの怒り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 701,
+        "label": "リスナー相談：大人っぽい雰囲気の作り方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 977,
+        "label": "番組エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

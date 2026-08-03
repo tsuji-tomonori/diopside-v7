@@ -1,0 +1,210 @@
+{
+  "videoId": "DCssECyWOUo",
+  "title": "【スプラトゥーン2】はじめてのリグマ！ヤグラで無双したい #限界くろしっく【甲斐田晴・弦月藤士郎・白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2020-10-13T14:47:52Z",
+  "duration": "PT2H4M44S",
+  "durationSec": 7484,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DCssECyWOUo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:07:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 703,
+        "label": "コラボの近況・チャンネル談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1076,
+        "label": "武器紹介とヤグラの作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1512,
+        "label": "第1試合：ヤグラで連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1727,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1800,
+        "label": "第2試合：ヤグラを守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2051,
+        "label": "第3試合：ヤグラ周りの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2266,
+        "label": "第4試合：ヤグラを押し込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2433,
+        "label": "試合後の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2483,
+        "label": "第5試合：連携してヤグラへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2685,
+        "label": "第5試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2769,
+        "label": "第6試合：ローラーでヤグラへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2835,
+        "label": "リーグパワーとマッチング談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3010,
+        "label": "第7試合：チャージャーを警戒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3246,
+        "label": "第7試合後のチーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3316,
+        "label": "第8試合：ヤグラを守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3654,
+        "label": "武器と役割の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3797,
+        "label": "第9試合：ヤグラの押し合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4108,
+        "label": "試合後の操作・役割相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4234,
+        "label": "第10試合：ヤグラの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4511,
+        "label": "武器選びと立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4702,
+        "label": "第11試合：ヤグラで連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4816,
+        "label": "第11試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4942,
+        "label": "第12試合：ヤグラの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5215,
+        "label": "試合後の武器トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5297,
+        "label": "第13試合：ヤグラの押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5566,
+        "label": "第13試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5716,
+        "label": "第14試合：ヤグラの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "ルール談義とサーモンラン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6140,
+        "label": "第15試合：ヤグラで連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6467,
+        "label": "第15試合後の武器トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6503,
+        "label": "第16試合：ヤグラの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6883,
+        "label": "第16試合後の振り返りとヤグラ講座",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7037,
+        "label": "第17試合：ヤグラで連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7371,
+        "label": "試合後の感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

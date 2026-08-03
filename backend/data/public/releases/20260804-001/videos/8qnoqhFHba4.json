@@ -1,0 +1,150 @@
+{
+  "videoId": "8qnoqhFHba4",
+  "title": "【Minecraft】小人の隠れ部屋の可愛いかわいい内装作り♡まったり【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-11T18:47:50Z",
+  "duration": "PT5H25M40S",
+  "durationSec": 19540,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8qnoqhFHba4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・マルチ参加",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 851,
+        "label": "小人部屋の内装方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "暖炉の資材計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1928,
+        "label": "暖炉づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2643,
+        "label": "テーブル・椅子の建築",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3120,
+        "label": "地下室と入口の設計",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "地下の寝室を掘る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4809,
+        "label": "地下室の壁・梯子づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5761,
+        "label": "森で建築資材を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "庭の植林と木の配置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "森で木材・葉を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "庭の葉飾り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10082,
+        "label": "地下室の床材を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10443,
+        "label": "地下室を拡張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11702,
+        "label": "ベッドと棚の内装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12961,
+        "label": "ランタンと苗木の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13681,
+        "label": "寝室の棚・照明を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14047,
+        "label": "地下室の床・天井を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15661,
+        "label": "木材補充と壁材の比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16567,
+        "label": "ベッドと棚を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17715,
+        "label": "ランタンの吊り下げ方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18541,
+        "label": "建築を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19280,
+        "label": "スパチャ読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

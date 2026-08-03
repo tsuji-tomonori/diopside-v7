@@ -1,0 +1,130 @@
+{
+  "videoId": "mVvXeUtqgPM",
+  "title": "前編【影廊 -Shadow Corridor-】ライブ前に度胸試し！？ついにやるトラウマ和風ホラゲ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-02-23T15:00:54Z",
+  "duration": "PT3H37M22S",
+  "durationSec": 13042,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mVvXeUtqgPM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:00:27.158373Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・度胸試しのホラーゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 697,
+        "label": "ゲーム開始・路地から神社へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1753,
+        "label": "古い家を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2219,
+        "label": "最初の追跡が始まる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2612,
+        "label": "鏡の先・勾玉とアイテムを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3907,
+        "label": "爆竹とステルスで探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5108,
+        "label": "目印を頼りに祭壇を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5849,
+        "label": "次のエリア・水辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7202,
+        "label": "地下エリアの探索・追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8265,
+        "label": "ストーリーと村の記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8713,
+        "label": "新エリアでステルス探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9910,
+        "label": "開けたエリアで祭壇を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10717,
+        "label": "休憩・セーブ確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10879,
+        "label": "探索再開・勾玉を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11684,
+        "label": "祭壇へ近づく・水晶と手鏡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12324,
+        "label": "次の場所でストーリー会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12783,
+        "label": "セーブ・今回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12866,
+        "label": "ゲーム後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12909,
+        "label": "スパチャ読み・3Dライブ告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

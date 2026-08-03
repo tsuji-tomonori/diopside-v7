@@ -1,0 +1,120 @@
+{
+  "videoId": "ZDejiMnoR2I",
+  "title": "【エモクロアTRPG】モッシーに会いに行こう　PL：白雪巴＆愛園愛美【一橋綾人/にじさんじ】",
+  "publishedAt": "2025-11-05T15:58:37Z",
+  "duration": "PT2H47M13S",
+  "durationSec": 10033,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZDejiMnoR2I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:20:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 277,
+        "label": "TRPGの基本とエモクロア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 748,
+        "label": "キャラクターの設定確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1057,
+        "label": "バスでロッジへ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1215,
+        "label": "ロッジ到着・探索準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2408,
+        "label": "客室を調べて手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3031,
+        "label": "湖へ向かい、周辺を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3727,
+        "label": "宿泊客に話を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4726,
+        "label": "夜の湖を見張る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5297,
+        "label": "夜の気配を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6254,
+        "label": "戦闘シーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6704,
+        "label": "戦闘後の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7660,
+        "label": "電話と屋根で情報を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8358,
+        "label": "夜を越えて朝を迎える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8774,
+        "label": "帰路でセッションを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9054,
+        "label": "セッション後の解説と感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9888,
+        "label": "感謝・告知・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
