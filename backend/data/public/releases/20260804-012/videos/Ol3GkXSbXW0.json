@@ -1,0 +1,120 @@
+{
+  "videoId": "Ol3GkXSbXW0",
+  "title": "【#Crossick三者面談】徹底検証!「Crossickはガチ」なのか？【白雪巴/健屋花那/犬山たまき】",
+  "publishedAt": "2021-02-01T15:12:05Z",
+  "duration": "PT1H3M45S",
+  "durationSec": 3825,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ol3GkXSbXW0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 301,
+        "label": "SNSのやり取り・第一印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 694,
+        "label": "長時間通話と寝落ち通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 946,
+        "label": "イベントとポテトチップスのエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1154,
+        "label": "大きな喧嘩を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1372,
+        "label": "配信と普段の距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1638,
+        "label": "胸枕をめぐる質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1760,
+        "label": "イベントでの関係性と周囲の配慮",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1939,
+        "label": "上下戦争の詳細",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2164,
+        "label": "お泊まり配信のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2363,
+        "label": "普段のデートと過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2563,
+        "label": "家族との食事と親への挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2804,
+        "label": "同棲の予定と二人の暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3109,
+        "label": "お揃いのアクセサリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3200,
+        "label": "相手を好きだと思う瞬間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3475,
+        "label": "愛してるゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3644,
+        "label": "出演者の感想・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

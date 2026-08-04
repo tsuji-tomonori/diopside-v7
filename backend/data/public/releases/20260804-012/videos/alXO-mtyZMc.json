@@ -1,0 +1,120 @@
+{
+  "videoId": "alXO-mtyZMc",
+  "title": "【バイオRE:2】強気お姉さんのビビりバイオプレイ#2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-02T17:18:21Z",
+  "duration": "PT2H32M33S",
+  "durationSec": 9153,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/alXO-mtyZMc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T02:40:54.998Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 354,
+        "label": "警察署内の探索を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1030,
+        "label": "警察署外周を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1201,
+        "label": "東側区画を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2041,
+        "label": "備品保管庫から上階へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2817,
+        "label": "オフィス周辺を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3664,
+        "label": "作戦会議室の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4178,
+        "label": "警察署の仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4677,
+        "label": "地下通路を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4973,
+        "label": "地下区画での戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5631,
+        "label": "地下通路から駐車場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6116,
+        "label": "留置所と設備を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6552,
+        "label": "犬舎から発電機室を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7280,
+        "label": "配電設備を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7512,
+        "label": "射撃場・駐車場を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8161,
+        "label": "装備整理・再攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9055,
+        "label": "アイテム整理・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "qEnIxqNj54U",
+  "title": "【スプラトゥーン3】スプラ３で遊ぶ！ᔦ๑° ꒳ °๑ᔨ🔫🎨フルパ嬉しい【Vtuber 花京院ちえり視点 /西園寺メアリ/白雪巴/夏色まつり】",
+  "publishedAt": "2022-09-14T14:58:18Z",
+  "duration": "PT1H46M4S",
+  "durationSec": 6364,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qEnIxqNj54U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T18:44:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボメンバー紹介とスプラ3開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 225,
+        "label": "最初のナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 598,
+        "label": "ナワバリで中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 834,
+        "label": "スペシャルを使うナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1110,
+        "label": "ローラー対策とナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1267,
+        "label": "ヤグラ形式に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1691,
+        "label": "塗りと前線維持のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1811,
+        "label": "接続確認とロビー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2280,
+        "label": "新ステージで前線へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2596,
+        "label": "前進と生存を意識するナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3035,
+        "label": "長射程への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3305,
+        "label": "武器変更と新ステージ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3675,
+        "label": "新ステージのヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4115,
+        "label": "バリアで前進するヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4521,
+        "label": "バリアで守るヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4859,
+        "label": "ワイパー初挑戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "ワイパーでゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5451,
+        "label": "バリアとウルトラショットのヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5774,
+        "label": "最後のヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6065,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6132,
+        "label": "コラボメンバーの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6233,
+        "label": "コラボ総括と配信案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

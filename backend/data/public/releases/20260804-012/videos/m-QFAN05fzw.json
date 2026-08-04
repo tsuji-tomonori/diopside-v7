@@ -1,0 +1,125 @@
+{
+  "videoId": "m-QFAN05fzw",
+  "title": "【ガールズコントラクト】あの子もその子もどの子もオレ嫁【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-17T11:08:26Z",
+  "duration": "PT1H1M48S",
+  "durationSec": 3708,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/m-QFAN05fzw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:38:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 240,
+        "label": "放置育成と探索報酬",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 499,
+        "label": "女神・キャラクター・声優紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 795,
+        "label": "オープニング曲とキャストの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 921,
+        "label": "ガチャ前の編成確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1120,
+        "label": "ガチャの目標と育成準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1316,
+        "label": "召喚を始める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1645,
+        "label": "召喚キャラクターを紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2060,
+        "label": "ガチャ結果を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2156,
+        "label": "所持キャラクターと育成候補",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2407,
+        "label": "探索報酬とキャラクター育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2627,
+        "label": "最強編成を作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2710,
+        "label": "嫁候補を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2969,
+        "label": "妹候補を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3213,
+        "label": "好みのキャラクターを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3344,
+        "label": "最終候補を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3490,
+        "label": "ゲームのまとめ・キャンペーン案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3601,
+        "label": "キャスト雑談・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

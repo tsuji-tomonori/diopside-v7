@@ -1,0 +1,110 @@
+{
+  "videoId": "sjMNM5ok-eU",
+  "title": "【ポケモンユナイト】Dチーム初めての練習試合！？※助っ人フミさん【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-05T17:18:03Z",
+  "duration": "PT2H45M9S",
+  "durationSec": 9909,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sjMNM5ok-eU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チームD紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 381,
+        "label": "初回練習試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 627,
+        "label": "初回練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1170,
+        "label": "フミ参加・ロビー再調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1592,
+        "label": "練習試合・ゴールと集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3209,
+        "label": "試合後の振り返り・次試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3767,
+        "label": "練習試合・実戦プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4208,
+        "label": "試合レビュー・次の編成調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4728,
+        "label": "練習試合・ゴール周辺の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5498,
+        "label": "試合後レビュー・次試合の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "練習試合・レーンと集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7212,
+        "label": "試合後レビュー・マップ解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8502,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9097,
+        "label": "試合終了・感想と次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

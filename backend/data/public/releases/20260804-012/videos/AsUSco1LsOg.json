@@ -1,0 +1,130 @@
+{
+  "videoId": "AsUSco1LsOg",
+  "title": "【バイオRE:2】強気お姉さんのビビりバイオプレイ#3【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-07T05:44:41Z",
+  "duration": "PT2H26M18S",
+  "durationSec": 8778,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AsUSco1LsOg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 343,
+        "label": "ゲーム再開・警察署の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 668,
+        "label": "警察署内の探索とルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1240,
+        "label": "携帯端末の謎解き・次の道具探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1532,
+        "label": "敵を突破して装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2023,
+        "label": "ロックされた道とボイラー室を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2826,
+        "label": "仕掛けを動かし追跡から逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3316,
+        "label": "追跡をかわしながらルートを立て直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3984,
+        "label": "マグナムへの道と追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4804,
+        "label": "資料を読み金庫と次のルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5234,
+        "label": "武器強化とマグナム回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5756,
+        "label": "再び追跡、補給しながら先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6199,
+        "label": "歯車と電子装置のルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6872,
+        "label": "資料を読み脱出ルートで合流へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7506,
+        "label": "相棒と地下ルートを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7897,
+        "label": "地下エリアの強敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8117,
+        "label": "戦闘後の物語と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8386,
+        "label": "物語を進めながら敵を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8664,
+        "label": "電子装置のハッキングに挑戦",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

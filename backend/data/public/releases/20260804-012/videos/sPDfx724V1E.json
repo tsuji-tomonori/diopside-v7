@@ -1,0 +1,100 @@
+{
+  "videoId": "sPDfx724V1E",
+  "title": "【スニッパーズ】女王と騎士でチョキっと協力！？【にじさんじ】",
+  "publishedAt": "2021-04-07T14:23:41Z",
+  "duration": "PT1H35M22S",
+  "durationSec": 5722,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sPDfx724V1E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 551,
+        "label": "操作説明・最初のステージ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 805,
+        "label": "最初の協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1333,
+        "label": "形を切って進む協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1999,
+        "label": "新しい仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2319,
+        "label": "スペシャルステージの協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2975,
+        "label": "協力パズルから次の挑戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3431,
+        "label": "バスケ風ステージに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4006,
+        "label": "バスケ後の形合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4513,
+        "label": "ソロプレイのステージに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4761,
+        "label": "形合わせの試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5107,
+        "label": "終盤の形合わせに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5518,
+        "label": "ゲームを振り返る・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

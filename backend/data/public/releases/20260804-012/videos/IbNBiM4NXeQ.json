@@ -1,0 +1,110 @@
+{
+  "videoId": "IbNBiM4NXeQ",
+  "title": "【#にじデュオ】メイクしてても、してなくたっていい【不破湊/にじさんじ 】",
+  "publishedAt": "2024-05-21T12:09:44Z",
+  "duration": "PT1H4M25S",
+  "durationSec": 3865,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IbNBiM4NXeQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・5人の自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 157,
+        "label": "DUOクレンジングバームの特徴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 342,
+        "label": "バームの溶け方を実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 495,
+        "label": "クリアカプセルの仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 686,
+        "label": "ノーメイクでも使える理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 919,
+        "label": "6種類の特徴と使い分け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1211,
+        "label": "肌悩み診断フローチャート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1637,
+        "label": "運命のDUO探しワードウルフ・ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1799,
+        "label": "ワードウルフ第1問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2175,
+        "label": "ワードウルフ第2問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2536,
+        "label": "ワードウルフ第3問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2865,
+        "label": "ワードウルフの答え合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2933,
+        "label": "共通文字当てクイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3327,
+        "label": "コラボ限定セット・キャンペーン告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3517,
+        "label": "5人の感想・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

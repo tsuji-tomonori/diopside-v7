@@ -1,0 +1,125 @@
+{
+  "videoId": "Ccc-pL3e83U",
+  "title": "【#ガチ百合】本当にあったリアル百合エピソード＃７【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-03T15:14:15Z",
+  "duration": "PT2H6M18S",
+  "durationSec": 7578,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ccc-pL3e83U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:27:25Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 255,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 446,
+        "label": "エピソード① 幼なじみとの思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 933,
+        "label": "エピソード② 片思いしていた先輩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1462,
+        "label": "エピソード③ 親友とのすれ違い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1927,
+        "label": "エピソード④ 部活仲間とのお泊まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2461,
+        "label": "巴さんの電車エピソード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2813,
+        "label": "エピソード⑤ 身長差のある友人",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3296,
+        "label": "エピソード⑥ 恋人とのお泊まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3771,
+        "label": "エピソード⑦ 恋人との出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4375,
+        "label": "エピソード⑧ バレンタインの片思い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4937,
+        "label": "エピソード⑨ 友人との壁ドン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5731,
+        "label": "エピソード⑩ 幼なじみへの想い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6093,
+        "label": "10選の感想戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6295,
+        "label": "「関係性わからない」を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6583,
+        "label": "同性パートナーと結婚制度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6922,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7522,
+        "label": "エンディング・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "videoId": "D2ZUEPmlaJg",
+  "title": "【逆凸】100万人祝ってほしい悪魔の深夜逆凸！【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2023-09-09T17:10:54Z",
+  "duration": "PT3H17M49S",
+  "durationSec": 11869,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/D2ZUEPmlaJg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:53:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "100万人記念・深夜逆凸の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 822,
+        "label": "友人AとASMR・デートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1263,
+        "label": "大空スバルと食事・3D企画の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1685,
+        "label": "しぐれういと記念グッズ・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2055,
+        "label": "レイン・パターソンとASMR・お祝いトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2281,
+        "label": "リゼ・ヘルエスタと料理・質問トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2645,
+        "label": "小森めとと冬・鍋・デートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3005,
+        "label": "天神子兎音と牡蠣・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3306,
+        "label": "日ノ隈らんと食事・料理の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3605,
+        "label": "ロボ子さんと食べ物・レシピの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "西園寺メアリと耳かきASMR・料理の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4442,
+        "label": "森中花咲とお出かけ・女子会の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5012,
+        "label": "獅子神レオナと歌・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5512,
+        "label": "白雪巴と歌・ASMR・温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5747,
+        "label": "轟京子と服・遊園地・声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6070,
+        "label": "宗谷いちかとグランピング・歌企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6581,
+        "label": "ぽんぽこと3D・配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6968,
+        "label": "小野町春香と料理・ASMR企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7421,
+        "label": "因幡はねると過去のコラボ・今後の約束",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7837,
+        "label": "シスター・クレアと買い物・癒し企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8114,
+        "label": "響木アオと料理・歌企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8508,
+        "label": "明堂しろねとASMR・メイクの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "東雲めぐとお出かけ・ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9187,
+        "label": "周防パトラと料理・記念曲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9607,
+        "label": "町田ちまとゲーム・ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9903,
+        "label": "龍ヶ崎リンと長時間ASMR・料理ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10397,
+        "label": "緑仙とお出かけ・変わったカフェの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10869,
+        "label": "夕陽リリとホラーゲーム・教室ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11291,
+        "label": "逆凸を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11708,
+        "label": "新アクセサリー告知・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

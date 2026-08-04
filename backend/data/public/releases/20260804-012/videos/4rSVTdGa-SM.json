@@ -1,0 +1,110 @@
+{
+  "videoId": "4rSVTdGa-SM",
+  "title": "#6【ピクミン3】ダレモシナセタクナイ完全初見ピクミン【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-10-06T13:57:45Z",
+  "duration": "PT1H42M13S",
+  "durationSec": 6133,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4rSVTdGa-SM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・探索方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "青ピクミンを増やす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 604,
+        "label": "水路の進路と橋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 900,
+        "label": "水辺の探索・フルーツ回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1442,
+        "label": "筋トレ雑談・探索再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1621,
+        "label": "羽ピクミンで橋のかけら運び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2102,
+        "label": "フルーツ回収と橋の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2724,
+        "label": "水中ルートを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "フルーツ・部品の回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3303,
+        "label": "橋の完成・強敵への接近",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "強敵との初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4182,
+        "label": "強敵戦・攻略を模索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4803,
+        "label": "戦闘後の回収・エリア整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5702,
+        "label": "エリアの出来事を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5919,
+        "label": "配信終了・告知とスパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

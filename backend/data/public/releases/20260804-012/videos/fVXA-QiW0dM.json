@@ -1,0 +1,115 @@
+{
+  "videoId": "fVXA-QiW0dM",
+  "title": "【#鈴木勝3D お披露目】俺様が天才イケメンバーチャルライバー、漆黒の捕食者こと《Darkness Eater》、即ちD.E.だ！！！【にじさんじ/鈴木勝】",
+  "publishedAt": "2022-06-08T13:18:02Z",
+  "duration": "PT1H12M2S",
+  "durationSec": 4322,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fVXA-QiW0dM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:25:12.806758Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3Dお披露目の始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 222,
+        "label": "ルコの最初の試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 347,
+        "label": "神社で次の試練へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 451,
+        "label": "超巨大立体オセロに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1258,
+        "label": "腕相撲の試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1466,
+        "label": "歌子お姉さんを満足させる試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1955,
+        "label": "鉄骨渡りの最終試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2157,
+        "label": "救出を経て次のステージへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2289,
+        "label": "卯月コウとの剣勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2464,
+        "label": "ステージ前の転換",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2565,
+        "label": "Under The Moon",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2852,
+        "label": "Rain Dropsが登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3123,
+        "label": "雨言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3474,
+        "label": "SEEDs24・打鍵王・新曲の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3663,
+        "label": "4周年の手紙と3Dへの思い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3847,
+        "label": "最後の歌「準透明少年」",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

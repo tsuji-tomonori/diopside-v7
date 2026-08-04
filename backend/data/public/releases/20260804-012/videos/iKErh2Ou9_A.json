@@ -1,0 +1,100 @@
+{
+  "videoId": "iKErh2Ou9_A",
+  "title": "田角陸を救いたい。",
+  "publishedAt": "2023-08-31T11:34:28Z",
+  "duration": "PT31M51S",
+  "durationSec": 1911,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iKErh2Ou9_A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:31:10Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "抗議デモ開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 184,
+        "label": "お中元への問題提起と過去の品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 281,
+        "label": "アイシングクッキーとカステラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 482,
+        "label": "謎のパペット到着を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 707,
+        "label": "贈り物への違和感を語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 894,
+        "label": "来年のお中元への不安",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1015,
+        "label": "クッキー缶を求める理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1185,
+        "label": "お中元の意味とカレーの保管場所",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1332,
+        "label": "辰巳カレーを実食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1460,
+        "label": "カレーとグッズの販売を要望",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1587,
+        "label": "お中元のコンテンツ化に抗議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1752,
+        "label": "参加者の思いと応援",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1814,
+        "label": "デモの結論・来年への提案",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

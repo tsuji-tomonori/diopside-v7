@@ -1,0 +1,215 @@
+{
+  "videoId": "l7fyVck5M5I",
+  "title": "#02【ウマ娘】水着スペシャルウィーク育成、完了。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-22T10:19:43Z",
+  "duration": "PT3H59M18S",
+  "durationSec": 14358,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l7fyVck5M5I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・レジェンドレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 702,
+        "label": "スペシャルウィーク育成再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1199,
+        "label": "浜辺の夏イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1621,
+        "label": "夏合宿・ダンス練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2393,
+        "label": "水着イベント・菊花賞準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "菊花賞レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "菊花賞後のライブ・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3421,
+        "label": "育成イベント・急なレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "有馬記念レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "有馬記念後の振り返り・年始イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4502,
+        "label": "育成イベント・バレンタイン準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5229,
+        "label": "ファン感謝祭・育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5644,
+        "label": "天皇賞（春）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6124,
+        "label": "レース後の育成方針・夏合宿準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6841,
+        "label": "宝塚記念",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7384,
+        "label": "夏合宿・天皇賞（秋）準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7925,
+        "label": "天皇賞（秋）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8288,
+        "label": "ジャパンカップ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8642,
+        "label": "ジャパンカップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "ジャパンカップ後のライブ・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9182,
+        "label": "有馬記念前の育成・ライバル確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9540,
+        "label": "クリスマスイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9770,
+        "label": "有馬記念",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10278,
+        "label": "有馬記念後のライブ・URA導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10440,
+        "label": "URAファイナル第1ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10804,
+        "label": "URAファイナル第2ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11161,
+        "label": "URAファイナル決勝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11523,
+        "label": "URA後のライブ・育成振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11881,
+        "label": "育成後の記者特集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12061,
+        "label": "北海道帰省イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12421,
+        "label": "育成結果・スキル確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12783,
+        "label": "チーム編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12963,
+        "label": "チーム競技場・レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13321,
+        "label": "チーム競技場・次のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14041,
+        "label": "育成後のレジェンドレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14287,
+        "label": "レジェンドレース後の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

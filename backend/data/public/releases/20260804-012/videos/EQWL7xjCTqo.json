@@ -1,0 +1,95 @@
+{
+  "videoId": "EQWL7xjCTqo",
+  "title": "【＃にじさんじ壺カップ】頂上を目指せ！ドキドキ！？大抽選会【にじさんじ/フミ・鈴木勝】",
+  "publishedAt": "2020-07-11T12:43:59Z",
+  "duration": "PT55M10S",
+  "durationSec": 3310,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EQWL7xjCTqo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画紹介・大会ルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 358,
+        "label": "優勝特典の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 528,
+        "label": "対戦表と抽選方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 621,
+        "label": "参加者抽選・第1ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1197,
+        "label": "参加者抽選・第2ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1638,
+        "label": "参加者抽選・第3ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2328,
+        "label": "残りの参加者を抽選",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2593,
+        "label": "抽選ルーレットの数を訂正",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2646,
+        "label": "訂正後の参加者抽選",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3110,
+        "label": "大会本番の日程・配信案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3130,
+        "label": "視聴者向け並走・観戦方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3217,
+        "label": "締め・ハッシュタグ案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

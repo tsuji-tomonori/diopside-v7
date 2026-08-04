@@ -1,0 +1,150 @@
+{
+  "videoId": "wd8kYpQeN8s",
+  "title": "夜王国でドッジボール",
+  "publishedAt": "2021-06-20T13:28:24Z",
+  "duration": "PT1H54M37S",
+  "durationSec": 6877,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wd8kYpQeN8s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "冒頭の挨拶・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 264,
+        "label": "モード選択・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 620,
+        "label": "初回対戦・特殊ボール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1111,
+        "label": "試合後の振り返り・再戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1199,
+        "label": "カスタマイズ後の再戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1709,
+        "label": "試合後の探索・操作練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1933,
+        "label": "視聴者参加型の設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2321,
+        "label": "ストリートプレイ初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2829,
+        "label": "ストリートプレイ次ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3011,
+        "label": "次のマッチ設定・マルチボール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3126,
+        "label": "ストリートプレイで連携を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3890,
+        "label": "報酬確認・キャラクター変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4016,
+        "label": "新モード対戦・再接続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4420,
+        "label": "連携を活かす対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4952,
+        "label": "カーブボール講座",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "クレバーボール対戦・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5669,
+        "label": "ゲージボールで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6049,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6102,
+        "label": "3Dお披露目の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6164,
+        "label": "ムーンボールで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6613,
+        "label": "対戦後の感想・ボイス確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6696,
+        "label": "3Dお披露目・配信告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6805,
+        "label": "今後の企画・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

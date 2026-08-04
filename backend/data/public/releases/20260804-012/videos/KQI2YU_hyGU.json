@@ -1,0 +1,110 @@
+{
+  "videoId": "KQI2YU_hyGU",
+  "title": "【新衣装】想像の6倍恐ろしいと思う。【にじさんじ/でびでび・でびる】",
+  "publishedAt": "2021-03-15T14:38:41Z",
+  "duration": "PT1H34M16S",
+  "durationSec": 5656,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KQI2YU_hyGU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:12:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新衣装のお披露目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 346,
+        "label": "新衣装をじっくりチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1109,
+        "label": "ゲスト参加で喜ばせ企画スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "ゲストの恋愛エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1701,
+        "label": "サーキット走行の体験談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1905,
+        "label": "絵を描く企画とゲストトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2498,
+        "label": "不運な一日のエピソード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2705,
+        "label": "未来をめぐるエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2932,
+        "label": "画像を見ながらのやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3285,
+        "label": "新衣装の比較・お気に入り選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "衣装の装飾・小物を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "小物の順位付け・選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5359,
+        "label": "新衣装披露の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5526,
+        "label": "今後の配信・コラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5578,
+        "label": "最後の挨拶・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

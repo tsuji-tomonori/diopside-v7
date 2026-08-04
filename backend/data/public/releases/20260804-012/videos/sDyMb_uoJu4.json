@@ -1,0 +1,110 @@
+{
+  "videoId": "sDyMb_uoJu4",
+  "title": "【水平思考クイズ】うみがめのスープ【にじさんじ】",
+  "publishedAt": "2020-09-22T12:10:05Z",
+  "duration": "PT1H56M18S",
+  "durationSec": 6978,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sDyMb_uoJu4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:33:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 325,
+        "label": "第1問：刃物を向けられて喜ぶ女性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 787,
+        "label": "第1問の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 879,
+        "label": "第2問：朝にムキムキの人々とすれ違う理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1683,
+        "label": "第2問の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1782,
+        "label": "第3問：食べるほど青ざめるシェフ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2006,
+        "label": "第3問の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2120,
+        "label": "第4問：音楽家の名声が落ちた理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4465,
+        "label": "第4問の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4582,
+        "label": "第5問：館内放送で急いで退店する理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4629,
+        "label": "第5問の解説・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4742,
+        "label": "第6問：電車で女性を見て食べる男性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6455,
+        "label": "第6問の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6588,
+        "label": "第6問の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6780,
+        "label": "終了トーク・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

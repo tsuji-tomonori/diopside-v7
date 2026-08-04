@@ -1,0 +1,120 @@
+{
+  "videoId": "v8e03tGRFW4",
+  "title": "＃６【リングフィットアドベンチャー】朝活でストイックに鍛え上げるモテ美ボディ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-03T23:28:06Z",
+  "duration": "PT1H18M31S",
+  "durationSec": 4711,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/v8e03tGRFW4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:10:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・朝活の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 327,
+        "label": "リングフィットの準備・ステージ選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1062,
+        "label": "最初のコースを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1514,
+        "label": "コース後半・ルート選択と測定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1799,
+        "label": "次のルートで運動バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1997,
+        "label": "攻撃スキルを選んで戦う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2197,
+        "label": "プランク中心の運動バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2680,
+        "label": "追加の運動メニュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2851,
+        "label": "ステージの目的を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3074,
+        "label": "報酬確認と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3213,
+        "label": "装備を確認しながら運動バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3661,
+        "label": "ステージ進行と次のエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3793,
+        "label": "終盤のルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4132,
+        "label": "ステージ後のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4304,
+        "label": "クールダウンとストレッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4527,
+        "label": "配信予定・終了挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4601,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

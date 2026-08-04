@@ -1,0 +1,95 @@
+{
+  "videoId": "CMpmYuu20v0",
+  "title": "【#95 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-08-01T03:00:03Z",
+  "duration": "PT8M25S",
+  "durationSec": 505,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CMpmYuu20v0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:33:05.156Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介と前回放送の反響",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 73,
+        "label": "梅雨明け・猛暑と日傘の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 121,
+        "label": "新しいライバー加入のニュース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 132,
+        "label": "新人への期待とゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 199,
+        "label": "ゲスト登場・自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 228,
+        "label": "初ラジオと衣装の掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 275,
+        "label": "パーソナリティ選出の経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 308,
+        "label": "ゲストの自己紹介と夏の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 371,
+        "label": "過去コラボと今後の交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 443,
+        "label": "3D活動と呼び方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 462,
+        "label": "3Dを使った今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 492,
+        "label": "締めの冗談と感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

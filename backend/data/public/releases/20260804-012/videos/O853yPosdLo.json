@@ -1,0 +1,210 @@
+{
+  "videoId": "O853yPosdLo",
+  "title": "＃02【ブルーアーカイブ】初めてのメインストーリー攻略！先生って何をすればいいですか⁉【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-15T03:37:39Z",
+  "duration": "PT3H26M55S",
+  "durationSec": 12415,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/O853yPosdLo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T18:20:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ストーリー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 680,
+        "label": "メインストーリー開始・アビドスへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1266,
+        "label": "アビドス防衛戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1543,
+        "label": "アビドスの事情と反撃作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1853,
+        "label": "ヘルメット団への反撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1999,
+        "label": "アビドスの借金と先生の決意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2521,
+        "label": "セリカのアルバイト先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3085,
+        "label": "セリカ救出作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3414,
+        "label": "セリカ救出バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3787,
+        "label": "謎の武器と便利屋68",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4108,
+        "label": "借金返済の作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4805,
+        "label": "便利屋68の依頼準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5448,
+        "label": "アビドス襲撃の始まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5619,
+        "label": "傭兵との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5782,
+        "label": "退却と便利屋68の事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6384,
+        "label": "ブラックマーケットでヒフミと合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6736,
+        "label": "ブラックマーケットの戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7009,
+        "label": "ヒフミと次の手がかり探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7295,
+        "label": "お金の流れを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7668,
+        "label": "銀行襲撃の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8041,
+        "label": "銀行潜入と記録回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8493,
+        "label": "逃走バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8768,
+        "label": "お金をどうする？作戦後の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9002,
+        "label": "仮面の一団をめぐる誤解",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9206,
+        "label": "事件後の整理と次の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9400,
+        "label": "事件の手がかりと今後の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9682,
+        "label": "便利屋68の次の作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10057,
+        "label": "ホシノの過去に触れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10245,
+        "label": "カイザー接近とラーメン店の騒動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10493,
+        "label": "ラーメン店襲撃と戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10873,
+        "label": "ゲヘナ風紀委員会の介入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11193,
+        "label": "アビドスの戦いと事情説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11435,
+        "label": "第1章の区切り・ガチャ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11693,
+        "label": "ストーリー感想・配信締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11750,
+        "label": "スーパーチャット読み・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

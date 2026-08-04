@@ -1,0 +1,120 @@
+{
+  "videoId": "kYh0VetCzW8",
+  "title": "#2【SILENT HILL2】サイレントヒル2を布教したいお姉さんのリメイク版実況【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-14T17:15:31Z",
+  "duration": "PT3H59M58S",
+  "durationSec": 14398,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kYh0VetCzW8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T05:22:16.254Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 606,
+        "label": "アパートの仕掛けと探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3318,
+        "label": "アパート脱出への局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3827,
+        "label": "街路と公園を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4400,
+        "label": "公園から西側市街へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5143,
+        "label": "西側市街・モーテル周辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7260,
+        "label": "ボウリング場周辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8434,
+        "label": "娯楽施設を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9357,
+        "label": "庭園で次の行き先を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9636,
+        "label": "劇場周辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10285,
+        "label": "病院へ・受付階の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11314,
+        "label": "病院地下の設備を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12139,
+        "label": "病院2階の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12633,
+        "label": "院長室周辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13729,
+        "label": "病院奥の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14149,
+        "label": "プレイ終了・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14221,
+        "label": "スーパーチャット読み・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

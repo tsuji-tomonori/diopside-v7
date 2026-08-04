@@ -1,0 +1,155 @@
+{
+  "videoId": "A3kbfkQ1yIY",
+  "title": "【豪華ゲストも!?】～5年も続けてごめん、祝うわ～あおぎり高校5th Anniversary’s 座談会",
+  "publishedAt": "2023-10-28T13:11:39Z",
+  "duration": "PT3H32M4S",
+  "durationSec": 12724,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/A3kbfkQ1yIY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "5周年記念・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 325,
+        "label": "ポップアップショップのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 495,
+        "label": "出演者からの5周年メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1149,
+        "label": "5周年の思い出と6年目の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1724,
+        "label": "白雪巴への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2242,
+        "label": "コメント紹介と記念セット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2667,
+        "label": "七海うららへの電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3557,
+        "label": "エトラ・春雨麗女が参加",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3836,
+        "label": "お祝いメッセージ・動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5357,
+        "label": "フミへの電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5812,
+        "label": "エトラ・春雨麗女の思い出トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6245,
+        "label": "神楽すずへの電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6779,
+        "label": "周年の思い出とメッセージ展示",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7404,
+        "label": "犬山たまきへの電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8134,
+        "label": "お祝いメッセージと初期メンバーのトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8871,
+        "label": "おめがシスターズ・従井ノラからのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9664,
+        "label": "ぽんぽこ・ピーナッツくんのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10080,
+        "label": "初期あおぎりの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10696,
+        "label": "月ノ美兎への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11587,
+        "label": "全体の振り返りと特別ゲスト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11867,
+        "label": "特別ゲストとの電話・5周年の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12390,
+        "label": "5周年の締めくくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12482,
+        "label": "6年目に向けたお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12563,
+        "label": "エンディング・感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

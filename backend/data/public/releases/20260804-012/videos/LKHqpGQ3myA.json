@@ -1,0 +1,110 @@
+{
+  "videoId": "LKHqpGQ3myA",
+  "title": "【SILENT HILL f #7】4周目-特殊エンド- みんな、UFOって知ってる？🛸※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-07T16:35:56Z",
+  "duration": "PT3H26M23S",
+  "durationSec": 12383,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LKHqpGQ3myA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:37:11+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4周目スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 620,
+        "label": "町を進んで最初の手がかりへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2302,
+        "label": "手がかりを追って町を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3293,
+        "label": "異界の社を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3819,
+        "label": "仲間と合流・町を再探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5957,
+        "label": "家と庭を抜けて先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6488,
+        "label": "かかしの謎を解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7206,
+        "label": "異界を駆け抜ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8457,
+        "label": "異界での大きな戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8876,
+        "label": "町へ戻り次の道を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10060,
+        "label": "最後の手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10912,
+        "label": "特殊エンドへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11175,
+        "label": "特殊エンドの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11719,
+        "label": "次回プレイと配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12073,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "wyuzkNP1mos",
+  "title": "＃２【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-04T13:45:00Z",
+  "duration": "PT1H35M47S",
+  "durationSec": 5747,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wyuzkNP1mos/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T08:42:35.817Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 122,
+        "label": "オープニング・当日の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 247,
+        "label": "操作確認・街探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 851,
+        "label": "寄り道・戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1145,
+        "label": "サブ任務・家屋調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1897,
+        "label": "能力確認・街の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2680,
+        "label": "街探索・連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3311,
+        "label": "サブ任務・施設調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3762,
+        "label": "浄化・次の場所を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4114,
+        "label": "戦闘・浄化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4533,
+        "label": "街での準備・資料確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "本編へ復帰・街探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5310,
+        "label": "地震による中断・安全確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5449,
+        "label": "安全確認・配信終了の判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5587,
+        "label": "次回予定・お礼・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

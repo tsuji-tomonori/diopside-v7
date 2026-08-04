@@ -1,0 +1,145 @@
+{
+  "videoId": "XwhyukhE1FY",
+  "title": "【スイカゲーム】大玉スイカはIカップらしい‥‥ぞ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-26T18:33:56Z",
+  "duration": "PT3H21M14S",
+  "durationSec": 12074,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XwhyukhE1FY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:38:08.552314Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 197,
+        "label": "スイカゲームの概要",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 302,
+        "label": "ルール説明・チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 395,
+        "label": "初見プレイ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 721,
+        "label": "コラボの話と深夜雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 822,
+        "label": "進化順を探りながら初回プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1141,
+        "label": "コラボ振り返り・本番プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "本番プレイ序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2020,
+        "label": "盤面を整えて大きな果物を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3002,
+        "label": "コラボ振り返りとフルーツ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3763,
+        "label": "ゲーム再開・盤面の立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4509,
+        "label": "声の話と盤面づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "大きな果物を目指す盤面整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5667,
+        "label": "盤面を組み直して次の一手へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "連鎖をつないで果物を育てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7198,
+        "label": "盤面整理と苦戦の時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8057,
+        "label": "盤面の立て直し・連鎖狙い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "盤面を整えながら次の合体を狙う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9900,
+        "label": "終盤の立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10525,
+        "label": "スピード重視の終盤プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11417,
+        "label": "配信終了・次回の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11635,
+        "label": "スパチャ読み・振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

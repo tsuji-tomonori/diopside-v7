@@ -1,0 +1,120 @@
+{
+  "videoId": "gZvkPMmcZ3c",
+  "title": "【PAON】ぱおんって何ですか【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-03T15:00:29Z",
+  "duration": "PT52M57S",
+  "durationSec": 3177,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gZvkPMmcZ3c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:00:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 198,
+        "label": "ゲームスタート・操作説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 329,
+        "label": "序盤の探索・最初の遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 584,
+        "label": "ステージ探索・キャラクター観察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 802,
+        "label": "新たな遭遇・追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 999,
+        "label": "電池探しとルート探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1199,
+        "label": "次の遭遇・ルート探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1533,
+        "label": "追跡からの逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1689,
+        "label": "エリア探索・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "敵との遭遇・アイテム活用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2040,
+        "label": "終盤のゲーム進行・本編の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2324,
+        "label": "ゲーム後の感想・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2409,
+        "label": "スーパーチャット読み・次回の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2557,
+        "label": "タイトル画面でキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2793,
+        "label": "スーパーチャット読み再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2870,
+        "label": "追加要素で遊ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3006,
+        "label": "おまけ後の雑談・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

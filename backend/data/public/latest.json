@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0.0",
-  "releaseId": "20260804-010",
-  "generatedAt": "2026-08-04T12:55:00Z",
+  "releaseId": "20260804-012",
+  "generatedAt": "2026-08-04T13:15:00Z",
   "releaseMode": "normal",
   "normalizationVersion": "unicode-15.1/tokenizer-v1",
-  "indexPath": "data/releases/20260804-010/index.json",
-  "searchIndexPath": "data/releases/20260804-010/search-index.json",
-  "tagTaxonomyPath": "data/releases/20260804-010/tag-taxonomy.json",
-  "tagIndexPath": "data/releases/20260804-010/tag-index.json",
-  "tagAliasIndexPath": "data/releases/20260804-010/tag-alias-index.json"
+  "indexPath": "data/releases/20260804-012/index.json",
+  "searchIndexPath": "data/releases/20260804-012/search-index.json",
+  "tagTaxonomyPath": "data/releases/20260804-012/tag-taxonomy.json",
+  "tagIndexPath": "data/releases/20260804-012/tag-index.json",
+  "tagAliasIndexPath": "data/releases/20260804-012/tag-alias-index.json"
 }

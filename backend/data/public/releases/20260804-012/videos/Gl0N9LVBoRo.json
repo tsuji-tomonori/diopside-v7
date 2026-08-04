@@ -1,0 +1,120 @@
+{
+  "videoId": "Gl0N9LVBoRo",
+  "title": "#2【ピクミン3】ダレモシナセタクナイ完全初見ピクミン【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-04T09:01:41Z",
+  "duration": "PT2H48M41S",
+  "durationSec": 10121,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gl0N9LVBoRo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:17:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ラジオ出演報告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 514,
+        "label": "ピクミン3を再開・雪原へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 712,
+        "label": "黄色ピクミンと電気の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "雪原の原生生物に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2405,
+        "label": "新しい日・雪原探索と温泉探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "探索を終えて次の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "ブリトニーを操作して雪原を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "ピクミンを増やし洞窟への道を開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "日没前に探索を終える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "次の日の探索とキャプテン捜索準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7201,
+        "label": "激辛エキスを集めて戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7803,
+        "label": "装備を整えて洞窟へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8406,
+        "label": "洞窟の敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9006,
+        "label": "洞窟の仕掛けを使って戦闘を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9205,
+        "label": "洞窟探索を終えて帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9607,
+        "label": "ゲームの振り返り・次回の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9903,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

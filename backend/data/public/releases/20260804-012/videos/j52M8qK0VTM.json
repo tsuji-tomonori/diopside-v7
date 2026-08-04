@@ -1,0 +1,110 @@
+{
+  "videoId": "j52M8qK0VTM",
+  "title": "【#にじさんじラジオ体操部】にじライバー健康計画１３日目 / 2022年【不破湊/にじさんじ】",
+  "publishedAt": "2022-08-14T21:55:43Z",
+  "duration": "PT20M49S",
+  "durationSec": 1249,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/j52M8qK0VTM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 134,
+        "label": "挨拶と番組開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 178,
+        "label": "3Dの動きと距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "3Dコラボと今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 450,
+        "label": "木陰とカブトムシの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 498,
+        "label": "コラボでやりたいことを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 568,
+        "label": "懐かしい企画とドッジボール案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 630,
+        "label": "3D制作とスタジオの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 698,
+        "label": "夏休みの近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 738,
+        "label": "オンラインゲームのコラボ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 807,
+        "label": "夏休みの過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 859,
+        "label": "子どもの話と3人の掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 914,
+        "label": "ラジオ体操の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 952,
+        "label": "ラジオ体操",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1146,
+        "label": "運動後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

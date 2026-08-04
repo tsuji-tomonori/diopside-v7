@@ -1,0 +1,105 @@
+{
+  "videoId": "nYBrenVVEh8",
+  "title": "【#Crossick】11月22日って何の日か知ってる？【健屋花那・白雪巴/にじさんじ】",
+  "publishedAt": "2020-11-22T16:37:33Z",
+  "duration": "PT2H11M39S",
+  "durationSec": 7899,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nYBrenVVEh8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・記念日の料理準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 690,
+        "label": "ケーキ作り・材料の計量とメレンゲ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2242,
+        "label": "調理待ちと掃除ロボットの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3209,
+        "label": "ケーキの状態確認と調理中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3907,
+        "label": "キャラクター談義と声遊び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4311,
+        "label": "キッチンから別室へ移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4502,
+        "label": "衣装確認と着替えの掛け合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5498,
+        "label": "記念日の贈り物と花の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5988,
+        "label": "ケーキの仕上げと焼き上がり待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6647,
+        "label": "完成したケーキを切り分ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6843,
+        "label": "盛り付けと料理写真の撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7160,
+        "label": "紅茶とアイスでケーキを実食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7397,
+        "label": "今後の予定とイベント告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7763,
+        "label": "最後の挨拶・バイノーラル",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

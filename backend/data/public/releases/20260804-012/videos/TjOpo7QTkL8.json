@@ -1,0 +1,110 @@
+{
+  "videoId": "TjOpo7QTkL8",
+  "title": "【#にじイカ祭り2025】セクスィー色に染まらなイカ？練習！！【 オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2025-12-11T12:27:04Z",
+  "duration": "PT1H13M5S",
+  "durationSec": 4385,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TjOpo7QTkL8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:22:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開始・練習試合の続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 317,
+        "label": "合流・部屋作成と作戦確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 533,
+        "label": "練習試合で中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 647,
+        "label": "対戦部屋への合流・相手情報共有",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1010,
+        "label": "正式練習試合・立ち回り確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1636,
+        "label": "中央維持の練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1861,
+        "label": "高台確保の練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2148,
+        "label": "敵陣進入の練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2450,
+        "label": "中央キープの練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2741,
+        "label": "再戦の練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3056,
+        "label": "前線を押し上げる練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3324,
+        "label": "集団行動で守る練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3607,
+        "label": "終盤の練習試合・中央維持",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4165,
+        "label": "チームの振り返り・解散",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4205,
+        "label": "締めの挨拶・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoId": "Z57_g4TVw7M",
+  "title": "【スプラトゥーン3】夜王国っていう集まりで話題のイカのゲームやる【不破湊/にじさんじ】",
+  "publishedAt": "2022-10-04T15:06:38Z",
+  "duration": "PT3H14M27S",
+  "durationSec": 11667,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Z57_g4TVw7M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "夜王国の記念配信と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 348,
+        "label": "スプラトゥーンの準備と最初の募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 959,
+        "label": "最初のアサリのオープン戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1918,
+        "label": "サーモンランに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3310,
+        "label": "エリア戦の準備とチーム連携",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4263,
+        "label": "スナイパー武器を試すオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5178,
+        "label": "リッターの装備相談とオープン戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5605,
+        "label": "オープンの遊びやすさと連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "Splatoon談義と次のオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6800,
+        "label": "試合後の振り返りと無人島雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7001,
+        "label": "射程・塗りとチームワークのオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7556,
+        "label": "打開しやすいステージを考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7721,
+        "label": "塗り管理を意識したオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8021,
+        "label": "ショップのギア確認とSplatoon談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8208,
+        "label": "指示を抑えて楽しむオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8437,
+        "label": "あくびや緊張の雑談と参加者交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8825,
+        "label": "エリア戦の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9013,
+        "label": "試合後の雑談と麻雀の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9290,
+        "label": "塗り管理と連携のエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9539,
+        "label": "試合記録の雑談と次のオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9801,
+        "label": "オープン戦と配信中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10012,
+        "label": "塗りで進めるオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10233,
+        "label": "連勝企画の話と次のオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10658,
+        "label": "夜王国コラボの締めと今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10733,
+        "label": "コラボ後のギア確認とソロ配信への移行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11103,
+        "label": "ソロで再開するアサリの試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11409,
+        "label": "ロッカー紹介とゲーム設定の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11535,
+        "label": "配信終了の挨拶と次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

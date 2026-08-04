@@ -1,0 +1,140 @@
+{
+  "videoId": "KTlnmHVm6AA",
+  "title": "#3『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-09T18:25:26.000Z",
+  "duration": "PT4H55M51S",
+  "durationSec": 17751,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KTlnmHVm6AA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T12:30:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T12:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 488,
+        "label": "伊勢志摩の調査を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1281,
+        "label": "証言を追って新たな発見へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2455,
+        "label": "人魚伝承と人物関係を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3525,
+        "label": "伊勢市内へ移動・聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4743,
+        "label": "鳥羽の海岸で新たな展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5510,
+        "label": "夏の思い出と海辺の交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6118,
+        "label": "海辺の伝承を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7835,
+        "label": "封印と災いの可能性を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8190,
+        "label": "町を巡って追加情報を収集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9534,
+        "label": "時計台周辺の関係者を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9864,
+        "label": "鳥居前から水口家へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10826,
+        "label": "和歌村家で手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12213,
+        "label": "時計台で手鏡の模様を照合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12678,
+        "label": "灯台で人物関係を聞き取る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14130,
+        "label": "浦島太郎の伝承を検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15143,
+        "label": "ここまでの情報を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15640,
+        "label": "約束の時間・調査の山場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15843,
+        "label": "古い伝承と手鏡の手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16980,
+        "label": "今回の振り返りと考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17329,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

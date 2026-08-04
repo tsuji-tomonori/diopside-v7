@@ -1,0 +1,170 @@
+{
+  "videoId": "yWWM7Hb_FAU",
+  "title": "【推しのラブより恋のラブ～ラブ・オア・ダイ～】推しラブアンコール！？フルトイで神百合ゲーおかわりだ！！！【#フルトイ/にじさんじ】",
+  "publishedAt": "2022-05-28T08:49:10Z",
+  "duration": "PT3H53M29S",
+  "durationSec": 14009,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yWWM7Hb_FAU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:50:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・推しラブ実況の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 420,
+        "label": "ゲーム開始・ラブとの再会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 900,
+        "label": "推し活と結婚をめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1262,
+        "label": "恋人の将来と結婚の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1743,
+        "label": "インターンの話・エステサロンへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2341,
+        "label": "愛羅と出会い、三人の関係が動く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3242,
+        "label": "結婚式の相談を始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "ウェディングドレスを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4927,
+        "label": "式場見学と愛羅の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5763,
+        "label": "推し活と結婚の距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "二人で将来を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7081,
+        "label": "結婚式費用と卒業アルバム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7801,
+        "label": "母親と結婚について話す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8641,
+        "label": "両家の顔合わせへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8822,
+        "label": "両家の顔合わせ・推し活作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9361,
+        "label": "推し作品を使った作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9902,
+        "label": "愛羅の気持ちを聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10802,
+        "label": "コラボカフェ・二人のすれ違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11282,
+        "label": "二人の本音を確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11642,
+        "label": "挙式当日の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11822,
+        "label": "チャペルでの式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12351,
+        "label": "披露宴のスピーチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12540,
+        "label": "披露宴の演出・エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13020,
+        "label": "本編終了・ゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13201,
+        "label": "ストーリーと百合表現を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13381,
+        "label": "配信予定・楽曲リリースのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13800,
+        "label": "作品の推しポイント・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

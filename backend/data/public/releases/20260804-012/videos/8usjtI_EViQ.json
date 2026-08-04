@@ -1,0 +1,135 @@
+{
+  "videoId": "8usjtI_EViQ",
+  "title": "【雑談】今日は話題が決まっている雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-04T16:05:41Z",
+  "duration": "PT2H26M43S",
+  "durationSec": 8803,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8usjtI_EViQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:03:30.986996Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・季節の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 749,
+        "label": "月間活動とコラボ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1152,
+        "label": "コラボゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1887,
+        "label": "ゲームの魅力と新企画案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2302,
+        "label": "コラボの名場面とイベントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3096,
+        "label": "声劇・ロールプレイの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3198,
+        "label": "今後のコラボ予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3795,
+        "label": "同時視聴とコラボ企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4319,
+        "label": "歌・朗読などの企画相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4950,
+        "label": "マッサージ体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6238,
+        "label": "今後の予定とASMR企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6500,
+        "label": "スパチャ読み・配信案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6793,
+        "label": "声・歌の配信企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7041,
+        "label": "スパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7287,
+        "label": "声色遊びとスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7504,
+        "label": "スパチャ読み・コラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8021,
+        "label": "コラボ反応集の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8178,
+        "label": "スパチャ読み・ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8508,
+        "label": "誕生日・卒業メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8752,
+        "label": "最後のスパチャ読み・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

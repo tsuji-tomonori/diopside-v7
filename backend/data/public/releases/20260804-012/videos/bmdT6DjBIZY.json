@@ -1,0 +1,110 @@
+{
+  "videoId": "bmdT6DjBIZY",
+  "title": "【アソビ大全】W白雪で対決！頭脳とパワーで殴り合い！？【白雪巴/白雪みしろ】#W白雪コンビ",
+  "publishedAt": "2021-03-06T14:27:34Z",
+  "duration": "PT1H19M17S",
+  "durationSec": 4757,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bmdT6DjBIZY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:56:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 392,
+        "label": "ゲーム経験とコンビ名の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 667,
+        "label": "最初のゲーム選び・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 905,
+        "label": "最初のゲームを対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1175,
+        "label": "勝負後・次のゲーム選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1277,
+        "label": "コネクトフォー対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1424,
+        "label": "エアホッケー対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1600,
+        "label": "ブラックジャックのルール・対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2120,
+        "label": "ヨットのルール確認・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2198,
+        "label": "ヨットの役作り・得点判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3963,
+        "label": "最後のヨット局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4219,
+        "label": "勝敗確認・罰ゲーム相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4443,
+        "label": "罰ゲームの相談・実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4634,
+        "label": "対戦後の感想・次回コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4680,
+        "label": "チャンネル案内・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

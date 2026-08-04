@@ -1,0 +1,120 @@
+{
+  "videoId": "4sDyU-GO-vY",
+  "title": "【We Were Here Too】 協力謎解き脱出ゲーム！その３ #女王と会長 【 白雪巴/来栖夏芽/にじさんじ】",
+  "publishedAt": "2020-11-16T14:35:00Z",
+  "duration": "PT3H18M16S",
+  "durationSec": 11896,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4sDyU-GO-vY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "記号列を照合して次のエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1718,
+        "label": "エレベーターと洞窟を協力探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3265,
+        "label": "レバーを探してエレベーターを動かす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4048,
+        "label": "進行を立て直して序盤を再攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4376,
+        "label": "記号パズルを再攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5303,
+        "label": "開いた部屋の記号と人型パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "休憩・攻略の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6580,
+        "label": "序盤の記号パズルを再攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7470,
+        "label": "人型展開図とコンパスのパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8300,
+        "label": "鎧エリアへ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "鎧エリアの人物パネル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9398,
+        "label": "ステンドグラスのパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10038,
+        "label": "迷路への挑戦とレバー探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10450,
+        "label": "迷路のルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11100,
+        "label": "迷路の終盤ルートを再試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11791,
+        "label": "次回予告・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "eikh24sJwsA",
+  "title": "【#白雪巴誕生日2024】誕生日ありがとう♥あなたと私それぞれの想いを探ってみる！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-08T16:28:43Z",
+  "duration": "PT3H3M15S",
+  "durationSec": 10995,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eikh24sJwsA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:29:40.496893Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日配信スタート・予定紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 301,
+        "label": "ケーキとお酒で乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 607,
+        "label": "誕生日グッズ・ボイス紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 822,
+        "label": "歌ってみた公開・誕生日プレゼント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1501,
+        "label": "視聴者のお祝い投稿を紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4201,
+        "label": "アンケート開始・視聴歴と関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5395,
+        "label": "好きな要素と衣装の結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5829,
+        "label": "好きな配信ジャンル・企画と活動方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6900,
+        "label": "おすすめアーカイブ：ホラー・百合・ストーリーゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8100,
+        "label": "好きな歌ってみた・思い入れのある配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8702,
+        "label": "視聴者との時間・アンケート総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9900,
+        "label": "これからの活動方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10371,
+        "label": "翌日のエゴサ・スパチャ読みへ延期",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10622,
+        "label": "視聴者への感謝と締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

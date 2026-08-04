@@ -1,0 +1,120 @@
+{
+  "videoId": "2vpNS_vkyag",
+  "title": "#5【バイオハザード】ビビりだけど必ず報復させるバイオプレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-01T13:18:30Z",
+  "duration": "PT2H6M45S",
+  "durationSec": 7605,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2vpNS_vkyag/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 376,
+        "label": "装備を整えて館の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 602,
+        "label": "施設の手がかりを読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1049,
+        "label": "館の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1519,
+        "label": "端末の暗号を解いて先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2031,
+        "label": "開いた区画と次の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2514,
+        "label": "次のルートを開くパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3015,
+        "label": "施設の奥へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "燃料の仕掛けを確認する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4249,
+        "label": "燃料を取りに戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "脱出に向けた施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5558,
+        "label": "施設内の対話と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6100,
+        "label": "次の戦いに備える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6472,
+        "label": "大きな敵との戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6663,
+        "label": "仲間を探して脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "脱出をかけた戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7351,
+        "label": "ゲームの感想と次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

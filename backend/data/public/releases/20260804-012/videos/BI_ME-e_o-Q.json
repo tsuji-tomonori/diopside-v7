@@ -1,0 +1,105 @@
+{
+  "videoId": "BI_ME-e_o-Q",
+  "title": "【#Crossick】ピニャコラーダ歌った収録秘話とか【白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2020-07-17T18:39:25Z",
+  "duration": "PT1H15M40S",
+  "durationSec": 4540,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BI_ME-e_o-Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:51:42.996662Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況と企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 430,
+        "label": "『ピニャコラーダ』公開・完成版の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 528,
+        "label": "歌うことになった経緯と選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 731,
+        "label": "作曲者の反応と公開後の反響",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 933,
+        "label": "関連イラストを鑑賞",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1484,
+        "label": "未公開イラストと衣装デザイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2245,
+        "label": "収録秘話・楽曲のテーマ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2474,
+        "label": "歌い方の試行錯誤と収録エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3169,
+        "label": "歌唱表現と掛け合いの作り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3677,
+        "label": "動画演出・制作のこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3753,
+        "label": "ソロ版・NG集の告知と収録エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3946,
+        "label": "共同生活の食事・料理トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4139,
+        "label": "今後のコラボ・活動予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4403,
+        "label": "ボイス作品の販売告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
