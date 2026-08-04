@@ -1,0 +1,175 @@
+{
+  "videoId": "hN1m2OJQNHQ",
+  "title": "【スプラトゥーン2】フェスに向けてアップを始めます【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-12T13:23:23Z",
+  "duration": "PT2H53M29S",
+  "durationSec": 10409,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hN1m2OJQNHQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:28:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・フェスのお題を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 220,
+        "label": "フェスに向けたギア選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 807,
+        "label": "久々のガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "ガチエリアで立ち回りを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1687,
+        "label": "試合後の振り返りと次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2026,
+        "label": "無言の強キャラでエリアを守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2183,
+        "label": "次のガチエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3017,
+        "label": "動線と高所を意識したエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3368,
+        "label": "アロワナでのエリア戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3689,
+        "label": "試合後の食事トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3889,
+        "label": "守護役を意識したエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4188,
+        "label": "守護神として前線を支える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4671,
+        "label": "立ち回りを見直してエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5048,
+        "label": "アロワナの地形を活かす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5438,
+        "label": "通信状態と試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "ガチエリア終盤とギア談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6600,
+        "label": "アサリのルールを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7492,
+        "label": "アサリの立ち回りを掴む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7776,
+        "label": "キングを警戒してアサリを運ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8151,
+        "label": "アサリ戦の感想と次の試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8560,
+        "label": "アサリの面白さを語りながら対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8989,
+        "label": "アサリを集めて守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9366,
+        "label": "アサリ戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9568,
+        "label": "終盤のアサリ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9757,
+        "label": "配信予定とフェスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9999,
+        "label": "最後のアサリ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10261,
+        "label": "フェス参加者募集と次回配信の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10310,
+        "label": "締めの挨拶・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

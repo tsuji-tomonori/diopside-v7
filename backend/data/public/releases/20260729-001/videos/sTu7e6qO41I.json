@@ -1,0 +1,120 @@
+{
+  "videoId": "sTu7e6qO41I",
+  "title": "【人狼】雪山いつめん＋夜王国でガチ人狼！！ #椎名人狼   【椎名唯華/にじさんじ】",
+  "publishedAt": "2020-10-21T13:29:03Z",
+  "duration": "PT2H11M56S",
+  "durationSec": 7916,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sTu7e6qO41I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:50:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介・配信導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 437,
+        "label": "1戦目のルール説明・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 948,
+        "label": "1戦目の役職確認・ゲーム開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1193,
+        "label": "1戦目・初日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1671,
+        "label": "1戦目・投票と夜時間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2229,
+        "label": "1戦目・2日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "1戦目・2日目の投票と夜時間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3068,
+        "label": "1戦目・3日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3520,
+        "label": "1戦目・最終局面の議論と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4451,
+        "label": "1戦目終了後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4786,
+        "label": "2戦目の準備・ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5121,
+        "label": "2戦目・初日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5594,
+        "label": "2戦目・投票と夜時間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6194,
+        "label": "2戦目・2日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6637,
+        "label": "2戦目・2日目の投票と夜時間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7029,
+        "label": "2戦目・最終局面の議論と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7568,
+        "label": "2戦目終了後の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

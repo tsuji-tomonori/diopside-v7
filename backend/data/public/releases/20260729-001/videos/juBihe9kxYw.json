@@ -1,0 +1,80 @@
+{
+  "videoId": "juBihe9kxYw",
+  "title": "【スプラトゥーン2 #にじスプラ大会】合同練習！【ルイス・キャミー視点/にじさんじ】",
+  "publishedAt": "2021-11-19T15:45:51Z",
+  "duration": "PT2H25M7S",
+  "durationSec": 8707,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/juBihe9kxYw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・合同練習の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 422,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2010,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3653,
+        "label": "第3試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7558,
+        "label": "試合後の振り返り・次の試合の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7827,
+        "label": "次の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8179,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8318,
+        "label": "終了前の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

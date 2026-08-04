@@ -1,0 +1,105 @@
+{
+  "videoId": "Kkjpnsa-fJs",
+  "title": "【8番のりば】叫ぶ‥‥？えっ‥‥？叫ばないよね‥‥‥？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-08T10:54:25Z",
+  "duration": "PT1H44M29S",
+  "durationSec": 6269,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kkjpnsa-fJs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:50:48.383Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 344,
+        "label": "乗車・序盤の異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1140,
+        "label": "電光掲示板の謎解きと異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2000,
+        "label": "次の区間で異変を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "再挑戦と新たな異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3150,
+        "label": "慎重な異変確認と再攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3828,
+        "label": "声や乗客の異変を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4336,
+        "label": "座席の攻略と車内の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4964,
+        "label": "終盤の進行と異変確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5310,
+        "label": "ラスト区間の異変チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5534,
+        "label": "エンディングムービーと感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5690,
+        "label": "ゲーム後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5809,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6200,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

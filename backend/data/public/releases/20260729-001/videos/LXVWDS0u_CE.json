@@ -1,0 +1,145 @@
+{
+  "videoId": "LXVWDS0u_CE",
+  "title": "【無期迷途】けしからん！！悪い子と可愛い子はみーんな白雪が逮捕しちゃうぞぉ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-30T10:44:14Z",
+  "duration": "PT1H38M23S",
+  "durationSec": 5903,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LXVWDS0u_CE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:45:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 258,
+        "label": "世界観とゲームシステムの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 640,
+        "label": "ストーリー開始・最初の任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 880,
+        "label": "初回バトル・戦闘システム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1214,
+        "label": "次の任務・少女との遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1540,
+        "label": "黒い霧の少女との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1769,
+        "label": "少女との出会い・暴動の背景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2100,
+        "label": "治安局への救出任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2400,
+        "label": "コンビクト加入・育成画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2524,
+        "label": "情報提供者の隠れ家へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2713,
+        "label": "包囲突破戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3021,
+        "label": "作戦続行・次の手がかりへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3205,
+        "label": "屋上の弓使いと合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3418,
+        "label": "弓使いを含む戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "避難クリニックの背景と戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4064,
+        "label": "新機能解放・ショップ購入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4549,
+        "label": "逮捕・新コンビクトのボイス確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5000,
+        "label": "獲得キャラクター一覧を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5116,
+        "label": "ハーメルと夏目のプロフィール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5422,
+        "label": "追加コンビクトのプロフィールとボイス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5678,
+        "label": "取り調べ機能とゲームの魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5828,
+        "label": "感想・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

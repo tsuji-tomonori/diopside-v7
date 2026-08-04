@@ -1,0 +1,140 @@
+{
+  "videoId": "9SA23y8IVto",
+  "title": "【13日の金曜日】ジェイソンVS殺戮の女王「Friday the 13th:」【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-12T18:32:58Z",
+  "duration": "PT2H31M58S",
+  "durationSec": 9118,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9SA23y8IVto/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:39:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・画面設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 557,
+        "label": "プレイ方法とゲーム説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1195,
+        "label": "役割説明とマッチング待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "初回マッチ・ジェイソン操作に苦戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1833,
+        "label": "リタイアしてジェイソン操作を練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2701,
+        "label": "オンラインマッチングとボイスチャット設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3475,
+        "label": "初めてのカウンセラー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4001,
+        "label": "マッチを観戦・操作を学ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4233,
+        "label": "試合の振り返りと攻略相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4712,
+        "label": "2回目のカウンセラー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5035,
+        "label": "終盤のマッチを観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5365,
+        "label": "レベルアップとボイスチャットの不具合確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5882,
+        "label": "ジェイソン戦で索敵と罠を練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6584,
+        "label": "操作の振り返りと次の参加相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7088,
+        "label": "味方と協力するカウンセラー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7502,
+        "label": "マッチの不具合を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7816,
+        "label": "カウンセラー生存のコツを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8074,
+        "label": "カウンセラーでアイテム探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8403,
+        "label": "逃走と追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8709,
+        "label": "終盤の動きを観戦・操作を復習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9008,
+        "label": "試合後の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

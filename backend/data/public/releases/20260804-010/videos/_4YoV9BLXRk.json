@@ -1,0 +1,80 @@
+{
+  "videoId": "_4YoV9BLXRk",
+  "title": "【#にじさんじ麻雀杯2025 】予選B卓🀄オトナな雰囲気の予感…初出場めいっぱいがんばります！【綺沙良/にじさんじ】",
+  "publishedAt": "2025-01-11T06:11:46Z",
+  "duration": "PT28M9S",
+  "durationSec": 1689,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_4YoV9BLXRk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・予選B卓の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 470,
+        "label": "予選B卓の対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 878,
+        "label": "対局終盤の点数条件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "対局後の確認とインタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1194,
+        "label": "実況席で対局を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1336,
+        "label": "試合後の感想と締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1418,
+        "label": "同卓者と試合を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1540,
+        "label": "配信トラブルを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1607,
+        "label": "次回への改善と感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

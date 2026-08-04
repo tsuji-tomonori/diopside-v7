@@ -1,0 +1,160 @@
+{
+  "videoId": "CcfcJTDe54Y",
+  "title": "【#にじさんじ壺カップ】予選Ａブロック ～頂点(と書いて「ゆうしょう」と読む)を目指せ～【甲斐田晴/にじさんじ】",
+  "publishedAt": "2020-07-18T13:36:04Z",
+  "duration": "PT2H13M52S",
+  "durationSec": 8032,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CcfcJTDe54Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:11:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会説明・出場者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "Aブロック第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 754,
+        "label": "第1試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 986,
+        "label": "次の出場者紹介・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1067,
+        "label": "公式配信を見ながら振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1370,
+        "label": "Bグループ紹介・勝敗予想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1591,
+        "label": "Bグループ対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "次の対戦待ち・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2695,
+        "label": "予選対戦・操作解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3361,
+        "label": "次ブロック紹介・新技を試す対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3705,
+        "label": "出場者の成長を語る待機時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3965,
+        "label": "予選対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4319,
+        "label": "対戦の振り返り・次の組紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4515,
+        "label": "赤組対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4668,
+        "label": "クリア呼びかけ・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4952,
+        "label": "予選対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5329,
+        "label": "決勝進出者確認・休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6094,
+        "label": "決勝進出者インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6389,
+        "label": "決勝戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6824,
+        "label": "決勝後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7076,
+        "label": "告知・表彰式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7139,
+        "label": "配信復旧",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7221,
+        "label": "大会を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7491,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7927,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

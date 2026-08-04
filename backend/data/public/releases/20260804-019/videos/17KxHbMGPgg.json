@@ -1,0 +1,125 @@
+{
+  "videoId": "17KxHbMGPgg",
+  "title": "【雑談】明けましておめでとうございます。【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-04T17:20:51Z",
+  "duration": "PT1H43M9S",
+  "durationSec": 6189,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/17KxHbMGPgg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:06:45.682850Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新年の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 568,
+        "label": "書き初めの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 635,
+        "label": "歌ってみたの反響",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 819,
+        "label": "乾杯と年始の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1177,
+        "label": "同期コラボと今年の活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1648,
+        "label": "実家で過ごしたお正月",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2163,
+        "label": "初詣とおみくじ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2589,
+        "label": "今年の活動方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3049,
+        "label": "歌ってみた・歌枠の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3545,
+        "label": "噛み癖をめぐる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3782,
+        "label": "歌ってみたへの感謝と休日の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3937,
+        "label": "出演・コラボなど今後の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4183,
+        "label": "ゲーム購入と店員さんへの感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4736,
+        "label": "炊飯器の使い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4922,
+        "label": "舞妓言葉とモノマネ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5149,
+        "label": "歌う準備と離席",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5739,
+        "label": "歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5966,
+        "label": "歌唱後の感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

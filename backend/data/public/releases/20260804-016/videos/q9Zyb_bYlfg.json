@@ -1,0 +1,105 @@
+{
+  "videoId": "q9Zyb_bYlfg",
+  "title": "【Visage】ビビり散らかすお姉さん達の絶叫ホラゲ【ルイス・キャミー/白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-07T14:21:34Z",
+  "duration": "PT2H5M55S",
+  "durationSec": 7555,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/q9Zyb_bYlfg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T22:54:23.791934Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ホラーゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 359,
+        "label": "ゲーム開始・家の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 751,
+        "label": "操作説明・正気度と異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1352,
+        "label": "新章・ろうそくを頼りに探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1943,
+        "label": "金庫・メモを手掛かりに鍵を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2582,
+        "label": "家の奥へ続く経路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3310,
+        "label": "異変を越えて地下を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3911,
+        "label": "カメラで手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4445,
+        "label": "超常現象と家の外周を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5166,
+        "label": "部屋の手掛かりと電源を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "暗い家で進路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6755,
+        "label": "ガレージ・物置を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7320,
+        "label": "探索を中断して振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7388,
+        "label": "感想・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

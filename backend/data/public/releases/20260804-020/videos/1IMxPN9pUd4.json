@@ -1,0 +1,125 @@
+{
+  "videoId": "1IMxPN9pUd4",
+  "title": "【16万人記念】MaryTAXI！逆凸企画！ゲストさんお迎えに行きます！【西園寺メアリ / ハニスト】",
+  "publishedAt": "2021-07-02T13:46:05Z",
+  "duration": "PT2H31M29S",
+  "durationSec": 9089,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1IMxPN9pUd4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:44:07.385Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・MaryTAXI企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 312,
+        "label": "1人目・周防パトラさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1148,
+        "label": "1人目の振り返り・次の電話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "2人目・白雪巴さん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2211,
+        "label": "2人目の振り返り・次の電話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2409,
+        "label": "3人目・モイラさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3310,
+        "label": "3人目の振り返り・次の電話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3557,
+        "label": "4人目・白雪みしろさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4502,
+        "label": "4人目の振り返り・次の電話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "5人目・アキ・ローゼンタールさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5865,
+        "label": "5人目の振り返り・次の電話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5968,
+        "label": "6人目・癒月ちょこさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7019,
+        "label": "6人目の振り返り・最後の電話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7162,
+        "label": "7人目・フミさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8333,
+        "label": "全ゲスト終了・配信後トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8521,
+        "label": "配信予定・活動のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8625,
+        "label": "3周年ライブ告知・リハーサル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8868,
+        "label": "締めのトーク・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

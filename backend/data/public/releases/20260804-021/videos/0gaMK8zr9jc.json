@@ -1,0 +1,100 @@
+{
+  "videoId": "0gaMK8zr9jc",
+  "title": "ガチャ配信【ウマ娘】涙で前が見えねぇよ‥‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-07T15:02:11Z",
+  "duration": "PT1H12M5S",
+  "durationSec": 4325,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0gaMK8zr9jc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T03:51:36.614605+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T14:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 238,
+        "label": "話題：意気な留守番してた3時産地習得バーチャルライバーの白いク…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 662,
+        "label": "所持ポイント...ｽｩ...",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 961,
+        "label": "30連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1067,
+        "label": "50連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2055,
+        "label": "160連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2799,
+        "label": "260連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3026,
+        "label": "300連目🌈🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3289,
+        "label": "330連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3584,
+        "label": "400連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3744,
+        "label": "410連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3839,
+        "label": "420連目🌈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4104,
+        "label": "オチまで完璧",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

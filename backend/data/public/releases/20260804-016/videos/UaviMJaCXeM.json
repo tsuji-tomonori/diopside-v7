@@ -1,0 +1,180 @@
+{
+  "videoId": "UaviMJaCXeM",
+  "title": "【Crime Scene Cleaner】ゲリラ配信🔥表の仕事がバラシになったので裏の仕事するわ【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-08T11:06:46Z",
+  "duration": "PT7H53M34S",
+  "durationSec": 28414,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UaviMJaCXeM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T02:36:52.847Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 281,
+        "label": "Amber Alert・契約準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 418,
+        "label": "Amber Alert・入口区域の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 942,
+        "label": "Amber Alert・バーと主フロア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2046,
+        "label": "Amber Alert・リングと付属室",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3268,
+        "label": "Amber Alert・ロッカーと廊下",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4354,
+        "label": "Amber Alert・メンテナンス区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5440,
+        "label": "Amber Alert・上層区域の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6600,
+        "label": "Amber Alert・最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7073,
+        "label": "Amber Alert・未回収項目の再捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8418,
+        "label": "次の契約・装備調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9056,
+        "label": "White Peaks・施設入口",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10407,
+        "label": "White Peaks・電源と封鎖区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10950,
+        "label": "White Peaks・客室と設備区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12708,
+        "label": "White Peaks・VIPと外部区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14322,
+        "label": "White Peaks・設備修理とテーマ客室",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15168,
+        "label": "White Peaks・バルコニーと最終清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16314,
+        "label": "White Peaks・最終確認と退出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16529,
+        "label": "Holden estate・入口区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17099,
+        "label": "Holden estate・大広間と客室",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19562,
+        "label": "Holden estate・地下とサービス区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21000,
+        "label": "Holden estate・上階区域の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22914,
+        "label": "Holden estate・私室区域の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24013,
+        "label": "Holden estate・残りの区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24598,
+        "label": "Holden estate・全館の最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27269,
+        "label": "Holden estate・最後の区域と清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27696,
+        "label": "現場を離れて拠点へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27808,
+        "label": "次の契約を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28110,
+        "label": "長編振り返り・スーパーチャット",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

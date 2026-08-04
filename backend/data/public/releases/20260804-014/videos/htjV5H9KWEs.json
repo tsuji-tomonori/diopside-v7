@@ -1,0 +1,120 @@
+{
+  "videoId": "htjV5H9KWEs",
+  "title": "＃７【ポケモンレジェンズアルセウス】ロゼリア！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-01T15:30:34Z",
+  "duration": "PT2H4M6S",
+  "durationSec": 7446,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/htjV5H9KWEs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新情報とゲーム開始・手持ち相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 397,
+        "label": "フィールド任務のポケモン選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 500,
+        "label": "衣装選びとカイとのイベント準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1022,
+        "label": "技と手持ちを整えて出発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1405,
+        "label": "山道探索とポケモン捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2106,
+        "label": "洞窟の道を進み物語を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2826,
+        "label": "洞窟の強敵戦と古代の採掘場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3263,
+        "label": "キャンプ探しと依頼・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "山道に向けた編成と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4396,
+        "label": "次のキング戦に向けて作戦を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5268,
+        "label": "キング戦に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5779,
+        "label": "回復してキング戦を再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6148,
+        "label": "戦いの合間に作戦を見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "キング戦を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6686,
+        "label": "キング戦後の物語と村への帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6965,
+        "label": "配信の振り返りと次回の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7110,
+        "label": "コメント読み・締めトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

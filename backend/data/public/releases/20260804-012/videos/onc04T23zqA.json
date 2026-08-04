@@ -1,0 +1,80 @@
+{
+  "videoId": "onc04T23zqA",
+  "title": "【 #マリカにじさんじ杯】勝負…！！！Aリーグ【魔使マオ/にじさんじ】",
+  "publishedAt": "2020-12-19T04:54:49Z",
+  "duration": "PT39M30S",
+  "durationSec": 2370,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/onc04T23zqA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:30:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 207,
+        "label": "大会前の心構えと待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 410,
+        "label": "参加者確認と対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 596,
+        "label": "レース実況と待機中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 997,
+        "label": "レース中盤の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1244,
+        "label": "レース間の振り返りと準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "次のレースの実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2182,
+        "label": "レース終了後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2314,
+        "label": "大会振り返り・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

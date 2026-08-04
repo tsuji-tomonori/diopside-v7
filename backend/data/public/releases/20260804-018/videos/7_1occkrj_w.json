@@ -1,0 +1,105 @@
+{
+  "videoId": "7_1occkrj_w",
+  "title": "【逆凸企画】ちょこヤギに愛を！愛の逆凸企画⚡【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2021-07-07T15:31:11Z",
+  "duration": "PT1H19M27S",
+  "durationSec": 4767,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7_1occkrj_w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:18:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "七夕の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 399,
+        "label": "逆凸企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 453,
+        "label": "大空スバルとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 760,
+        "label": "兎田ぺこらとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "猫又おかゆとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1516,
+        "label": "ことえもんとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1847,
+        "label": "姫森ルーナとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2178,
+        "label": "ロボ子さんとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2521,
+        "label": "雪花ラミィとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2888,
+        "label": "獅白ぼたん・桃鈴ねねとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3548,
+        "label": "白雪巴との通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3997,
+        "label": "夜空メルとの通話・愛の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4447,
+        "label": "返しの手紙と企画継続の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4539,
+        "label": "企画の感想・参加者への感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

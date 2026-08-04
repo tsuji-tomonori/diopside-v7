@@ -1,0 +1,215 @@
+{
+  "videoId": "UiIp-docNEg",
+  "title": "【#カラオケへいこう】最近のボカロ曲をみんなでカラオケ♪♪♪【にじさんじ】",
+  "publishedAt": "2023-09-23T09:20:31Z",
+  "duration": "PT3H9M16S",
+  "durationSec": 11356,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UiIp-docNEg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介と企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 614,
+        "label": "QUEEN",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 896,
+        "label": "きゅうくらりん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1175,
+        "label": "ルシファー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1466,
+        "label": "アウトサイダー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1742,
+        "label": "キャットラビング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1968,
+        "label": "魔法少女とチョコレゐト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2398,
+        "label": "私は、私達は",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2772,
+        "label": "ジャンキーナイトタウンオーケストラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3042,
+        "label": "グッバイ宣言",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3483,
+        "label": "EYE",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3779,
+        "label": "神っぽいな",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4147,
+        "label": "ビーバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4386,
+        "label": "2周目の締め・3周目の順番決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4641,
+        "label": "絶え間なく藍色",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4985,
+        "label": "ラムネ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5382,
+        "label": "トラフィック・ジャム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5764,
+        "label": "サラマンダー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6127,
+        "label": "フォニイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6432,
+        "label": "マーシャル・マキシマイザー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6702,
+        "label": "ダーリンダンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7075,
+        "label": "アンチジョーカー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7283,
+        "label": "キュートなカノジョ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7599,
+        "label": "酔いどれ知らず",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7854,
+        "label": "彗星になれたなら",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8221,
+        "label": "MIRA",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8664,
+        "label": "少女レイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9111,
+        "label": "限りなく灰色へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9443,
+        "label": "コールボーイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9759,
+        "label": "幽霊東京",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10017,
+        "label": "Black Out",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10443,
+        "label": "ラブカ？（デュエット）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10588,
+        "label": "デュエット後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10713,
+        "label": "感想・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11148,
+        "label": "KING（全員歌唱）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11290,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "7W1I6pmHJMc",
+  "title": "＃31【崩壊：スターレイル】オンパロス編。最新話進める！とにかくみんな無事でいてくれ【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-12T14:57:20Z",
+  "duration": "PT1H47M29S",
+  "durationSec": 6449,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7W1I6pmHJMc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:08:58.822133Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 253,
+        "label": "ボイス・グッズのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 440,
+        "label": "オンパロス開始・育成準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1052,
+        "label": "前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1200,
+        "label": "最新ストーリー開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1721,
+        "label": "紛争の試練へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2238,
+        "label": "試練の幻影を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2542,
+        "label": "試練の最深部",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2965,
+        "label": "試練の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3233,
+        "label": "仲間たちとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3554,
+        "label": "オンパロスの謎を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3915,
+        "label": "クレムノスの子供たち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4236,
+        "label": "ケラウノスを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4557,
+        "label": "クレムノスのこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4950,
+        "label": "過去の記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5313,
+        "label": "私室でひと息",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5454,
+        "label": "記憶の書を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5942,
+        "label": "ゲーム終了・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6033,
+        "label": "スパチャ読み・アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

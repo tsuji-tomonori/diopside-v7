@@ -1,0 +1,130 @@
+{
+  "videoId": "BcwFomYuEw4",
+  "title": "＃７【ピクミン4】なるべく死なせずにクリアしたい‥！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-08T17:36:47Z",
+  "duration": "PT4H21M6S",
+  "durationSec": 15666,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BcwFomYuEw4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:42:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 940,
+        "label": "原生生物への対処と資材回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "探索一区切り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1743,
+        "label": "巨人のかまど・水場と洞窟の攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3922,
+        "label": "休憩・ヘリウムガス企画の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4272,
+        "label": "探索再開・拠点と水場の攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "ケダモノのゆりかごを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5596,
+        "label": "洞窟内の遭難者を捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6400,
+        "label": "地下の強敵に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7396,
+        "label": "遭難者の救助と会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7917,
+        "label": "巨人のかまどを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9912,
+        "label": "地下の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10818,
+        "label": "遭難者救助へ向けた攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11600,
+        "label": "次の地下探索の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12398,
+        "label": "新しい洞窟の攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14050,
+        "label": "終盤の地下戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14800,
+        "label": "次の探索に向けて",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15225,
+        "label": "ゲーム後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15427,
+        "label": "終了挨拶・スーパーチャット",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "2WJBMXBrfFw",
+  "title": "【 DbD 】絶叫注意、女子４人でキラーから逃げろ！【ロボ子 / 癒月ちょこ / 白雪巴 / 宗谷いちか / あにまーれ】",
+  "publishedAt": "2021-07-12T13:59:39Z",
+  "duration": "PT2H30M51S",
+  "durationSec": 9051,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2WJBMXBrfFw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明とメンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 458,
+        "label": "第1試合・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1789,
+        "label": "第2試合・チェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3289,
+        "label": "第2試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3506,
+        "label": "第3試合・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4163,
+        "label": "第3試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4359,
+        "label": "第4試合・チェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5147,
+        "label": "第5試合・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6062,
+        "label": "第5試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6355,
+        "label": "第6試合・新マップで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "第6試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7967,
+        "label": "第7試合・最後のゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8897,
+        "label": "試合後の感想・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

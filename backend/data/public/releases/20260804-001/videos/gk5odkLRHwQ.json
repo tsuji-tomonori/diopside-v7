@@ -1,0 +1,90 @@
+{
+  "videoId": "gk5odkLRHwQ",
+  "title": "【#94 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-07-25T03:00:28Z",
+  "duration": "PT13M38S",
+  "durationSec": 818,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gk5odkLRHwQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組導入・今回の進行案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 109,
+        "label": "ゲスト登場・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 144,
+        "label": "最初のお便り・3人のお揃いの品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 254,
+        "label": "お揃いの品と今後の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 339,
+        "label": "水着の好みを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 436,
+        "label": "かき氷機の思い出とシロップの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 590,
+        "label": "3人で一緒にしたいことのお便り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 653,
+        "label": "水着・海・カラオケの計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "温泉旅行と音声企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 778,
+        "label": "温泉とカラオケの旅行案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 797,
+        "label": "お便り募集・番組の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

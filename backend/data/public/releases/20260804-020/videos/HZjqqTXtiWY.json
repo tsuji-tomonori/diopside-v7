@@ -1,0 +1,110 @@
+{
+  "videoId": "HZjqqTXtiWY",
+  "title": "【雑談】白雪、安牌マシュマロを食す【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-01T13:35:06Z",
+  "duration": "PT56M13S",
+  "durationSec": 3373,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HZjqqTXtiWY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:46:56Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 289,
+        "label": "初配信の反響と同期の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 417,
+        "label": "センシティブな話題の扱いと翌日の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 642,
+        "label": "初配信後の反響とマシュマロ雑談へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 962,
+        "label": "呼び方・母国語・切り抜きの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1253,
+        "label": "口癖とBLの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1482,
+        "label": "歌とアニメの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1779,
+        "label": "ゲームをしない理由とセンシティブ観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2037,
+        "label": "好きな食べ物・苦手な食べ物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2211,
+        "label": "パクチーを好きになったきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2321,
+        "label": "辛い料理と刺激の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "配信の振り返りとお酒配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2792,
+        "label": "弱肉強食・下克上が好きな理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2975,
+        "label": "配信設定の反省と次回への改善",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3089,
+        "label": "締めの雑談と次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "qlI9FF93iRg",
+  "title": "【ASTRONEER】無人星にいくなら何もっていく？ #雪月姉妹 で宇宙旅行！【海妹四葉/弦月藤士郎/シスター・クレア/白雪巴/にじさんじ】",
+  "publishedAt": "2022-11-20T12:26:00Z",
+  "duration": "PT2H47M26S",
+  "durationSec": 10046,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qlI9FF93iRg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T16:29:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・操作チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 635,
+        "label": "酸素を確保して初期探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 965,
+        "label": "基地構築ミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1582,
+        "label": "テザーを伸ばして資源探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2211,
+        "label": "資源回収・設備の開放",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2635,
+        "label": "基地設備とプリンターの整備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3334,
+        "label": "サンプル探索・研究の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4033,
+        "label": "大型プリンターと周辺探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4690,
+        "label": "発電と基地接続の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5401,
+        "label": "洞窟探索とトラブル対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5774,
+        "label": "研究・精錬と地形整備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6575,
+        "label": "夜の探索・ミッション進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7410,
+        "label": "遠出して設備と鉱物を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8649,
+        "label": "資源整理・設備研究",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9110,
+        "label": "プリンター確認・帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "終盤の追加探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9819,
+        "label": "協力プレイの振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

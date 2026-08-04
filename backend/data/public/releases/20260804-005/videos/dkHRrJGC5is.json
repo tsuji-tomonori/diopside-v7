@@ -1,0 +1,175 @@
+{
+  "videoId": "dkHRrJGC5is",
+  "title": "＃男の子のフリ選手権｜ 第一回にじさんじ男の子のフリボイス選手権",
+  "publishedAt": "2026-04-23T13:54:57Z",
+  "duration": "PT2H43M31S",
+  "durationSec": 9811,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dkHRrJGC5is/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T03:40:14.137Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 293,
+        "label": "参考ボイス・審査の流れ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 866,
+        "label": "応募ボイス 1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1215,
+        "label": "応募ボイス 2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1509,
+        "label": "応募ボイス 3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1921,
+        "label": "応募ボイス 4",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2257,
+        "label": "応募ボイス 5",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2596,
+        "label": "応募ボイス 6",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3236,
+        "label": "応募ボイス 7",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3563,
+        "label": "応募ボイス 8",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3915,
+        "label": "応募ボイス 9",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4318,
+        "label": "応募ボイス 10",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4660,
+        "label": "応募ボイス 11",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4946,
+        "label": "応募ボイス 12",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5201,
+        "label": "応募ボイス 13",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5601,
+        "label": "応募ボイス 14",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5899,
+        "label": "応募ボイス 15",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6574,
+        "label": "応募ボイス 16",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6874,
+        "label": "応募ボイス 17",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7299,
+        "label": "応募ボイス 18",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7589,
+        "label": "応募ボイス 19",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7850,
+        "label": "応募ボイス 20",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8194,
+        "label": "応募ボイス 21",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8446,
+        "label": "応募ボイス 22",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8718,
+        "label": "応募ボイス 23",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8991,
+        "label": "応募ボイス 24",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9294,
+        "label": "応募ボイス 25",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9561,
+        "label": "企画総評・販売案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "videoId": "P4f6tO761ls",
+  "title": "【Splatoon2】大会前日チームE練習、夢追視点【にじさんじ/夢追翔/鷹宮リオン/ニュイ・ソシエール/白雪巴】",
+  "publishedAt": "2021-11-19T16:04:38Z",
+  "duration": "PT2H21M26S",
+  "durationSec": 8486,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/P4f6tO761ls/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:49:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム練習の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 413,
+        "label": "バッテラのエリア練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1187,
+        "label": "エリア振り返り・次セット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1443,
+        "label": "エリアの次セット練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2621,
+        "label": "バッテラの櫓練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3475,
+        "label": "櫓の振り返り・ホッケー練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4502,
+        "label": "櫓の反省と次セットの作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4911,
+        "label": "調整後の櫓練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7444,
+        "label": "次のルール選び・試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7630,
+        "label": "ショッツルのエリア練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8025,
+        "label": "ホッケーの最後の練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8454,
+        "label": "練習終了・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

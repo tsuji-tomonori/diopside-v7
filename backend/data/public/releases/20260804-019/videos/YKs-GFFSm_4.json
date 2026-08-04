@@ -1,0 +1,145 @@
+{
+  "videoId": "YKs-GFFSm_4",
+  "title": "【スプラトゥーン2】もう初心者ではいられない。新チームでスプラ大会練習【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-17T18:09:21Z",
+  "duration": "PT3H59M43S",
+  "durationSec": 14383,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YKs-GFFSm_4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T14:02:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 845,
+        "label": "大会の組み合わせと練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1740,
+        "label": "練習開始・武器構成と役割",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2526,
+        "label": "塗り方講座と縄張りの立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3780,
+        "label": "次の実戦準備・通信調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4320,
+        "label": "パブロとスペシャルの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4800,
+        "label": "最初の実戦とスペシャル運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5400,
+        "label": "続く縄張り練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "パブロの立ち回り・マップ作戦と実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "次の参加者を集めて対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9300,
+        "label": "バッテラストリートで実戦練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10260,
+        "label": "試合振り返り・チーム名決定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10500,
+        "label": "連携を試す実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11100,
+        "label": "試合反省・スペシャル運用の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11700,
+        "label": "長射程対策・武器調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12337,
+        "label": "構成を変えて実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12660,
+        "label": "連携とラスト30秒を反省",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12960,
+        "label": "ガンガゼで実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13200,
+        "label": "試合振り返り・最後の一戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13500,
+        "label": "最後の実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13860,
+        "label": "最終試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14040,
+        "label": "大会への激励・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

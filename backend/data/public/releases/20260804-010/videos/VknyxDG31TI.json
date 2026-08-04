@@ -1,0 +1,120 @@
+{
+  "videoId": "VknyxDG31TI",
+  "title": "【晩酌】カオス回！？メンがヘラる時とは？お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 03【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-01T16:25:29Z",
+  "duration": "PT2H49M58S",
+  "durationSec": 10198,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VknyxDG31TI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T03:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 367,
+        "label": "乾杯・11月の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 650,
+        "label": "結婚式や旅行の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1208,
+        "label": "免許取得と車の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3052,
+        "label": "視力検査から目の手術の話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "目の手術体験と見え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4732,
+        "label": "メンタルと人間関係の悩み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5540,
+        "label": "人生の良いこと・悪いこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5750,
+        "label": "お祓いと不思議な出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5974,
+        "label": "恋愛観と人を傷つけること",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6293,
+        "label": "正直に生きることと自分らしさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7415,
+        "label": "人の視線と距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7947,
+        "label": "渋谷ハロウィンの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8525,
+        "label": "ASMR振り返りと晩酌の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9159,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9758,
+        "label": "魔女の空想トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10103,
+        "label": "おやすみの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

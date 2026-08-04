@@ -1,0 +1,150 @@
+{
+  "videoId": "iwhlVrgEux0",
+  "title": "【Splatoon2】チームE with 郡道 魂の練習会【にじさんじ/夢追翔】",
+  "publishedAt": "2021-11-16T14:41:26Z",
+  "duration": "PT2H40M28S",
+  "durationSec": 9628,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iwhlVrgEux0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:01:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 346,
+        "label": "最初のエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 958,
+        "label": "続くエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1225,
+        "label": "アーマー運用とローラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1777,
+        "label": "連携を意識したエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2110,
+        "label": "ホッケーでエリア練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2625,
+        "label": "マンタでエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2938,
+        "label": "エリア練習と武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3606,
+        "label": "ローラー対策を試すエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4011,
+        "label": "スペシャルと射程差への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4562,
+        "label": "編成調整とエリア連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5269,
+        "label": "前線での連携を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5636,
+        "label": "スプリンクラーと塗りの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6014,
+        "label": "エリア練習と連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6351,
+        "label": "本気のエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6858,
+        "label": "試合後の振り返りと武器変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7258,
+        "label": "ミサイルでエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7775,
+        "label": "スペシャル対策と次戦方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8096,
+        "label": "シールドとアーマーの連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "終盤のエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8779,
+        "label": "終盤の連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9185,
+        "label": "最後の武器確認とエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9535,
+        "label": "配信終了・練習の振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

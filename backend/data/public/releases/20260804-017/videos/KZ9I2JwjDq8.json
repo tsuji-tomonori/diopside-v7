@@ -1,0 +1,125 @@
+{
+  "videoId": "KZ9I2JwjDq8",
+  "title": "【凸待ち】お誕生日なのでお話しませんか【にじさんじフミ】",
+  "publishedAt": "2021-10-10T16:09:36Z",
+  "duration": "PT2H27M26S",
+  "durationSec": 8846,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KZ9I2JwjDq8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・凸待ちの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 293,
+        "label": "最初の凸待ち・活動初期の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 944,
+        "label": "来栖夏芽とコラボ・ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "レヴィ・エリファとコラボの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2152,
+        "label": "文野環とケーキ・今年の抱負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3211,
+        "label": "戌亥とこ・ファンの応援と記念レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4293,
+        "label": "終盤の凸待ち・近況とコラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4696,
+        "label": "2周年・誕生日パーティーの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5307,
+        "label": "凸待ちの振り返り・次回開催",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5398,
+        "label": "誕生日の告知・活動への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5600,
+        "label": "配信後の雑談・ケーキの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5996,
+        "label": "スパチャ読み・企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "誕生日・年齢の雑談とメッセージ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6992,
+        "label": "活動と支えてくれる友人の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "シスター・クレアと活動・演劇の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7975,
+        "label": "終盤の凸待ち・白雪巴と特別ゲスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8573,
+        "label": "スパチャ読み・誕生日メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "締めの挨拶・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

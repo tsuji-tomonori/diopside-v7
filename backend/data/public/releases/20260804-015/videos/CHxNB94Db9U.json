@@ -1,0 +1,130 @@
+{
+  "videoId": "CHxNB94Db9U",
+  "title": "【夜、灯す】百合×ホラーの新感覚アドベンチャーゲームを初見プレイ#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-30T07:51:00Z",
+  "duration": "PT3H32M",
+  "durationSec": 12720,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CHxNB94Db9U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 277,
+        "label": "ゲーム開始・タイトル画面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 361,
+        "label": "学園の歴史と怪談の背景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1198,
+        "label": "廃校で起きる最初の怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2111,
+        "label": "学校の朝練と寺でのひととき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2583,
+        "label": "寺で迎える朝と日常の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3672,
+        "label": "夏休みの予定と琴部の大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4479,
+        "label": "旧校舎で聞こえる琴の音",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5434,
+        "label": "夢と手帳をめぐる不穏な気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6298,
+        "label": "琴部の練習と旧校舎の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6805,
+        "label": "夏の琴部練習と大会目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7050,
+        "label": "新入部員と琴部の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7993,
+        "label": "琴部の演奏方針と意見の衝突",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8748,
+        "label": "新入部員をめぐる過去と向き合う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10029,
+        "label": "夜の旧校舎と過去の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11033,
+        "label": "琴部の関係を深める練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11747,
+        "label": "旧校舎への呼び出し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12108,
+        "label": "終盤の怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12591,
+        "label": "感想・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

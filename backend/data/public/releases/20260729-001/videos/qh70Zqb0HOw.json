@@ -1,0 +1,100 @@
+{
+  "videoId": "qh70Zqb0HOw",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆7ステ◆【#フルートイトイ/にじさんじ】",
+  "publishedAt": "2020-10-27T12:57:59Z",
+  "duration": "PT1H43M58S",
+  "durationSec": 6238,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qh70Zqb0HOw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第一幕『犯人は』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 686,
+        "label": "幕間トーク：第一幕の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 911,
+        "label": "第二幕『華麗なる旅路』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1539,
+        "label": "幕間トーク：第二幕の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1765,
+        "label": "第三幕『邂逅』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2418,
+        "label": "幕間トーク：第三幕の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2605,
+        "label": "第四幕『彼女の未練』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3277,
+        "label": "幕間トーク：第四幕の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3501,
+        "label": "第五幕『私が私であるために』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4795,
+        "label": "幕間トーク：第五幕の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5073,
+        "label": "終幕『動点Pの消失』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5562,
+        "label": "全幕振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5835,
+        "label": "告知・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

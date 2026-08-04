@@ -1,0 +1,95 @@
+{
+  "videoId": "3VuSYoE3FpM",
+  "title": "【#Crossick】\"伝説\"のお泊り配信から一周年！～酒は飲んでも飲まれるな～【白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2021-02-15T15:42:18Z",
+  "duration": "PT1H26M",
+  "durationSec": 5160,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3VuSYoE3FpM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:37:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・一周年の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 742,
+        "label": "企画準備・好きなところしりとり説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1130,
+        "label": "好きなところしりとり・序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1966,
+        "label": "博識さ・ルンバ・動物のたとえ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2367,
+        "label": "動物のたとえ・一年間の関係性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3065,
+        "label": "好きなところしりとり・中盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3543,
+        "label": "好きなところしりとり・終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4204,
+        "label": "罰ゲームの内容決め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4279,
+        "label": "縛り付き自己紹介の実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4483,
+        "label": "実演後の感想・視聴者参加",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4646,
+        "label": "ボイスドラマ・楽曲の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5046,
+        "label": "一周年の締め・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

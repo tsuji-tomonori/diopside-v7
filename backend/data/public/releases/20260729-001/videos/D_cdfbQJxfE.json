@@ -1,0 +1,110 @@
+{
+  "videoId": "D_cdfbQJxfE",
+  "title": "【雑談】見ざる、聞かざる、言わざる🐒【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-20T15:14:20Z",
+  "duration": "PT2H5M19S",
+  "durationSec": 7519,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/D_cdfbQJxfE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:50:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 164,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 473,
+        "label": "喉の近況と体調管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1413,
+        "label": "お悩み相談とバレンタイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1838,
+        "label": "ストレス発散と睡眠環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2437,
+        "label": "三猿と焼きおにぎりの夢",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2937,
+        "label": "夢占いと三拍手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3683,
+        "label": "旅の話と北海道・東北",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4304,
+        "label": "関東・静岡の旅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4757,
+        "label": "東海・北陸の旅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5207,
+        "label": "関西の旅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5641,
+        "label": "西日本の旅と雑談の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6162,
+        "label": "配信予定とゲーム相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6441,
+        "label": "スパチャ読みとファンミ話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7401,
+        "label": "ファンミの最終案内・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

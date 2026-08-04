@@ -1,0 +1,100 @@
+{
+  "videoId": "RdOgjyCM6q0",
+  "title": "【フルトイNight#02】今日も勿論‥一緒に飲んでくれるでしょ？【フミ/ルイス・キャミー/白雪巴/にじさんじ】",
+  "publishedAt": "2020-05-27T15:51:02Z",
+  "duration": "PT1H40M56S",
+  "durationSec": 6056,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RdOgjyCM6q0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 356,
+        "label": "乾杯して飲み物を紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 473,
+        "label": "飲み物と近況の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 952,
+        "label": "どきどき心理テスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1219,
+        "label": "誕生日のお便りトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2620,
+        "label": "モッツァレラチーズの声ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2747,
+        "label": "年齢を下げていく声ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4185,
+        "label": "声ゲームの判定とラスト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4328,
+        "label": "イケボ・怒った声の演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4778,
+        "label": "最後の声勝負とゲーム終了",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4950,
+        "label": "ボイス情報・販売のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5722,
+        "label": "番組の感想・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5953,
+        "label": "最後の占いコーナー",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

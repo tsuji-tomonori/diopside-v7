@@ -1,0 +1,165 @@
+{
+  "videoId": "_jFU_l1xL5o",
+  "title": "＃２【ピクミン4】いのちを大事に！ピクミンを死なせずにクリアせよ。【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-07-24T15:18:09Z",
+  "duration": "PT5H56M29S",
+  "durationSec": 21389,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_jFU_l1xL5o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・基地の準備と庭の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1022,
+        "label": "段取りバトルに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1986,
+        "label": "黄色オニオン発見・陽だまりの庭を救助",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2884,
+        "label": "花吹雪の楽園で段取りバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3549,
+        "label": "火と電気の区域を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4440,
+        "label": "地下洞窟の救助と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4920,
+        "label": "庭の再探索と青ピクミン探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5940,
+        "label": "葉っぱ人の手掛かりと花吹雪の楽園",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6900,
+        "label": "戦場のおもちゃ箱で段取りバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "花吹雪の楽園の電気・氷区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7920,
+        "label": "真っ暗トンネルを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9000,
+        "label": "遭難者救助と原生生物の観察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10200,
+        "label": "オッチン強化と花吹雪の再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11280,
+        "label": "けだものの王国・岩ピクミン発見",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12000,
+        "label": "大型敵の初見攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12480,
+        "label": "けだものの王国の深部探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13680,
+        "label": "大型敵攻略と研究者救助",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14880,
+        "label": "進捗確認と次のエリアの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15540,
+        "label": "常滑の浜辺を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16500,
+        "label": "青ピクミンと水・氷の洞窟",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17640,
+        "label": "遭難者救助と区域の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17940,
+        "label": "危険な洞窟を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18540,
+        "label": "水場の大型敵攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19260,
+        "label": "葉っぱ人治療の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19740,
+        "label": "初めての夜の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20760,
+        "label": "夜の探索振り返り・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

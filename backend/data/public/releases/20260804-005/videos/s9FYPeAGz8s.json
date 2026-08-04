@@ -1,0 +1,115 @@
+{
+  "videoId": "s9FYPeAGz8s",
+  "title": "#6『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-14T15:45:35Z",
+  "duration": "PT2H36M22S",
+  "durationSec": 9382,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s9FYPeAGz8s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T13:49:51.503Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 187,
+        "label": "前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 401,
+        "label": "新たな人物視点へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1042,
+        "label": "若村家での重要な相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2348,
+        "label": "浜辺での会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3228,
+        "label": "次の場所での話し合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3798,
+        "label": "二人の会話・後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4247,
+        "label": "島の謎をめぐる作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6033,
+        "label": "協力者を探して島内を移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6365,
+        "label": "若村家での新たな会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6884,
+        "label": "電話後の対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7695,
+        "label": "三人で今後を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8249,
+        "label": "里視点・終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8565,
+        "label": "ゲーム内まとめ・プレイ区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8724,
+        "label": "今回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9186,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

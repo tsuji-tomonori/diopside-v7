@@ -1,0 +1,90 @@
+{
+  "videoId": "VcXhV682ZXQ",
+  "title": "【Dark Deception】最近鬼ごっこにハマってるんですよね【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-27T14:08:43Z",
+  "duration": "PT1H5M1S",
+  "durationSec": 3901,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VcXhV682ZXQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:11:36.088738+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Dark Deception紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 273,
+        "label": "ホテルを探索してチュートリアル開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 512,
+        "label": "追跡をかわして収集物を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 854,
+        "label": "ルートを覚えながら再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2021,
+        "label": "最初から安全な通路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2421,
+        "label": "新たな走行で収集物を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2851,
+        "label": "効果を確認して攻略方針を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3135,
+        "label": "残りの収集物を回収する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3366,
+        "label": "作戦を立て直して終盤に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3599,
+        "label": "終盤のルートに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3875,
+        "label": "配信終了・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

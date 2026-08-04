@@ -1,0 +1,165 @@
+{
+  "videoId": "0wXC1zwP-ko",
+  "title": "【スプラトゥーン３】巴さんに手取り足取り指導されます///【猫瀬乃しん/白雪巴】",
+  "publishedAt": "2022-12-07T15:15:15Z",
+  "duration": "PT2H3M1S",
+  "durationSec": 7381,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0wXC1zwP-ko/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T15:42:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ開始・今日の内容紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 441,
+        "label": "ローラーの基本を教わる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 786,
+        "label": "初戦で学ぶ生存重視の立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1082,
+        "label": "ローラーで実戦、射程への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1322,
+        "label": "カーボンローラーを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1441,
+        "label": "一緒に遊ぶ楽しさと装備の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1620,
+        "label": "シャープマーカーを実戦投入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1861,
+        "label": "シャープマーカーとカニタンクの連携",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2114,
+        "label": "生き残り作戦で感度と立ち回りを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2381,
+        "label": "連戦とコラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2821,
+        "label": "罰ゲームをかけたバトルと通信復帰",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3064,
+        "label": "シャープマーカーのスペシャル相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3308,
+        "label": "クリスマスの過ごし方トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3546,
+        "label": "バトルを続けながらローラーを復習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3982,
+        "label": "3D配信の感想とコラボ話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4141,
+        "label": "食事の思い出とコラボ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4541,
+        "label": "終盤のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4622,
+        "label": "次のコラボと声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4905,
+        "label": "仲良しコラボトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5344,
+        "label": "服装選びの話とバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6067,
+        "label": "協力ゲームでコラボしたかった理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "コラボの楽しさとお互いの気遣い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "食の好みとあん肝の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6842,
+        "label": "ビールとお酒の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7020,
+        "label": "会う予定と今回の上達を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7140,
+        "label": "レッスンのまとめ・初心者向けローラー",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

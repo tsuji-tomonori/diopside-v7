@@ -1,0 +1,135 @@
+{
+  "videoId": "FcYEKdJEj4s",
+  "title": "【Dead by Daylight】友情ケーキ🎂💞女子会開いてbp稼ぐんじゃあああい💞【ホロライブ/ロボ子さん】",
+  "publishedAt": "2021-07-12T13:49:24Z",
+  "duration": "PT2H30M55S",
+  "durationSec": 9055,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FcYEKdJEj4s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:49:54.169389+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・参加者紹介とBP企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 617,
+        "label": "1試合目スタート・発電機とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "試合後のBP相談と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1728,
+        "label": "2試合目・ナース戦と連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2710,
+        "label": "2試合目後半・ゲートと作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "2試合目・終盤のチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4090,
+        "label": "試合後のBP相談と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4328,
+        "label": "3試合目・発電機とマップ移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4920,
+        "label": "3試合目・ゲート周辺の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5114,
+        "label": "試合後のBP相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5211,
+        "label": "4試合目・発電機と地下道探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5642,
+        "label": "4試合目・終盤のチェイスとハッチ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5943,
+        "label": "試合後のパーク相談とロビー待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6375,
+        "label": "5試合目・発電機とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6920,
+        "label": "5試合目・終盤の発電機とハッチ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7261,
+        "label": "5試合目・ハッチとゲートの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "試合後のBP相談と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8038,
+        "label": "6試合目・発電機とマップ移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8684,
+        "label": "6試合目・終盤のゲート攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "試合後の振り返り・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

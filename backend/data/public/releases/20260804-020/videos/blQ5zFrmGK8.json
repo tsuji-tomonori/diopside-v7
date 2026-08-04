@@ -1,0 +1,130 @@
+{
+  "videoId": "blQ5zFrmGK8",
+  "title": "#3【Detroit: Become Human】自分の選択を信じて完全初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-22T16:24:43Z",
+  "duration": "PT3H6M18S",
+  "durationSec": 11178,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/blQ5zFrmGK8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:14:33.880606Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 271,
+        "label": "マーカス：倉庫へ潜入し部品を回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1351,
+        "label": "コナー：エデンクラブで捜査開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3225,
+        "label": "カーラとアリス、身を寄せる場所を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "カーラとアリス、旅の途中の交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4414,
+        "label": "コナーとハンク、事件とアンドロイドを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4852,
+        "label": "マーカス：放送施設への潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5849,
+        "label": "マーカスのメッセージと放送後の反響",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6259,
+        "label": "コナー：次の捜査に向けた情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7212,
+        "label": "尋問で手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7790,
+        "label": "カーラ、ローズの家へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8706,
+        "label": "警察の捜索をかわす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9062,
+        "label": "マーカス：サイバーライフ店舗作戦を計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9257,
+        "label": "サイバーライフ店舗への潜入作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10193,
+        "label": "警察の対応を受けて脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10355,
+        "label": "マーカス、仲間に方針を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10500,
+        "label": "街でメッセージを示す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10865,
+        "label": "緊迫するデモとニュース報道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11055,
+        "label": "配信振り返り・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

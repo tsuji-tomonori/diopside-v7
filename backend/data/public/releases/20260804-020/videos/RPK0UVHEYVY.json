@@ -1,0 +1,125 @@
+{
+  "videoId": "RPK0UVHEYVY",
+  "title": "🌸新年初ソロ配信🌸コラボ振り返りと今年の抱負など雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-01-04T13:42:42Z",
+  "duration": "PT2H21M30S",
+  "durationSec": 8490,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RPK0UVHEYVY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T12:40:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T12:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面・配信開始前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 148,
+        "label": "配信開始・新年の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 595,
+        "label": "箱根駅伝と正月の過ごし方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1119,
+        "label": "元日の餅つきコラボを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1892,
+        "label": "共演者との交流と印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "餅つきの舞台裏と質問回答",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3122,
+        "label": "新春3D歌コラボの企画経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3601,
+        "label": "選曲・収録準備と歌唱の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4199,
+        "label": "歌唱曲とコラボの総まとめ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4398,
+        "label": "2026年の抱負・麻雀大会への挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4800,
+        "label": "長編ゲームと配信・休みの両立",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5070,
+        "label": "ゲーム予定とASMRの方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5279,
+        "label": "視聴者との距離感・互いに無理なく",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5699,
+        "label": "反応の受け止め方と活動への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "体調・食欲と日々の食事",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7110,
+        "label": "食生活を整える新年の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7499,
+        "label": "新年のスーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8364,
+        "label": "麻雀大会の告知・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

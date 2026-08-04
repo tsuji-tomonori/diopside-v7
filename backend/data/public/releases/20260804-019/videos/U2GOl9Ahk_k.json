@@ -1,0 +1,150 @@
+{
+  "videoId": "U2GOl9Ahk_k",
+  "title": "【チックタック：二人のための物語】健屋さんと謎解き×脱出ミッション【#にじさんじ性癖コンビ/にじさんじ】",
+  "publishedAt": "2020-05-05T01:59:41Z",
+  "duration": "PT3H27M31S",
+  "durationSec": 12451,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/U2GOl9Ahk_k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T16:20:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・二人協力ゲームの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 420,
+        "label": "二つの時計と最初の謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1083,
+        "label": "家の探索と図形パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1560,
+        "label": "汽車の仕掛けとメモの謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1881,
+        "label": "時計屋を目指す村の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "二人の移動パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3114,
+        "label": "第2章・発明家の記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3237,
+        "label": "雨の村とベルの謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4022,
+        "label": "時計屋の手紙と鍵",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4440,
+        "label": "宝石配置と時計の謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "時計を操作して次の装置へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5281,
+        "label": "電気・数字・電話の暗号",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6004,
+        "label": "地下の数字・記憶パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7201,
+        "label": "方角と郵便箱の謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7567,
+        "label": "郵便局の手紙と記号",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8107,
+        "label": "カラスの装置と鳥かご",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "ダイヤルと設計図の解読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "カラスの信号を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11101,
+        "label": "モールス入力の仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11478,
+        "label": "建物の電気を点けるパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11701,
+        "label": "扉の先の記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11884,
+        "label": "クリア後の感想・謎解き振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12302,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

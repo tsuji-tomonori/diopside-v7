@@ -1,0 +1,115 @@
+{
+  "videoId": "Xf0OiyvdEiA",
+  "title": "【夜王国2.5周年】飲酒雑談【グウェル・オス・ガール/白雪巴/不破湊 】",
+  "publishedAt": "2022-05-28T12:22:37Z",
+  "duration": "PT1H13M8S",
+  "durationSec": 4388,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Xf0OiyvdEiA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:20:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 320,
+        "label": "夜王国の活動と2.5周年",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 617,
+        "label": "関西弁・話し方の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 701,
+        "label": "最初のマシュマロ・周年の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1230,
+        "label": "酒デビュー相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1450,
+        "label": "や王国LINEスタンプ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1672,
+        "label": "3人の酒の強さ・酔い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1924,
+        "label": "3Dでやりたいこと・カバディの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2264,
+        "label": "目玉焼きの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2489,
+        "label": "3人でオフに会うなら",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2625,
+        "label": "冠番組の企画案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3012,
+        "label": "3人で行きたいお出かけ先",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3223,
+        "label": "入れ替わりたいライバーの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3510,
+        "label": "好きな映画・同時視聴案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3884,
+        "label": "結婚観の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4228,
+        "label": "周年の締め・電話ボイス告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

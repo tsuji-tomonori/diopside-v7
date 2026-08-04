@@ -1,0 +1,140 @@
+{
+  "videoId": "MrkPto8qN2Q",
+  "title": "【雑談】振り返りながらスパチャお礼と使い道のご相談【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-08T16:19:52Z",
+  "duration": "PT1H48M38S",
+  "durationSec": 6518,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MrkPto8qN2Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T19:37:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボとガチャ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 475,
+        "label": "新ビジュアルのスパチャお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 881,
+        "label": "にじ歌dayの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1384,
+        "label": "歌リレーの盛り上がりを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1673,
+        "label": "メンバー特典・スタンプの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1817,
+        "label": "ラジオパーソナリティ就任と番組展望",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1960,
+        "label": "新ビジュアルへのスパチャお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2390,
+        "label": "新ビジュアルを見せる演出の制作話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2833,
+        "label": "今後の制作・ボイス案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2961,
+        "label": "新ビジュアル完成へのお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3354,
+        "label": "パズルお披露目の制作意図",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "新ビジュアルのポーズ裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3961,
+        "label": "今後の活動・ラジオ予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4045,
+        "label": "人付き合いと信頼の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4382,
+        "label": "ガチャ振り返りとスパチャお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5118,
+        "label": "ボイス販売と応援の考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5263,
+        "label": "新ビジュアルの話・視聴者への励まし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5705,
+        "label": "スパチャの使い道を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5927,
+        "label": "美容施術・歯科の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6065,
+        "label": "歯科・ホワイトニングの体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6430,
+        "label": "歯科の話・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "videoId": "tlY6UwvVYbs",
+  "title": "【雑談】GW明けて一週間経ったけど‥どんな感じ？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-11T15:38:33Z",
+  "duration": "PT2H14M9S",
+  "durationSec": 8049,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tlY6UwvVYbs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・防災とGWの近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 632,
+        "label": "遊びたいゲームと歌枠準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1051,
+        "label": "GWマイクラと将来の暮らしの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1420,
+        "label": "コメントとの向き合い方・GWの過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1710,
+        "label": "NIKKEコラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1987,
+        "label": "最近遊んでいるゲーム・スプラ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2186,
+        "label": "リアル脱出ゲーム・TRPGと演技の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "いじりの境界と自分らしさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3278,
+        "label": "GWマイクラ・ホラーとパイナップルピザ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3558,
+        "label": "新衣装とホラーゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4020,
+        "label": "実家でのボウリング・桃鉄",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4321,
+        "label": "甥っ子とポケモンカードの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "Switch Sportsと家族のギター話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5484,
+        "label": "家族で過ごしたGWと連休明け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5853,
+        "label": "ファントークイベントの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6168,
+        "label": "コラボ・くじ・今後の配信方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6427,
+        "label": "スプラフェスとASMRの方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6617,
+        "label": "公式番組『3人よれば』の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6854,
+        "label": "雑談の締め・次回配信の予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6997,
+        "label": "スーパーチャット読み・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7978,
+        "label": "次回配信の予定・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

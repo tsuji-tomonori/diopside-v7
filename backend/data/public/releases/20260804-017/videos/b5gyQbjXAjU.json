@@ -1,0 +1,130 @@
+{
+  "videoId": "b5gyQbjXAjU",
+  "title": "#にじパーフェクトワン ｜ このメンツで美容案件！？ 【にじさんじ/叶】",
+  "publishedAt": "2023-06-29T12:10:19Z",
+  "duration": "PT1H6M9S",
+  "durationSec": 3969,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/b5gyQbjXAjU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 265,
+        "label": "クレンジングと洗顔の違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 611,
+        "label": "スムースクレンジングバーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 706,
+        "label": "クレンジングバームを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 987,
+        "label": "ダブル洗顔不要・毛穴ケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1061,
+        "label": "ウォータリージェルの特徴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1268,
+        "label": "ウォータリージェルを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1488,
+        "label": "ピールオフバームの紹介・実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1674,
+        "label": "ナイトルーティン紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2033,
+        "label": "帰宅後のルーティンと時短ケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2328,
+        "label": "パーフェクトワンクイズ・第1問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2649,
+        "label": "パーフェクトワンクイズ・第2問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3042,
+        "label": "パーフェクトワンクイズ・第3問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3156,
+        "label": "罰ゲームのノニジュース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3337,
+        "label": "限定セット紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3592,
+        "label": "描き下ろしイラスト公開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3699,
+        "label": "割引・販売情報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3757,
+        "label": "感想・締めトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

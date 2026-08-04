@@ -1,0 +1,140 @@
+{
+  "videoId": "PEQwj7kpi8Y",
+  "title": "後編【影廊 -Shadow Corridor-】エンディングまで！ビビらないお姉さんVS激怖和風ホラゲ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-01T15:12:45Z",
+  "duration": "PT2H21M36S",
+  "durationSec": 8496,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PEQwj7kpi8Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:41:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 448,
+        "label": "大勾玉ルートを再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 972,
+        "label": "日記から過去を探る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1072,
+        "label": "白い光に導かれて進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1726,
+        "label": "Kの過去と仮面の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1951,
+        "label": "猫に導かれて新エリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2266,
+        "label": "新エリアの物語を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2398,
+        "label": "勾玉を探して新エリアを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "水路の敵と小さな鈴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3264,
+        "label": "迷路を探索して敵を避ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3670,
+        "label": "消えた村の記録と迷路の続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3935,
+        "label": "勾玉と鈴を頼りに進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4460,
+        "label": "レバーの罠と手鏡のルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5110,
+        "label": "追跡を切り抜けてルートを復元",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5716,
+        "label": "ステージクリア後のストーリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6234,
+        "label": "最後のステージに挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7045,
+        "label": "最後のステージ・レバー攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7403,
+        "label": "エンディング・後日談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7665,
+        "label": "クリア後の感想と締めトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7923,
+        "label": "スパチャ読み・ゲームの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8355,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "4-ce3nsH1Lk",
+  "title": "【雑談/ASMR】寝起きと二日酔いと噛みあと【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-02-16T03:16:20Z",
+  "duration": "PT1H5M8S",
+  "durationSec": 3908,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4-ce3nsH1Lk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:57:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "寝起きの挨拶と朝のやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 482,
+        "label": "バイノーラルの感想と配信計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 782,
+        "label": "前夜の回想と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1171,
+        "label": "ペットの話と近距離トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1413,
+        "label": "前日の反応と距離感の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1796,
+        "label": "マシュマロ読みと言葉遊び・配信準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2190,
+        "label": "愛してるゲームのルールと実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2313,
+        "label": "バイノーラル実演と実演後の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2729,
+        "label": "アニメ・ゲームのキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3035,
+        "label": "実演リクエストと体調管理の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "バイノーラル実演と食べ物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3390,
+        "label": "おやすみの挨拶と配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3578,
+        "label": "終盤のバイノーラル実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3792,
+        "label": "締めの挨拶と今後の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

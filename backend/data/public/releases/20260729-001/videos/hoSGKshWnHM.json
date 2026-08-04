@@ -1,0 +1,100 @@
+{
+  "videoId": "hoSGKshWnHM",
+  "title": "＼#白雪巴6周年／祝💓6周年記念✨✨ってわけで避けてきた”アレ”に挑戦してみる【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-30T16:39:19Z",
+  "duration": "PT3H28M1S",
+  "durationSec": 12481,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hoSGKshWnHM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T07:43:52.594Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 152,
+        "label": "6周年オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 273,
+        "label": "6年間の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1724,
+        "label": "7年目の目標・周年雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2649,
+        "label": "企画説明・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2911,
+        "label": "お絵かき心理テスト・前半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4846,
+        "label": "お絵かき心理テスト・中盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7217,
+        "label": "お絵かき心理テスト・終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9294,
+        "label": "企画の結果確認・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9448,
+        "label": "6周年企画の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9704,
+        "label": "告知・本編締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9774,
+        "label": "スーパーチャットお礼・延長トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12355,
+        "label": "告知・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

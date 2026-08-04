@@ -1,0 +1,165 @@
+{
+  "videoId": "Wm8VPlGuDbU",
+  "title": "＃03【ブルーアーカイブ】ゲヘナ風紀委員会、初ご対面！！！ヒナさんアコさん気になります…っ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-22T03:51:48Z",
+  "duration": "PT3H40M29S",
+  "durationSec": 13229,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Wm8VPlGuDbU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T18:23:27.225773Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・アビドス編導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 351,
+        "label": "ゲヘナ風紀委員会との対面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 789,
+        "label": "ゲヘナとの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2113,
+        "label": "戦闘後の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3264,
+        "label": "アビドスの事情を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3729,
+        "label": "土地台帳から見える問題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4233,
+        "label": "借金と砂漠の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "砂漠へ向かう準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5066,
+        "label": "砂漠の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6055,
+        "label": "カイザーとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6808,
+        "label": "ホシノの過去をめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7104,
+        "label": "ホシノと先生の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7563,
+        "label": "それぞれの決断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8073,
+        "label": "アビドス防衛戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "アビドスをめぐる対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8753,
+        "label": "戦況の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9608,
+        "label": "黒服との交渉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10325,
+        "label": "救出に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10853,
+        "label": "作戦開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11271,
+        "label": "砂漠の奥へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11586,
+        "label": "決着へ向かう戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11766,
+        "label": "アビドスの仲間たち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11961,
+        "label": "エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12324,
+        "label": "本編の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12418,
+        "label": "Cパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12788,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

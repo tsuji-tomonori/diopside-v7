@@ -1,0 +1,80 @@
+{
+  "videoId": "ufg1LLo3vDo",
+  "title": "【健屋と踊ろう！】はじめてのオタ芸講座【健屋花那/にじさんじ】",
+  "publishedAt": "2021-05-15T11:00:14Z",
+  "duration": "PT8M16S",
+  "durationSec": 496,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ufg1LLo3vDo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オタ芸講座の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20,
+        "label": "基本動作の説明と反復",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 122,
+        "label": "回転方向を変える次の手順",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 192,
+        "label": "手の位置とクロスの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 218,
+        "label": "よっこいしょの動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 284,
+        "label": "通し練習と動きの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 351,
+        "label": "次の手順と最終練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 415,
+        "label": "音楽に合わせて実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 463,
+        "label": "実演の振り返りと締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

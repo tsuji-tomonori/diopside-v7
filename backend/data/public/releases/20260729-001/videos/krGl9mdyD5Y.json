@@ -1,0 +1,190 @@
+{
+  "videoId": "krGl9mdyD5Y",
+  "title": "＃３【NieR:Automata -ニーアオートマタ-】ヨルハ部隊として慈悲なし任務遂行してるけど大丈夫そ…？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-25T13:01:52Z",
+  "duration": "PT7H35M24S",
+  "durationSec": 27324,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/krGl9mdyD5Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:32:16.915402Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1264,
+        "label": "エンゲルスとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1829,
+        "label": "地下のエイリアン船へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2575,
+        "label": "移動機能の解放と新たな依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3756,
+        "label": "工場で手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4932,
+        "label": "記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5228,
+        "label": "アーカイブ・データベースを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6316,
+        "label": "依頼の報告と端末修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7305,
+        "label": "パスカルの村から森へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7976,
+        "label": "森の入口と動物の縄張り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9304,
+        "label": "森林王国の物語進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12159,
+        "label": "空母支援の依頼とサブクエ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14256,
+        "label": "水没都市へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15001,
+        "label": "緊急任務とポッド調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15499,
+        "label": "工場のサブクエストを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16725,
+        "label": "エンゲルスとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16996,
+        "label": "レジスタンスの依頼を受ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17167,
+        "label": "機械パレードの防衛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18061,
+        "label": "故障した端末を修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18751,
+        "label": "月の涙とエミールの記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19331,
+        "label": "病気の鹿の薬を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20700,
+        "label": "A2の情報収集と砂漠探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22177,
+        "label": "工場でA2の手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23009,
+        "label": "ジャッカスの味見依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23210,
+        "label": "天才発明家の依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23649,
+        "label": "森林王国の宝探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24462,
+        "label": "マサムネで武器を強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25396,
+        "label": "動物たちの依頼を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26016,
+        "label": "終盤の依頼とセーブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26466,
+        "label": "終了後トーク・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26825,
+        "label": "スパチャ読み・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

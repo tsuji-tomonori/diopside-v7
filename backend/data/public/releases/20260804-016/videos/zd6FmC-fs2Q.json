@@ -1,0 +1,150 @@
+{
+  "videoId": "zd6FmC-fs2Q",
+  "title": "【誘拐事件】チラズアートさんのホラゲが本格的に恐くなってきたﾜﾖ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-04T17:30:37Z",
+  "duration": "PT2H23M8S",
+  "durationSec": 8588,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zd6FmC-fs2Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:13:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 282,
+        "label": "ゲーム開始・最初の家",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 579,
+        "label": "洗濯と家の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "夕食とテストの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1371,
+        "label": "時間経過・家の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "姉を探して雨の外へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1698,
+        "label": "学校へ・教室掃除",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1943,
+        "label": "放課後の会話と不審者の噂",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2663,
+        "label": "公園でかくれんぼ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3246,
+        "label": "食べ物をめぐる騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3617,
+        "label": "帰宅・家の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4085,
+        "label": "算数の宿題と家の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4466,
+        "label": "ミニゲームに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "変化した部屋と姉の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5421,
+        "label": "隠れて脱出ルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6210,
+        "label": "手がかりを確かめて脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6316,
+        "label": "脱出ルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6781,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7037,
+        "label": "エンディング後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7224,
+        "label": "別ルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7701,
+        "label": "学校の選択を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7961,
+        "label": "感想・次回のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8202,
+        "label": "スパチャ読み・アフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

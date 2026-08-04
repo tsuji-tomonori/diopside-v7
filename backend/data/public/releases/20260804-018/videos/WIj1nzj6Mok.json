@@ -1,0 +1,130 @@
+{
+  "videoId": "WIj1nzj6Mok",
+  "title": "＃５【ピクミン4】ピクミンを死なせずに攻略100％でクリアせよ。【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-07-31T11:01:15Z",
+  "duration": "PT1H54M28S",
+  "durationSec": 6868,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WIj1nzj6Mok/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オッチン強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 494,
+        "label": "一番星の隠れ家を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1034,
+        "label": "洞窟攻略の編成と序盤探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1227,
+        "label": "さらわれたピクミンを救出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1505,
+        "label": "洞窟の奥へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1859,
+        "label": "岩ピクミンで洞窟を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2405,
+        "label": "広い部屋を片付けて次の洞窟へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2819,
+        "label": "毒と氷の洞窟を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3582,
+        "label": "オッチンと分かれて仕掛けを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "氷ピクミンで泡の仕掛けに対処",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4150,
+        "label": "果物を集めて水路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4661,
+        "label": "飛ぶ敵とコンベアの攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5168,
+        "label": "白・光ピクミンの使い方を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5362,
+        "label": "新たな敵への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5606,
+        "label": "金塊をめぐる戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5950,
+        "label": "攻略後のお宝と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6179,
+        "label": "ゲーム後の次回配信の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "8月の予定・新衣装のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6585,
+        "label": "放送後の雑談・お知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

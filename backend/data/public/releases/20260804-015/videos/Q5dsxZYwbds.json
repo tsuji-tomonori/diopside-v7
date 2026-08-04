@@ -1,0 +1,135 @@
+{
+  "videoId": "Q5dsxZYwbds",
+  "title": "【あつまれどうぶつの森】借金とか肌に合わないので秒で片付ける【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-05T08:27:32Z",
+  "duration": "PT1H48M33S",
+  "durationSec": 6513,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Q5dsxZYwbds/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:09:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今日の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 253,
+        "label": "島の飾り付けと埋蔵金の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 446,
+        "label": "島の住民と道具・薬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 575,
+        "label": "風太登場・博物館建設の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 684,
+        "label": "博物館の条件と島づくりの計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 782,
+        "label": "道具を整えて生き物を博物館へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1113,
+        "label": "借金返済に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1741,
+        "label": "素材集めとスコップ作りの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "蜂に刺されて薬のレシピを教わる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2291,
+        "label": "釣り・寄贈と岩叩き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3052,
+        "label": "釣りの途中で埋蔵金を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3211,
+        "label": "埋蔵金の扱いと返済方法を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3356,
+        "label": "マイル交換と住まい・島づくりの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4012,
+        "label": "島の景色を考えながら魚・化石を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4367,
+        "label": "島の奥で魚・果物・虫を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4675,
+        "label": "イースターの卵と荷物整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5352,
+        "label": "博物館に向けて魚・化石・素材を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6017,
+        "label": "博物館への寄贈を急ぐ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6366,
+        "label": "今後の作業と配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6450,
+        "label": "終了挨拶・配信の感想",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "TrEVL6v45c0",
+  "title": "【マリオカート8DX】夜王国って同期の集まりとゲームで遊びます【にじさんじ】",
+  "publishedAt": "2020-12-20T11:52:45Z",
+  "duration": "PT1H12M6S",
+  "durationSec": 4326,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TrEVL6v45c0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 334,
+        "label": "予選レースと走行実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 701,
+        "label": "コース練習と操作・アイテム相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1008,
+        "label": "メンバー雑談と車体調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1386,
+        "label": "予選レースの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1619,
+        "label": "予選後の同期トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2027,
+        "label": "レース実況と同期の掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2305,
+        "label": "登録者数の節目とレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2524,
+        "label": "連絡の悩みと雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "レース再開と司会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2999,
+        "label": "視聴者投稿と配信ネタ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3090,
+        "label": "マリオカートスタジアム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3227,
+        "label": "コース変更とエキサイトバイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3424,
+        "label": "レース後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3496,
+        "label": "最後の一戦に向けた準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3661,
+        "label": "最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3741,
+        "label": "レース後の雑談と同期トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4104,
+        "label": "食べ物トークと告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4242,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

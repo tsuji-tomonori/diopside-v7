@@ -1,0 +1,145 @@
+{
+  "videoId": "h2vORZvJBh8",
+  "title": "【ポケモン剣盾】灼熱の炎も冷たく一撃で冷ましてあげる【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-20T11:15:58Z",
+  "duration": "PT2H47M49S",
+  "durationSec": 10069,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/h2vORZvJBh8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:42:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・パーティー紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 309,
+        "label": "キャンプで仲間と交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 775,
+        "label": "料理とジム戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1072,
+        "label": "炎のジムミッション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1800,
+        "label": "炎のジムリーダー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2312,
+        "label": "ジム戦後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "ロトムラリーと進行確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3482,
+        "label": "パーティー再編成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3900,
+        "label": "ポケモンの思い出を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4220,
+        "label": "補給・ワイルドエリア再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "キャンプで回復と交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5825,
+        "label": "ワイルドエリアで訓練と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6544,
+        "label": "新しい仲間を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6856,
+        "label": "キャンプで料理と交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7508,
+        "label": "パーティー再編成と育成準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7904,
+        "label": "ワイルドエリアを再探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8094,
+        "label": "ワイルドエリアの進行確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8353,
+        "label": "ワイルドエリアでバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8520,
+        "label": "ブティックで衣装を整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9643,
+        "label": "告知・配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9693,
+        "label": "アバターを最終調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9995,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

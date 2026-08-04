@@ -1,0 +1,105 @@
+{
+  "videoId": "sQ35H5XjxzI",
+  "title": "＃３【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-20T15:07:50Z",
+  "duration": "PT1H16M50S",
+  "durationSec": 4610,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sQ35H5XjxzI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T23:27:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム再開前の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 732,
+        "label": "渋谷探索・初戦闘と能力強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1111,
+        "label": "収集テキスト・神社の情報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1388,
+        "label": "神社の浄化と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1775,
+        "label": "神社周辺の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2036,
+        "label": "霧の街を探索・次の目的地へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2505,
+        "label": "はぐれタヌキのサイドミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2918,
+        "label": "呪われた人形を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3167,
+        "label": "人形捜索中の戦闘と街探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3478,
+        "label": "人形を追って高所へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3985,
+        "label": "人形イベントの再開・進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4158,
+        "label": "イベント後の状態確認・締めへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4248,
+        "label": "人形サイドストーリーの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4337,
+        "label": "スーパーチャット読み・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

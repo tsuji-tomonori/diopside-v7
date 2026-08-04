@@ -1,0 +1,90 @@
+{
+  "videoId": "yNZG5bh8Cf8",
+  "title": "『にじさんじ・バチェラー』シーズン2434 | 予告編",
+  "publishedAt": "2023-04-01T11:00:11Z",
+  "duration": "PT4M25S",
+  "durationSec": 265,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yNZG5bh8Cf8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画の導入・真実の愛の予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24,
+        "label": "レイン・パターソンの自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 58,
+        "label": "郡道美玲の自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 78,
+        "label": "手作りパンを持ってきた候補者との対面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 112,
+        "label": "小説を書く候補者との対面と手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 147,
+        "label": "轟恭子の登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 165,
+        "label": "候補者たちの別れと予告への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 190,
+        "label": "次回デートの告知と予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 215,
+        "label": "次回デートの気になる展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 235,
+        "label": "予告映像の続きと一番星の印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 256,
+        "label": "2434年4月から新たな旅へ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

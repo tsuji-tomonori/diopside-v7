@@ -1,0 +1,110 @@
+{
+  "videoId": "enatLyMWlnc",
+  "title": "【スプラトゥーン２】ナワバリ対抗戦ガチエンジョイ部最終日【にじさんじ】",
+  "publishedAt": "2020-06-19T15:16:26Z",
+  "duration": "PT1H33M28S",
+  "durationSec": 5608,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/enatLyMWlnc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:55:41Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対抗戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 466,
+        "label": "第1試合・ナワバリ対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1244,
+        "label": "第2試合・連携を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "第3試合・終盤の守り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2534,
+        "label": "第4試合・中央と敵陣の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2973,
+        "label": "第5試合・カバーの連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3296,
+        "label": "第6〜7試合・連携と立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3786,
+        "label": "第8試合・チームの動きを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4008,
+        "label": "第9試合・左右からの攻め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4323,
+        "label": "第10試合・武器と立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4555,
+        "label": "第11試合・終盤の塗り合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4967,
+        "label": "第12試合・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5085,
+        "label": "対抗戦の続行を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5244,
+        "label": "終盤の試合・連携プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5395,
+        "label": "対抗戦を振り返る",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

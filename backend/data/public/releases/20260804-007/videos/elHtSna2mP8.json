@@ -1,0 +1,130 @@
+{
+  "videoId": "elHtSna2mP8",
+  "title": "【Only Up!】クリアか、ブチギレか、発狂するまでか耐久【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-23T17:04:55Z",
+  "duration": "PT6H45M26S",
+  "durationSec": 24326,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/elHtSna2mP8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Only Up!説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 884,
+        "label": "初見プレイ・最初の登り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3516,
+        "label": "歩き操作を試して上ルートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4400,
+        "label": "トロッコとレールの区間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "次のルート探しと攻略談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "カップ麺・ビール休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8500,
+        "label": "ルート復帰・夕景のパイプを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9744,
+        "label": "上ルートの難所に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11820,
+        "label": "百合ショートの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12518,
+        "label": "ベッドのショートカットを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14014,
+        "label": "配信再開・難所に再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16162,
+        "label": "新エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17100,
+        "label": "上ルートの攻略を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18703,
+        "label": "ショートカット後のルート復帰",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20400,
+        "label": "最強動物と麻酔の話をしながら攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21350,
+        "label": "難所を越えて新しいエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22500,
+        "label": "風船のエリアに到達",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22812,
+        "label": "終盤の慎重な上り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23649,
+        "label": "感想・告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

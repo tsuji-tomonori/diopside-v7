@@ -1,0 +1,115 @@
+{
+  "videoId": "DK7Efr6BAc8",
+  "title": "【DbD】久々すぎる絶叫リハビリ鬼ごっこ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-25T15:02:29Z",
+  "duration": "PT1H47M55S",
+  "durationSec": 6475,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DK7Efr6BAc8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:34:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DbD紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 378,
+        "label": "サバイバーの装備・パーク準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 562,
+        "label": "告知・マッチング待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 752,
+        "label": "3Dライブの裏話・配信生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1281,
+        "label": "最初の試合に向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1985,
+        "label": "第1試合・生存者で挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2480,
+        "label": "次の試合へ装備確認・待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3218,
+        "label": "第2試合・生存者で挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3571,
+        "label": "キラー選びと能力談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4150,
+        "label": "リージョンで第3試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4373,
+        "label": "第3試合・リージョンで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4808,
+        "label": "第3試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5288,
+        "label": "第4試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5445,
+        "label": "第4試合・未知のマップに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5963,
+        "label": "次に使うキラーを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6318,
+        "label": "終了挨拶・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "1u_-FRccfCw",
+  "title": "【3D飲み会】一斗缶ビリヤニ忘年会【にじさんじ】",
+  "publishedAt": "2025-12-09T12:36:24Z",
+  "duration": "PT1H57M58S",
+  "durationSec": 7078,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1u_-FRccfCw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "一斗缶ビリヤニ登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 241,
+        "label": "参加者紹介と忘年会の趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 610,
+        "label": "乾杯とインドのビール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 704,
+        "label": "ビリヤニを取り分ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1015,
+        "label": "ビリヤニ初実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1421,
+        "label": "付け合わせカレーの紹介と食べ比べ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "カレーの食べ方と忘年会トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2920,
+        "label": "恋愛タイプ診断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3411,
+        "label": "満腹とシャンパンの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3606,
+        "label": "シャンパン開栓と追加乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "甘いお酒と健康トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4060,
+        "label": "昆虫と子どもの頃の趣味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4295,
+        "label": "宇宙の話と宇宙人談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4645,
+        "label": "種族の話からONE PIECE談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4970,
+        "label": "散歩と配信・ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5240,
+        "label": "ゲームの恋愛要素と診断結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5514,
+        "label": "3D飲み会の振り返りと次の食企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5820,
+        "label": "登録呼びかけとヘリコプター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6050,
+        "label": "ボイス作品とASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6470,
+        "label": "エピソードとゲームの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "火の鳥など好きな漫画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6750,
+        "label": "年末の締めと歌",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

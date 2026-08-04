@@ -1,0 +1,105 @@
+{
+  "videoId": "DyRSltNk5OE",
+  "title": "【晩酌】安心してください。今回は”健全”回ですよ＿＿＿☆お姉さんの一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 08【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-18T15:05:09Z",
+  "duration": "PT1H52M9S",
+  "durationSec": 6729,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DyRSltNk5OE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:33:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 343,
+        "label": "復帰前夜のお酒エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1553,
+        "label": "イマーシブ・フォート東京の魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2462,
+        "label": "ホーム・アローンと火垂るの墓",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2965,
+        "label": "ハリー・ポッター愛を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3148,
+        "label": "ロード・オブ・ザ・リングの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3567,
+        "label": "パイレーツ・オブ・カリビアン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3810,
+        "label": "懐かしの映画と映画館トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4283,
+        "label": "チェンソーマンの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4598,
+        "label": "エンドロールと映画館の楽しみ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4869,
+        "label": "ウェンズデーとハロウィン映画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5306,
+        "label": "自分らしさと来世の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6116,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6212,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

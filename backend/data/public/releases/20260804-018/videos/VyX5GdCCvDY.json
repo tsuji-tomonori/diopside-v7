@@ -1,0 +1,90 @@
+{
+  "videoId": "VyX5GdCCvDY",
+  "title": "【ポーカーチェイス】ガチャ＆ランク戦もぐりんこ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-02T04:46:37Z",
+  "duration": "PT2H36M25S",
+  "durationSec": 9385,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VyX5GdCCvDY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ポーカーチェイス紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 241,
+        "label": "年末年始の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 742,
+        "label": "ランク戦・ガチャの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 821,
+        "label": "ガチャ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 967,
+        "label": "ガチャ後のキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2076,
+        "label": "ランク戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2170,
+        "label": "ランク戦開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3633,
+        "label": "ランク戦の反省と戦略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4730,
+        "label": "ロゼッタでランク戦を続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7630,
+        "label": "休憩後のランク戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9267,
+        "label": "大会予定と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

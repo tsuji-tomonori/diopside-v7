@@ -1,0 +1,115 @@
+{
+  "videoId": "Sbui_9j3TgU",
+  "title": "【スマブラ凸待ち】お誕生日なのでかかってこいよ【にじさんじフミ】",
+  "publishedAt": "2021-10-10T12:35:24Z",
+  "duration": "PT1H23M26S",
+  "durationSec": 5006,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Sbui_9j3TgU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:15:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 197,
+        "label": "スマブラ凸待ちの企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 273,
+        "label": "参加者を待ちながら雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 498,
+        "label": "手作りケーキと駄菓子を味わう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1076,
+        "label": "参加者待ち・最初の対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1520,
+        "label": "最初のスマブラ対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2065,
+        "label": "対戦後の感想と次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2397,
+        "label": "次のスマブラ対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2650,
+        "label": "対戦後の会話と配信告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3024,
+        "label": "誕生日やケーキの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3436,
+        "label": "新しい参加者とスマブラ対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3835,
+        "label": "対戦後のケーキ・デート雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4251,
+        "label": "スマブラから雑談へ切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4430,
+        "label": "子どもの頃や学年差の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4720,
+        "label": "ゲーム部屋を再準備して参加者を待つ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4927,
+        "label": "別のおしゃべり枠へ移動・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

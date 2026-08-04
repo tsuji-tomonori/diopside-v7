@@ -1,0 +1,155 @@
+{
+  "videoId": "yUCj0nAZ6XY",
+  "title": "#7『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-16T16:10:20Z",
+  "duration": "PT2H58M42S",
+  "durationSec": 10722,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yUCj0nAZ6XY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T14:25:49.032Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 230,
+        "label": "前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 377,
+        "label": "里視点・手掛かりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 944,
+        "label": "島の呪いをめぐる相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2430,
+        "label": "次の手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2854,
+        "label": "鏡を使った捜索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3244,
+        "label": "里視点・緊迫する場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3422,
+        "label": "島内で仲間を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3875,
+        "label": "別の人物たちと合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4240,
+        "label": "手掛かりを追う調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4503,
+        "label": "疑いを確かめる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4747,
+        "label": "当事者との対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5049,
+        "label": "里視点・終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5297,
+        "label": "ストーリーチャートで再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5493,
+        "label": "新たな人物視点へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6046,
+        "label": "里との聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6891,
+        "label": "調査側から事情を説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7447,
+        "label": "里について追加調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8248,
+        "label": "島の歴史を照合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9023,
+        "label": "今後の方針を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9410,
+        "label": "新たな探索方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9604,
+        "label": "案内人から聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9973,
+        "label": "今回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10233,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

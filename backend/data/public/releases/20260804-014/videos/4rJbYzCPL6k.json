@@ -1,0 +1,130 @@
+{
+  "videoId": "4rJbYzCPL6k",
+  "title": "【バイオRE:2】やられたらやり返すビビりお姉さんのバイオプレイ#2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-12T15:55:43Z",
+  "duration": "PT2H42M30S",
+  "durationSec": 9750,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4rJbYzCPL6k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 677,
+        "label": "警察署を探索・装備を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1458,
+        "label": "警察署の奥へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "ダイヤの鍵で警察署を再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4085,
+        "label": "時計塔への道を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5125,
+        "label": "警察署へ戻って取調室への道を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5465,
+        "label": "取調室への道と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6584,
+        "label": "仕掛けを解いて次の場面へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6745,
+        "label": "部屋の中を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7018,
+        "label": "警告文と追跡から逃れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7504,
+        "label": "孤児院の記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7818,
+        "label": "取調室へ戻って手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8053,
+        "label": "S.T.A.R.S.オフィスを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8379,
+        "label": "S.T.A.R.S.の手紙を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "装備を整えて警察署を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9004,
+        "label": "地下への道でアイテムを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9262,
+        "label": "シェリーと話して状況を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9462,
+        "label": "報告書の内容を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9570,
+        "label": "次回に向けた整理・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

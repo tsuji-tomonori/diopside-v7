@@ -1,0 +1,115 @@
+{
+  "videoId": "PAAPTLy-tRc",
+  "title": "【定期雑談】誕生日迎えて骨折して3DLIVEにも出演した2月【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-29T15:41:24Z",
+  "duration": "PT1H54M38S",
+  "durationSec": 6878,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PAAPTLy-tRc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:35:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・腕の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 281,
+        "label": "2月振り返りと誕生日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 690,
+        "label": "3Dライブ出演の裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1122,
+        "label": "誕生日ライブの舞台裏",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1934,
+        "label": "スタジオ訪問とライブ裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "3月の配信予定・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2720,
+        "label": "療養中の予定と配信スタイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3290,
+        "label": "遊びたいゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3689,
+        "label": "ストリートファイターなどゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4375,
+        "label": "ゲーム計画と歌枠の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4662,
+        "label": "退院後の生活と2月の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "療養後の話と今後の活動方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5695,
+        "label": "スパチャ読みと確認方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "片手でできるゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6174,
+        "label": "チェイサーゲーム感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6375,
+        "label": "スパチャ読み・配信の締めくくり",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

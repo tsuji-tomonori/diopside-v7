@@ -1,0 +1,95 @@
+{
+  "videoId": "MRAYHUBAI88",
+  "title": "【スプラトゥーン2】【#意外に強いらCチーム/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-24T11:40:18Z",
+  "duration": "PT1H6M37S",
+  "durationSec": 3997,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MRAYHUBAI88/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Cチームとフェス談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 660,
+        "label": "通信調整・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 918,
+        "label": "1試合目・対戦と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1605,
+        "label": "2試合目・対戦と試合後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2224,
+        "label": "3試合目・対戦と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2524,
+        "label": "4試合目・対戦と調味料談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2821,
+        "label": "5試合目・対戦とゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3035,
+        "label": "6試合目・対戦と武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3382,
+        "label": "7試合目・対戦と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3636,
+        "label": "8試合目・対戦と感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "ボイス・今後の配信を告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3956,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

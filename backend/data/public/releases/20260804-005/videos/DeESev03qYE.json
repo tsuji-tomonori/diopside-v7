@@ -1,0 +1,150 @@
+{
+  "videoId": "DeESev03qYE",
+  "title": "【都市伝説解体センター #6】第五話「罪人の影」初見プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-18T09:22:49Z",
+  "duration": "PT4H10M57S",
+  "durationSec": 15057,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DeESev03qYE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T12:40:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T12:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 435,
+        "label": "第五話の調査開始・依頼概要",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1058,
+        "label": "IT企業を訪問・社長への聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1964,
+        "label": "執務室の映像と消えた影を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2953,
+        "label": "センターで証言と映像を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3363,
+        "label": "ドッペルゲンガーの噂を検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4456,
+        "label": "ネット上の体験談と解釈を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4876,
+        "label": "社長宅へ移動・家族から聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5750,
+        "label": "写真と接触記録から人物像を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6602,
+        "label": "センターへ戻り調査状況を共有",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "サーバー室で目撃証言を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8731,
+        "label": "目撃情報と侵入目的を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9163,
+        "label": "情報の所在と関係者を再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9436,
+        "label": "社長の家族関係と背景を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10106,
+        "label": "実家へ向かう前に情報を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10948,
+        "label": "実家で警備と家族の証言を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11899,
+        "label": "出会った人物と時系列を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12340,
+        "label": "証言と行動の矛盾を検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12855,
+        "label": "集めた証拠から推理を組み立てる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13140,
+        "label": "調査結果を提示・事件を再構成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13735,
+        "label": "新たな局面と次の行動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14254,
+        "label": "第五話の振り返り・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14865,
+        "label": "スーパーチャット読み・配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

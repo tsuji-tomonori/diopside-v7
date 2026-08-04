@@ -1,0 +1,185 @@
+{
+  "videoId": "YU0FdboBVEU",
+  "title": "【 スプラトゥーン3 】ᔦꙬᔨ ᔦꙬᔨ #にじイカ祭り2025　大会本番！ ᔦꙬᔨ ᔦꙬᔨ【 にじさんじ / 蝸堂みかる 】",
+  "publishedAt": "2025-12-13T07:42:50Z",
+  "duration": "PT4H21M4S",
+  "durationSec": 15664,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YU0FdboBVEU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:25:38Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会当日の導入と練習準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 784,
+        "label": "最初の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1164,
+        "label": "チャンネルを調整して再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1259,
+        "label": "練習試合を重ねて連携を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2469,
+        "label": "ラウンドを区切って次の練習へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2584,
+        "label": "練習ブロックで立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3673,
+        "label": "練習内容を振り返って課題を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "終盤の練習と最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5042,
+        "label": "練習の振り返りとチーム調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5403,
+        "label": "本番前の最終ウォームアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5562,
+        "label": "練習試合で連携を再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5884,
+        "label": "通信トラブルに対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5953,
+        "label": "最後の練習試合と参加者との調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6785,
+        "label": "大会本番前の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7742,
+        "label": "チームインタビューと対戦分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8581,
+        "label": "初戦発表と作戦確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8882,
+        "label": "本戦・初戦の試合運び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9428,
+        "label": "初戦後の振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10026,
+        "label": "次の対戦で作戦を実行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10746,
+        "label": "試合後の振り返りと次の scouting",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11462,
+        "label": "本戦の次のゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12001,
+        "label": "試合を振り返って最後の push へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12601,
+        "label": "本戦の終盤対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13262,
+        "label": "対戦後の整理と最終組待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13565,
+        "label": "最後の本戦対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14111,
+        "label": "本戦を終えて振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14293,
+        "label": "別の大会対戦を同時視聴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14706,
+        "label": "チームへの感謝とプレイの変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15084,
+        "label": "大会後の感謝とこれからの目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15519,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

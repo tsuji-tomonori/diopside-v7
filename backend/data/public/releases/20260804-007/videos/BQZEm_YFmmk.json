@@ -1,0 +1,135 @@
+{
+  "videoId": "BQZEm_YFmmk",
+  "title": "【スプラトゥーン2】眠気が勝つか負けん気が勝つか否か【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-20T16:18:20Z",
+  "duration": "PT2H4M28S",
+  "durationSec": 7468,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BQZEm_YFmmk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:46:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・眠気の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 170,
+        "label": "スプラトゥーン2の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 253,
+        "label": "最初のレギュラーマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 626,
+        "label": "寝落ち配信・作品雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 895,
+        "label": "試合再開・配信雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1705,
+        "label": "家族とエアコン清掃の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1909,
+        "label": "試合実況・立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2437,
+        "label": "エリア戦の立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2732,
+        "label": "装備確認・ゲーム雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3046,
+        "label": "眠気と戦いながら試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3385,
+        "label": "ジャイロ不調から試合続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4099,
+        "label": "武器変更後の試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4623,
+        "label": "視聴者への応答・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4811,
+        "label": "終盤の試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5240,
+        "label": "デュアルスイーパーで立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5596,
+        "label": "配信テンションの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5701,
+        "label": "ランク帯を目指す試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6402,
+        "label": "試合後の反応と疲労",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6771,
+        "label": "終盤の試合・マップ確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7264,
+        "label": "配信の振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

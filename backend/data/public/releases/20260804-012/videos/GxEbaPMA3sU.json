@@ -1,0 +1,110 @@
+{
+  "videoId": "GxEbaPMA3sU",
+  "title": "【スプラトゥーン３】献上スプラトゥーン・・・！？【影山シエン/白雪巴/柚原いづみ/風見くく】",
+  "publishedAt": "2022-09-18T13:43:43Z",
+  "duration": "PT1H29M21S",
+  "durationSec": 5361,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GxEbaPMA3sU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 244,
+        "label": "2年ぶりの再会・スプラトゥーン3準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 849,
+        "label": "最初のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1305,
+        "label": "2試合目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1696,
+        "label": "3試合目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2345,
+        "label": "4試合目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2801,
+        "label": "5試合目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3221,
+        "label": "サーモンラン（バイト）の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "サーモンラン1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3822,
+        "label": "サーモンラン2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "サーモンラン3戦目・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4460,
+        "label": "サーモンラン4戦目・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4659,
+        "label": "サーモンラン終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4980,
+        "label": "告知・ライブ情報とグッズ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5333,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

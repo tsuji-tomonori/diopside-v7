@@ -1,0 +1,100 @@
+{
+  "videoId": "w1bULfT6kWw",
+  "title": "【ポーカーチェイス】すみません。全部いただきます♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-30T07:54:55Z",
+  "duration": "PT2H39M7S",
+  "durationSec": 9547,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/w1bULfT6kWw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T09:22:40.700Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 86,
+        "label": "企画説明・ルールと準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 456,
+        "label": "第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1792,
+        "label": "試合間・再戦と罰ゲーム設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1869,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4830,
+        "label": "試合間・振り返りと罰ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5171,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "試合間・観戦と罰ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7169,
+        "label": "第4試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8828,
+        "label": "試合後の振り返り・罰ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9138,
+        "label": "大会案内・コラボ締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9308,
+        "label": "ソロアフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9487,
+        "label": "次回案内・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

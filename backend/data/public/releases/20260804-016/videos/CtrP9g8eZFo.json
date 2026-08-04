@@ -1,0 +1,135 @@
+{
+  "videoId": "CtrP9g8eZFo",
+  "title": "【DbD】始めた理由がここにある【夕陽リリ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-08T15:34:04Z",
+  "duration": "PT3H6M54S",
+  "durationSec": 11214,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CtrP9g8eZFo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ紹介とDbD初戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 524,
+        "label": "第1戦・サバイバーで試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1055,
+        "label": "第1戦後の振り返りとDbDを始めた理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1413,
+        "label": "第2戦・キラー対策を学びながら進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2679,
+        "label": "第2戦後の振り返りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3062,
+        "label": "第3戦・発電機と救助の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "第3戦後のマップ・パーク講座",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "第4戦・救助とキラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4648,
+        "label": "第4戦後のチャレンジと雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4920,
+        "label": "第5戦・発電機修理とドクター戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5956,
+        "label": "第5戦後のマップ・パーク解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6541,
+        "label": "第6戦・修理とゲート攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7204,
+        "label": "第6戦後の振り返りとコラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7683,
+        "label": "第7戦・BGMを手掛かりに進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8807,
+        "label": "第7戦後のパーク解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8959,
+        "label": "第8戦・残り30分の脱出作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9905,
+        "label": "協力修理のパークを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10083,
+        "label": "最終戦・パークを試しながら進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10981,
+        "label": "最終戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11084,
+        "label": "エンディング・お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

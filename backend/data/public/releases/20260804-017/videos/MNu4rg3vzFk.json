@@ -1,0 +1,140 @@
+{
+  "videoId": "MNu4rg3vzFk",
+  "title": "【スプラトゥーン2】お姉さんとイカプレイしない？【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-20T12:57:53Z",
+  "duration": "PT2H8M25S",
+  "durationSec": 7705,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MNu4rg3vzFk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スプラトゥーン2の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 342,
+        "label": "レギュラーマッチで武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1319,
+        "label": "武器練習とスプラトゥーン談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1888,
+        "label": "ガチアサリのルールとルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2018,
+        "label": "ガチアサリに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2147,
+        "label": "試合後の雑談から次のバトルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2396,
+        "label": "武器選びとバケツの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2866,
+        "label": "バケツで立ち回りを学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3265,
+        "label": "武器を相談して散歩の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3503,
+        "label": "散歩でガチホコのルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "実戦に向けて武器を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4594,
+        "label": "ガチホコで連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5292,
+        "label": "散歩の成果を振り返って次の試合へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5567,
+        "label": "接戦のガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5818,
+        "label": "ルートを復習して終盤へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6014,
+        "label": "終盤のガチホコ連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6630,
+        "label": "次の試合に向けた武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6701,
+        "label": "仲間と連携してガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7006,
+        "label": "2時間の成長を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7112,
+        "label": "ラストマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7639,
+        "label": "配信の振り返り・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

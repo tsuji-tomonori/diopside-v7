@@ -1,0 +1,115 @@
+{
+  "videoId": "pGmU4HfoJ68",
+  "title": "【DbD】チーム練習2日目。状況把握を意識するマン【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-28T16:15:24Z",
+  "duration": "PT2H2M30S",
+  "durationSec": 7350,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pGmU4HfoJ68/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・練習目標の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "第1試合・発電と救助の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1538,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1844,
+        "label": "第2試合・発電とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2490,
+        "label": "第2試合後の振り返り・大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2815,
+        "label": "第3試合・マップと罠への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3389,
+        "label": "第3試合後のマップ・キラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3936,
+        "label": "第4試合・ドクター対策と連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4793,
+        "label": "第4試合後のパーク解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5108,
+        "label": "大会目標の確認・次試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5220,
+        "label": "第5試合・状況共有とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "第5試合後のパーク確認とチーム交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "最終試合前のスリンガー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6408,
+        "label": "最終試合・遮蔽物を使った連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7153,
+        "label": "最終試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7281,
+        "label": "大会への意気込み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

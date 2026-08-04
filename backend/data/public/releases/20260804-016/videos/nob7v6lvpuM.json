@@ -1,0 +1,160 @@
+{
+  "videoId": "nob7v6lvpuM",
+  "title": "【凶寓】このホラゲーまじでヤバイ。猟奇事件の真相を解明する【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-02T16:53:17Z",
+  "duration": "PT2H42M23S",
+  "durationSec": 9743,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nob7v6lvpuM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:41:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 230,
+        "label": "『凶寓』ゲーム開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 814,
+        "label": "204号室を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1331,
+        "label": "一日目の記録開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1667,
+        "label": "107号室の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2122,
+        "label": "物音を追って翌朝へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2505,
+        "label": "夜の迷路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2838,
+        "label": "二日目の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3191,
+        "label": "屋敷を離れる試み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3319,
+        "label": "カメラを手に夜の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3669,
+        "label": "三日目の記録開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4155,
+        "label": "新たな部屋を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4590,
+        "label": "204号室へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "逃走パート開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5413,
+        "label": "鏡のような館",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5932,
+        "label": "テレビとラジオの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7246,
+        "label": "次のエリアへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7371,
+        "label": "子供部屋の手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7834,
+        "label": "物語の終盤へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8160,
+        "label": "エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8321,
+        "label": "ゲームの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8587,
+        "label": "ストーリー考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8740,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8839,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9687,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

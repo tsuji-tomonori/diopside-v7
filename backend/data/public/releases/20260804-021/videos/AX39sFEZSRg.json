@@ -1,0 +1,140 @@
+{
+  "videoId": "AX39sFEZSRg",
+  "title": "【お家デートしよ💓】クリスマス🎄に映画「ホーム・アローン1・2」を初見で観る夜💕【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-24T17:51:08Z",
+  "duration": "PT4H36M1S",
+  "durationSec": 16561,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AX39sFEZSRg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T08:40:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・同時視聴の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 634,
+        "label": "視聴環境と同期の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1133,
+        "label": "1作目・再生カウントダウン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1147,
+        "label": "1作目 同時視聴 Part 1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2333,
+        "label": "1作目 同時視聴 Part 2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4805,
+        "label": "1作目 同時視聴 Part 3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5587,
+        "label": "1作目 同時視聴 Part 4",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7134,
+        "label": "1作目終了・第一印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7337,
+        "label": "休憩・2作目への切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7818,
+        "label": "2作目・同期の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7901,
+        "label": "2作目 同時視聴 Part 1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9301,
+        "label": "2作目 同時視聴 Part 2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11164,
+        "label": "2作目 同時視聴 Part 3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12426,
+        "label": "2作目 同時視聴 Part 4",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12832,
+        "label": "2作目 同時視聴 Part 5",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14326,
+        "label": "2作目 同時視聴 Part 6・エンドロール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15096,
+        "label": "同時視聴終了・2作の第一印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15250,
+        "label": "今後の配信予定・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15395,
+        "label": "映画2本の振り返り・クリスマス雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15881,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16489,
+        "label": "配信の締め・クリスマスの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

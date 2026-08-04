@@ -1,0 +1,245 @@
+{
+  "videoId": "gY-woCX_SWE",
+  "title": "【#白雪三周年/歌枠】3周年記念！！にじ3Dライブ衣装で生歌30曲チャレンジ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-29T15:30:00Z",
+  "duration": "PT3H16M13S",
+  "durationSec": 11773,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gY-woCX_SWE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:15:29Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3周年と衣装紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 726,
+        "label": "30曲チャレンジの進め方・歌唱準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1010,
+        "label": "1曲目 オリオンをなぞる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1340,
+        "label": "2曲目 不協和音",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1574,
+        "label": "3曲目 Pretender",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1903,
+        "label": "4曲目 月光花",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2222,
+        "label": "5曲目 消せない罪",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2495,
+        "label": "Aブロック後MC・選曲と作品トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2972,
+        "label": "6曲目 春を告げる（アコースティック）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3211,
+        "label": "7曲目・歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3431,
+        "label": "8曲目 アイネクライネ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3779,
+        "label": "9曲目 カルマ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4008,
+        "label": "Bブロック総括MC・次の選曲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4083,
+        "label": "10曲目 たばこ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4431,
+        "label": "10曲目後MC・感謝と曲の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4733,
+        "label": "11曲目 君の知らない物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5088,
+        "label": "12曲目 シャルル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5353,
+        "label": "13曲目 だから僕は音楽を辞めた",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5631,
+        "label": "14曲目 ドライフラワー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5957,
+        "label": "15曲目 カタオモイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6173,
+        "label": "Cブロック終了MC・後半戦導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6378,
+        "label": "16曲目 白日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6709,
+        "label": "17曲目 君はロックを聴かない",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6981,
+        "label": "18曲目 一人の夜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7231,
+        "label": "19曲目 リライト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7486,
+        "label": "20曲目 Rising Hope",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7777,
+        "label": "20曲達成MC・残り10曲の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8086,
+        "label": "21曲目 PHANTOM MINDS",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8297,
+        "label": "21曲目後MC・次曲準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8397,
+        "label": "22曲目 unravel",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8659,
+        "label": "23曲目 ポニーテールとシュシュ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8945,
+        "label": "24曲目 Angelic Angel",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9271,
+        "label": "24曲目後MC・ラスト5曲案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9360,
+        "label": "25曲目 渡月橋 〜君 想ふ〜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9613,
+        "label": "ラスト5曲前MC・周年振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10017,
+        "label": "26曲目 Beautiful World",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10428,
+        "label": "27曲目 丸の内サディスティック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10661,
+        "label": "28曲目 嘘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10928,
+        "label": "29曲目 ふたりごと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11199,
+        "label": "29曲目後MC・最終曲紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11393,
+        "label": "30曲目・最終歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11657,
+        "label": "30曲完遂・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

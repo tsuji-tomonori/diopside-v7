@@ -1,0 +1,150 @@
+{
+  "videoId": "sJpZZ9DxX9M",
+  "title": "＃46【崩壊：スターレイル】オンパロス編。サフェルが隠していた重大な秘密とは…？！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-09-02T16:31:17Z",
+  "duration": "PT3H19M21S",
+  "durationSec": 11961,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sJpZZ9DxX9M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:47:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 214,
+        "label": "ミッション再開・スティコシア探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 656,
+        "label": "サフェルと謎の追跡者",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1648,
+        "label": "崖上の決戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1912,
+        "label": "オクヘイマに届く知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2394,
+        "label": "サフェルをめぐる考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3207,
+        "label": "ヒアンシーの決断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4143,
+        "label": "天空の継承へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5039,
+        "label": "暗黒の潮と山下り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5633,
+        "label": "火種をめぐる仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6034,
+        "label": "山を下る緊急行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6543,
+        "label": "追跡者からの逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6914,
+        "label": "仲間たちと救援戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7336,
+        "label": "オクヘイマへの帰路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8412,
+        "label": "トリノンとザグレウス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8882,
+        "label": "創生の渦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9184,
+        "label": "世界の外から",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9646,
+        "label": "創生の渦で待つもの",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10172,
+        "label": "メッセージを読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10512,
+        "label": "ストーリー終了・感想考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10933,
+        "label": "スパチャ読み・ネタバレ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11556,
+        "label": "配信予定とお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11794,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

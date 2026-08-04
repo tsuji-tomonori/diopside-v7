@@ -1,0 +1,125 @@
+{
+  "videoId": "n7G0PzUa63c",
+  "title": "【#白雪みしろ3周年】Mishiro in Wonderland",
+  "publishedAt": "2022-12-06T14:42:20Z",
+  "duration": "PT56M55S",
+  "durationSec": 3415,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/n7G0PzUa63c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T16:19:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "記念日のメイドさん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 352,
+        "label": "童話の本と天の声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 428,
+        "label": "シンデレラと魔法のドレス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 487,
+        "label": "シンデレラの歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 724,
+        "label": "シンデレラ、舞踏会へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 827,
+        "label": "森で白雪姫に出会う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 987,
+        "label": "白雪姫との歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1224,
+        "label": "赤ずきんと狼の出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1354,
+        "label": "赤ずきんと狼の歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "次の童話・お菓子の家へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1765,
+        "label": "お菓子の家の歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "魔女の悩みと友達の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2041,
+        "label": "人魚姫の願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2175,
+        "label": "人魚姫の歌唱パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2472,
+        "label": "童話の旅から記念ライブへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2499,
+        "label": "童話の旅を締めくくる歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2727,
+        "label": "童話の後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2896,
+        "label": "ゲストのお祝いメッセージとエンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

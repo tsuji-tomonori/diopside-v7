@@ -1,0 +1,125 @@
+{
+  "videoId": "ThZfiGoiJ-s",
+  "title": "【Fast Food Simulator】ワンオペ営業！？ファーストフード開店！！！🍔🍟✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-29T16:21:36Z",
+  "duration": "PT3H9M46S",
+  "durationSec": 11386,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ThZfiGoiJ-s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:33:43.193247Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 276,
+        "label": "店名決めと開店準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1259,
+        "label": "初日の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2216,
+        "label": "2日目・仕込みを効率化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3266,
+        "label": "2日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4204,
+        "label": "3日目・仕込みを見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4774,
+        "label": "3日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5524,
+        "label": "4日目・新しい注文の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6094,
+        "label": "4日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6858,
+        "label": "5日目・開店前の仕込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7274,
+        "label": "5日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7991,
+        "label": "6日目・メニュー拡張の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8860,
+        "label": "6日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9676,
+        "label": "7日目・新体制の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10032,
+        "label": "7日目の営業スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10645,
+        "label": "営業終了・ゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10801,
+        "label": "今後の配信について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10909,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "gXAducJC_hc",
+  "title": "【＃にじスプラ大会】【スプラトゥーン2】模擬試合VS雪晴れに花ふわり【にじさんじ/長尾景】",
+  "publishedAt": "2020-06-19T15:30:53Z",
+  "duration": "PT1H33M42S",
+  "durationSec": 5622,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gXAducJC_hc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:46:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 352,
+        "label": "チーム分け・試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 547,
+        "label": "模擬試合・前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "戦い方を変えて次のゲームへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2039,
+        "label": "試合後の振り返り・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2230,
+        "label": "連携を試すゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "連携を意識した次のゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2895,
+        "label": "終盤30秒の作戦を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3037,
+        "label": "全員で攻める作戦を実践",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "模擬試合の続行・作戦調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3994,
+        "label": "強い相手を想定したゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4249,
+        "label": "操作を変えて再試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4550,
+        "label": "充電・作戦整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4904,
+        "label": "後半の模擬試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5154,
+        "label": "本番を見据えた模擬試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5481,
+        "label": "対抗戦の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

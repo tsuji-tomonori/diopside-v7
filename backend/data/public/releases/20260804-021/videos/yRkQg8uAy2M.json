@@ -1,0 +1,140 @@
+{
+  "videoId": "yRkQg8uAy2M",
+  "title": "＃８【ピクミン4】ここまで100％で犠牲ゼロ‥‥諦めたくは‥ないッッ！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-15T19:59:10Z",
+  "duration": "PT6H39M15S",
+  "durationSec": 23955,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yRkQg8uAy2M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 464,
+        "label": "最初の強敵と洞窟探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1830,
+        "label": "洞窟探索とスライド攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2779,
+        "label": "泥の洞窟を攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4165,
+        "label": "救助拠点で準備と次の洞窟",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6285,
+        "label": "蜘蛛洞窟の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8026,
+        "label": "ボスフロア挑戦と拠点進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9130,
+        "label": "新ルートの探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10047,
+        "label": "色付きオニオンとタイムギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11266,
+        "label": "爆弾攻略・エリア探索と救助準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12987,
+        "label": "救助ミッションに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14405,
+        "label": "オッチンの治療準備とルート攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15826,
+        "label": "難敵攻略と次の洞窟探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17424,
+        "label": "紫と白のオニオン洞窟",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19776,
+        "label": "キングの穴に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20733,
+        "label": "ボスラッシュを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21421,
+        "label": "難関フロアの攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22712,
+        "label": "ボスラッシュ続行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23158,
+        "label": "進行確認と次回への続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23427,
+        "label": "告知・フリートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23726,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "videoId": "v1xriLK8z94",
+  "title": "【スプラトゥーン3】＠夜王国【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-04T14:29:42Z",
+  "duration": "PT2H51M30S",
+  "durationSec": 10290,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/v1xriLK8z94/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T16:38:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・衣装お披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 113,
+        "label": "アサリの準備・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 334,
+        "label": "アサリで攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1127,
+        "label": "サーモンランの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1315,
+        "label": "サーモンラン・最初のウェーブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1705,
+        "label": "サーモンラン・ウェーブ進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2191,
+        "label": "サーモンラン・難しい編成に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2555,
+        "label": "エリアのオープン戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2707,
+        "label": "エリア戦・連携とカウント管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "試合後のロッカーとギア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3157,
+        "label": "エリア戦・センサーと塗り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3465,
+        "label": "次のエリア戦へ・武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3588,
+        "label": "エリア戦・攻防を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3849,
+        "label": "試合後のエイム練習と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4042,
+        "label": "エリア戦・接戦の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4325,
+        "label": "リッターを試す準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4538,
+        "label": "リッタースコープでエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4755,
+        "label": "リッター戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4940,
+        "label": "エリア戦・前線とペナルティ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5448,
+        "label": "ブラスターへ武器変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5634,
+        "label": "エリア戦・ブラスターとスペシャル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6005,
+        "label": "試合後の武器相性トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6210,
+        "label": "エリア戦・塗りとチームワーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7198,
+        "label": "報酬確認と次の試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7488,
+        "label": "エリア戦・スペシャルを合わせる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7697,
+        "label": "夜王国の雑談と次の試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7957,
+        "label": "エリア戦・カニタンクと編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8837,
+        "label": "回線落ちとゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9532,
+        "label": "エリア戦・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9866,
+        "label": "配信の締め・コラボ振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9895,
+        "label": "お知らせ・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9967,
+        "label": "配信後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10023,
+        "label": "スーパーチャット読み・配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10269,
+        "label": "最終挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

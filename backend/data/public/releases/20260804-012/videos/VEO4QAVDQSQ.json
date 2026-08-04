@@ -1,0 +1,105 @@
+{
+  "videoId": "VEO4QAVDQSQ",
+  "title": "【オフコラボ】エリート社会人なので余裕です。定時で上がらせて頂きます。｜Good Job! -グッジョブ-【猫瀬乃しん/白雪 巴】",
+  "publishedAt": "2023-06-08T14:27:09Z",
+  "duration": "PT1H17M10S",
+  "durationSec": 4630,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VEO4QAVDQSQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:28:11.533161Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オフコラボ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 413,
+        "label": "Good Job!の社員設定と入社準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 585,
+        "label": "財務部のプロジェクター修理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 927,
+        "label": "Wi-Fi接続とオフィスの謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1120,
+        "label": "サボり社員を会議室へ連れ戻す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1994,
+        "label": "特別な部屋の応用課題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2408,
+        "label": "コンテナを色どおりに並べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "制御室のクレーン作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3143,
+        "label": "トラクターで荷物を運ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3631,
+        "label": "休み時間のコロッケ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3675,
+        "label": "作業員を呼び戻す後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4392,
+        "label": "仕事の結果を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4422,
+        "label": "オフコラボの振り返り・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4579,
+        "label": "終了後のCパート",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

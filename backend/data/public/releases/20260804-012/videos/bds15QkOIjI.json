@@ -1,0 +1,120 @@
+{
+  "videoId": "bds15QkOIjI",
+  "title": "【Minecraft】かまくら作ってその中に小屋をつくる！！！(！？)【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-10T16:57:20Z",
+  "duration": "PT3H5M29S",
+  "durationSec": 11129,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bds15QkOIjI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:38:29Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・今回の建築計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 252,
+        "label": "かまくら作りの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 423,
+        "label": "土台と配置を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 933,
+        "label": "雪の壁を段々に組む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2158,
+        "label": "ドーム状の屋根を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3612,
+        "label": "かまくらの外形を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4199,
+        "label": "行商人とラマの騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5040,
+        "label": "内側の段差を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6359,
+        "label": "外観を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6721,
+        "label": "内装の準備を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7202,
+        "label": "入口のデザインを比較する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8277,
+        "label": "隠し扉の作り方を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "隠し入口を試作する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9235,
+        "label": "入口を装飾する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10081,
+        "label": "最後の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10687,
+        "label": "告知・締めの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10921,
+        "label": "スパチャ読み・振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "videoId": "7aTVjeAwUZ4",
+  "title": "【#Niji_AmongUs】この中に二人、インポスターがおる。お前やろ！【黛 灰 / にじさんじ】",
+  "publishedAt": "2020-11-18T14:10:58Z",
+  "duration": "PT2H24M2S",
+  "durationSec": 8642,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7aTVjeAwUZ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:22:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 72,
+        "label": "参加メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 388,
+        "label": "Among Usのルール・設定確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 662,
+        "label": "第1試合開始・タスク進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 729,
+        "label": "第1試合・最初の議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1213,
+        "label": "第1試合・後半のタスク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1602,
+        "label": "第1試合・終盤の推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1981,
+        "label": "第1試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2144,
+        "label": "第2試合開始・序盤の進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2238,
+        "label": "第2試合・アリバイ議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2917,
+        "label": "第2試合・停電対応と終盤進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3666,
+        "label": "第2試合の振り返り・設定調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4132,
+        "label": "第3試合開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4227,
+        "label": "第3試合・序盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4406,
+        "label": "第3試合・タスクとサボタージュ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4791,
+        "label": "第3試合・終盤の議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5155,
+        "label": "試合後のルール・タスク談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5342,
+        "label": "第4試合開始・序盤の報告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5604,
+        "label": "第4試合・同行確認と推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6009,
+        "label": "第4試合の振り返り・次試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6189,
+        "label": "第5試合開始・序盤の進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "第5試合・移動経路とアリバイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6673,
+        "label": "第5試合・終盤のタスク進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6814,
+        "label": "第5試合・緊急会議と投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7068,
+        "label": "第6試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7195,
+        "label": "第6試合開始・停電サボタージュ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7375,
+        "label": "第6試合・タスクと同行確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7696,
+        "label": "第6試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7783,
+        "label": "第7試合開始・設定確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7870,
+        "label": "第7試合・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8051,
+        "label": "第7試合・終盤の推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8402,
+        "label": "第7試合・最終投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8512,
+        "label": "感想・次回案内・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

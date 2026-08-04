@@ -1,0 +1,120 @@
+{
+  "videoId": "NL9UWbh6ocM",
+  "title": "【雑談】X'masデートしよっ💓白雪にエスコートさせて？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-24T15:27:19Z",
+  "duration": "PT2H18M8S",
+  "durationSec": 8288,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NL9UWbh6ocM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:17:49.155825Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お迎え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 384,
+        "label": "クリスマスドライブへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1020,
+        "label": "お家でケーキタイム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1815,
+        "label": "愛用香水とオーダーメイド香水",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "再出発・クリスマスの思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3145,
+        "label": "普段の声と最近の配信トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3644,
+        "label": "イルミネーション散策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4115,
+        "label": "出会いと永遠について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4335,
+        "label": "写真撮影とデートプラン振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4702,
+        "label": "一年の感謝と来年の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5309,
+        "label": "イルミネーションを後に",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5722,
+        "label": "コンビニ休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6241,
+        "label": "季節の話から家族の思い出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6681,
+        "label": "配信活動を見守る家族",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7145,
+        "label": "0時のメリークリスマス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7283,
+        "label": "お家までお見送り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7530,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

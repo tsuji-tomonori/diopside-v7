@@ -1,0 +1,150 @@
+{
+  "videoId": "XpWJXUHkuQQ",
+  "title": "【※ネタバレあり】王子とプレゼント無限回収＆隠しステージ解★放ガチ勢｜塊魂アンコール＋王様プチメモリーpart5【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-16T17:35:05Z",
+  "duration": "PT4H18M34S",
+  "durationSec": 15514,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XpWJXUHkuQQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最初のプレゼント回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 751,
+        "label": "次の回収対象を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1369,
+        "label": "大きな塊を目指して回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1969,
+        "label": "いとこ・はとこの回収を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2491,
+        "label": "条件を確認して再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4001,
+        "label": "クリア確認と残りの回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4988,
+        "label": "新ステージでプレゼント回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6290,
+        "label": "3メートル目標と水中の回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7715,
+        "label": "結果確認と次の対象探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7988,
+        "label": "最終回収ステージを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8471,
+        "label": "夢の話をしながら回収を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9286,
+        "label": "一人暮らしと自立について話す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10073,
+        "label": "配信での注意と改善方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10629,
+        "label": "残りの回収対象を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11113,
+        "label": "回収を続けながら雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11816,
+        "label": "最後の回収対象を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12684,
+        "label": "回収状況を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13172,
+        "label": "隠しモードに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13615,
+        "label": "隠しモード後半の攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13795,
+        "label": "エンディング演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14222,
+        "label": "バラ収集モード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14838,
+        "label": "ゲームを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14913,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

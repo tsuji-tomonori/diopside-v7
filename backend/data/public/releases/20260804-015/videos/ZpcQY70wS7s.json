@@ -1,0 +1,140 @@
+{
+  "videoId": "ZpcQY70wS7s",
+  "title": "【The Outlast Trials】あのヤバイ精神病院がさらにパワーアップして帰ってきた⁉【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-10T04:50:55Z",
+  "duration": "PT3H38M",
+  "durationSec": 13080,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZpcQY70wS7s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T18:42:28Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 471,
+        "label": "施設チュートリアル・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1999,
+        "label": "暗闇のステルス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2305,
+        "label": "記録を消す任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3070,
+        "label": "休憩室とゲームシステム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3525,
+        "label": "キャラクター・個室カスタマイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4029,
+        "label": "最初の試験へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5149,
+        "label": "セキュリティルーム探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "発電機を修理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7231,
+        "label": "手掛かりを頼りに鍵を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8033,
+        "label": "ゲートを開ける試験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8397,
+        "label": "もう一度施設を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8923,
+        "label": "発電機の再起動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9596,
+        "label": "鍵と手掛かりを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10899,
+        "label": "終盤の運搬準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11538,
+        "label": "試験の最終段階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12063,
+        "label": "試験後の評価",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12172,
+        "label": "個室を模様替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12409,
+        "label": "ゲームの感想・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12637,
+        "label": "スーパーチャット・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13005,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

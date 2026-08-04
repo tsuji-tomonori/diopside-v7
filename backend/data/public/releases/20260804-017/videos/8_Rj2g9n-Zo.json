@@ -1,0 +1,90 @@
+{
+  "videoId": "8_Rj2g9n-Zo",
+  "title": "【#NNOP2022】豪運に寵愛されし未亡人っぽい私～連載中～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-02T07:45:08Z",
+  "duration": "PT1H30M56S",
+  "durationSec": 5456,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8_Rj2g9n-Zo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:50:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本戦観戦と導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 719,
+        "label": "ランク戦でポーカーを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2557,
+        "label": "ランク戦を終えて休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2872,
+        "label": "ルーム作成・参加者の合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3644,
+        "label": "参加者対戦の序盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4094,
+        "label": "ヘッズアップの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4807,
+        "label": "対戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5108,
+        "label": "参加者インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5216,
+        "label": "プレイを振り返るアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5330,
+        "label": "参加者コメント・次の試合に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5423,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "videoId": "z1H2obyg43g",
+  "title": "【#和風歌50曲耐久3Dコラボ】新春🌸飲み食いしながらカラオケ和風ソング縛りカラオケ🎤✨✨【緑仙/竜胆尊/フミ/綺沙良/白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-02T12:18:12Z",
+  "duration": "PT4H55M59S",
+  "durationSec": 17759,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/z1H2obyg43g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T04:55:18+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・企画説明・出演者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 843,
+        "label": "第01曲 千本桜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1044,
+        "label": "1曲目後MC、次のソロ担当への交代と飲食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1103,
+        "label": "第02曲 回レ！雪月花",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1335,
+        "label": "終演挨拶、飲食・選曲MC",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1398,
+        "label": "第03曲 神様、仏様",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1581,
+        "label": "終演感想、飲食、次曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1644,
+        "label": "第04曲 神様はじめました",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1847,
+        "label": "ソロ交代、いちご大福・唐揚げの飲食MC",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1968,
+        "label": "第05曲 キミシニタモウコトナカレ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2198,
+        "label": "終演感想、次のソロ担当を紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2237,
+        "label": "第06曲 鬼ノ宴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2401,
+        "label": "終演感想、ソロ／デュエット構成を説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2441,
+        "label": "第07曲 SAKURAドロップス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2716,
+        "label": "終演後に曲名らしき語を回顧、次曲と飲食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2789,
+        "label": "第08曲 舞風",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3023,
+        "label": "終演感想、焼きそば・広島焼きの飲食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3085,
+        "label": "第09曲 今日に恋色",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3325,
+        "label": "終演後の干支トーク、次のダーク曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3413,
+        "label": "第10曲 奈落の花",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3682,
+        "label": "ひぐらし登場人物トーク、次の怖い歌を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3767,
+        "label": "第11曲 結ンデ開イテ羅刹ト骸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4016,
+        "label": "終演感想、全員曲へ交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4071,
+        "label": "第12曲 阿吽のビーツ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4229,
+        "label": "ボカロカバー談義、デュエット担当へ交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4353,
+        "label": "第13曲 袖触れ合うも他生の縁",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4549,
+        "label": "デュエット終演感想、次のデュエット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4657,
+        "label": "第14曲 竹取オーバーナイトセンセーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4870,
+        "label": "終演感想、15曲目の全員曲を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5001,
+        "label": "第15曲 残響散歌",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5173,
+        "label": "15曲到達確認、3人の落語風曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5243,
+        "label": "第16曲 ニッポン笑顔百景",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5466,
+        "label": "終演後の馬年トーク、次のデュエットを選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5576,
+        "label": "第17曲 月陽-ツキアカリ-",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5808,
+        "label": "17曲到達確認、ソロへ交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5916,
+        "label": "第18曲 白金ディスコ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6177,
+        "label": "飲食、トイレ相談と第1陣の移動準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "第1陣トイレ休憩、残留組の雑談と急な選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6395,
+        "label": "第19曲 桜前線異常ナシ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6613,
+        "label": "帰還者を交え次のソロ担当を促す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6697,
+        "label": "第20曲 少女ふぜゐ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6949,
+        "label": "終演後の寸劇・参加者再集合、全員ダンス曲の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7253,
+        "label": "第21曲 檄！帝国華撃団",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7435,
+        "label": "ダンス感想、休憩用のしっとり曲へ交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7540,
+        "label": "第22曲 天城越え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7814,
+        "label": "天城越え後の飲食、セクシー曲とダンサー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7903,
+        "label": "第23曲 吉原ラメント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8102,
+        "label": "23曲到達、寸劇感想と次曲の参加者招集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8182,
+        "label": "第24曲 鎌倉STYLE",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8397,
+        "label": "ダンス疲労のMC、次のソロ選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8460,
+        "label": "第25曲 浮舟",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8692,
+        "label": "終演感想、バンド談義と飲食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8751,
+        "label": "第26曲 恐山ル・ヴォワール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9123,
+        "label": "終演後にシャーマンキング関連を説明、しっとり曲の順をじゃんけん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9289,
+        "label": "第27曲 蝶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9638,
+        "label": "蝶の感想、ゲーム遊びと次のしっとり曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9803,
+        "label": "第28曲 紅一葉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10046,
+        "label": "終演感想、同じ作曲者つながりを説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10083,
+        "label": "第29曲 上弦の月",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10329,
+        "label": "作曲談義、お菓子追加、帰還者と30曲到達前の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10411,
+        "label": "第30曲 四季ノ唄",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10635,
+        "label": "終演感想、全員曲センター交代とイントロ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10723,
+        "label": "第31曲 輝夜の城で踊りたい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10998,
+        "label": "全員曲後の短いMC、次の全員ラップへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11022,
+        "label": "第32曲 あゝオオサカdreamin' night",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11222,
+        "label": "32曲到達、第2陣トイレ休憩開始、残留者ソロへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11332,
+        "label": "第33曲 紅蓮華",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11551,
+        "label": "ソロ終演感想、続けて残留者が選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11600,
+        "label": "第34曲 不安定な神様",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11822,
+        "label": "第2陣帰還、34曲確認、次のソロ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11957,
+        "label": "第35曲 宵々古今",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12198,
+        "label": "ソロ終演感想、過去の誘いを回顧してデュエットへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12270,
+        "label": "第36曲 おどりゃんせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12462,
+        "label": "デュエット後、未消化の組み合わせ確認と曲数・休憩計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12634,
+        "label": "第37曲 長く短い祭",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12890,
+        "label": "デュエット後、綺沙良デュエット集中区間の相手交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12952,
+        "label": "第38曲 極楽浄土",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13166,
+        "label": "終演後の飲食、残るデュエットの難曲を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13337,
+        "label": "第39曲 天樂",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13599,
+        "label": "終演後の飲食、39曲確認と40曲目全員曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13743,
+        "label": "第40曲 神のまにまに",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13993,
+        "label": "40曲到達、最後の10曲とトイレ相談、デュエット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14103,
+        "label": "第41曲 四季折の羽",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14394,
+        "label": "デュエット演出の鳥寸劇、最後のトイレ移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14533,
+        "label": "第42曲 ムラサキ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14702,
+        "label": "トイレ休憩中の飲食雑談、次のソロを明示",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14819,
+        "label": "第43曲 いろは唄",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15026,
+        "label": "ソロ終演、締め区間の次曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15048,
+        "label": "第44曲 最強○×計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15299,
+        "label": "残り各1ソロと最後の全員曲を確認、歌順決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15483,
+        "label": "第45曲 きらきら武士",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15748,
+        "label": "トイレ帰還、飲食雑談、次のソロとダンス役を指名",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15885,
+        "label": "第46曲 甲賀忍法帖",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16100,
+        "label": "バジリスク曲後の疲労休憩、残りソロ順を寸劇で決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16303,
+        "label": "第47曲 いかないで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16482,
+        "label": "別れ寸劇から復帰、次のソロへ交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16567,
+        "label": "第48曲 明け星",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16832,
+        "label": "終演後の疲労MC、49曲目担当が曲名を告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16913,
+        "label": "第49曲 純潔パラドックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17122,
+        "label": "49曲達成・感想と50曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17448,
+        "label": "第50曲 花になって",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17645,
+        "label": "50曲達成・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "ezHuXXBgd8g",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#4【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-10T08:12:34Z",
+  "duration": "PT3H49M42S",
+  "durationSec": 13782,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ezHuXXBgd8g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 399,
+        "label": "ゲーム開始・病棟の患者対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1585,
+        "label": "あみちゃんの看護と癒し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "渚との会話・ルート選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3244,
+        "label": "患者の清拭と看護の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4084,
+        "label": "翔ちゃんの食事と病棟の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4926,
+        "label": "初美・渚ルートの実況と花作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6011,
+        "label": "仕事の振り返りと主任の指摘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6485,
+        "label": "検査結果の運搬と病棟の騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6961,
+        "label": "下着談義と百合トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "病棟での緊急対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8161,
+        "label": "処置後の振り返りと医療解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8656,
+        "label": "仕事に慣れる中での新たな課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9240,
+        "label": "排泄介助の課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9841,
+        "label": "レポート後の病棟の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10687,
+        "label": "昼休みの漫画談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11283,
+        "label": "靖子の漫画制作を手伝う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11655,
+        "label": "外来でのあみちゃんとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12492,
+        "label": "検査結果と主任の指導",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13081,
+        "label": "セーブと仕事の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13323,
+        "label": "外来で感じる不穏な気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13565,
+        "label": "ゲーム内の区切りへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13685,
+        "label": "終了挨拶・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

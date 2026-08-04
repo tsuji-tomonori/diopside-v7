@@ -1,0 +1,100 @@
+{
+  "videoId": "3ruDyWOhpkU",
+  "title": "【マリオカート8DX】また一から始めるマリオカート【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-12T12:53:42Z",
+  "duration": "PT4H57M42S",
+  "durationSec": 17862,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3ruDyWOhpkU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会ルールとキャラ方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 610,
+        "label": "Mii作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2621,
+        "label": "タイムアタックの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3132,
+        "label": "マリオカートスタジアム攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6222,
+        "label": "スイーツキャニオン攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7016,
+        "label": "ドッスンいせき攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9033,
+        "label": "視聴者参加型レースの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9522,
+        "label": "マリオサーキット攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12549,
+        "label": "ねじれマンション攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15113,
+        "label": "サンシャインくうこう攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15617,
+        "label": "ドルフィンみさき以降のコース攻略練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17580,
+        "label": "練習の締めと次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17684,
+        "label": "スーパーチャット読み・締め雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

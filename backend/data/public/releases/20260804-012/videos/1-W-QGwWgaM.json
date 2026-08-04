@@ -1,0 +1,125 @@
+{
+  "videoId": "1-W-QGwWgaM",
+  "title": "【マイクラ】ただお家に帰りたいだけなのに【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-08T18:58:36Z",
+  "duration": "PT1H53M42S",
+  "durationSec": 6822,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1-W-QGwWgaM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:55:17Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ログイン障害の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 100,
+        "label": "帰宅目標と夏祭り周辺の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 666,
+        "label": "夜の散策・戦闘と帰宅準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "ボートで帰路へ・操作に苦戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1512,
+        "label": "帰路の再探索と16万人への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2062,
+        "label": "家の外観・内装を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2399,
+        "label": "家の手直しと雪建築の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "素材集めと道具作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3327,
+        "label": "雪とカボチャの建築・動物の誘導",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3697,
+        "label": "カボチャ畑と水路づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4281,
+        "label": "雪の記念装飾と建築の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4761,
+        "label": "家の建築を再開・足場を使う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "建築しながら配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5249,
+        "label": "家らしい外観と高さを整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5701,
+        "label": "雪の上を散策・家の外観確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5891,
+        "label": "深夜の建築継続と足場作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6448,
+        "label": "建築の外観確認と次回の改良案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6695,
+        "label": "締め・次回の家づくり方針",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

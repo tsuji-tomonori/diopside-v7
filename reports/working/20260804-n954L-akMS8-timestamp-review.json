@@ -1,0 +1,37 @@
+{
+  "videoId": "n954L-akMS8",
+  "sheetRow": 82,
+  "subtitle": {
+    "bytes": 1993300,
+    "cueCount": 10903,
+    "sha256": "383c6fe80888f6a935417d584fda0d176b60f93e0790b4f291745f80bfd72208",
+    "firstCueSec": 91.68,
+    "lastCueSec": 23353.16,
+    "durationSec": 23392
+  },
+  "comments": {
+    "status": "acquired",
+    "count": 20,
+    "fullTimelineOutlineAvailable": false
+  },
+  "chapterCount": 29,
+  "factReview": {
+    "decision": "pass",
+    "method": "全編字幕を意味単位で確認し、章境界ごとの最近傍字幕cueと章名の対応を独立再検査。弱い7境界を再配置"
+  },
+  "editorialReview": {
+    "decision": "pass",
+    "method": "粒度、明瞭性、重複、ネタバレ抑制、全編カバレッジを作成観点と分離して再確認"
+  },
+  "validation": {
+    "startsAtZero": true,
+    "ascending": true,
+    "integerSeconds": true,
+    "withinDuration": true,
+    "fullTimelineCovered": true,
+    "duplicateVideoIds": 0,
+    "releaseId": "20260804-015",
+    "releaseVideoCount": 1219,
+    "seedReleaseId": "20260804-014"
+  }
+}

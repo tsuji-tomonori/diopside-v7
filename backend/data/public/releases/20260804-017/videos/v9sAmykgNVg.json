@@ -1,0 +1,100 @@
+{
+  "videoId": "v9sAmykgNVg",
+  "title": "【３D初お披露目】夢は叶えるもの！動く姿はセンシティブ【#愛園３D/にじさんじ】",
+  "publishedAt": "2021-05-14T13:07:42Z",
+  "duration": "PT59M1S",
+  "durationSec": 3541,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/v9sAmykgNVg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:58:25Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "メイド喫茶で3Dお披露目スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 226,
+        "label": "ライブステージ：Solar Flare Sherbet",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 305,
+        "label": "3Dモデル紹介・ポーズ撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 696,
+        "label": "ゲスト登場・ツーショット撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1085,
+        "label": "ライブステージ：Fantastic future",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1473,
+        "label": "センシティブ選手権の導入・ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1767,
+        "label": "センシティブ選手権",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2363,
+        "label": "ライブステージ：KISS OF DEATH",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2680,
+        "label": "ライブステージ：ボン♡キュッ♡ボンは彼のモノ♡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2835,
+        "label": "ライブステージ：Sincerely",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3158,
+        "label": "3Dお披露目の締め・最後の曲紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3214,
+        "label": "ライブステージ：Climax Jump",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3454,
+        "label": "終演後のメッセージ・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

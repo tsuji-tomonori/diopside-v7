@@ -1,0 +1,115 @@
+{
+  "videoId": "SoMM41baLI0",
+  "title": "【マリオカート8DX】第３回マリカにじさんじ杯 予選Aリーグ【にじさんじ/リゼ・ヘルエスタ】",
+  "publishedAt": "2020-12-19T05:06:48Z",
+  "duration": "PT1H1M9S",
+  "durationSec": 3669,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SoMM41baLI0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:20:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 219,
+        "label": "予選ルールと参加者の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 541,
+        "label": "選手入場と大会演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 799,
+        "label": "レース開始待ち・展開予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1209,
+        "label": "副音声の準備と接続確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1565,
+        "label": "予選レース開始・ビッグブルー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1880,
+        "label": "続くレースの実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2284,
+        "label": "レース後の条件確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2437,
+        "label": "予選後の進行・エキシビション待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2575,
+        "label": "予選後の走りの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "音声調整とインタビュー待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2866,
+        "label": "レース内容と設定の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3036,
+        "label": "本戦に向けた練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3113,
+        "label": "得意コースとカスタム構成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3383,
+        "label": "大会インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3532,
+        "label": "今後の予定・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "rJakc66jZO8",
+  "title": "【雑談】あの話しこの話しうら話しなど【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-13T14:42:38Z",
+  "duration": "PT1H30M13S",
+  "durationSec": 5413,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rJakc66jZO8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雑談導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 143,
+        "label": "えまさん3Dお披露目の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 558,
+        "label": "出演の経緯とスタジオ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 829,
+        "label": "サムネイルの表示トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1211,
+        "label": "スタジオ当日の裏話とカザさんの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1595,
+        "label": "鞭企画の裏側とリハーサル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "打ち上げと企画後の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2328,
+        "label": "出演者の印象と3Dステージの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2627,
+        "label": "スパチャ読みと今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3046,
+        "label": "スパチャ読み・カザさんの身長差の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3705,
+        "label": "今後のコラボ・映画・麻雀の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4108,
+        "label": "今後の3D企画と配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4410,
+        "label": "ロープ結びの話とスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "3Dお披露目の感想と今後のゲーム配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4949,
+        "label": "3Dお披露目に向けた応援の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5322,
+        "label": "配信の締めくくり・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

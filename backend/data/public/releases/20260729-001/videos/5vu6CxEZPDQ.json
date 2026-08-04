@@ -1,0 +1,140 @@
+{
+  "videoId": "5vu6CxEZPDQ",
+  "title": "【#きいさま生誕祭2025 】綺沙良と乾杯してくれるかな？誕生日逆凸！！🥂【綺沙良/にじさんじ】",
+  "publishedAt": "2025-05-29T13:18:06Z",
+  "duration": "PT3H2M27S",
+  "durationSec": 10947,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5vu6CxEZPDQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日逆凸の企画説明・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 424,
+        "label": "倉持めるとさんと乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1065,
+        "label": "雲母たまこさんとゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1686,
+        "label": "梢桃音さんと歌・お酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2293,
+        "label": "海妹四葉さんと乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2808,
+        "label": "歌とダンスの通話・キノピオものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3466,
+        "label": "日本酒の飲み比べと歌の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4136,
+        "label": "魁星さんと初対面トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5073,
+        "label": "夜乃くろむさんとゲーム・お絵描き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5922,
+        "label": "珠乃井ナナさんと揚げ物トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6660,
+        "label": "休憩・CM",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6822,
+        "label": "山神カルタさんと乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7467,
+        "label": "白雪巴さんと交流・企画話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8262,
+        "label": "七海うららさんと歌・イラスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8944,
+        "label": "神田笑一さんのタロット占い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9595,
+        "label": "ルンルンさんと食事の約束",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9761,
+        "label": "七瀬すずなさんとお出かけトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10075,
+        "label": "早乙女ベリーさんとお酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10423,
+        "label": "司賀りこさんのビデオメッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10509,
+        "label": "栞葉るりさんと乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10895,
+        "label": "締め・次回配信案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "CcTKSNNnXq8",
+  "title": "【雑談】朝ごはん食べながらまったりモーニング【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-15T01:59:06Z",
+  "duration": "PT1H22M41S",
+  "durationSec": 4961,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CcTKSNNnXq8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:42:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "朝の挨拶・配信の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 424,
+        "label": "朝食とブランチの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 662,
+        "label": "筋トレを始めた理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 960,
+        "label": "今後のゲーム予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1143,
+        "label": "ホラーゲームの体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1322,
+        "label": "ホラー映画・怪物映画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1680,
+        "label": "ホラー作品の好みを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2080,
+        "label": "百合漫画の話・おすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "2周年と衣装の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2644,
+        "label": "運動と食事管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3122,
+        "label": "4周年ライブへの意気込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3384,
+        "label": "冬服とワクチンの服装話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3923,
+        "label": "歌ってみたと歌い方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4441,
+        "label": "配信予定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4584,
+        "label": "スパチャ読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

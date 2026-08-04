@@ -1,0 +1,115 @@
+{
+  "videoId": "wWJ3maLmkvA",
+  "title": "【誕生日記念凸待ち】日本語ブロンズの初凸待ち【叢雲カゲツ/にじさんじ】",
+  "publishedAt": "2024-02-26T15:10:23Z",
+  "duration": "PT3H17M55S",
+  "durationSec": 11875,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wWJ3maLmkvA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:30:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・凸待ちの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 397,
+        "label": "飛鳥ひなと初凸待ちトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1053,
+        "label": "天宮こころと初対面トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2116,
+        "label": "えると活動トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3111,
+        "label": "佐伯イッテツと誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4045,
+        "label": "ヤン・ナリと活動の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4648,
+        "label": "ソフィア・ヴァレンタインと活動トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5517,
+        "label": "赤城ウェンと記念トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6555,
+        "label": "白雪巴と活動の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7322,
+        "label": "フミと質問トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7910,
+        "label": "シスター・クレアと雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8549,
+        "label": "伊波ライと同期トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9495,
+        "label": "倉持めるとと願い事トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10256,
+        "label": "夕陽リリと質問トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10899,
+        "label": "ミラン・ケストレルと記念トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11530,
+        "label": "プレゼント整理・告知とエンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "TjODNyzlf8g",
+  "title": "ガチャ配信【ウマ娘】マルゼンちゃん(水着)出るまで引く【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-29T12:43:50Z",
+  "duration": "PT1H59M41S",
+  "durationSec": 7181,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TjODNyzlf8g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・水着ガチャの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 536,
+        "label": "ガチャの方針と最初の10連",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1558,
+        "label": "100連前後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1974,
+        "label": "支払い方法を変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2135,
+        "label": "追加ガチャと葛藤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2732,
+        "label": "次の水着ピックアップ・追加課金相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3293,
+        "label": "キャラクター談義から本気のガチャへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4180,
+        "label": "300連に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4552,
+        "label": "水着キャラへの気持ちを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4770,
+        "label": "衣装を戻して再整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "ガチャをさらに進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5348,
+        "label": "追加チャージして再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5532,
+        "label": "上限を決めて振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5861,
+        "label": "最後の挑戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6002,
+        "label": "最後のガチャと終了",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6116,
+        "label": "ガチャ後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6444,
+        "label": "告知・エンディング前の談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6638,
+        "label": "スーパーチャット読みと感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7073,
+        "label": "最後の振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

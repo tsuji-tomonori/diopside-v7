@@ -1,0 +1,135 @@
+{
+  "videoId": "fhhlUMBOses",
+  "title": "【バイオRE:2】強気お姉さんのビビりバイオプレイ#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-01T16:54:00Z",
+  "duration": "PT2H8M41S",
+  "durationSec": 7721,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fhhlUMBOses/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T16:40:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 406,
+        "label": "主人公を選んでゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 508,
+        "label": "操作を確認しながら序盤を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1003,
+        "label": "敵の気配と序盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1291,
+        "label": "クレアと合流して警察署へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1539,
+        "label": "警察署を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2311,
+        "label": "シャッターを開けて先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2761,
+        "label": "ナイフ操作と警察署の目的を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3383,
+        "label": "敵の倒し方を学びリッカーを避ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3653,
+        "label": "警察署の記録を読み探索ルートを決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4125,
+        "label": "西側オフィスの机の謎に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4553,
+        "label": "オフィスのアイテムとフィルムを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5222,
+        "label": "ゾンビをナイフで切り抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5373,
+        "label": "ランプの仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5860,
+        "label": "アイテムを確認してメインホールへ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6407,
+        "label": "鍵を入手して警察署の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6877,
+        "label": "メダルと赤い本を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7112,
+        "label": "警察署の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7251,
+        "label": "像の仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "配信終了・次回の案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

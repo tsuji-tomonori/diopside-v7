@@ -1,0 +1,115 @@
+{
+  "videoId": "NTXb-UWEPtY",
+  "title": "【3Dお披露目配信】ばちこーん★ うごく魔王を見てくれたまえ！【 #えまおう3D /にじさんじ】",
+  "publishedAt": "2021-03-12T13:13:03Z",
+  "duration": "PT1H3M32S",
+  "durationSec": 3812,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NTXb-UWEPtY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:12:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3Dお披露目スタート・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 229,
+        "label": "衣装・外見と表情紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 387,
+        "label": "入場演出・ポーズ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 671,
+        "label": "水辺の演出紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 991,
+        "label": "お酒紹介・乾杯トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1288,
+        "label": "部屋・小道具と衣装ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1414,
+        "label": "ポーズ・身体動作デモ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1658,
+        "label": "一発ギャグ・感謝トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2009,
+        "label": "参加型ゲーム・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2141,
+        "label": "参加型ゲーム・実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2393,
+        "label": "参加型ゲーム・回答と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2737,
+        "label": "参加型ゲーム・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2931,
+        "label": "記念演出・スナック風ステージ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3149,
+        "label": "ステージ歌唱・1曲目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3332,
+        "label": "曲間MC・2曲目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3588,
+        "label": "終了挨拶・合言葉",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

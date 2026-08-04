@@ -1,0 +1,70 @@
+{
+  "videoId": "xgp8XQvbDUU",
+  "title": "【#にじさんじ麻雀杯/雀魂】新春麻雀！予選が一番の鬼門かもしれねえグループLでございます【にじさんじ/社築】",
+  "publishedAt": "2022-01-08T10:54:17Z",
+  "duration": "PT29M27S",
+  "durationSec": 1767,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xgp8XQvbDUU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T21:37:56Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・対局準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 350,
+        "label": "対局開始・序盤の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 528,
+        "label": "対局の区切り・点数確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 767,
+        "label": "終盤の勝負と判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1051,
+        "label": "対局後の振り返り・次の局の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1343,
+        "label": "対局の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1589,
+        "label": "対局後の感想・大会振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

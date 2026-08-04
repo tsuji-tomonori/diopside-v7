@@ -1,0 +1,95 @@
+{
+  "videoId": "Ud0CEdPAII0",
+  "title": "【#エデンとアソボウ/Among US】エデン組に呼び出されましたのでボコります",
+  "publishedAt": "2021-12-11T14:46:45Z",
+  "duration": "PT2H11M42S",
+  "durationSec": 7902,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ud0CEdPAII0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:17:25.469Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 593,
+        "label": "1戦目・初動と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1282,
+        "label": "1戦目・最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2004,
+        "label": "2戦目・ゲーム進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2432,
+        "label": "2戦目・会議と状況整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3438,
+        "label": "投票とラウンド後の作戦整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3855,
+        "label": "追加会議と証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5042,
+        "label": "3戦目・初動と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5908,
+        "label": "4戦目・進行と会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6502,
+        "label": "終盤ラウンド・進行と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7370,
+        "label": "ラウンド後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7839,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

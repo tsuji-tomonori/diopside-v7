@@ -1,0 +1,130 @@
+{
+  "videoId": "opaJTA7aIJ0",
+  "title": "【#異色あもあす】 異色な9人で騙し合い【ホロライブ / 星街すいせい】",
+  "publishedAt": "2021-03-02T13:51:48Z",
+  "duration": "PT1H35M54S",
+  "durationSec": 5754,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/opaJTA7aIJ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:52:00.447Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 462,
+        "label": "第1戦・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 738,
+        "label": "第1戦・最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1195,
+        "label": "第1戦・続く会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1688,
+        "label": "第1戦・終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2110,
+        "label": "第1戦後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2265,
+        "label": "第2戦・ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2545,
+        "label": "第2戦・会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "第2戦後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3256,
+        "label": "第3戦・開始と最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3595,
+        "label": "第3戦・続く会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3805,
+        "label": "第3戦後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3975,
+        "label": "第4戦・準備とゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4142,
+        "label": "第4戦・最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4367,
+        "label": "第4戦・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4864,
+        "label": "第4戦・終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5151,
+        "label": "終盤戦・ゲーム再開と最終会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5512,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5616,
+        "label": "告知・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

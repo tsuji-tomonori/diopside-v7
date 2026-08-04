@@ -1,0 +1,110 @@
+{
+  "videoId": "fPgL8lqZomE",
+  "title": "＃３【星のカービィ ディスカバリー】二面コンプ済み！三面いくぽよ！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-14T14:57:36Z",
+  "duration": "PT2H28M7S",
+  "durationSec": 8887,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fPgL8lqZomE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:17:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 817,
+        "label": "遊園地ステージ攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "サーキットステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3026,
+        "label": "お化け屋敷ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "夜の遊園地ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5220,
+        "label": "ステージ後の準備・ボス戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5586,
+        "label": "ボス戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6034,
+        "label": "街の拡張・連戦コンテンツ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6903,
+        "label": "ソード設計図・次エリア準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7171,
+        "label": "最初のトレジャーロード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "トレジャーロード再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8003,
+        "label": "ニードルトレジャー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8326,
+        "label": "ゲーム終了・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8402,
+        "label": "スパチャ読み・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8761,
+        "label": "最後のゲーム内操作・挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

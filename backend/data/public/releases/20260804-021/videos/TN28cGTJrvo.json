@@ -1,0 +1,125 @@
+{
+  "videoId": "TN28cGTJrvo",
+  "title": "【ポケモンユナイト】チームDとの練習試合！【神田笑一/にじさんじ】",
+  "publishedAt": "2021-09-08T15:37:52Z",
+  "duration": "PT1H54M23S",
+  "durationSec": 6863,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TN28cGTJrvo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:35:37.865858+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 365,
+        "label": "1試合目・実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1057,
+        "label": "1試合目の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1423,
+        "label": "2試合目・実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2053,
+        "label": "2試合目の振り返り・3試合目準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2399,
+        "label": "3試合目・実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3008,
+        "label": "3試合目の振り返り・4試合目準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3206,
+        "label": "4試合目・カビゴンを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "4試合目の戦術レビュー・5試合目準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4314,
+        "label": "5試合目・カビゴンで実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4803,
+        "label": "5試合目の振り返り・最後の試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5207,
+        "label": "6試合目・最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5761,
+        "label": "最後の試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5956,
+        "label": "初動の定型化と練習方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6085,
+        "label": "カジリガメ戦の連携講座",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6303,
+        "label": "実戦の振り返りと編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6475,
+        "label": "カビゴンとアローラキュウコンの連携",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6756,
+        "label": "本番に向けた締めトーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

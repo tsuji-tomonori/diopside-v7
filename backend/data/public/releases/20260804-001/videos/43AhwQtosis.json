@@ -1,0 +1,155 @@
+{
+  "videoId": "43AhwQtosis",
+  "title": "前編【夕鬼 零 -Yuoni: ゼロ-】夕暮れ、独り、放課後の教室にて。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-20T16:37:52Z",
+  "duration": "PT3H12M56S",
+  "durationSec": 11576,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/43AhwQtosis/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:47:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 157,
+        "label": "夕鬼 零の導入と操作準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 457,
+        "label": "ゲーム本編開始・最初の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1013,
+        "label": "VR操作トラブルに対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1483,
+        "label": "物語再開・第二話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1685,
+        "label": "VR酔い対策と操作調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1989,
+        "label": "第二話の物語を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2814,
+        "label": "駄菓子屋と怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3699,
+        "label": "追跡と翌朝の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3919,
+        "label": "学校へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4564,
+        "label": "学校の教室で異変が広がる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5372,
+        "label": "保健室で事件を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6026,
+        "label": "街中の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6549,
+        "label": "怪異の仕組みを聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7164,
+        "label": "家を守る準備と怪異への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8139,
+        "label": "自宅で状況を確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "追跡場面を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9235,
+        "label": "旧校舎を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9598,
+        "label": "新たな探索課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9989,
+        "label": "人形を探して旧校舎を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10300,
+        "label": "探索中の怪異から逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10890,
+        "label": "ゲーム終了後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11095,
+        "label": "ゲーム終了・配信の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11314,
+        "label": "VR設定を振り返る",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

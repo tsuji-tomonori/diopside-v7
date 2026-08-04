@@ -1,0 +1,140 @@
+{
+  "videoId": "HQLfpEfRDXA",
+  "title": "【#にじワイテ 人狼RPG第弐夜】ここが人狼のいる村か～ァ…よっしゃ沢山狩るぞ～＾＾【弦月藤士郎/にじさんじ/ワイテルズ】",
+  "publishedAt": "2020-10-18T13:40:19Z",
+  "duration": "PT2H5M46S",
+  "durationSec": 7546,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HQLfpEfRDXA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:12:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ルール説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 621,
+        "label": "第1試合・開幕と最初の昼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1138,
+        "label": "第1試合・夜の行動と役職報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1734,
+        "label": "第1試合・対立と終盤の追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2272,
+        "label": "第1試合・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2377,
+        "label": "第2試合・準備と開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2834,
+        "label": "第2試合・役職探りと調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3284,
+        "label": "第2試合・夜の捜索と終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3749,
+        "label": "第2試合・振り返りと次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3996,
+        "label": "第3試合・開幕と最初の昼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4535,
+        "label": "第3試合・夜の捜索と対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4961,
+        "label": "第3試合・終盤と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5293,
+        "label": "最終試合・準備と開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5655,
+        "label": "最終試合・夜の行動と役職報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6019,
+        "label": "最終試合・連携と攻撃準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6504,
+        "label": "最終試合・目撃情報と緊急対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6635,
+        "label": "最終試合・ルート上の出来事",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6777,
+        "label": "最終試合・終盤の攻防と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7048,
+        "label": "集計内容の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7150,
+        "label": "全試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7335,
+        "label": "告知・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

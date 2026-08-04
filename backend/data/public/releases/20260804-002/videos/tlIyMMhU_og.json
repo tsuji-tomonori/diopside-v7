@@ -1,0 +1,120 @@
+{
+  "videoId": "tlIyMMhU_og",
+  "title": "#にじスプラ大会【#スプラトゥーン2】満開の花、咲かせましょう。エリー・コニファー視点 #雪晴れに花ふわり 【#エリーコニファー/#不破湊/#白雪巴/#甲斐田晴/#にじさんじ】",
+  "publishedAt": "2020-06-20T12:21:36Z",
+  "duration": "PT47M41S",
+  "durationSec": 2861,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tlIyMMhU_og/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:56:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 681,
+        "label": "チーム連携と武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 934,
+        "label": "第1試合の実況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1096,
+        "label": "第1試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1222,
+        "label": "ロビー移動・次の対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1394,
+        "label": "次の試合の実況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1458,
+        "label": "試合後の振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1642,
+        "label": "試合前の最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1725,
+        "label": "実戦と練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1797,
+        "label": "マップ確認・侵入ルート作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1872,
+        "label": "試合開始・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2044,
+        "label": "試合後の振り返りと次の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2124,
+        "label": "後半戦のライブ実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2345,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2517,
+        "label": "練習の総括・応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2657,
+        "label": "締めの挨拶・大会を見届ける案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2719,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

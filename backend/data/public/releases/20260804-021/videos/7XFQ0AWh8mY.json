@@ -1,0 +1,140 @@
+{
+  "videoId": "7XFQ0AWh8mY",
+  "title": "【こだわりラーメン館 ＃２】大会1位👑突破して2店舗目できる…か！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-07-16T17:26:36Z",
+  "duration": "PT4H10M12S",
+  "durationSec": 15012,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7XFQ0AWh8mY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:04:58Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 351,
+        "label": "麺や巴 営業再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 809,
+        "label": "海鮮豚骨ラーメンを改良",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1693,
+        "label": "新要素と店舗運営",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2490,
+        "label": "自家製麺とスープ作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3726,
+        "label": "ライバル店が登場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4754,
+        "label": "大会からライバル対決へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5214,
+        "label": "本店拡張とスタッフ強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6387,
+        "label": "段位認定と大会挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6923,
+        "label": "にぎやか通りへ移転",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7252,
+        "label": "設備投資とスタッフ育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7891,
+        "label": "大会ラッシュ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8486,
+        "label": "次のライバルに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8953,
+        "label": "ラーメン闘技場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9475,
+        "label": "自家製味噌ラーメン作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10269,
+        "label": "新作味噌をメニュー投入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11061,
+        "label": "店舗改善とスタッフ育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11858,
+        "label": "自家製野菜ラーメン作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13388,
+        "label": "メニュー整理と店舗改善",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14035,
+        "label": "セーブ・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14201,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

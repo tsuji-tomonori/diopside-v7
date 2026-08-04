@@ -1,0 +1,155 @@
+{
+  "videoId": "BPAkApnWCtE",
+  "title": "【マリオカート8DX】白雪は探偵さんにマリカでわからせたい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-09T15:45:17Z",
+  "duration": "PT1H52M17S",
+  "durationSec": 6737,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BPAkApnWCtE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:01:22.671523+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・対戦ルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 496,
+        "label": "参加者募集とルーム設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 633,
+        "label": "最初の視聴者参加レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 832,
+        "label": "レース後の振り返りと機材調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1190,
+        "label": "次の視聴者参加レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1610,
+        "label": "コントローラー再調整と対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1766,
+        "label": "視聴者参加レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1919,
+        "label": "レース後の振り返りと機材相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2165,
+        "label": "追い上げを狙うレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2320,
+        "label": "音声・BGM調整と雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "レース再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2886,
+        "label": "結果確認と再対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2981,
+        "label": "コースを変えて再対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3123,
+        "label": "雑談と次の対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3413,
+        "label": "ショートカットとアイテム攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3601,
+        "label": "リボンロード対戦と次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3957,
+        "label": "長い接戦レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4593,
+        "label": "レース後のアフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5045,
+        "label": "新しいマップで対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5349,
+        "label": "追加対戦とサドンデス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5885,
+        "label": "得意コースで追加レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6156,
+        "label": "終盤の追加レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6408,
+        "label": "対戦振り返りと次回の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6549,
+        "label": "告知と締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

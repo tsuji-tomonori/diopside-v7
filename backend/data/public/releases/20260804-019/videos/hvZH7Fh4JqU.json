@@ -1,0 +1,185 @@
+{
+  "videoId": "hvZH7Fh4JqU",
+  "title": "【お正月企画】あけおめ逆凸⚡悪魔の誘惑凸待ち【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2022-01-02T12:39:42Z",
+  "duration": "PT2H23M36S",
+  "durationSec": 8616,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hvZH7Fh4JqU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:01:44.366222+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・逆凸企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 212,
+        "label": "ラプラス・ダークネスとの新年挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 603,
+        "label": "オリーとのAPEX・マイクラ企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 832,
+        "label": "百鬼あやめとの料理・歌コラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1140,
+        "label": "イオフィとの耳かき・料理コラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1358,
+        "label": "メアリとの手料理交換の約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1626,
+        "label": "レイネとの料理コラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1860,
+        "label": "アーニャとの日本食・手料理の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2191,
+        "label": "アキロゼとの手料理コラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2542,
+        "label": "ラミィとのおつまみ判定コラボ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2737,
+        "label": "郡道美玲とのAPEX・食事の約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2947,
+        "label": "こよりとの料理・白衣企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3382,
+        "label": "ななかぐらとのゲーム・手料理の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3653,
+        "label": "沙花叉クロヱとのキャラ弁・睡眠企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3884,
+        "label": "轟京子とのASMR・ファッション企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4193,
+        "label": "鷹嶺ルイとの料理対決・ランチの約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4492,
+        "label": "アンジュとのゲーム・カレーの約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4802,
+        "label": "因幡はねるとの料理・持ち寄りパーティー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5114,
+        "label": "イラスト講座とホラーゲームコラボの相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5395,
+        "label": "葉加瀬冬雪との料理・買い物レビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5683,
+        "label": "天神子兎音との料理・ダンスコラボ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5852,
+        "label": "森中花咲との新居訪問・アウトレット計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6100,
+        "label": "小森めととのコース料理の約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6404,
+        "label": "いちかとの京都・関西旅行計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6705,
+        "label": "シスター・クレアとの買い物・甘やかし企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6988,
+        "label": "巴とのポーカーコラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7248,
+        "label": "犬山たまきとの睡眠・コラボ予定の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7907,
+        "label": "逆凸企画の振り返り・26人の出演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8332,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8561,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "PHiVxLxL23w",
+  "title": "#1【Detroit: Become Human】自分の選択を信じて完全初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-20T16:33:37Z",
+  "duration": "PT2H18M31S",
+  "durationSec": 8311,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PHiVxLxL23w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:59:26.751003Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・初見プレイの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 594,
+        "label": "最初の人質事件を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "新しいアンドロイドと街の様子",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "家の片付けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3236,
+        "label": "アリスの部屋を片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3605,
+        "label": "カールの家で家事とピアノ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3999,
+        "label": "マーカスの絵とカールとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4668,
+        "label": "コナー編・警部を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "事件現場を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5455,
+        "label": "証拠を再構成して報告する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "家庭内の緊張が高まる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "カーラ編・選択の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6807,
+        "label": "夜を越す場所を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7044,
+        "label": "店や空き家を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7261,
+        "label": "助けを求め、別の手段を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7651,
+        "label": "宿泊先を探し続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7896,
+        "label": "一晩の居場所を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8143,
+        "label": "次回の話・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

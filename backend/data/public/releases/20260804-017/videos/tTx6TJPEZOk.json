@@ -1,0 +1,165 @@
+{
+  "videoId": "tTx6TJPEZOk",
+  "title": "栞葉るりのビストロ文学  ～にじさんじライバー篇～【にじさんじ】",
+  "publishedAt": "2023-12-29T13:12:37Z",
+  "duration": "PT2H5M47S",
+  "durationSec": 7547,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tTx6TJPEZOk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 181,
+        "label": "入店前のお願い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 411,
+        "label": "える：退屈な世界から連れ出す物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 760,
+        "label": "ルイス・キャミー：悪人視点の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1070,
+        "label": "矢車りね：気軽に読める古典",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1525,
+        "label": "ましろ：鬱になれる本",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1852,
+        "label": "轟京子：怖い恋愛小説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2190,
+        "label": "白雪巴：少女同士の関係性を読む物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2613,
+        "label": "雪城眞尋：少しドロドロした百合の本",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2901,
+        "label": "四季凪アキラ：ねっとりした恋愛作品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3230,
+        "label": "愛園愛美：どんでん返しのミステリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3562,
+        "label": "倉持めると：読後に衝撃の作品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3851,
+        "label": "来栖夏芽：作業の合間に読む本",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4133,
+        "label": "匿名：怖いお話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4328,
+        "label": "花畑チャイカ：エルフと子どもたちの物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4764,
+        "label": "健屋花那：読み終えて驚くミステリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5033,
+        "label": "神田笑一：時代物",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5399,
+        "label": "匿名のお嬢様：お嬢様らしくなりたい日に",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5629,
+        "label": "鏑木ろこ：不思議な町の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5895,
+        "label": "エリー・コニファー：お花の妖精の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6186,
+        "label": "天宮こころ：どきどきファンタジー・恋愛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6426,
+        "label": "追加オーダー受付",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6522,
+        "label": "オリバー・エバンス：元ネタとメタ視点の作品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6937,
+        "label": "小野町春香：自己肯定感が上がる本",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7234,
+        "label": "企画のまとめ・感想募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7352,
+        "label": "振り返り・次回予告・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

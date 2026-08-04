@@ -1,0 +1,105 @@
+{
+  "videoId": "lsTLDkp-IaI",
+  "title": "【Knockout City】ドッジボールきちゃああああああああ【にじさんじ】",
+  "publishedAt": "2021-06-20T13:29:48Z",
+  "duration": "PT1H57M43S",
+  "durationSec": 7063,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lsTLDkp-IaI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:23:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・チュートリアルとロビー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 643,
+        "label": "初オンライン対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1115,
+        "label": "初戦後の振り返りと再試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1268,
+        "label": "二戦目のオンライン対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1762,
+        "label": "カスタマイズと操作練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2055,
+        "label": "視聴者参加型の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2354,
+        "label": "視聴者参加型の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3084,
+        "label": "マッチングから次のオンライン対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3895,
+        "label": "対戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4031,
+        "label": "新しい参加者との対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4359,
+        "label": "参加者交代とオンライン対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4981,
+        "label": "プライベートマッチの準備と対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5581,
+        "label": "対戦を振り返り次のマッチへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6634,
+        "label": "対戦後の感想と締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "iMgEmwgWeaI",
+  "title": "【ホラー体験】あなたが体験したゾッとする話聞かせて【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-23T14:13:34Z",
+  "duration": "PT59M11S",
+  "durationSec": 3551,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iMgEmwgWeaI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:47:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・怖い体験談の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 322,
+        "label": "巴の心霊体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 499,
+        "label": "寮で聞こえた声の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 705,
+        "label": "インターホンが鳴る部屋の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1029,
+        "label": "トンネルの肝試しとサンダル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1252,
+        "label": "喫茶店の二階へ運ばれた食事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1565,
+        "label": "女子トイレをめぐる怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1853,
+        "label": "深夜のタクシー怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "公園のブランコをめぐる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2301,
+        "label": "病院の看護師にまつわる体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2577,
+        "label": "大学近くのアパートで続く異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2839,
+        "label": "有名なネット怪談についての雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2992,
+        "label": "隣室の人影をめぐる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3229,
+        "label": "海辺で起きた怪異と家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3513,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

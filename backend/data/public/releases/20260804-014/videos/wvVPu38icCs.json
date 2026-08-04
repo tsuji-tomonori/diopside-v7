@@ -1,0 +1,100 @@
+{
+  "videoId": "wvVPu38icCs",
+  "title": "切り抜きを見ながら1年半を振り返る夜王国",
+  "publishedAt": "2021-05-30T14:08:02Z",
+  "duration": "PT58M15S",
+  "durationSec": 3495,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wvVPu38icCs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:18:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "夜王国1.5周年の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 206,
+        "label": "初顔合わせの切り抜き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 409,
+        "label": "初期コラボと大会挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 721,
+        "label": "ハンドシミュレーターの切り抜き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1262,
+        "label": "3人で集まった記録と切り抜き選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1672,
+        "label": "半年記念で変わった距離感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2107,
+        "label": "同期として集まる意味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2310,
+        "label": "2020年12月のゲーム切り抜き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2491,
+        "label": "マリオカート切り抜きと当時の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "1周年記念雑談の切り抜き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3029,
+        "label": "1.5周年のまとめと感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3128,
+        "label": "3Dお披露目でやりたいこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3334,
+        "label": "終盤の雑談・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

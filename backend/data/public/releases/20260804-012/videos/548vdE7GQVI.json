@@ -1,0 +1,110 @@
+{
+  "videoId": "548vdE7GQVI",
+  "title": "【#いづみの知らない世界​】センシチブお姉さん！？白雪巴の世界！【柚原いづみ / あにまーれ】",
+  "publishedAt": "2021-04-17T14:12:19Z",
+  "duration": "PT1H2M30S",
+  "durationSec": 3750,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/548vdE7GQVI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 321,
+        "label": "コラボの振り返り・第一印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 803,
+        "label": "サムネイル制作と今後のコラボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "女性の魅力・いづみのギャップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1734,
+        "label": "甘えたい関係と好みのタイプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2024,
+        "label": "番組画面・フォントへの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2111,
+        "label": "ポンコツ談義とマイクラの苦戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "ゲームの教え方・サポート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2514,
+        "label": "ウマ娘を始めたきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "配信者としての変化・視聴者との関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2960,
+        "label": "支え合う関係・嫉妬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3322,
+        "label": "SかMか・甘えたいタイプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3419,
+        "label": "テーマ質問の締め・ゲストへの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3513,
+        "label": "ウマ娘とおもちゃのアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3663,
+        "label": "最後の質問と配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

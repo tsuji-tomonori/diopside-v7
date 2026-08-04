@@ -1,0 +1,115 @@
+{
+  "videoId": "ONPGU04nLbc",
+  "title": "＃２【リングフィットアドベンチャー】朝活でストイックに鍛え上げるモテ美ボディ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-03T23:37:33Z",
+  "duration": "PT1H30M57S",
+  "durationSec": 5457,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ONPGU04nLbc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:32:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・朝活の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 218,
+        "label": "ウォームアップ・ストレッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 435,
+        "label": "リングフィット本編・最初のステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1393,
+        "label": "ステージ後の回復と次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1666,
+        "label": "連続フィットスキルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2239,
+        "label": "ミニゲーム形式の運動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2702,
+        "label": "脚・体幹中心のトレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3310,
+        "label": "終盤メニューと筋トレ継続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3589,
+        "label": "終盤ステージの運動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4461,
+        "label": "運動結果とトレーニング総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4639,
+        "label": "クールダウンストレッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4892,
+        "label": "運動後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5029,
+        "label": "次回配信予定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5138,
+        "label": "運動後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5239,
+        "label": "スパチャ読み・朝活の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5381,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

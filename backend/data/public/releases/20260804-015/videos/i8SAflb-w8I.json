@@ -1,0 +1,165 @@
+{
+  "videoId": "i8SAflb-w8I",
+  "title": "＃４【GTA5】私がルールです。異論は認めない。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-18T16:22:24Z",
+  "duration": "PT4H55M36S",
+  "durationSec": 17736,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i8SAflb-w8I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・GTA5再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1328,
+        "label": "ChopとLamarのミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "フリーロームと怪しい依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3306,
+        "label": "マイケルの家とテニスコーチ騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3767,
+        "label": "反撃とキャラクター切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4089,
+        "label": "帰宅と壊れた家",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4654,
+        "label": "家族の騒動と自転車探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5191,
+        "label": "ジミーと自転車レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5509,
+        "label": "海辺の遊びとジェットスキー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6022,
+        "label": "トライアスロン解禁・遊園地へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "遊園地のあとで雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6684,
+        "label": "トライアスロンに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7281,
+        "label": "レース後の移動と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7671,
+        "label": "レスターと強盗準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8076,
+        "label": "テック企業への潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8659,
+        "label": "キーノートへの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9070,
+        "label": "車両回収と宝石店の下見へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9678,
+        "label": "宝石店の下見",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10487,
+        "label": "強盗計画とメンバー選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11096,
+        "label": "機材バンの調達",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13603,
+        "label": "ガスバンの調達",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15347,
+        "label": "宝石店強盗ミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16598,
+        "label": "報酬確認とユニコーン訪問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17306,
+        "label": "ユニコーン後のセーブ・終了準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17477,
+        "label": "セーブ後のフリーローム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17601,
+        "label": "締めの挨拶・今後の告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "Ernvm9HmxqA",
+  "title": "＃19【崩壊：スターレイル】ピノコニー編エピローグ。ハッピーエンド！！…なんだよね？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-01T16:38:22Z",
+  "duration": "PT3H27M48S",
+  "durationSec": 12468,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ernvm9HmxqA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:53:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ピノコニー編エピローグ導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1141,
+        "label": "ブラックスワンとの会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1901,
+        "label": "ピノコニー編の締めと振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2604,
+        "label": "振り返りの問いに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3513,
+        "label": "状況をめぐる説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4399,
+        "label": "目覚めに向けた作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5686,
+        "label": "最後の舞台へ向けた準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6311,
+        "label": "記憶をたどり、旅の意味を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7237,
+        "label": "生きることと旅をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7608,
+        "label": "戦闘準備とゲームプレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8328,
+        "label": "歌が重なる戦闘クライマックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8728,
+        "label": "戦闘後の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9045,
+        "label": "物語の締めと後日談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9418,
+        "label": "エンドロール後の後日談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9900,
+        "label": "ゲーム本編の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10092,
+        "label": "恒常ガチャに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10842,
+        "label": "ピノコニーの感想と印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11212,
+        "label": "キャラクターと育成・編成の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11643,
+        "label": "配信終了前の感想とスーパーチャット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12100,
+        "label": "スーパーチャット・次回予定・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

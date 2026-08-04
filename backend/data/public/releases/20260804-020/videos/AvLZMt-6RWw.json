@@ -1,0 +1,110 @@
+{
+  "videoId": "AvLZMt-6RWw",
+  "title": "【スプラトゥーン2】夜王国で銃撃訓練【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-27T16:56:40Z",
+  "duration": "PT1H29M12S",
+  "durationSec": 5352,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AvLZMt-6RWw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:43:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・夜王国コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 526,
+        "label": "ルール・武器を確認して練習準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "1試合目・エリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1121,
+        "label": "夜王国のチーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1415,
+        "label": "2試合目・練習プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1689,
+        "label": "試合後のコラボトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1931,
+        "label": "次のステージ・武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "3試合目・ヤグラ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2602,
+        "label": "4・5試合目と守り方の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "6試合目・エリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3493,
+        "label": "7試合目・練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3778,
+        "label": "ギア・立ち回り相談と次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4361,
+        "label": "8試合目・エリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4924,
+        "label": "9試合目・エリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5209,
+        "label": "練習の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

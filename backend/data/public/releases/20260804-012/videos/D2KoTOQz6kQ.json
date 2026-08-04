@@ -1,0 +1,110 @@
+{
+  "videoId": "D2KoTOQz6kQ",
+  "title": "【スプラトゥーン3】#にじイカ祭り2025 チーム練習いくぞ🦑✨【七瀬すず菜/にじさんじ】",
+  "publishedAt": "2025-12-11T12:19:00Z",
+  "duration": "PT1H18M24S",
+  "durationSec": 4704,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/D2KoTOQz6kQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム練習準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 300,
+        "label": "ウォームアップ対戦・立ち回り確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1179,
+        "label": "チーム合流・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "チーム練習対戦・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1815,
+        "label": "チーム練習対戦・高台の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2130,
+        "label": "チーム練習対戦・スペシャル連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2381,
+        "label": "チーム練習対戦・左右からの進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2640,
+        "label": "スメーシーで対戦・立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2944,
+        "label": "次のステージで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3229,
+        "label": "前のステージに再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3547,
+        "label": "エリア対戦・中央維持",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3830,
+        "label": "中央の攻防・スペシャル運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4098,
+        "label": "潜伏への対応・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4357,
+        "label": "最後の対戦・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4655,
+        "label": "配信終了・挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "Wchiju9lJv0",
+  "title": "#4【SILENT HILL2】サイレントヒル2を布教したいお姉さんのリメイク版実況【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-18T09:07:15Z",
+  "duration": "PT4H48M51S",
+  "durationSec": 17331,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Wchiju9lJv0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T22:08:06+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 366,
+        "label": "刑務所探索を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1313,
+        "label": "新たな経路を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2689,
+        "label": "独房棟を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3515,
+        "label": "シャワー室周辺を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4241,
+        "label": "面会室・医務室を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5345,
+        "label": "最後の準備を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6634,
+        "label": "供述を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7502,
+        "label": "迷宮へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8140,
+        "label": "迷宮の奥へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9053,
+        "label": "迷宮中央部を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9359,
+        "label": "道具を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10221,
+        "label": "仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10908,
+        "label": "廃坑エリアを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12139,
+        "label": "帰路の仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13337,
+        "label": "時間制限エリア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13792,
+        "label": "長い通路を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14662,
+        "label": "次の区画へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15155,
+        "label": "奥の区画を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15871,
+        "label": "湖を横断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16036,
+        "label": "新たな建物を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16279,
+        "label": "別ルートを検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16974,
+        "label": "振り返り・スーパーチャットお礼",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

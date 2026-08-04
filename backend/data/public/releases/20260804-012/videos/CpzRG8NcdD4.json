@@ -1,0 +1,110 @@
+{
+  "videoId": "CpzRG8NcdD4",
+  "title": "＃11.5【崩壊：スターレイル】ホタルとルアン・メェイを必ずお迎えするという運命【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-22T16:01:46Z",
+  "duration": "PT2H49M32S",
+  "durationSec": 10172,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CpzRG8NcdD4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:10:41.518197Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 588,
+        "label": "ミーシャのお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "ルアン・メェイのお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1948,
+        "label": "ホタルのお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3323,
+        "label": "ルアン・メェイを狙ってガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4049,
+        "label": "ホタルを狙ってガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4414,
+        "label": "ホタルの凸と光円錐を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4795,
+        "label": "ホタルの凸を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6691,
+        "label": "光円錐の方針を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "ホタルの光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7858,
+        "label": "ルアン・メェイの光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8941,
+        "label": "ガチャ結果の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9062,
+        "label": "スパチャ読み・ガチャ報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9534,
+        "label": "次回のストーリー配信について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9730,
+        "label": "スパチャ読み・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

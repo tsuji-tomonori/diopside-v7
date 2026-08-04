@@ -1,0 +1,160 @@
+{
+  "videoId": "CAWB7wwXej8",
+  "title": "【#にじさんじポケユナ大会】本戦後編【にじさんじ/ポケモンユナイト】",
+  "publishedAt": "2021-09-12T14:09:07Z",
+  "duration": "PT2H59M55S",
+  "durationSec": 10795,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CAWB7wwXej8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:41:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "本戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 315,
+        "label": "対戦紹介・作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 492,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1203,
+        "label": "対戦紹介・作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1436,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "試合後インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2226,
+        "label": "対戦紹介・構成確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2535,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3159,
+        "label": "対戦紹介・作戦解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3400,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4097,
+        "label": "対戦紹介・構成解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4215,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4982,
+        "label": "試合後インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5209,
+        "label": "対戦紹介・作戦解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6240,
+        "label": "試合後の振り返り・準決勝準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6450,
+        "label": "準決勝 実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7218,
+        "label": "準決勝後インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7360,
+        "label": "決勝前休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7749,
+        "label": "決勝戦 対戦紹介・構成確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7955,
+        "label": "決勝第1試合 実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8714,
+        "label": "決勝第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8843,
+        "label": "決勝第2試合 実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9612,
+        "label": "決勝後インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10170,
+        "label": "大会全体の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

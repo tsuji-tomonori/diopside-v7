@@ -1,0 +1,100 @@
+{
+  "videoId": "DhawDr_VJdk",
+  "title": "「何か」いる事故物件をクールな大人２人で掃除しに来ました｜Paranormal Cleanup【#スノーベル/にじさんじ】",
+  "publishedAt": "2023-03-06T12:06:17Z",
+  "duration": "PT52M49S",
+  "durationSec": 3169,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DhawDr_VJdk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・事故物件清掃の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 286,
+        "label": "ゲーム内通話を設定する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 860,
+        "label": "清掃開始・ゴミ回収の基本操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1056,
+        "label": "怪異との遭遇・回復方法を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1264,
+        "label": "メディカルキットを探しながら屋内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1556,
+        "label": "鍵探しと残りのゴミ回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1799,
+        "label": "待避しながら屋根裏と回復地点を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2073,
+        "label": "最後のゴミを探して脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2458,
+        "label": "作品の感想と製品版への期待",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2610,
+        "label": "Minecraftのお礼とコラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "電話ボイスの告知・次回コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2855,
+        "label": "配信後の振り返りとアーカイブ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2992,
+        "label": "スーパーチャット読み・配信予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

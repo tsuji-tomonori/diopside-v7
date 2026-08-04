@@ -1,0 +1,115 @@
+{
+  "videoId": "LmNYET1g54A",
+  "title": "【#にじさんじ麻雀杯2024】予選U卓新年初ポン！【安土桃】",
+  "publishedAt": "2024-01-06T13:49:16Z",
+  "duration": "PT49M32S",
+  "durationSec": 2972,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LmNYET1g54A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:27:55.398Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対局準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 345,
+        "label": "大会部屋で自己紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 453,
+        "label": "予選U卓・対局開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 664,
+        "label": "最初の手から次局へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 935,
+        "label": "中盤の手牌判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1244,
+        "label": "終盤の押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1436,
+        "label": "対局の締めくくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1533,
+        "label": "公式映像・実況解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1821,
+        "label": "Uブロック・インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2139,
+        "label": "大会開始時間の勘違いと準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2247,
+        "label": "参加型の予定と卓の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2346,
+        "label": "対局の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2413,
+        "label": "前回大会の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2495,
+        "label": "大会の雰囲気を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2563,
+        "label": "眠気と対局の自己レビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2712,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

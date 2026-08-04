@@ -1,0 +1,105 @@
+{
+  "videoId": "xv8YKEzTB8c",
+  "title": "【お悩み相談 #恋愛編02】元カノと似てる/カラダの関係/デートの誘い方etc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-12T14:37:20Z",
+  "duration": "PT1H31M11S",
+  "durationSec": 5471,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xv8YKEzTB8c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T22:46:45.014057Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・恋愛相談02の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 231,
+        "label": "好きな人が元カノに似ている悩み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1031,
+        "label": "嫌われたい気持ちとの向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1767,
+        "label": "同性の先輩への恋愛相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2536,
+        "label": "久しぶりの相手を誘う方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3385,
+        "label": "年の差恋愛の不安に向き合う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3706,
+        "label": "恋愛の不安と過去の経験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3872,
+        "label": "不安の原因を探る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4012,
+        "label": "不安を伝え、相手の選択を信じる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4621,
+        "label": "恋愛相談を終えて振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4848,
+        "label": "本編終了・次回テーマのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4908,
+        "label": "配信後の恋愛トーク・対等な関係",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5223,
+        "label": "対等な関係の築き方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5417,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

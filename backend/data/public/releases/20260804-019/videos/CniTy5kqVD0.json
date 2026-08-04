@@ -1,0 +1,105 @@
+{
+  "videoId": "CniTy5kqVD0",
+  "title": "【#こじらせV】ぶっちゃけすぎ注意！？こじらせてそうな女たち【白雪巴 / レイン・パターソン / 天神子兎音 / 朝ノ瑠璃 / 柚原いづみ】",
+  "publishedAt": "2021-12-20T14:20:35Z",
+  "duration": "PT1H12M24S",
+  "durationSec": 4344,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CniTy5kqVD0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画趣旨・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 396,
+        "label": "視聴者アンケートの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 504,
+        "label": "最初のアンケート結果と理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 738,
+        "label": "投票理由から見る人物像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1001,
+        "label": "候補者の確認と恋愛観トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1302,
+        "label": "次のアンケート結果と強がり談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1778,
+        "label": "前半結果の振り返り・後半ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2065,
+        "label": "第一テーマ・独自のマイルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2915,
+        "label": "第二テーマ・愛情の深さをめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3410,
+        "label": "恋愛観と視聴者質問の追加トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3608,
+        "label": "最後のテーマと候補者選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3910,
+        "label": "企画のまとめ・締めコメント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4064,
+        "label": "告知・出演者コメント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4281,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

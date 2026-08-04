@@ -1,0 +1,160 @@
+{
+  "videoId": "b84bz1j_eSk",
+  "title": "【雑談】最近のこと【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-13T11:25:13Z",
+  "duration": "PT3H33M23S",
+  "durationSec": 12803,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/b84bz1j_eSk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T20:29:33Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 426,
+        "label": "「逆光のフリューゲル」公開・制作裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1682,
+        "label": "スタジオ収録とミックスの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2154,
+        "label": "作業用歌枠を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2513,
+        "label": "最近気になること・ASMRの方向性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2734,
+        "label": "百合ゲーム・ホラーゲームの近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3031,
+        "label": "アナリティクスと視聴者層",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3303,
+        "label": "無言寄りASMRとシャンプー音",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3737,
+        "label": "バイオ耐久・ホラー実況の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4884,
+        "label": "罵倒マシュマロと配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4999,
+        "label": "凸待ち・ライバー交流の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5477,
+        "label": "今後の配信予定・コラボ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5691,
+        "label": "スーパーチャット読み・視聴者の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6394,
+        "label": "活動振り返り・次のスパチャ読み準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6642,
+        "label": "スパチャ読み・最近の活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8007,
+        "label": "「逆光のフリューゲル」への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9214,
+        "label": "Lonely Girl・歌枠への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9481,
+        "label": "視聴者層と今後の活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10363,
+        "label": "昨日の歌枠・ファンアートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10792,
+        "label": "初見さんへの配慮・声と呼び方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11163,
+        "label": "スパチャの使い道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11724,
+        "label": "おすすめのお酒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12149,
+        "label": "マイク・機材の買い替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12538,
+        "label": "グッズ・衣装・スタンプの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12757,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

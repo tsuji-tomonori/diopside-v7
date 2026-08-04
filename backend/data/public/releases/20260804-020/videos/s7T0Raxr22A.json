@@ -1,0 +1,125 @@
+{
+  "videoId": "s7T0Raxr22A",
+  "title": "【NIKKE】フレンさんと勝負！女王の実力見せてあげるわ #にじニケリターンズ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-28T12:12:12Z",
+  "duration": "PT1H4M36S",
+  "durationSec": 3876,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s7T0Raxr22A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T08:38:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ対決の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 245,
+        "label": "NIKKEの魅力とキャラクター紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 442,
+        "label": "迎撃戦対決のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 641,
+        "label": "プレゼント企画の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 730,
+        "label": "対決用ガチャの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 911,
+        "label": "ドロシー狙いのガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1184,
+        "label": "キャラクター談義とガチャ継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2173,
+        "label": "キャラクター育成と編成調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2714,
+        "label": "迎撃戦のルール・勝負方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2822,
+        "label": "迎撃戦1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3026,
+        "label": "試合結果を確認・編成調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3084,
+        "label": "迎撃戦2試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "キュンセリフ罰ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3422,
+        "label": "アップデート情報：新ストーリーと追加要素",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3487,
+        "label": "ミニゲームと新キャラ・配布報酬",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3640,
+        "label": "追加報酬・新コスチューム・ソロレイド",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3710,
+        "label": "初見プレイの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3782,
+        "label": "次回配信の告知・コラボ振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "Wz3q6_BDeY4",
+  "title": "【ポケモンユナイト】 #タリキホンガンジムWIN 【にじさんじ 】",
+  "publishedAt": "2021-09-12T10:53:01Z",
+  "duration": "PT1H57M40S",
+  "durationSec": 7060,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Wz3q6_BDeY4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:52:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 249,
+        "label": "ゲーム設定・チーム編成と試合前準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1316,
+        "label": "第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1962,
+        "label": "第1試合の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2408,
+        "label": "第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2977,
+        "label": "第2試合後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3257,
+        "label": "準決勝前の編成・対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3598,
+        "label": "準決勝 第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4281,
+        "label": "準決勝 第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4685,
+        "label": "準決勝 第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "第2試合後の振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5245,
+        "label": "準決勝 第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "試合後の大会振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6811,
+        "label": "配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

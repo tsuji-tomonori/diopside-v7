@@ -1,0 +1,165 @@
+{
+  "videoId": "Z8QjKyG_RSk",
+  "title": "【#にじワイテ】人狼RPG第弐夜◆白雪視点◆【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-18T13:43:09Z",
+  "duration": "PT2H5M46S",
+  "durationSec": 7546,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Z8QjKyG_RSk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 153,
+        "label": "配信開始・企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 316,
+        "label": "参加者紹介・開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "第1試合開始・マップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1298,
+        "label": "第1試合の探索と役職議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1732,
+        "label": "第1試合の朝・情報共有",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1975,
+        "label": "第1試合の告発と再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2393,
+        "label": "第1試合終盤の遭遇・戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2616,
+        "label": "試合間の切替・第2試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "第2試合開始・マップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2923,
+        "label": "第2試合の朝・探索と役職推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3516,
+        "label": "第2試合の夜・遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4009,
+        "label": "第2試合後の推理・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4222,
+        "label": "第3試合開始・マップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4809,
+        "label": "第3試合の装備・占い連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4995,
+        "label": "第3試合終盤の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5110,
+        "label": "第3試合後の推理・全体振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5527,
+        "label": "最終試合開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6054,
+        "label": "最終試合の占い報告・疑いの整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6467,
+        "label": "最終試合の装備・位置共有",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "最終試合の夜戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6796,
+        "label": "最終試合終盤の追跡戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7031,
+        "label": "最終試合後の戦術振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7189,
+        "label": "結果発表の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7293,
+        "label": "結果発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7391,
+        "label": "全試合後の感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

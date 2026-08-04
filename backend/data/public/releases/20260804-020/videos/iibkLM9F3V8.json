@@ -1,0 +1,225 @@
+{
+  "videoId": "iibkLM9F3V8",
+  "title": "【 #バーチャル百奇夜行 】バーチャル百奇夜行～怖～【 人生つみこ /ミミカ・モーフ/市松寿ゝ謡】",
+  "publishedAt": "2022-09-10T16:36:00Z",
+  "duration": "PT9H32M45S",
+  "durationSec": 34365,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iibkLM9F3V8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:06:15.206250Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 629,
+        "label": "ゲスト怪談・夜勤の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1274,
+        "label": "怪談朗読・赤子と人形の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2873,
+        "label": "絶叫バーチャル怪奇映像特集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4356,
+        "label": "長編怪奇映像・百物語の演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5301,
+        "label": "怪奇映像の感想・CM",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6785,
+        "label": "白い女と落下する靴の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7361,
+        "label": "予約動画をめぐる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7706,
+        "label": "高速道路と手形の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8497,
+        "label": "ドンピシャ妖怪絵巻クイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11173,
+        "label": "妖怪クイズのまとめ・次の怪談へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12183,
+        "label": "トンネルの足音とぐるぐる男",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13238,
+        "label": "バーチャル心霊写真ファイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14631,
+        "label": "地蔵とホテルの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15268,
+        "label": "ホラー映画ジェスチャークイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18084,
+        "label": "心霊スポット中継",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18594,
+        "label": "振ってはいけない怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19248,
+        "label": "こっくりさん実演・質問コーナー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21057,
+        "label": "徘徊する人と青い歩道橋の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22364,
+        "label": "山道の焼肉屋の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22990,
+        "label": "あの頃の朝食の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23529,
+        "label": "キッチンから覗く影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23760,
+        "label": "夜道の女性と格安ホテルの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24182,
+        "label": "都市伝説検証の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24800,
+        "label": "異界エレベーターの検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25818,
+        "label": "人が消える公園の検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27615,
+        "label": "中継の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28047,
+        "label": "シャッターの向こうの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28400,
+        "label": "集落紹介映像・次の怪談へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29221,
+        "label": "隣人の壁叩きの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29719,
+        "label": "山菜採りにまつわる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 30489,
+        "label": "神様の証明にまつわる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31253,
+        "label": "制作参加の告知・CM",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31868,
+        "label": "ホラーCM・短編怪談映像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 32228,
+        "label": "学校の教室をめぐる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 32773,
+        "label": "怪談の感想・出演者のお別れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 33434,
+        "label": "終盤の中継再接続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 33706,
+        "label": "全企画の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

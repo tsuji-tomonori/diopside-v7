@@ -1,0 +1,110 @@
+{
+  "videoId": "Izq4k_0x2XE",
+  "title": "【塊魂】みーんな幸せになれるゲーム♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-21T08:16:53Z",
+  "duration": "PT2H56M52S",
+  "durationSec": 10612,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Izq4k_0x2XE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:40:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・塊魂の操作説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 504,
+        "label": "最初の地球ステージをプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1083,
+        "label": "屋内ステージに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1891,
+        "label": "カニを集めて星座作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2524,
+        "label": "街のステージをプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3274,
+        "label": "屋内ステージを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4034,
+        "label": "街のステージに初挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5137,
+        "label": "街のステージをリプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6107,
+        "label": "世界ステージをプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7016,
+        "label": "王冠を集める星座ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7766,
+        "label": "大熊座ステージに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8047,
+        "label": "大熊座ステージを再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8795,
+        "label": "双子を集める星座ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9681,
+        "label": "世界ステージで塊を育てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10475,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

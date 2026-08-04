@@ -1,0 +1,120 @@
+{
+  "videoId": "fjuwIYa1iDA",
+  "title": "#白雪巴誕生日2025【雀魂】視聴者参加型でじゃんたま！わっしょい！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-08T10:54:28Z",
+  "duration": "PT4H39M31S",
+  "durationSec": 16771,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fjuwIYa1iDA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:25:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 252,
+        "label": "誕生日配信スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 373,
+        "label": "誕生日のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 873,
+        "label": "対局ルールと準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1128,
+        "label": "視聴者参加対局1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2021,
+        "label": "視聴者参加対局2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2950,
+        "label": "視聴者参加対局3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4344,
+        "label": "視聴者参加対局4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5431,
+        "label": "視聴者参加対局5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7516,
+        "label": "視聴者参加対局6",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8397,
+        "label": "視聴者参加対局7",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9200,
+        "label": "視聴者参加対局8",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10542,
+        "label": "視聴者参加対局9",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11974,
+        "label": "視聴者参加対局10",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13315,
+        "label": "対局の振り返りとお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13769,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16542,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "ADlv-cmfDZw",
+  "title": "#4【バイオハザード】ビビりだけどわからせたいバイオ実況【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-29T16:11:23Z",
+  "duration": "PT2H37M",
+  "durationSec": 9420,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ADlv-cmfDZw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:05:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 468,
+        "label": "洋館探索・クランクを入手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1082,
+        "label": "地下・ハンター区画を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1790,
+        "label": "仕掛けの手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "洋館の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3007,
+        "label": "写真と手記から研究の背景を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3606,
+        "label": "仕掛けを解いて研究所へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4206,
+        "label": "研究所の手紙と端末を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "研究所のロックを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5103,
+        "label": "研究資料とMOディスクを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6005,
+        "label": "研究所の通路を戦闘で進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "セーブ・装備を整えて探索を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7290,
+        "label": "仲間の救出に向けて進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "終盤のイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7822,
+        "label": "終盤の会話と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8404,
+        "label": "脱出に向けて終盤を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9027,
+        "label": "ゲーム感想・今後の配信予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

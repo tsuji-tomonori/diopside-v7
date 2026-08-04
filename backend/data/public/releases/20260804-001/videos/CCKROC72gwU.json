@@ -1,0 +1,120 @@
+{
+  "videoId": "CCKROC72gwU",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#7【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-10T14:15:55Z",
+  "duration": "PT2H6M6S",
+  "durationSec": 7566,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CCKROC72gwU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T20:15:08.757410Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 495,
+        "label": "輸血シーンとルート確保",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1110,
+        "label": "勤務後の勉強会と白衣の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1891,
+        "label": "患者の行方を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2347,
+        "label": "鍵盤楽器と患者の思い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2711,
+        "label": "フォルテール演奏を聴く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3005,
+        "label": "出来事の報告をめぐる葛藤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3739,
+        "label": "病棟の対立と新人の成長",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4311,
+        "label": "看護師としての壁と先輩を気遣う時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4844,
+        "label": "白衣の掛け合いと診察ごっこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5216,
+        "label": "診察ごっこと聴診器の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5604,
+        "label": "聴診を交えた診察ごっこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6137,
+        "label": "看護師として支える決意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6333,
+        "label": "病棟業務と輸血対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6499,
+        "label": "シーツ交換に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7132,
+        "label": "ゲーム内容を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7344,
+        "label": "次回配信・コラボ歌唱の告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

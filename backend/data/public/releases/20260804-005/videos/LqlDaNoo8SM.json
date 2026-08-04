@@ -1,0 +1,150 @@
+{
+  "videoId": "LqlDaNoo8SM",
+  "title": "【雑談】落書きだと思った？残念アイコンプレゼント企画だわよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-30T19:19:06Z",
+  "duration": "PT4H57M57S",
+  "durationSec": 17877,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LqlDaNoo8SM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:20:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・アイコン企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 457,
+        "label": "牛アイコンの作成と色違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1914,
+        "label": "雑談とボイス企画の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2193,
+        "label": "ヘッダー作りとレイヤー調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2562,
+        "label": "好み・習慣・年末の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3218,
+        "label": "今後の予定と歌ってみた告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3747,
+        "label": "牛アイコンの仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4270,
+        "label": "顔アイコンの派生案づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6006,
+        "label": "干支・惑星・セーラームーンの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6508,
+        "label": "アイコン仕上げと本・アニメ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7493,
+        "label": "こびとヘッダーを作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8063,
+        "label": "プレビュー確認と利用条件",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8563,
+        "label": "声・ASMR・性格のQ&A",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9660,
+        "label": "ゲーム・正月料理・食べ物の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10752,
+        "label": "犬アイコンの作成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11636,
+        "label": "犬アイコンの派生案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13044,
+        "label": "犬の仕上げと漫画・アニメ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14331,
+        "label": "新しいアイコン案を試作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15605,
+        "label": "最後のアイコンと締め準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15900,
+        "label": "ヘッダーを仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16729,
+        "label": "配布方法と締めの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17181,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17801,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "pmNR4b5LSDQ",
+  "title": "【必ず概要欄をご確認ください】【声劇企画】第10回！#にじさんじ声劇同好会！【成瀬鳴/天ケ瀬むゆ/弦月藤士郎/白雪巴/周央サンゴ/ベルモンド・バンデラス/にじさんじ】",
+  "publishedAt": "2023-01-12T16:29:17Z",
+  "duration": "PT2H19M53S",
+  "durationSec": 8393,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pmNR4b5LSDQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T15:04:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 664,
+        "label": "『魔王討伐』作品紹介・配役",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 850,
+        "label": "『魔王討伐』朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1513,
+        "label": "『魔王討伐』後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1629,
+        "label": "『お昼ご飯対戦』作品紹介・配役",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1783,
+        "label": "『お昼ご飯対戦』朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2709,
+        "label": "『お昼ご飯対戦』後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2882,
+        "label": "『北風と太陽と少女』作品紹介・配役",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "『北風と太陽と少女』朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4197,
+        "label": "『北風と太陽と少女』後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4437,
+        "label": "『メーデー・メーデー』作品紹介・配役",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4589,
+        "label": "『メーデー・メーデー』朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5969,
+        "label": "『メーデー・メーデー』後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6186,
+        "label": "『貴族学校生徒会』作品紹介・配役",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6353,
+        "label": "『貴族学校生徒会』朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7510,
+        "label": "『貴族学校生徒会』後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7610,
+        "label": "出演者の感想・企画振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8080,
+        "label": "セリフ募集・朗読企画の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8100,
+        "label": "出演者からのお知らせ・お礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8248,
+        "label": "主催者の次回予定・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

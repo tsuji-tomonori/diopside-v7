@@ -1,0 +1,150 @@
+{
+  "videoId": "VhubBnhkP2k",
+  "title": "【マリオカート8DX】大会に向けて新コース確認しつつ視聴者参加型やろぉ～～～！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-01T15:43:27Z",
+  "duration": "PT3H10M53S",
+  "durationSec": 11453,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VhubBnhkP2k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会前の新コース練習説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "新コースのタイムアタック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "ゴーストを見ながら難所を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3463,
+        "label": "次の新コースでショートカット検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4812,
+        "label": "新コースのゴースト確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5742,
+        "label": "大会談義とマリオサーキット練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6298,
+        "label": "新コースの分岐・ジャンプを検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6774,
+        "label": "シンガポールスプラッシュのゴースト練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7495,
+        "label": "シャボンロードを練習して自主練終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8426,
+        "label": "視聴者参加型のルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8615,
+        "label": "視聴者参加型① ヨッシーサーキット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "視聴者参加型② ワリオ鉱山",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9164,
+        "label": "視聴者参加型③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9361,
+        "label": "視聴者参加型④",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9697,
+        "label": "視聴者参加型⑤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9972,
+        "label": "視聴者参加型⑥",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10224,
+        "label": "視聴者参加型⑦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10403,
+        "label": "視聴者参加型⑧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10716,
+        "label": "視聴者参加型⑨・最後のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10879,
+        "label": "参加者への感謝・大会前の意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10959,
+        "label": "スパチャ読み・参加型の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11036,
+        "label": "コラボ告知・質問募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11085,
+        "label": "大会への意気込み・今後の配信予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "videoId": "5vidDdkj-0o",
+  "title": "【Among Us】冷静沈着。マッド推理サイエンティス。【レオス・ヴィンセント/にじさんじ】",
+  "publishedAt": "2021-12-11T14:38:41Z",
+  "duration": "PT2H14M16S",
+  "durationSec": 8056,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5vidDdkj-0o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:55:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Among Us大会の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 492,
+        "label": "第1ゲーム・新マップで推理開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "第2ゲーム・行動証言を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2006,
+        "label": "第3ゲーム・位置情報をめぐる推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2704,
+        "label": "第3ゲーム後半・タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3564,
+        "label": "第4ゲーム・サボタージュ下の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4253,
+        "label": "第4ゲーム後半・能力とタスクをめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5030,
+        "label": "第5ゲーム・カメラと位置情報の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5906,
+        "label": "第6ゲーム・移動と経路を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6589,
+        "label": "第6ゲーム後半・タスクと役職の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7238,
+        "label": "終盤の会議・証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7662,
+        "label": "終盤の判断とゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7900,
+        "label": "ゲーム後の感想と配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

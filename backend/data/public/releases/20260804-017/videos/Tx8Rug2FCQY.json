@@ -1,0 +1,140 @@
+{
+  "videoId": "Tx8Rug2FCQY",
+  "title": "【#ガチ百合】本当にあったリアル百合エピソード＃６【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-21T14:47:22Z",
+  "duration": "PT1H40M31S",
+  "durationSec": 6031,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Tx8Rug2FCQY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T17:46:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・第6回リアル百合エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 160,
+        "label": "空港のエスカレーターで身長差",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 452,
+        "label": "中学時代のちゅープリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 914,
+        "label": "大学サークルの長文投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1188,
+        "label": "長文投稿への考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1947,
+        "label": "叶わなかった恋と友達の距離",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2213,
+        "label": "高校時代の親友とニコイチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2544,
+        "label": "お泊まり会から始まる交際",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2693,
+        "label": "7年続く先輩カップルへの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2936,
+        "label": "中学生の机ドンから始まる友達エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3212,
+        "label": "車内での初めてのキス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3739,
+        "label": "高校時代の恋人・二人きりの姿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4089,
+        "label": "物置での友達同士のじゃれ合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4366,
+        "label": "ネット恋愛から続く関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4832,
+        "label": "60個の投稿を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5027,
+        "label": "投稿募集と次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5108,
+        "label": "ナンパ撃退談と近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5291,
+        "label": "スーパーチャット読みと今回の投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5577,
+        "label": "追加投稿募集と投稿者へのエール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5822,
+        "label": "運命の相手を願う締めの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5973,
+        "label": "次回配信告知・おやすみ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

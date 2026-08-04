@@ -1,0 +1,85 @@
+{
+  "videoId": "prESV-n9tOw",
+  "title": "【スプラトゥーン3】キ ル タ イ ム コ ソ 練 【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-12T09:10:03Z",
+  "duration": "PT2H27M54S",
+  "durationSec": 8874,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/prESV-n9tOw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T11:00:03+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会へ向けた練習相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 613,
+        "label": "練習方針・武器とギア選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1391,
+        "label": "ロビー試し撃ち・装備調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1805,
+        "label": "武器試用・リールガンとS-BLAST",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3515,
+        "label": "武器試用・ブラスターとプライム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4824,
+        "label": "ナワバリ作戦相談・ガロン再調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5426,
+        "label": "ガロン集中練習・シールドと立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7350,
+        "label": "ガロン仕上げ・本番ステージ練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8482,
+        "label": "練習の振り返り・次の作戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8653,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

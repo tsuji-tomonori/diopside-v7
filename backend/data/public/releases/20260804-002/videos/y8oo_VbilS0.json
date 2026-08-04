@@ -1,0 +1,110 @@
+{
+  "videoId": "y8oo_VbilS0",
+  "title": "【Minecraft】初心者まったりマイクラ～地下に監獄を作りたいの回その１～【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-02-20T14:05:11Z",
+  "duration": "PT1H47M48S",
+  "durationSec": 6468,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/y8oo_VbilS0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:06:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・地下監獄の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 566,
+        "label": "資材集めの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 987,
+        "label": "トロッコで資材サーバーへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1384,
+        "label": "資材サーバーで物資を回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1787,
+        "label": "帰路と目印の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2239,
+        "label": "農場を探索して鉄を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2603,
+        "label": "自宅へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2878,
+        "label": "地下監獄の建築準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3829,
+        "label": "地下監獄の壁を建設",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4220,
+        "label": "地下監獄の内装を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4583,
+        "label": "外観を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "家の拡張と内装の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5524,
+        "label": "地下と外壁を改修",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6084,
+        "label": "外観確認と階段の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6281,
+        "label": "体調に配慮して終了・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

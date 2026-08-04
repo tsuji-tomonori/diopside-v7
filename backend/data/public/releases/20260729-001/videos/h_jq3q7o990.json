@@ -1,0 +1,155 @@
+{
+  "videoId": "h_jq3q7o990",
+  "title": "【※ネタバレあり】癒しのゲーム♡いいからコロコロすんだよぉ！！！！｜塊魂アンコール＋王様プチメモリーpart1【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-01T15:37:30Z",
+  "duration": "PT2H24M33S",
+  "durationSec": 8673,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/h_jq3q7o990/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:52:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・塊魂アンコール紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 387,
+        "label": "ゲーム内導入劇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 584,
+        "label": "広場と操作説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 776,
+        "label": "基本操作チュートリアル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1207,
+        "label": "プレゼント探しのチュートリアル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1643,
+        "label": "時間制限ステージに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2072,
+        "label": "王様プチメモリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2170,
+        "label": "子供部屋ステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2781,
+        "label": "ステージ後の広場とプチメモリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2963,
+        "label": "勉強ステージ・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3261,
+        "label": "花を集めるステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4051,
+        "label": "花ステージ後の王様プチメモリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4153,
+        "label": "水中ステージに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4678,
+        "label": "水中ステージ再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5666,
+        "label": "ステージ結果・BGM設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5830,
+        "label": "部屋ステージに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6303,
+        "label": "ステージ後の王様プチメモリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6509,
+        "label": "太陽と宇宙のステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6676,
+        "label": "次のステージ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6786,
+        "label": "キャンプファイヤーのステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7803,
+        "label": "ステージ結果・お菓子ステージ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7920,
+        "label": "お菓子ハウスのステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8252,
+        "label": "ゲーム本編の締め・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8336,
+        "label": "ゲーム終了後のスーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

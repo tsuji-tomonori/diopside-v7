@@ -1,0 +1,140 @@
+{
+  "videoId": "LvZ37r_GzsY",
+  "title": "【スプラトゥーン3】#にじイカ祭り2025 DAY1初中級者の部🦑✨【七瀬すず菜/にじさんじ】",
+  "publishedAt": "2025-12-13T07:37:33Z",
+  "duration": "PT4H14M56S",
+  "durationSec": 15296,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LvZ37r_GzsY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T00:29:37.681Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会当日の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 420,
+        "label": "リスナー練習の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 900,
+        "label": "リスナー練習 前半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2567,
+        "label": "リスナー練習 後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5151,
+        "label": "点呼・チームの最終確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5487,
+        "label": "大会前ウォームアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6874,
+        "label": "休憩・大会直前の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7139,
+        "label": "大会放送・チームインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8289,
+        "label": "予選開始前の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8993,
+        "label": "予選セット1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9525,
+        "label": "セット間の作戦会議 1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10255,
+        "label": "予選セット2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10884,
+        "label": "セット間の作戦会議 2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11555,
+        "label": "予選セット3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12151,
+        "label": "セット間の作戦会議 3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12904,
+        "label": "予選セット4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13411,
+        "label": "セット間の作戦会議 4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13768,
+        "label": "予選セット5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14214,
+        "label": "全セット後のチーム振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14660,
+        "label": "大会結果の確認・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15174,
+        "label": "チームへの感謝・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "videoId": "zOlgTvOHYyw",
+  "title": "【 #にじスプラ祭り Splatoon3】第12話 #雪月姉妹WIN !!【にじさんじ/シスター・クレア】",
+  "publishedAt": "2022-10-16T12:55:17Z",
+  "duration": "PT4H10M42S",
+  "durationSec": 15042,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zOlgTvOHYyw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 362,
+        "label": "第1試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 961,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1212,
+        "label": "第2試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1563,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "第3試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2289,
+        "label": "第4試合の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3015,
+        "label": "第4試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3377,
+        "label": "第4試合振り返り・第5試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3892,
+        "label": "第5試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4333,
+        "label": "第6試合の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4805,
+        "label": "第6試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5161,
+        "label": "第6試合振り返り・第7試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5698,
+        "label": "第7試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6121,
+        "label": "第7試合振り返り・第8試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6630,
+        "label": "第8試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6725,
+        "label": "第8試合振り返り・第9試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7579,
+        "label": "第9試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7802,
+        "label": "第9試合振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8192,
+        "label": "休憩・第10試合のホコ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8889,
+        "label": "第10試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9240,
+        "label": "第10試合振り返り・第11試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9962,
+        "label": "第11試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10202,
+        "label": "第11試合振り返り・第12試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10879,
+        "label": "第12試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11283,
+        "label": "第12試合振り返り・第13試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11644,
+        "label": "第13試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11903,
+        "label": "第13試合振り返り・第14試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12249,
+        "label": "第14試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12393,
+        "label": "第14試合振り返り・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12962,
+        "label": "第15試合・最終戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13154,
+        "label": "大会後の感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14437,
+        "label": "追加マッチ・オープン参加",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14640,
+        "label": "配信の締め・感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

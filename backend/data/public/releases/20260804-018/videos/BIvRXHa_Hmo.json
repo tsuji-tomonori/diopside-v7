@@ -1,0 +1,75 @@
+{
+  "videoId": "BIvRXHa_Hmo",
+  "title": "【スプラトゥーン2】リハビリ続行【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-15T12:13:04Z",
+  "duration": "PT1H6M35S",
+  "durationSec": 3995,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BIvRXHa_Hmo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:30:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・リハビリ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 239,
+        "label": "ガチエリア1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1514,
+        "label": "ガチエリア2戦目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1838,
+        "label": "ガチエリア3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2728,
+        "label": "ガチエリア4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3036,
+        "label": "ガチエリア5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3475,
+        "label": "ガチエリア6戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3799,
+        "label": "配信終了・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

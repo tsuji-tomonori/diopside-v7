@@ -1,0 +1,100 @@
+{
+  "videoId": "lsxk8yuUqzs",
+  "title": "【 スプラトゥーン3 】 #にじイカ祭り2025　 チーム練習！！！ 【 にじさんじ / 🔰 蝸堂みかる 🔰 】",
+  "publishedAt": "2025-12-11T12:19:27Z",
+  "duration": "PT1H18M36S",
+  "durationSec": 4716,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lsxk8yuUqzs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:28:42.186872Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・練習試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 336,
+        "label": "最初の縄張り練習試合・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 577,
+        "label": "4人目を待ちながら縄張り練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 808,
+        "label": "4人で縄張り練習・連携確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1178,
+        "label": "本番チーム合流・編成確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1497,
+        "label": "本番チームとの連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1986,
+        "label": "武器を替えて連携を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2369,
+        "label": "高台と中央を意識した練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2841,
+        "label": "編成を調整して中央を守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3223,
+        "label": "高台確保とスペシャル合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3701,
+        "label": "敵陣への攻め方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4094,
+        "label": "中央を取り返す終盤の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4526,
+        "label": "最後の振り返り・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

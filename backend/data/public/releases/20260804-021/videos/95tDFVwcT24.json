@@ -1,0 +1,160 @@
+{
+  "videoId": "95tDFVwcT24",
+  "title": "＃１【ボク姫PROJECT】女装少年が学園一の美少女を目指す！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-01T15:02:34Z",
+  "duration": "PT2H36M49S",
+  "durationSec": 9409,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/95tDFVwcT24/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 423,
+        "label": "ゲーム紹介・学園の設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 496,
+        "label": "冒頭プロローグ・美少女コンテスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 856,
+        "label": "入学試験後・学園周辺へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1058,
+        "label": "街での呼び込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1305,
+        "label": "駅での救出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1718,
+        "label": "百合亞学園の制度と校風",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "マリカをめぐる知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2780,
+        "label": "幼少期の回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3305,
+        "label": "六年間の努力と病院の診断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4207,
+        "label": "合格通知と調査の決意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4745,
+        "label": "兄妹の過去と学園生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5157,
+        "label": "プロローグ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5236,
+        "label": "入学初日・屋上の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5502,
+        "label": "屋上での出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5773,
+        "label": "学園内の捜索と逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6314,
+        "label": "ルート分岐の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6657,
+        "label": "別ルートの選択肢を再生",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7117,
+        "label": "アキラの助力と脱出作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7637,
+        "label": "入学式へ向けた変装計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8037,
+        "label": "変装のメイクとウィッグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8658,
+        "label": "声と立ち居振る舞いの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8849,
+        "label": "最後の身支度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8999,
+        "label": "外に出た後の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9118,
+        "label": "配信終了・次回の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

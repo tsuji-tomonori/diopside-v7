@@ -1,0 +1,170 @@
+{
+  "videoId": "sGuVer-mDxg",
+  "title": "#3【バイオハザード】ビビりだけどわからせたいバイオ実況【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-26T16:43:52Z",
+  "duration": "PT3H18M39S",
+  "durationSec": 11919,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sGuVer-mDxg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 130,
+        "label": "クランクを使って館内を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 678,
+        "label": "館内のアイテムを回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1123,
+        "label": "館内資料とプラント42の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1526,
+        "label": "制御室と館内の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "モールス信号と箱の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2448,
+        "label": "水槽でのイベントに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2879,
+        "label": "水槽後の探索とギャラリーの鍵",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3908,
+        "label": "ギャラリーのカードパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4284,
+        "label": "薬品調合の手順を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4928,
+        "label": "ショットガンで戦闘準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5327,
+        "label": "リチャードとレベッカの会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5564,
+        "label": "館内を再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6027,
+        "label": "館の記録と研究所側の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6741,
+        "label": "美術室の仕掛けを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7199,
+        "label": "兜の鍵エリアを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7794,
+        "label": "西側ルートと研究所メモ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8307,
+        "label": "館の紋章パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8807,
+        "label": "鍵とオブジェを回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9370,
+        "label": "レベッカの声を頼りに進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9527,
+        "label": "レベッカ救出へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9789,
+        "label": "レベッカのもとへ再び向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10030,
+        "label": "未取得アイテムと進路を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10650,
+        "label": "バッテリーとエレベーターへ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10858,
+        "label": "外側を進んで敵に対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11102,
+        "label": "水を抜いた先の進路を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11739,
+        "label": "次回方針・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

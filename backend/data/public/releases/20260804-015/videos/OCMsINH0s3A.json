@@ -1,0 +1,155 @@
+{
+  "videoId": "OCMsINH0s3A",
+  "title": "【マリオカート8DX】視聴者参加型かかってきなさい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-06T16:23:09Z",
+  "duration": "PT2H41M25S",
+  "durationSec": 9685,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OCMsINH0s3A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・視聴者参加型の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 411,
+        "label": "参加型レース開始・操作を思い出す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1168,
+        "label": "参加型レースでアイテムを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1428,
+        "label": "レインボーロードに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1710,
+        "label": "難しいコースで練習・マシン調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2427,
+        "label": "加速重視の走りとコース攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3190,
+        "label": "ドンキーコングのコースと視界の悪いコース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4078,
+        "label": "おもちゃ箱のようなコースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4306,
+        "label": "レース中の雑談・仕事の行き違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5114,
+        "label": "レース後の相談と砂漠コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5444,
+        "label": "落下しやすいコースとマシン試走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6093,
+        "label": "バイク・タイヤ構成を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6513,
+        "label": "コインとアイテムを意識した後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6996,
+        "label": "コースとアイテムに苦戦しながら追い上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7152,
+        "label": "配信延長・アイテム重視へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7233,
+        "label": "アイテム連打で短いコースを走る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7414,
+        "label": "苦手コースでルートとアイテムを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7703,
+        "label": "電車コースのルート攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8272,
+        "label": "電車コースをリベンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8501,
+        "label": "短いコースとマシン相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "コイン集めとアイテムの使い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9136,
+        "label": "レース振り返り・次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9245,
+        "label": "ラストランでブレーキを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9591,
+        "label": "終了挨拶・次回の参加型案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "o0eSdpqyKUQ",
+  "title": "【夜勤清掃】久々ホラゲ！激コワ幽霊でもお姉さんなら(多分)ＯＫです👍【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-03T15:11:57Z",
+  "duration": "PT2H4M16S",
+  "durationSec": 7456,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/o0eSdpqyKUQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T04:59:09.149Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 300,
+        "label": "オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 426,
+        "label": "ゲーム開始・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 578,
+        "label": "雨の夜道から職場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 779,
+        "label": "夜勤清掃の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "初日の清掃：1階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1459,
+        "label": "初日の清掃：2階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2072,
+        "label": "初日の清掃：3階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2456,
+        "label": "初日の清掃：4階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2870,
+        "label": "初日の清掃：5階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3143,
+        "label": "初日の清掃：6階",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "翌日・再出勤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3999,
+        "label": "2日目の清掃開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4123,
+        "label": "2日目・新たな局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4375,
+        "label": "ビル内の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5448,
+        "label": "終盤の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5663,
+        "label": "再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6085,
+        "label": "ゲームの感想・考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6623,
+        "label": "今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6823,
+        "label": "近況・スーパーチャット・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

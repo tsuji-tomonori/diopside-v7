@@ -1,0 +1,110 @@
+{
+  "videoId": "7JMuGNs4HHs",
+  "title": "【Among Us】#エデンとアソボウ 一般大学教授の僕が人狼なわけないじゃないですかハハハ【オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2021-12-11T14:33:21Z",
+  "duration": "PT2H14M23S",
+  "durationSec": 8063,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7JMuGNs4HHs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:54:25.780376Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 477,
+        "label": "第1試合開始・最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 826,
+        "label": "タスク進行と通報をめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1268,
+        "label": "通報後の情報整理と投票後の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2129,
+        "label": "通報地点と行動証言を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3583,
+        "label": "サボタージュ対応と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4340,
+        "label": "同行証言を比べる会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "白証言と残り人数を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "新たな通報から第1試合終盤へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5770,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5919,
+        "label": "第2試合開始・序盤の情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6409,
+        "label": "第2試合のタスクとサボタージュ対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7018,
+        "label": "終盤の会議で情報を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7811,
+        "label": "配信終了の挨拶・今後の告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

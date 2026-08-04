@@ -1,0 +1,115 @@
+{
+  "videoId": "vsQNaA8AfFA",
+  "title": "#01【影廊2】続編きた！！？和風ホラー「Shadow Corridor 2 雨ノ四葩」を完全初見プレイ！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-05T13:18:46Z",
+  "duration": "PT2H6M44S",
+  "durationSec": 7604,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vsQNaA8AfFA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム開始の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 286,
+        "label": "ゲーム冒頭の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 648,
+        "label": "記憶をたどる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1281,
+        "label": "喫茶店で語られる世界観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1748,
+        "label": "探索準備と喫茶店のシステム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2225,
+        "label": "チュートリアルと最初の回廊",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "雑貨屋と探索の再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3477,
+        "label": "結界と敵を避ける探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4254,
+        "label": "攻撃アイテムと再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "新たな手がかりを探す探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5643,
+        "label": "迷路の回廊を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5902,
+        "label": "まが玉集めと出口への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6506,
+        "label": "探索を終えて評価を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6803,
+        "label": "帰還後の世界観整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7147,
+        "label": "次回案内・配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7221,
+        "label": "プレイ感想・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "qAf01e8l9W8",
+  "title": "【夜王国4.5周年】初めての食事会【にじさんじ】",
+  "publishedAt": "2024-05-31T11:00:16Z",
+  "duration": "PT1H24M27S",
+  "durationSec": 5067,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qAf01e8l9W8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "食事会の紹介・乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 350,
+        "label": "最初の厚切り肉を焼いて味わう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 638,
+        "label": "最初の肉の感想と料理の追加",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 988,
+        "label": "食事量と周年にまつわる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1438,
+        "label": "玉ねぎポン酢と追加の肉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1811,
+        "label": "コース後半の肉とスープ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2474,
+        "label": "満腹感と食事量の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2781,
+        "label": "5周年に向けた活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3278,
+        "label": "レバーを焼きながら配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3675,
+        "label": "応援や周年企画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3800,
+        "label": "5周年の思い出クイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3984,
+        "label": "最後の肉と締めのカレー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4254,
+        "label": "この1年の活動を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4690,
+        "label": "食後のお茶と甘味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5041,
+        "label": "収録終了・今後の活動",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

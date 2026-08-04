@@ -1,0 +1,100 @@
+{
+  "videoId": "DhArViHmOh4",
+  "title": "【 #夜王国三周年 】同期の動きだけを見てリズム天国に挑戦【にじさんじ】",
+  "publishedAt": "2022-11-28T11:00:07Z",
+  "duration": "PT40M",
+  "durationSec": 2400,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DhArViHmOh4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3周年の挨拶・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 208,
+        "label": "特殊ルールの説明・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 390,
+        "label": "食べ物をフォークで取るゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 777,
+        "label": "初デートのボールゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1007,
+        "label": "バスケットボールのゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1159,
+        "label": "ラグビーのゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1357,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1462,
+        "label": "ゴルフのゲーム・初回プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1670,
+        "label": "ゴルフ再挑戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "ゴルフ本番",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2009,
+        "label": "ゲーム全体の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2126,
+        "label": "再公開と3周年ボイスの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2266,
+        "label": "3周年の締め・今後の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

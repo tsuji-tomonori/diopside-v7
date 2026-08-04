@@ -1,0 +1,115 @@
+{
+  "videoId": "_aJYqE1LQ18",
+  "title": "【コラボ】４人協力ホラゲ！恐怖の鬼ごっこ！悪魔払い・・・？　DEVOUR　#ホラゲV女子会 【西園寺メアリ / ハニスト】",
+  "publishedAt": "2022-08-30T14:31:31Z",
+  "duration": "PT2H4M52S",
+  "durationSec": 7492,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_aJYqE1LQ18/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 331,
+        "label": "DEVOURの説明・探索開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 745,
+        "label": "ヤギ集めと儀式の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1088,
+        "label": "館内を探索して鍵と燃料を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1771,
+        "label": "敵を警戒しながら館を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2416,
+        "label": "儀式の手順を確認して最初の挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3035,
+        "label": "仲間の救助と館内の危機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3520,
+        "label": "作戦を見直して再挑戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "2回目の攻略と鍵探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4644,
+        "label": "ヤギ運搬と救助を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5118,
+        "label": "上階と地下を行き来して救助を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "終盤の救助とヤギ運搬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7047,
+        "label": "終盤の館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7238,
+        "label": "ゲームの感想と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7390,
+        "label": "告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7459,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

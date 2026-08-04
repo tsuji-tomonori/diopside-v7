@@ -1,0 +1,110 @@
+{
+  "videoId": "OA5nNnmoS0g",
+  "title": "【#にじワイテ】裏切者は誰だぁ！！忖度しろぉ！！【長尾景/にじさんじ】",
+  "publishedAt": "2020-10-18T13:33:08Z",
+  "duration": "PT2H5M40S",
+  "durationSec": 7540,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OA5nNnmoS0g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 831,
+        "label": "第1試合開始・役職情報の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1633,
+        "label": "第1試合：夜の行動と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2073,
+        "label": "第1試合後の振り返り・第2試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2729,
+        "label": "第2試合開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3153,
+        "label": "第2試合：情報共有と候補整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3658,
+        "label": "第2試合終盤・試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "第3試合開始・情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4789,
+        "label": "第3試合：作戦と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5373,
+        "label": "第3試合後の整理・最終試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5602,
+        "label": "最終試合開始・情報共有",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6025,
+        "label": "最終試合：役職情報と疑いを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6462,
+        "label": "最終試合：終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6851,
+        "label": "最終試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7246,
+        "label": "集計と配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

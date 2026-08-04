@@ -1,0 +1,105 @@
+{
+  "videoId": "-h21QjAo7i8",
+  "title": "神っぽい白雪が2023年のあなたに助言します【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-09T14:44:15Z",
+  "duration": "PT2H25M42S",
+  "durationSec": 8742,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-h21QjAo7i8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・2023年の助言企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 361,
+        "label": "新年の目標・進路・恋愛への助言",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1258,
+        "label": "生活習慣と国家試験の助言",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1969,
+        "label": "転職面接・切り抜き制作の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2557,
+        "label": "退職の決断・自分磨きとナンパ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3421,
+        "label": "創作の比較・演劇で寝た懺悔",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4258,
+        "label": "夜食をやめたい・恋愛で待つ姿勢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4860,
+        "label": "片思いの自分磨き・ダイエット罵倒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5178,
+        "label": "頑張りすぎないこと・推し活と自分の生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5941,
+        "label": "大人の振る舞い・同性の友人への恋愛相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6660,
+        "label": "先延ばし・営業職への応援",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7259,
+        "label": "大会祈願・挫折・生活改善",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8107,
+        "label": "企画の振り返り・一年への励まし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8341,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

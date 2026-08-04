@@ -1,0 +1,110 @@
+{
+  "videoId": "S5VRNgCcgbc",
+  "title": "【コンビニに来る常連さん】世 界 一 怖 い コ ン ビ ニ 【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-14T15:11:02Z",
+  "duration": "PT1H57M33S",
+  "durationSec": 7053,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/S5VRNgCcgbc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 361,
+        "label": "ゲーム開始・コンビニバイト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 529,
+        "label": "最初の常連客との会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 629,
+        "label": "距離の近い常連客",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1030,
+        "label": "不穏なメッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1592,
+        "label": "繰り返すシフトと分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2444,
+        "label": "新たな差し入れと確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3431,
+        "label": "贈り物をめぐる不安",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "距離を置くための対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4406,
+        "label": "別のルートを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4988,
+        "label": "店長への相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5407,
+        "label": "最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5981,
+        "label": "ゲーム後のエピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6269,
+        "label": "クリア後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6600,
+        "label": "感想・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "gFPZcH58UVo",
+  "title": "＃６【ピクミン4】なるべく死なせずにクリアしたい‥！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-03T09:26:29Z",
+  "duration": "PT4H14M25S",
+  "durationSec": 15265,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gFPZcH58UVo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 322,
+        "label": "オリマーのシェルターを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 895,
+        "label": "次の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1568,
+        "label": "お宝と仕掛けを探して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2696,
+        "label": "日誌を手がかりに先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3403,
+        "label": "カードと扇風機の仕掛けを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3965,
+        "label": "区画達成後の食事と近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4277,
+        "label": "大きな敵への挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5403,
+        "label": "次の区画へ向けた基地準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6480,
+        "label": "火に囲まれた区画を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7565,
+        "label": "火事場の冷凍庫へ向けて準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8103,
+        "label": "火と氷の仕掛けを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9620,
+        "label": "洞窟の最終フロアに挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10273,
+        "label": "サーキュレーターと段ボールの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11161,
+        "label": "遭難者の救助と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11521,
+        "label": "上層ルートと段取り攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12421,
+        "label": "シェルターで最後の試練に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13143,
+        "label": "帰還後の基地とストーリー整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13862,
+        "label": "本編を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14257,
+        "label": "新たな任務とレーダー強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14582,
+        "label": "今後の進め方を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14825,
+        "label": "締めの挨拶・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14942,
+        "label": "スーパーチャット読み・振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

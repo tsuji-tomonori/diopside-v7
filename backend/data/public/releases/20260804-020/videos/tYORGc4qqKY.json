@@ -1,0 +1,100 @@
+{
+  "videoId": "tYORGc4qqKY",
+  "title": "【バイオRE:3】体験版プレイ！いよいよ明日リリース！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-02T14:49:04Z",
+  "duration": "PT1H13M14S",
+  "durationSec": 4394,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tYORGc4qqKY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・体験版の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 314,
+        "label": "体験版開始・基本操作を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 748,
+        "label": "アイテム調合と最初のゾンビ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1126,
+        "label": "変電所周辺を探索・戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1669,
+        "label": "店主の独白と探索再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1978,
+        "label": "地図を頼りに探索・装備強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2422,
+        "label": "敵との遭遇から脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2718,
+        "label": "装備を整え地下鉄マニュアルを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3016,
+        "label": "ヒューズ探しとショットガンの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3365,
+        "label": "薬局探索とアイテム回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3702,
+        "label": "強敵から逃げて終盤の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4132,
+        "label": "終盤のルートを進み戦闘へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4297,
+        "label": "体験版の感想・配信予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

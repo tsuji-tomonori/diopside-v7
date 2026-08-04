@@ -1,0 +1,105 @@
+{
+  "videoId": "xlcwQchGEoQ",
+  "title": "【ごく普通の鹿のゲーム DEEEER Simulator】日曜日、寝起き、バカゲー。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-05T02:34:34Z",
+  "duration": "PT1H12M59S",
+  "durationSec": 4379,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xlcwQchGEoQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:39:07.554Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 545,
+        "label": "鹿のキャラメイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 771,
+        "label": "ゲーム本編・鹿の操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1188,
+        "label": "仲間を増やして世界を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "仲間を増やして戦う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1926,
+        "label": "新しい場所を調べて再スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2293,
+        "label": "再挑戦・装備を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2570,
+        "label": "ウサギとの再戦・移動を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2916,
+        "label": "実家の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3278,
+        "label": "魚に乗って罠を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3524,
+        "label": "動物の力で戦闘を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3899,
+        "label": "仲間を頼らず攻略を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4249,
+        "label": "終盤の追跡を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4331,
+        "label": "締め・次回への意気込み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

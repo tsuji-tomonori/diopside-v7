@@ -1,0 +1,130 @@
+{
+  "videoId": "cnX_CEyqu5k",
+  "title": "【雑談】今この瞬間を大切にしたいと思う今日この頃【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-29T15:45:36Z",
+  "duration": "PT2H19M4S",
+  "durationSec": 8344,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cnX_CEyqu5k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:47:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・周年と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 544,
+        "label": "リゼとの話・収録の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1217,
+        "label": "『3人寄れば』収録の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "結婚したいライバーと新衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3020,
+        "label": "ENコラボ・英語の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3714,
+        "label": "TWICEライブビューイングの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4178,
+        "label": "姉妹のライブ配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4699,
+        "label": "創作の好みと設定の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4912,
+        "label": "占いで聞いた健康・家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5560,
+        "label": "ペットとザリガニの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5790,
+        "label": "今この瞬間を大切にする",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6003,
+        "label": "挑戦と活動を終える時の考え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "セカンドシーズンへの展望",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6731,
+        "label": "今後の配信予定・ボイス告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "スーパーチャット読み・3.5周年の感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7554,
+        "label": "ボイス・ASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7710,
+        "label": "推し活と独占欲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7930,
+        "label": "視聴者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8108,
+        "label": "今後の予定・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

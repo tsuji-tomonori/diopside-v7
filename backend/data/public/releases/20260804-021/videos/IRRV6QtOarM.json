@@ -1,0 +1,150 @@
+{
+  "videoId": "IRRV6QtOarM",
+  "title": "【マリオカート8DX】本戦に向けて視聴者参加型で特訓あるべし！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-12T15:44:06Z",
+  "duration": "PT2H16M53S",
+  "durationSec": 8213,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IRRV6QtOarM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:55:54.161281Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・車体選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 927,
+        "label": "はなちゃんバギーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "はなちゃんバギーの使用感を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1728,
+        "label": "リトルともえで操作感を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2231,
+        "label": "変わり種の車体を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2527,
+        "label": "クマちゃんの操作感を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2716,
+        "label": "車体レビュー・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3133,
+        "label": "バイクで走る・相棒探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3551,
+        "label": "マキシマムザともえを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3907,
+        "label": "個性派バイクと車体の多様性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4296,
+        "label": "急カーブ向きのバイクを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4491,
+        "label": "ペアのアバターと参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "そら豆の操作感を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4889,
+        "label": "元ドーザーで車体比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5302,
+        "label": "新コースで車体を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5941,
+        "label": "通信トラブル・部屋の立て直し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6241,
+        "label": "新しい部屋のレースを観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6413,
+        "label": "最終レースのメンバー集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6744,
+        "label": "終盤の車体候補を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7213,
+        "label": "最後の試走・安定感を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7461,
+        "label": "候補車体の2択を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7695,
+        "label": "車体レビュー・本戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7971,
+        "label": "締めのトーク・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

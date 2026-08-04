@@ -1,0 +1,90 @@
+{
+  "videoId": "dSvnaAA_EKg",
+  "title": "【朗読】夜王国語出たら即終了！？これが本当のグリム童話【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-08T11:57:57Z",
+  "duration": "PT49M10S",
+  "durationSec": 2950,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dSvnaAA_EKg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T12:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・朗読の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 533,
+        "label": "白雪姫の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 834,
+        "label": "森へ向かう白雪姫",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1112,
+        "label": "七人の小人の家",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1616,
+        "label": "女王と魔法の鏡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1738,
+        "label": "小人の家への訪問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2034,
+        "label": "二度目の訪問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2249,
+        "label": "小人たちの対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2412,
+        "label": "りんごをめぐる訪問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2727,
+        "label": "七人の小人の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2888,
+        "label": "朗読の締め・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "kSf6fbDC6S0",
+  "title": "【彼ピのパチ代稼ぐ配信】配信者ちゃん(地雷女子)をコメと投げ銭で救う！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-04T11:06:43Z",
+  "duration": "PT55M28S",
+  "durationSec": 3328,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kSf6fbDC6S0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T19:34:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信前告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 313,
+        "label": "ゲームの目的と操作準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "コメントを送りゲームを始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 702,
+        "label": "配信者の事情と救出方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 915,
+        "label": "夢とお金をめぐる相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1105,
+        "label": "関係をどう変えるか考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1244,
+        "label": "相談ルートを選び物語を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1523,
+        "label": "別ルートの展開を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1687,
+        "label": "関係をめぐる選択肢を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2026,
+        "label": "相談後の変化を見届ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2272,
+        "label": "追加ルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2451,
+        "label": "支援ルートの後半を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2690,
+        "label": "残りのルートを見比べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3207,
+        "label": "ゲームの感想と仕組みを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3239,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3285,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

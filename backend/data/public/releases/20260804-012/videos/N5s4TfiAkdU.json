@@ -1,0 +1,75 @@
+{
+  "videoId": "N5s4TfiAkdU",
+  "title": "全13問！にじさんじライバー部屋当てクイズ大会を開催します",
+  "publishedAt": "2023-01-08T10:00:08Z",
+  "duration": "PT22M47S",
+  "durationSec": 1367,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/N5s4TfiAkdU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・部屋当てクイズの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 142,
+        "label": "初級編・第1〜4問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 482,
+        "label": "中級編・第5〜7問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 771,
+        "label": "上級編・第8〜10問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1063,
+        "label": "終盤の第11〜12問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1232,
+        "label": "最終問題の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1258,
+        "label": "得点確認・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1349,
+        "label": "視聴者向け追加問題",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

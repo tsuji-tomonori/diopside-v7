@@ -1,0 +1,110 @@
+{
+  "videoId": "mXRlJxsP4vg",
+  "title": "【スプラトゥーン3】ひ　つ　ま　ぶ　し　day2【#らぶスノ/にじさんじ】",
+  "publishedAt": "2022-09-25T13:41:05Z",
+  "duration": "PT2H22M58S",
+  "durationSec": 8578,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mXRlJxsP4vg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・フェスのルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 497,
+        "label": "ソロでトリカラに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1881,
+        "label": "突発コラボ準備・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2714,
+        "label": "コラボでトリカラバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "トリカラの守り方を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3510,
+        "label": "試合後の雑談と次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3996,
+        "label": "トリカラバトルで中央を攻める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "武器談義から次のバトルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "試合後の雑談と次のトリカラへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5814,
+        "label": "トリカラバトルで中央を押さえる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6520,
+        "label": "試合後の感想と再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6912,
+        "label": "トリカラバトルを続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7907,
+        "label": "締め相談から終盤のバトルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8237,
+        "label": "コラボの振り返り・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8388,
+        "label": "スパチャ読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

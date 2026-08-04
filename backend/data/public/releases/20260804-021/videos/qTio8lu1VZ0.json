@@ -1,0 +1,110 @@
+{
+  "videoId": "qTio8lu1VZ0",
+  "title": "同時視聴【ウマ娘】アニメ2期をみんなで視聴する会(7～13話)【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-23T16:09:58Z",
+  "duration": "PT3H53M35S",
+  "durationSec": 14015,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qTio8lu1VZ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・同時視聴準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 894,
+        "label": "第7話 同時視聴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2492,
+        "label": "第8話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4178,
+        "label": "第9話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5837,
+        "label": "第10話 同時視聴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7588,
+        "label": "第11話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9143,
+        "label": "第12話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10688,
+        "label": "第13話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12158,
+        "label": "第13話視聴後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12409,
+        "label": "ゲームと競馬の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12760,
+        "label": "スーパーチャット・今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13198,
+        "label": "ゲーム配信方針・作品考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13623,
+        "label": "次回の同時視聴・競馬の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13851,
+        "label": "体調と次回配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13944,
+        "label": "最後のお礼・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

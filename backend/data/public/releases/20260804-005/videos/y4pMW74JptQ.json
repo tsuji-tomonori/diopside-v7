@@ -1,0 +1,170 @@
+{
+  "videoId": "y4pMW74JptQ",
+  "title": "【スプラトゥーン3】バンカラマッチ初参戦【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-23T16:45:11Z",
+  "duration": "PT4H24M11S",
+  "durationSec": 15851,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/y4pMW74JptQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・バンカラマッチ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 711,
+        "label": "初回ガチエリア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1015,
+        "label": "ガチエリア連戦・チーム継続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1891,
+        "label": "ガチエリア連戦・ポイント確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2468,
+        "label": "ガチエリア・ポイント整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3121,
+        "label": "ガチエリアで長射程に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4064,
+        "label": "戦績確認・ガロンへ変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4693,
+        "label": "ガロンでガチエリア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5184,
+        "label": "通信エラーと無効試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5584,
+        "label": "ガロンでガチエリア再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6179,
+        "label": "ガチエリア終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6770,
+        "label": "ガチヤグラへルール切替",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7133,
+        "label": "初回ガチヤグラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7825,
+        "label": "ガチヤグラ・バリアと連携",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9033,
+        "label": "わかばとバリアの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9123,
+        "label": "ガチヤグラ・乗り方を見直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10219,
+        "label": "武器を比較して変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10364,
+        "label": "新しいシューターでガチヤグラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10939,
+        "label": "ガチヤグラの立ち回りを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11423,
+        "label": "ガチヤグラ・わかばで再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12039,
+        "label": "同じチーム継続とフェス談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12140,
+        "label": "わかば2枚でガチヤグラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12689,
+        "label": "ガチヤグラ・バリアで味方を支援",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14090,
+        "label": "ガチアサリへルール切替",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14479,
+        "label": "最後のガチアサリ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14748,
+        "label": "初バンカラマッチの総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14958,
+        "label": "ロッカー整理・ガチャ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

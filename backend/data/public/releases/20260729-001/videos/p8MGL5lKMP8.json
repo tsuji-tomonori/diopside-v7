@@ -1,0 +1,140 @@
+{
+  "videoId": "p8MGL5lKMP8",
+  "title": "【スマブラSP】完全初見。昨日ソフト購入してきた【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-19T08:20:25Z",
+  "duration": "PT2H5M35S",
+  "durationSec": 7535,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/p8MGL5lKMP8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スマブラ大会に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 272,
+        "label": "ヨッシーで初めての大乱闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 795,
+        "label": "技表とトレーニングモードを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1532,
+        "label": "スマッシュと復帰操作を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2058,
+        "label": "シールド・回避・つかみを実践",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2594,
+        "label": "ヨッシーで通常戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2845,
+        "label": "最初の挑戦者戦・キャラ解放",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3127,
+        "label": "ゼルダ戦で技とアシストを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3687,
+        "label": "次の挑戦者戦でステージを体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3928,
+        "label": "クッパを選んで次の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4160,
+        "label": "連戦でステージギミックとアイテムを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5209,
+        "label": "ルール確認と大会形式の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5425,
+        "label": "大会ルールで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5643,
+        "label": "インクリングの挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5778,
+        "label": "後半戦でアイテムとギミックを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6325,
+        "label": "挑戦者の間で再戦の仕組みを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6404,
+        "label": "ギミックのある挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6542,
+        "label": "ゼルダでアイテムとコンボを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7036,
+        "label": "モード選択と再戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7156,
+        "label": "終盤の挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7322,
+        "label": "配信の振り返り・告知・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

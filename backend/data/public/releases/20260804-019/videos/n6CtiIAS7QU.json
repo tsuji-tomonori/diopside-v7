@@ -1,0 +1,80 @@
+{
+  "videoId": "n6CtiIAS7QU",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆1ステ◆【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-04-13T04:25:02Z",
+  "duration": "PT55M31S",
+  "durationSec": 3331,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/n6CtiIAS7QU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:53:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第一幕「日向ぼっこのワンシーン」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 343,
+        "label": "第一幕後トーク・第二幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 652,
+        "label": "第二幕「題名無」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1244,
+        "label": "第二幕後トーク・第三幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "第三幕「わがままお嬢様とメイド長様」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1860,
+        "label": "第三幕後トーク・第四幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "第四幕「消えないのはタバコの匂い」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2410,
+        "label": "第四幕後トーク・第五幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "第五幕「また会いましょう」",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

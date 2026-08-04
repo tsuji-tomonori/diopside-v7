@@ -1,0 +1,120 @@
+{
+  "videoId": "P6ZDEVB1twg",
+  "title": "【3.0お披露目】あーんな顔やこーんな顔もできちゃう‥♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-26T14:52:11Z",
+  "duration": "PT2H25M10S",
+  "durationSec": 8710,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/P6ZDEVB1twg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:06:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3.0お披露目・可動域紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 603,
+        "label": "表情実演・ショートカット披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1486,
+        "label": "泣ける話・涙の表情",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1881,
+        "label": "初期私服披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2057,
+        "label": "強い表情・ミックス機能",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2699,
+        "label": "小物を使った表情実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3204,
+        "label": "ドレス衣装・表情の組み合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3599,
+        "label": "猫モード・猫耳衣装",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4185,
+        "label": "グリーンバック撮影・表情組み合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4710,
+        "label": "告知・スパチャ読み準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "スパチャ読み・感謝と表情リアクション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6312,
+        "label": "呼び方と表情のリクエスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7059,
+        "label": "表情ミックス・着替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7466,
+        "label": "滑り込みスパチャ・表示順確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7872,
+        "label": "表情リクエスト・配信告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8234,
+        "label": "最後の衣装・終盤のスパチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8538,
+        "label": "お披露目の締め・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

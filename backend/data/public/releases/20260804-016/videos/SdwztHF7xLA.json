@@ -1,0 +1,110 @@
+{
+  "videoId": "SdwztHF7xLA",
+  "title": "【#巴乃しん】セクシーボイスにメロメロ！？ようこそ怪盗の世界へ！【猫瀬乃しん/白雪巴】",
+  "publishedAt": "2022-05-13T14:17:46Z",
+  "duration": "PT1H5M55S",
+  "durationSec": 3955,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SdwztHF7xLA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・コラボのきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 519,
+        "label": "お互いの第一印象と声の魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 908,
+        "label": "最近嬉しかったこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1041,
+        "label": "配信前のルーティーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1276,
+        "label": "好きなお酒・視聴者時代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1343,
+        "label": "3Dの夢と共演の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1635,
+        "label": "巴さんの好きなところ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1882,
+        "label": "頑張った自分へのご褒美",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2145,
+        "label": "欲しいもの・温泉の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2457,
+        "label": "ヨット対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3217,
+        "label": "お互いの呼び名",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3407,
+        "label": "ヨット対決・終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3638,
+        "label": "罰ゲーム・セリフ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3808,
+        "label": "今後の配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

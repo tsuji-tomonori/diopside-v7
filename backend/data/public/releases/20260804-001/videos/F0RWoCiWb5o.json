@@ -1,0 +1,195 @@
+{
+  "videoId": "F0RWoCiWb5o",
+  "title": "【#カラオケへいこう】今時流行りのアニメ曲をみんなでカラオケ♪♪♪【にじさんじ】",
+  "publishedAt": "2023-07-02T09:36:54Z",
+  "duration": "PT3H25M47S",
+  "durationSec": 12347,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/F0RWoCiWb5o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:45:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 687,
+        "label": "アニメ曲カラオケ①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1028,
+        "label": "アニメ曲カラオケ②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1329,
+        "label": "ぼっち・ざ・ろっく！関連曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1732,
+        "label": "ナンバーワン（僕のヒーローアカデミア）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2138,
+        "label": "アイオライト（デッドマウント・デスプレイ）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2431,
+        "label": "アイドル（【推しの子】）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2921,
+        "label": "スカー（BLEACH）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3346,
+        "label": "裸の勇者（王様ランキング）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3634,
+        "label": "ハピネス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3977,
+        "label": "うる星やつら関連曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4250,
+        "label": "shall we dance?（シャドーハウス）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4695,
+        "label": "リコリス・リコイル関連曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5169,
+        "label": "アニメ曲カラオケ③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5478,
+        "label": "残響散歌（鬼滅の刃）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5908,
+        "label": "1・2・3（ポケットモンスター）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6314,
+        "label": "アニメ曲カラオケ④",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6632,
+        "label": "Work（地獄楽）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6960,
+        "label": "快眠！安眠！スヤリスト生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7305,
+        "label": "名探偵コナン関連曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7634,
+        "label": "優しい彗星（BEASTARS）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8049,
+        "label": "逆夢（呪術廻戦0）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8527,
+        "label": "秘密メロディー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8842,
+        "label": "SPARK-AGAIN（炎炎ノ消防隊）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9191,
+        "label": "決戦スピリット（ハイキュー!!）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9657,
+        "label": "冒険のVLOG（EDENS ZERO）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9929,
+        "label": "アニメ曲カラオケ⑤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10366,
+        "label": "ひたむき（僕のヒーローアカデミア）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11007,
+        "label": "アニメ曲カラオケ⑥",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11390,
+        "label": "炎（鬼滅の刃）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11651,
+        "label": "感想・企画振り返り・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12048,
+        "label": "全員歌唱・鬼滅の刃関連曲",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

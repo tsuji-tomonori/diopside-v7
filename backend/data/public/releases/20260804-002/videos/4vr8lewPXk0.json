@@ -1,0 +1,145 @@
+{
+  "videoId": "4vr8lewPXk0",
+  "title": "˗ˋˏ 3D誕生日凸待ち ˎˊ˗  SOS（ 天宮こころ/にじさんじ ）",
+  "publishedAt": "2021-07-01T13:40:56Z",
+  "duration": "PT3H15M13S",
+  "durationSec": 11713,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4vr8lewPXk0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日凸待ちの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 397,
+        "label": "最初の凸待ち・誕生日プレートと撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 920,
+        "label": "犬山たまき・誕生日祝いとプレート撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1259,
+        "label": "小森めと・誕生日祝いと歌・サムネイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1608,
+        "label": "癒月ちょこ先生・歌とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1920,
+        "label": "杏戸ゆげ・活動談義と凸待ちポーズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2654,
+        "label": "癒月ちょこ先生（再登場）・夏と写真ポーズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3025,
+        "label": "しぐれうい・チェキとゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3994,
+        "label": "ルイス・キャミー・ゲームと3D活動の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4615,
+        "label": "でびでび・でびる・誕生日プレゼントと散歩の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5120,
+        "label": "魔使マオ・運動後のご褒美と誕生日の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5447,
+        "label": "誕生日動画・全員トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6214,
+        "label": "愛園愛美・食事と誕生日の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6915,
+        "label": "本間ひまわり・活動の思い出とFPS企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7356,
+        "label": "エリー・コニファー・食事コラボと願い事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8108,
+        "label": "北小路ヒスイ・初対面トークと外出計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8930,
+        "label": "鷹宮リオン・漫画と活動・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9265,
+        "label": "レヴィ・エリファ・3Dポーズとホラーゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10192,
+        "label": "白雪巴・ポーズと活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10745,
+        "label": "アルス・アルマル・ゲームと活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11292,
+        "label": "樋口楓先輩・ゲームとマイクの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11414,
+        "label": "おわりに・グッズとLINEスタンプのお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

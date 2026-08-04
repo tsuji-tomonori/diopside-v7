@@ -1,0 +1,75 @@
+{
+  "videoId": "eFe7lb65jfM",
+  "title": "【#98 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-08-22T03:00:24Z",
+  "duration": "PT9M58S",
+  "durationSec": 598,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eFe7lb65jfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介と夏の過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 142,
+        "label": "ゲスト登場とおそろいの服",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 236,
+        "label": "お便り① 2人の共通点・違い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 332,
+        "label": "漢字の読み方と台本のルビ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 441,
+        "label": "お便り② ほっこりするエピソード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 486,
+        "label": "リクエストのフレーズを披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 571,
+        "label": "エンディングとメッセージ募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 585,
+        "label": "メッセージの宛先",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

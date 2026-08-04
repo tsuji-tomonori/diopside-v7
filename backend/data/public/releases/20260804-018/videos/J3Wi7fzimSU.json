@@ -1,0 +1,120 @@
+{
+  "videoId": "J3Wi7fzimSU",
+  "title": "【#百合漫画家様対談コラボ】✨第3回ゲストはゆあま先生✨「君と綴るうたかた」「イケメンすぎです紫葵先パイ！」など【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-29T14:29:43Z",
+  "duration": "PT2H20M58S",
+  "durationSec": 8458,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/J3Wi7fzimSU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:48:57.364Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲスト紹介・コラボ対談スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 750,
+        "label": "百合との出会いと創作の原点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1045,
+        "label": "好きな百合作品・作家の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1527,
+        "label": "キャラクター作りの考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1860,
+        "label": "作品アイデアの生まれ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2097,
+        "label": "百合の好みとキャラデザイン談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2808,
+        "label": "書き言葉と話し言葉の違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3301,
+        "label": "リスナー質問：作品の完成と描き方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3966,
+        "label": "制作中の休み方と感情表現",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4528,
+        "label": "構図の仕掛けと結末の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5032,
+        "label": "作品の着想と作風の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5606,
+        "label": "漫画制作のスピードと原点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6095,
+        "label": "紙・電子・スマホで読む違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6622,
+        "label": "作品のイメージソング談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7269,
+        "label": "リクエストのセリフ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7799,
+        "label": "セリフ読みの感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7984,
+        "label": "告知・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

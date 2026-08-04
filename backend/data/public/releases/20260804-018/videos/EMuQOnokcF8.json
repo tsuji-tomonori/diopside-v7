@@ -1,0 +1,115 @@
+{
+  "videoId": "EMuQOnokcF8",
+  "title": "【マリオカート8DX】初心者とは言わせないマリカ特訓【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-11T15:42:07Z",
+  "duration": "PT1H48M41S",
+  "durationSec": 6521,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EMuQOnokcF8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・大会に向けた練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 237,
+        "label": "視聴者参加の案内とグッズ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 362,
+        "label": "操作確認と参加者待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 474,
+        "label": "視聴者参加レース開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "大会目標を確認して次のレースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2260,
+        "label": "コイン重視の走りを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2782,
+        "label": "得意コースでコインとアイテムを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3487,
+        "label": "コイン作戦を連続レースで検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4152,
+        "label": "落下回避とアイテム運用の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4689,
+        "label": "ライン取りとコイン回収を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5221,
+        "label": "落下を避ける走りを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5405,
+        "label": "ブレーキ操作とゴースト練習を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5698,
+        "label": "コイン重視作戦を実戦で確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5991,
+        "label": "終盤の視聴者参加レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6168,
+        "label": "ラスト一戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6418,
+        "label": "配信のまとめと告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

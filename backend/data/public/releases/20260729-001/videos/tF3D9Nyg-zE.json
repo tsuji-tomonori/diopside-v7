@@ -1,0 +1,95 @@
+{
+  "videoId": "tF3D9Nyg-zE",
+  "title": "【#もちもちコラボ】もちもち心霊所面接！助っ人募集中！！【椎名唯華/剣持刀也/にじさんじ】",
+  "publishedAt": "2024-02-16T12:18:57Z",
+  "duration": "PT1H11M54S",
+  "durationSec": 4314,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tF3D9Nyg-zE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:43:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・心霊相談所の面接説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 241,
+        "label": "黒井しばの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 863,
+        "label": "白雪巴の面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1324,
+        "label": "鏑木ろこの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1612,
+        "label": "鷹宮リオンの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2010,
+        "label": "倉持めるとの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2441,
+        "label": "樋口楓の面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2797,
+        "label": "天宮こころの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3217,
+        "label": "アルス・アルマルの面接",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3579,
+        "label": "ましろの面接・心霊写真の鑑定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3968,
+        "label": "面接全体の振り返りと今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4257,
+        "label": "締めの挨拶・除霊ヨシ！",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

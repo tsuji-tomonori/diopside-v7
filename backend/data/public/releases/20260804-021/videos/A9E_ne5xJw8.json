@@ -1,0 +1,120 @@
+{
+  "videoId": "A9E_ne5xJw8",
+  "title": "【ポケモンユナイト】顔　合　わ　せ【にじさんじ 】",
+  "publishedAt": "2021-09-08T15:25:06Z",
+  "duration": "PT2H3M57S",
+  "durationSec": 7437,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/A9E_ne5xJw8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:42:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・参加メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 379,
+        "label": "最初の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 559,
+        "label": "2戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 757,
+        "label": "3戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 986,
+        "label": "チーム練習の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "4戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2322,
+        "label": "試合の振り返りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2917,
+        "label": "5戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3196,
+        "label": "試合後の編成相談と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3826,
+        "label": "6戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "キャラクターと技の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4322,
+        "label": "7戦目の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "試合後の振り返りとモード相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5507,
+        "label": "クイックバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6122,
+        "label": "チーム名決めと次回の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6330,
+        "label": "チーム練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7064,
+        "label": "締めのトーク・お知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

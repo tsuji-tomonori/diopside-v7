@@ -1,0 +1,90 @@
+{
+  "videoId": "6rJ1cgZHg0A",
+  "title": "【 #マリカにじさんじ杯 】 予選Bリーグ！【ソフィア・ヴァレンタイン / にじさんじ】",
+  "publishedAt": "2025-04-27T07:42:22Z",
+  "duration": "PT36M19S",
+  "durationSec": 2179,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6rJ1cgZHg0A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:48:32.127370Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 230,
+        "label": "企画内容・紙コップ車の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "出場メンバーと大会への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 559,
+        "label": "ルーム準備・接続確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 722,
+        "label": "走行音の説明と試走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 984,
+        "label": "大会前の緊張・本番準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1145,
+        "label": "コース選択・予選開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1212,
+        "label": "予選走行・前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1342,
+        "label": "予選走行・次のコース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1772,
+        "label": "予選走行・後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2043,
+        "label": "走行後の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

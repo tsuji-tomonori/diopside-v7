@@ -1,0 +1,80 @@
+{
+  "videoId": "_D-Dv3pBTQM",
+  "title": "【雀魂】そういえばこの衣装で麻雀してなかったわね【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-25T16:34:19Z",
+  "duration": "PT2H22M6S",
+  "durationSec": 8526,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_D-Dv3pBTQM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:39:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・麻雀の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 346,
+        "label": "参加者を迎えて卓を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 420,
+        "label": "1卓目・手牌を考えながら対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "2卓目・役を確認しながら対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1957,
+        "label": "3卓目・役を学びながら対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4027,
+        "label": "4卓目・手牌と役を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5458,
+        "label": "5卓目・参加型麻雀を続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6878,
+        "label": "6卓目・終盤の対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8406,
+        "label": "対局後の挨拶・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

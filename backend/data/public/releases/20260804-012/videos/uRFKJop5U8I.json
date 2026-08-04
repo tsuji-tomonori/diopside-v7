@@ -1,0 +1,130 @@
+{
+  "videoId": "uRFKJop5U8I",
+  "title": "【#仲良しさんいらっしゃい】W白雪コンビの仲良し度はいかに！？【白雪みしろ/白雪巴/姫咲ゆずる】",
+  "publishedAt": "2022-06-07T14:16:15Z",
+  "duration": "PT1H8M51S",
+  "durationSec": 4131,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uRFKJop5U8I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 290,
+        "label": "二人が仲良くなったきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 768,
+        "label": "相性占い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "シンクロ回答チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1280,
+        "label": "共通点・白雪のイメージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1373,
+        "label": "楽しかったコラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1578,
+        "label": "二人の思い出・焼肉エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1796,
+        "label": "体力の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2000,
+        "label": "しっかり者エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2179,
+        "label": "マシュマロ・仲良くなる前の印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2449,
+        "label": "お互いの好きなところ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "ゲーム対決のリベンジ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2894,
+        "label": "対決したらどちらが強い？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3053,
+        "label": "姉妹ならどちらが姉？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3206,
+        "label": "美容情報の交換",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3373,
+        "label": "今後二人でやりたいこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3488,
+        "label": "記念撮影コーナー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3980,
+        "label": "告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4062,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

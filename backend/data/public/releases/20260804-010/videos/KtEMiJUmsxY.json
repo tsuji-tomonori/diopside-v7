@@ -1,0 +1,195 @@
+{
+  "videoId": "KtEMiJUmsxY",
+  "title": "【ウミガリ】全然ホラゲーだと思っていないがホラゲーらしいｗ【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-15T20:13:17Z",
+  "duration": "PT6H50M28S",
+  "durationSec": 24628,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KtEMiJUmsxY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T01:11:00.568Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 252,
+        "label": "始まりの島・基本操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 954,
+        "label": "神社の目的確認・最初の帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1550,
+        "label": "高校区域への航路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2326,
+        "label": "高校区域の探索・石板1枚目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3796,
+        "label": "拠点帰還・鐘と船の強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4188,
+        "label": "モール区域への航路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4536,
+        "label": "モール区域の探索・新装備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5112,
+        "label": "モール区域の目的達成・帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6134,
+        "label": "資源集め・船速強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7779,
+        "label": "ドーム区域への航路・探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8491,
+        "label": "ドーム区域の目的",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9539,
+        "label": "拠点帰還・装備強化と石板探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11122,
+        "label": "大型個体の探索・駅区域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11955,
+        "label": "駅区域の探索・依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12914,
+        "label": "駅区域の主要イベント・帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13905,
+        "label": "駅周辺の大型個体探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15335,
+        "label": "石板2枚目の設置・再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16543,
+        "label": "水没都市への航路・目的確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17038,
+        "label": "水没都市の依頼 1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17328,
+        "label": "水没都市の依頼 2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17726,
+        "label": "水没都市の依頼 3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18689,
+        "label": "水没都市の依頼 4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19851,
+        "label": "水没都市の終盤探索・石板3枚目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20945,
+        "label": "3枚の石板・最終航路の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21566,
+        "label": "最終航路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21651,
+        "label": "最終島の探索と選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22140,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22433,
+        "label": "終盤セーブから再走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22945,
+        "label": "再走で選択肢を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23484,
+        "label": "クリア後の考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23909,
+        "label": "スーパーチャット・海の生き物雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

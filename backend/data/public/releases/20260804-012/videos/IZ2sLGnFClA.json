@@ -1,0 +1,115 @@
+{
+  "videoId": "IZ2sLGnFClA",
+  "title": "【朝雑談】低気圧で頭痛を起こすという初体験‥一週間は長い【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-19T23:35:04Z",
+  "duration": "PT1H19M22S",
+  "durationSec": 4762,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IZ2sLGnFClA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:31:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・寝起きの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 257,
+        "label": "朝ごはんと手料理の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 644,
+        "label": "朝のテーマ・新人ライバーの初配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 879,
+        "label": "冬の布団から出るコツ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1109,
+        "label": "ペットの体調と低気圧頭痛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1274,
+        "label": "冬の朝の起き方・防寒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1836,
+        "label": "宝くじを買うか考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2203,
+        "label": "スクラッチくじの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2322,
+        "label": "三億円の使い道を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2449,
+        "label": "海外旅行への不安",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2527,
+        "label": "浴槽・温泉へのこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2799,
+        "label": "老後の備えと特別な体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3335,
+        "label": "第一印象で見るところ・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3887,
+        "label": "身だしなみと空気の読み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4375,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4541,
+        "label": "スーパーチャット読み・お礼",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

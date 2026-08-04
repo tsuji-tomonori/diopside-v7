@@ -1,0 +1,110 @@
+{
+  "videoId": "inoehnL2w7U",
+  "title": "＃44【崩壊：スターレイル】オンパロス編。アグライアの覚悟と想いを繋いでいく―――。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-04T15:57:57Z",
+  "duration": "PT2H46M1S",
+  "durationSec": 9961,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/inoehnL2w7U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:11:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 298,
+        "label": "任務再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1286,
+        "label": "先祖の祝福を求めて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2173,
+        "label": "次の儀式へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3216,
+        "label": "最後の目的地へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4285,
+        "label": "討伐隊集結",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4882,
+        "label": "天空への道中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "天空の都市",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6549,
+        "label": "天象の壁と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7002,
+        "label": "古き眷属を追って",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7923,
+        "label": "祭殿探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8713,
+        "label": "伝説の記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9091,
+        "label": "追跡再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9601,
+        "label": "ゲーム終了・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9770,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

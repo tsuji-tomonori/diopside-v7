@@ -1,0 +1,70 @@
+{
+  "videoId": "VC9CXVGhKBY",
+  "title": "【#にじ歌DAY】全5曲！温度差について来られるかしら【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-05T11:04:06Z",
+  "duration": "PT30M7S",
+  "durationSec": 1807,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VC9CXVGhKBY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "1曲目「daze」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 323,
+        "label": "2曲目「Here」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 585,
+        "label": "3曲目「饒舌スキャンダラス」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 823,
+        "label": "後半戦MC・残り2曲の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1054,
+        "label": "4曲目「眠り姫」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1369,
+        "label": "「眠り姫」後の感想・ラスト曲紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1516,
+        "label": "5曲目「New Sensation」",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

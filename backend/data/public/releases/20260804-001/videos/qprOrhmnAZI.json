@@ -1,0 +1,130 @@
+{
+  "videoId": "qprOrhmnAZI",
+  "title": "【#にじスプラ大会】『雪晴れに花ふわり』大会直前練習！【エリー・コニファー/白雪巴/不破湊/甲斐田晴】",
+  "publishedAt": "2020-06-20T08:31:38Z",
+  "duration": "PT1H49M48S",
+  "durationSec": 6588,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qprOrhmnAZI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:15:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 377,
+        "label": "練習試合1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1178,
+        "label": "試合1の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1230,
+        "label": "練習試合2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2235,
+        "label": "試合2の振り返り・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2310,
+        "label": "練習試合3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2751,
+        "label": "試合3の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2886,
+        "label": "練習試合4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "作戦会議・最終調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3359,
+        "label": "練習試合5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3544,
+        "label": "試合5振り返り・参加型練習の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3961,
+        "label": "参加型練習試合1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4479,
+        "label": "参加型練習試合2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4649,
+        "label": "参加型試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5061,
+        "label": "参加型練習試合3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5518,
+        "label": "改善点のコーチング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5912,
+        "label": "大会前の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5992,
+        "label": "最後の参加型練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6467,
+        "label": "試合後の感想・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "J3v-FpSHSu4",
+  "title": "【雑談】昨日のバレンタインどうだった？直近のお話とご報告【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-15T15:46:41Z",
+  "duration": "PT2H33M34S",
+  "durationSec": 9214,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/J3v-FpSHSu4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T21:50:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 217,
+        "label": "ちょこ先生とのライブ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 911,
+        "label": "猫ミームとライブの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1158,
+        "label": "練習から本番までの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1818,
+        "label": "ライブ後の感想とコラボ話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "ライブ全体と二人版の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "骨折と手術の報告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3359,
+        "label": "入院・手術日とリハビリの見通し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3631,
+        "label": "骨折後の生活と復帰への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "手術準備とネイルの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4226,
+        "label": "病院での怪談めいた話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4596,
+        "label": "入院前後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4836,
+        "label": "リハビリとなつめさんとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5007,
+        "label": "映画『ずっと独身でいるつもり？』の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5392,
+        "label": "入院前の予定と視聴者へのお願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5755,
+        "label": "片手生活と入院準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6074,
+        "label": "スパチャ読み開始・痛みと食事の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6768,
+        "label": "怪我への不安と診察・入院費の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7509,
+        "label": "入院中の配信とASMRの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7909,
+        "label": "治療方針と復帰への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8430,
+        "label": "視聴者への感謝とハニートラップ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8613,
+        "label": "手術前の配信・同時視聴の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9034,
+        "label": "治療を優先して休養へ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

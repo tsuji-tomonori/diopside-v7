@@ -1,0 +1,140 @@
+{
+  "videoId": "ntzaqiKHO1k",
+  "title": "【#にじワイテ】🎃第二夜🎃あむあむ～！人狼楽しむでぇ！👻 Minecraft 👻【西園チグサ/にじさんじ】",
+  "publishedAt": "2020-10-18T13:36:02Z",
+  "duration": "PT2H9M19S",
+  "durationSec": 7759,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ntzaqiKHO1k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:44:34.134240Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・人狼RPGのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 266,
+        "label": "参加者紹介・第1試合の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 852,
+        "label": "第1試合・探索とアイテム集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "第1試合・役職報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2100,
+        "label": "第1試合・夜の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2519,
+        "label": "第1試合後・振り返りと次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "第2試合・準備と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3176,
+        "label": "第2試合・役職報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3553,
+        "label": "第2試合・夜の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3892,
+        "label": "第2試合後・答え合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4239,
+        "label": "第3試合・準備と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4663,
+        "label": "第3試合・役職報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "第3試合・終盤の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5539,
+        "label": "第4試合・準備と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6025,
+        "label": "第4試合・役職報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6503,
+        "label": "第4試合・終盤の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7077,
+        "label": "第4試合後・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7200,
+        "label": "大会終盤・イベント案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7402,
+        "label": "全試合終了後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7600,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7696,
+        "label": "今後の告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

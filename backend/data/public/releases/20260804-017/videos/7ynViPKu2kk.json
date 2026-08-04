@@ -1,0 +1,130 @@
+{
+  "videoId": "7ynViPKu2kk",
+  "title": "【雑談】衣装のおさらいをする会＆スパチャ読み【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-23T17:00:21Z",
+  "duration": "PT2H42M6S",
+  "durationSec": 9726,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7ynViPKu2kk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・月下美人の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 630,
+        "label": "衣装制作と楽曲収録の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 990,
+        "label": "1周年企画・コラボ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1600,
+        "label": "近況の買い物と冬服雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1854,
+        "label": "新発表の予告・Live2D撮影会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2735,
+        "label": "衣装のおさらい・衣装差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3341,
+        "label": "視聴者参加型ゲーム案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3412,
+        "label": "衣装撮影・表情差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4149,
+        "label": "衣装・髪型・メイクの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4518,
+        "label": "新衣装の細部をチェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5071,
+        "label": "撮影会の締め・表情差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5853,
+        "label": "1周年ボイスの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6149,
+        "label": "アップヘアとメッシュの衣装談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6774,
+        "label": "撮影会の締め・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6928,
+        "label": "スパチャ読み・衣装への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8561,
+        "label": "月下美人の感想と制作振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8822,
+        "label": "スパチャ読み・撮影画像の利用相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9288,
+        "label": "切り抜き・タグ・イベントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9626,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "kwCcmO-AvIk",
+  "title": "【Slither.io/スリザリオ】初　見　女　王【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-07T13:40:33Z",
+  "duration": "PT1H29M51S",
+  "durationSec": 5391,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kwCcmO-AvIk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スリザリオ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 208,
+        "label": "初プレイと操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 362,
+        "label": "生存と成長の基本を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1042,
+        "label": "再挑戦と距離感の学習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1239,
+        "label": "色を変えて安全な場所を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1753,
+        "label": "ママとの遭遇から再スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2040,
+        "label": "大型ワームのそばで成長を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2877,
+        "label": "ゲームをしながら恋愛観トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "見た目を変えてマップを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3463,
+        "label": "大きくなるほど難しい？上位を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3815,
+        "label": "終盤のプレイとゲームの難しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4368,
+        "label": "新しい色で再スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4702,
+        "label": "ゆっくり進む終盤の挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4970,
+        "label": "配信を締めくくる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5020,
+        "label": "スーパーチャット読みと振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

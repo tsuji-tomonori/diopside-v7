@@ -1,0 +1,130 @@
+{
+  "videoId": "RJe5JPoHbZE",
+  "title": "【迷宮校舎】ホラーよりこの方達がコワいです。。。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-28T14:55:54Z",
+  "duration": "PT2H48M10S",
+  "durationSec": 10090,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RJe5JPoHbZE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:45:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 674,
+        "label": "ノーマル挑戦開始・最初の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1139,
+        "label": "鍵とコンパスを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1677,
+        "label": "ローソクを見つけて追跡をかわす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3006,
+        "label": "コンパスで迷宮のルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4148,
+        "label": "最後のローソクを分担して探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4491,
+        "label": "点火後の出口探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "ノーマル終盤の敵ラッシュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6168,
+        "label": "ノーマル挑戦を振り返り再挑戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6257,
+        "label": "再挑戦でローソクとアイテムを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6911,
+        "label": "イージー挑戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7030,
+        "label": "イージー序盤の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7477,
+        "label": "迷宮を進み出口の鍵を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8078,
+        "label": "出口を確認して帰路を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8858,
+        "label": "最終局面の帰路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9147,
+        "label": "ゲームの物語パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9308,
+        "label": "ゲーム後の感想トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9589,
+        "label": "コラボの総括と出演者へのお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9729,
+        "label": "スーパーチャット読みと終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

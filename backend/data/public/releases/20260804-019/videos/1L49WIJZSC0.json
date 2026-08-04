@@ -1,0 +1,130 @@
+{
+  "videoId": "1L49WIJZSC0",
+  "title": "【スプラトゥーン3】雪月シスターズ第7話「だって私達‥仲間ジャン！」【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-15T16:00:36Z",
+  "duration": "PT5H32M54S",
+  "durationSec": 19974,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1L49WIJZSC0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム練習の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 913,
+        "label": "ガチヤグラ・最初のチーム対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2836,
+        "label": "ガチヤグラ・次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5304,
+        "label": "対戦後の反省と武器相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6262,
+        "label": "ガチホコのルート確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7489,
+        "label": "新チーム合流・対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7838,
+        "label": "ガチホコ・チーム対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8785,
+        "label": "ガチエリアの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9221,
+        "label": "ガチエリア・チーム対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10484,
+        "label": "エリア後の反省と次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10814,
+        "label": "対戦終盤・次のルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11103,
+        "label": "ガチホコ・ルートと役割の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12300,
+        "label": "ガチアサリ・攻め方を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13488,
+        "label": "アサリ後の反省と延長練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13801,
+        "label": "対戦を重ねて立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15352,
+        "label": "対戦後の講評",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16187,
+        "label": "チーム内の課題整理と締めの挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16575,
+        "label": "自主練習・立ち回りを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19203,
+        "label": "配信の締め・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -20,6 +20,22 @@ import { TagInfo, VideoDetail } from '@/types';
 import { NavIcon } from '@/components/NavIcon';
 import { formatCount, formatDuration, formatPublishedDate } from '@/lib/format';
 
+const confidenceLabels = {
+  high: '高',
+  medium: '中',
+  low: '低',
+} as const;
+
+const artifactSourceLabels: Record<string, string> = {
+  get_archives_info_v1: 'アーカイブ情報生成',
+  live_chat_messages: 'ライブチャット',
+  timestamp_learner_v1: '自動抽出',
+};
+
+function formatArtifactSource(source: string): string {
+  return artifactSourceLabels[source] ?? source;
+}
+
 export function DetailPage() {
   const { id = '' } = useParams();
   const { loading, release, refresh, error, errorKind, tagIndex, latest } = usePublicData();
@@ -77,7 +93,9 @@ export function DetailPage() {
     const entries: { label: string; value: { source: string; generatedAt: string } }[] = [];
     if (artifact.chat) entries.push({ label: 'chat', value: artifact.chat });
     if (artifact.comments) entries.push({ label: 'comments', value: artifact.comments });
-    if (artifact.timestamps) entries.push({ label: 'timestamps', value: artifact.timestamps });
+    if (artifact.timestamps?.items.length) {
+      entries.push({ label: 'timestamps', value: artifact.timestamps });
+    }
     if (artifact.wordcloud) entries.push({ label: 'wordcloud', value: artifact.wordcloud });
     return entries;
   }, [artifact]);
@@ -251,23 +269,30 @@ export function DetailPage() {
               ) : <p className="muted">集計データはまだありません。</p>}
             </section>
 
-            <section className="insight-card insight-card-wide">
-              <p className="eyebrow">TIMESTAMPS</p>
-              <h3>見どころ候補</h3>
-              {artifact.timestamps?.items?.length ? (
+            {artifact.timestamps?.items?.length ? (
+              <section className="insight-card insight-card-wide">
+                <p className="eyebrow">TIMESTAMPS</p>
+                <h3>見どころ候補</h3>
                 <ol className="timestamp-list">
                   {artifact.timestamps.items.map((item, index) => (
                     <li key={`${item.atSec}-${index}`}>
                       <a href={`https://www.youtube.com/watch?v=${video.videoId}&t=${Math.max(item.atSec, 0)}s`} target="_blank" rel="noreferrer">
                         <span className="timestamp-time">{Math.floor(item.atSec / 60)}:{String(item.atSec % 60).padStart(2, '0')}</span>
-                        <span>{item.label}</span>
+                        <span className="timestamp-copy">
+                          <span>{item.label}</span>
+                          {item.confidenceLevel ? (
+                            <span className="timestamp-confidence">
+                              信頼度: {confidenceLabels[item.confidenceLevel]}
+                            </span>
+                          ) : null}
+                        </span>
                         <NavIcon name="external" />
                       </a>
                     </li>
                   ))}
                 </ol>
-              ) : <p className="muted">見どころ候補はまだありません。</p>}
-            </section>
+              </section>
+            ) : null}
 
             <section className="insight-card">
               <p className="eyebrow">WORD CLOUD</p>
@@ -298,7 +323,9 @@ export function DetailPage() {
             <p>動画情報更新: {formatPublishedDate(video.sourceUpdatedAt)}</p>
             {video.coverage ? <p>収集範囲: {video.coverage.coverageStart}〜{video.coverage.coverageEnd}</p> : null}
             {artifactNotice.map((item) => (
-              <p key={item.label}>{item.label}: {item.value.source} / {formatPublishedDate(item.value.generatedAt)}</p>
+              <p key={item.label}>
+                {item.label}: {formatArtifactSource(item.value.source)} / {formatPublishedDate(item.value.generatedAt)}
+              </p>
             ))}
           </details>
         </section>

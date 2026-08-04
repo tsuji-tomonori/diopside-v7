@@ -1,0 +1,135 @@
+{
+  "videoId": "as9y5xr7jL4",
+  "title": "【スプラトゥーン2】ガチ初心者がいちから始めるスプラ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-15T15:28:48Z",
+  "duration": "PT1H48M25S",
+  "durationSec": 6505,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/as9y5xr7jL4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・スプラ初見プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 229,
+        "label": "基本操作チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 607,
+        "label": "広場探索と施設チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 984,
+        "label": "ヒーローモードを始める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1118,
+        "label": "最初のヒーローステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1502,
+        "label": "次のヒーローステージを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2429,
+        "label": "オンラインロビーと対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2738,
+        "label": "初めてのレギュラーマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2994,
+        "label": "対戦後のカスタマイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3154,
+        "label": "スペシャルを試す対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3324,
+        "label": "武器ショップと操作練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "レギュラーマッチで塗りを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4176,
+        "label": "ローラー相手の対戦を再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4340,
+        "label": "ローラー対策を試す対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4614,
+        "label": "ボムの使い方を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4817,
+        "label": "武器を試しながらレギュラーマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5115,
+        "label": "武器の違いと遠距離武器",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5740,
+        "label": "ローラーを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6052,
+        "label": "終了トークと告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6177,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

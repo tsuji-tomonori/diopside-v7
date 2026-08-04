@@ -1,0 +1,140 @@
+{
+  "videoId": "rw-I4Nltvgo",
+  "title": "【総勢15名】クリスマス直前！にじさんじライバーのお気に入りコスメを取材してみた！【レイン・パターソン/にじさんじ】",
+  "publishedAt": "2022-12-23T11:18:07Z",
+  "duration": "PT1H7M55S",
+  "durationSec": 4075,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rw-I4Nltvgo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・お気に入りコスメ取材",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 345,
+        "label": "パタちのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 722,
+        "label": "天宮こころのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 960,
+        "label": "えるのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1186,
+        "label": "シスター・クレアのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1491,
+        "label": "西園チグサのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1868,
+        "label": "フレン・E・ルスタリオのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1976,
+        "label": "月ノ美兎のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2088,
+        "label": "海妹四葉のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2298,
+        "label": "ルイス・キャミーのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2453,
+        "label": "壱百満天原サロメのお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2576,
+        "label": "健屋花那のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2760,
+        "label": "弦月藤士郎のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2896,
+        "label": "雪城眞尋のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2973,
+        "label": "奈羅花のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3352,
+        "label": "白雪巴のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3625,
+        "label": "緑仙のお気に入りコスメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3826,
+        "label": "取材結果の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "お気に入りコスメを募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3926,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3957,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

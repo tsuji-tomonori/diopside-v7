@@ -1,0 +1,110 @@
+{
+  "videoId": "3Ad9fBm2xg4",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆2ステ◆【フミ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-27T14:54:08Z",
+  "duration": "PT1H46M16S",
+  "durationSec": 6376,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3Ad9fBm2xg4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開演・序幕",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 585,
+        "label": "番組紹介・第1幕の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 962,
+        "label": "第2幕・設定と演技準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1297,
+        "label": "第2幕・宇宙設定の声劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1612,
+        "label": "幕間MC・第3幕の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2212,
+        "label": "第3幕・神々の声劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2530,
+        "label": "幕間MC・第4幕の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3213,
+        "label": "第4幕・王女と騎士の声劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3529,
+        "label": "幕間MC・第5幕の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "第5幕・二人の会話劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4563,
+        "label": "幕間MC・第6幕の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5502,
+        "label": "第6幕・声劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5728,
+        "label": "第6幕後の感想・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6080,
+        "label": "次回企画・出演者告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6309,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

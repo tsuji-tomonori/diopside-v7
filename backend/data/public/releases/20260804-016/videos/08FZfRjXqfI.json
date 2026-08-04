@@ -1,0 +1,90 @@
+{
+  "videoId": "08FZfRjXqfI",
+  "title": "【雀魂】夜王国三人麻雀【にじさんじ/グウェル・オス・ガール】",
+  "publishedAt": "2022-02-16T13:35:32Z",
+  "duration": "PT2H20M58S",
+  "durationSec": 8458,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/08FZfRjXqfI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始と挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 151,
+        "label": "三人麻雀のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 260,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1925,
+        "label": "対局の切り替えと第2試合の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2102,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3754,
+        "label": "第2試合終了・第3試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3840,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6497,
+        "label": "ラスト1周の攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6813,
+        "label": "オーラスの攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8175,
+        "label": "対局終了・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8316,
+        "label": "スーパーチャット読みと終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

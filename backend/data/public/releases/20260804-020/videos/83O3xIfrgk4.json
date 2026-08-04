@@ -1,0 +1,115 @@
+{
+  "videoId": "83O3xIfrgk4",
+  "title": "【攻略】台本無しの参加型ギャルゲー！？白雪巴の攻略シミュレーションゲーム～初デート編～【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-15T19:37:41Z",
+  "duration": "PT1H24M44S",
+  "durationSec": 5084,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/83O3xIfrgk4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加型ギャルゲーの企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 375,
+        "label": "デートの誘い方を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 524,
+        "label": "初デートの行き先を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 806,
+        "label": "初デートの服装を相談する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1015,
+        "label": "待ち合わせの遅刻に対応する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1266,
+        "label": "水族館でクラゲとイルカショーを楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1538,
+        "label": "イルカショー後の対応を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2072,
+        "label": "水族館を出て次の場所へ歩く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2358,
+        "label": "フルーツジュースと昼食を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "昼食の注文トラブルに対応する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3323,
+        "label": "昼食後、プラネタリウムで星の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3788,
+        "label": "プラネタリウムで周囲への対応を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4154,
+        "label": "星の見える海辺へ移動する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4429,
+        "label": "流れ星に願うことを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4621,
+        "label": "初デートの終わり方を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4850,
+        "label": "企画の振り返り・終了案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

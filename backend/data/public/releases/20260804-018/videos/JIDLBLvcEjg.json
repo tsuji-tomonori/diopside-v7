@@ -1,0 +1,105 @@
+{
+  "videoId": "JIDLBLvcEjg",
+  "title": "【＃にZIP】だいたい最近(?)のニュース 渋谷ハジメさんインタビュー【にじさんじフミ】",
+  "publishedAt": "2021-12-09T23:25:24Z",
+  "duration": "PT35M56S",
+  "durationSec": 2156,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JIDLBLvcEjg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ニュース企画の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 204,
+        "label": "海外から届いた記念祝い動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 455,
+        "label": "ボラさんの卒業をめぐるニュース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 676,
+        "label": "砂肝とドリアのツイッター論争",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 811,
+        "label": "渋谷ハジメの3Dお披露目インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1052,
+        "label": "3Dお披露目で落語を選んだ理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1186,
+        "label": "落語『死神』を選んだきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1256,
+        "label": "落語と歌でつなぐ3Dお披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1370,
+        "label": "これからの3D活動と歌ライブ構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1462,
+        "label": "3D寄席の将来構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1536,
+        "label": "ファンへのメッセージとゲストトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1699,
+        "label": "インタビューを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1780,
+        "label": "3D配信での共演をめぐるニュース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1929,
+        "label": "ニュース企画の締めと次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

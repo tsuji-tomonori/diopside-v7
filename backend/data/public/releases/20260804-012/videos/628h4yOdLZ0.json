@@ -1,0 +1,150 @@
+{
+  "videoId": "628h4yOdLZ0",
+  "title": "【#スナックメアリ】白雪巴ちゃんに質問責め♡【西園寺メアリ / ハニスト】",
+  "publishedAt": "2022-02-19T15:48:48Z",
+  "duration": "PT1H39M10S",
+  "durationSec": 5950,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/628h4yOdLZ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲスト紹介・質問企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 218,
+        "label": "質問攻め企画と乾杯の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 389,
+        "label": "乾杯後の飲み物・サウナの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 593,
+        "label": "マイクラをしていた一日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 740,
+        "label": "巴さんの好きなところ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1351,
+        "label": "質問タイム：性格を深掘り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1647,
+        "label": "家事・家での過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "子ども時代と動物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2192,
+        "label": "言葉遊びと昔のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "風呂・布団・ひとり時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "育った環境と自分へのご褒美",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2885,
+        "label": "衣装の買い方とお気に入り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3126,
+        "label": "ご褒美の食事を選ぶ話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3298,
+        "label": "理想の一日を想像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3509,
+        "label": "相手が喜ぶことを考えるサービス精神",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "叱ることと演技の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4255,
+        "label": "新生活企画とアルバイト経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4471,
+        "label": "飲食店のアルバイトを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "自分に合う仕事を見つけた話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5053,
+        "label": "アルバイトからフリートークへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5286,
+        "label": "人を癒したい気持ちと惹かれる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5689,
+        "label": "振り返り・終盤の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5871,
+        "label": "視聴者への感謝・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

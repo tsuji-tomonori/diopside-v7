@@ -1,0 +1,110 @@
+{
+  "videoId": "-9FORuRCQ8k",
+  "title": "【DbD】サムネイルはリリさんが作ってくれました【夕陽リリ/伏見ガク/エクス・アルビオ/黛灰/白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-26T15:32:10Z",
+  "duration": "PT2H52M56S",
+  "durationSec": 10376,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-9FORuRCQ8k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・5人でDbD準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 661,
+        "label": "第1試合・連携しながら初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "第1試合後・感想と次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2405,
+        "label": "第2試合・キラー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2943,
+        "label": "第2試合後・振り返りと構成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3421,
+        "label": "第3試合・チェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3967,
+        "label": "第3試合後・能力とアップデートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4442,
+        "label": "第4試合・能力を見ながら攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5282,
+        "label": "第4試合後・次の構成を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5701,
+        "label": "第5試合・感染とゾンビに対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6122,
+        "label": "第5試合後・振り返りと第6試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6892,
+        "label": "第6試合・箱の解除と連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7801,
+        "label": "第6試合後・最終戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "第7試合・終盤の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9964,
+        "label": "試合後の感想・告知と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

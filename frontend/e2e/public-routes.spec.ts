@@ -169,3 +169,47 @@ test('詳細thumbnail取得失敗時にvideo面と再生導線を維持する', 
   await expect(page.locator('.detail-thumb')).toHaveCount(0);
   await expect(page.getByRole('link', { name: 'YouTubeで再生' })).toBeVisible();
 });
+
+// 移植した実releaseのタイムスタンプを、信頼度とYouTube時刻導線つきで表示する。
+test('移植タイムスタンプを現行Detail UIで表示する', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-31T00:00:00Z',
+    }));
+  });
+  await page.goto('/videos/-9FORuRCQ8k');
+
+  const timestamps = page.getByRole('heading', { name: '見どころ候補' }).locator('..');
+  await expect(timestamps).toBeVisible();
+  await expect(timestamps.getByText('信頼度: 中').first()).toBeVisible();
+  await expect(timestamps.getByRole('link').first()).toHaveAttribute(
+    'href',
+    /youtube\.com\/watch\?v=-9FORuRCQ8k&t=\d+s/,
+  );
+  await expect(page.getByText(/timestamps: アーカイブ情報生成/)).toBeAttached();
+});
+
+// タイムスタンプ未生成動画では、カードと未作成表示を生成しない。
+test('タイムスタンプ未生成時は見どころ候補カードを表示しない', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('diopside_consent_v1', JSON.stringify({
+      schemaVersion: 1,
+      policyMajor: '1',
+      acceptedAt: '2026-07-31T00:00:00Z',
+    }));
+  });
+  await page.goto('/videos/G2m9kPq8xJv');
+
+  await expect(page.getByRole('heading', { name: '配信の手がかり' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: '見どころ候補' })).toHaveCount(0);
+});
+
+// 移植時に再生成した検索語が実release上で利用できることを検証する。
+test('第五人格の移植動画を実releaseから3件検索する', async ({ page }) => {
+  await page.goto('/search?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&sort=newest');
+
+  await expect(page.locator('.result-count')).toHaveText('3件');
+  await expect(page.locator('.video-list .video-card')).toHaveCount(3);
+});

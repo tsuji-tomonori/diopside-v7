@@ -1,0 +1,105 @@
+{
+  "videoId": "zCMSry7EhUo",
+  "title": "【#にじさんじDBD大会】3位決定戦！もう一回遊べるどん！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-30T12:07:36Z",
+  "duration": "PT58M1S",
+  "durationSec": 3481,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zCMSry7EhUo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:43:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 182,
+        "label": "3位決定戦の説明と作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 560,
+        "label": "キラー対策と試合待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 841,
+        "label": "第1試合・キラー側の序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1132,
+        "label": "第1試合・救助と後半の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "第1試合・終盤と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2065,
+        "label": "試合間の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "第2試合・開始と状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2323,
+        "label": "第2試合・サバイバー側の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2490,
+        "label": "第2試合・救助と治療",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2708,
+        "label": "第2試合・後半の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2924,
+        "label": "第2試合・最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3080,
+        "label": "試合後の感想とチームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3263,
+        "label": "大会の振り返りと締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

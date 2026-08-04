@@ -1,0 +1,115 @@
+{
+  "videoId": "g5OWamtS4G0",
+  "title": "【ポケモンユナイト】Dチーム練習試合(仮タイトル)【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-08T15:34:03Z",
+  "duration": "PT2H6M4S",
+  "durationSec": 7564,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/g5OWamtS4G0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T04:29:38.258Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 69,
+        "label": "集合・ウォームアップ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1031,
+        "label": "チーム練習の準備・作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1743,
+        "label": "練習試合1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2339,
+        "label": "第1試合の振り返り・次戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2633,
+        "label": "練習試合2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3245,
+        "label": "第2試合の振り返り・作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3645,
+        "label": "練習試合3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4231,
+        "label": "第3試合の振り返り・作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4497,
+        "label": "練習試合4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5183,
+        "label": "第4試合の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5438,
+        "label": "練習試合5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6161,
+        "label": "第5試合の振り返り・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6442,
+        "label": "練習試合6",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7058,
+        "label": "チーム練習の振り返り・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7351,
+        "label": "スーパーチャット・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

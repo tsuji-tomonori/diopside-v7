@@ -1,0 +1,135 @@
+{
+  "videoId": "oQ5AZ1xUwYs",
+  "title": "＃37【崩壊：スターレイル】オンパロス編。タイタンの正体って…えっ…そういう…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-15T15:16:47Z",
+  "duration": "PT2H6M47S",
+  "durationSec": 7607,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oQ5AZ1xUwYs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:09:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 173,
+        "label": "声入り・ごあいさつ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 243,
+        "label": "前回の振り返り・オンパロス編を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 437,
+        "label": "学術討論の記録を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "二つ目の記録と資料庫への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "資料庫でアナイクスを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1829,
+        "label": "禁制の錬金術研究室へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2127,
+        "label": "研究ノートを読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2623,
+        "label": "研究の手がかりを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2922,
+        "label": "投影された過去の討論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3826,
+        "label": "元老院側の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4220,
+        "label": "民衆集会の討論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5049,
+        "label": "キャストリスに事情を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5165,
+        "label": "過去の記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6274,
+        "label": "メインストーリーはここまで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6330,
+        "label": "模擬宇宙の進め方を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6447,
+        "label": "光円錐・装備相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6895,
+        "label": "ポポンを見に行く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7117,
+        "label": "次回予告・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7218,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

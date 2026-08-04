@@ -1,0 +1,125 @@
+{
+  "videoId": "qp-w9AZJuLs",
+  "title": "【初配信】初めまして。白い雪に巴と書いて白雪 巴です【にじさんじ】",
+  "publishedAt": "2019-11-30T13:33:26Z",
+  "duration": "PT56M33S",
+  "durationSec": 3393,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qp-w9AZJuLs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・先行配信の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 380,
+        "label": "自己紹介と夜王国への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 540,
+        "label": "通常配信と特別枠の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 597,
+        "label": "公式プロフィールと人物像",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 804,
+        "label": "お母様とビジュアル紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1025,
+        "label": "結婚できない理由①・恋愛観",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1258,
+        "label": "結婚できない理由②・女性へのこだわり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1461,
+        "label": "非公開プロフィール・噛みつきの好み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1531,
+        "label": "配信タグ・ファン名・ファンマーク決め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2113,
+        "label": "夜王国の絵描きリレー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2370,
+        "label": "今後の雑談と特別枠の計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2496,
+        "label": "ゲーム配信・ホラー実況の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2769,
+        "label": "視聴者の願望を叶えるゲスト企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2888,
+        "label": "コラボ希望とポンコツ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2999,
+        "label": "次回配信と通常マシュマロ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3076,
+        "label": "特別枠の案内と対象者の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3199,
+        "label": "締めの挨拶と夜王国のこれから",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3301,
+        "label": "ファンアート・アフターケア・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

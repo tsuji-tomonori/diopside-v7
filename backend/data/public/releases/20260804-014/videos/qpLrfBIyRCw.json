@@ -1,0 +1,110 @@
+{
+  "videoId": "qpLrfBIyRCw",
+  "title": "【麻雀】トイトイで対々和！？フルトイ初めての対立バトル！！！【#フルートイトイ】",
+  "publishedAt": "2020-04-07T17:19:48Z",
+  "duration": "PT2H35M3S",
+  "durationSec": 9303,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qpLrfBIyRCw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・三人麻雀の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1003,
+        "label": "最初の対局・三人麻雀の打ち回し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2396,
+        "label": "対局結果と次の手牌",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3125,
+        "label": "印象的な手牌をめぐる盛り上がり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3265,
+        "label": "罰ゲームの内容決め・物真似",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "対局再開・牌の形と読み合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4418,
+        "label": "対局の合間の雑談・音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4978,
+        "label": "新しい対局・結果と声真似の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5461,
+        "label": "同盟を組んで次の対局へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6302,
+        "label": "対局結果と次の局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "順位と打ち方を考えながら対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7711,
+        "label": "終盤の大きな手をめぐる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8372,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8525,
+        "label": "罰ゲーム・声真似リクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8961,
+        "label": "お知らせ・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

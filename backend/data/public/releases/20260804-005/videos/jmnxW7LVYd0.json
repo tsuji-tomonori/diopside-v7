@@ -1,0 +1,105 @@
+{
+  "videoId": "jmnxW7LVYd0",
+  "title": "【#ラジオを止めろ】あの悪夢が再び炎とベットと共に…【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-30T15:39:14Z",
+  "duration": "PT1H5S",
+  "durationSec": 3605,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jmnxW7LVYd0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:03:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・冒頭トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 431,
+        "label": "企画説明と挑戦内容",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 509,
+        "label": "出演者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 734,
+        "label": "ラジオ企画の導入・前回振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 871,
+        "label": "お便り紹介と応答",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1495,
+        "label": "ゲーム探索と危険な場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1842,
+        "label": "ゲーム内ラジオを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1940,
+        "label": "企画の感想と雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2252,
+        "label": "ゲーム内の移動と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2585,
+        "label": "火を手がかりに探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3040,
+        "label": "探索結果を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3173,
+        "label": "次回の話と終盤の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3280,
+        "label": "今後の配信と最後のお便り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3379,
+        "label": "企画終了・アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

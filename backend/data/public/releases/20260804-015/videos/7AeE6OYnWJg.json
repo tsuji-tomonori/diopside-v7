@@ -1,0 +1,105 @@
+{
+  "videoId": "7AeE6OYnWJg",
+  "title": "#1【バイオハザード】ビビりだけどわからせたいバイオ実況【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-24T15:31:01Z",
+  "duration": "PT2H8M19S",
+  "durationSec": 7699,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7AeE6OYnWJg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・クリス編の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 583,
+        "label": "オープニングと操作準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1041,
+        "label": "洋館探索と初期戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1669,
+        "label": "鍵・仮面の仕掛けとショットガン探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2340,
+        "label": "ゾンビ対策と射撃・装備整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2958,
+        "label": "犬の手紙と洋館探索の続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "屋敷奥の探索と研究記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4861,
+        "label": "ウェスカーの支援と鎧の部屋",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5516,
+        "label": "日誌の手がかりから救出へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5980,
+        "label": "セーブと装備の再整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "薬品回収と館内の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6733,
+        "label": "ゾンビの多い区画を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6944,
+        "label": "鎧の鍵とショットガン回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "次回の探索方針と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "p7LLvu5NDOE",
+  "title": "【ポケモン剣盾】巨乳VS巨乳って聞いたんですけど【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-27T18:57:18Z",
+  "duration": "PT3H6M5S",
+  "durationSec": 11165,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/p7LLvu5NDOE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・トラブル対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 534,
+        "label": "前回振り返り・ポケモン整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1041,
+        "label": "パーティー調整・本編再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1204,
+        "label": "手紙イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1447,
+        "label": "街の戦闘と家族トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1840,
+        "label": "街探索・ポケモン戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2191,
+        "label": "ジム戦に向けた準備と道中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2883,
+        "label": "ポケモンキャンプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "パーティー調整・次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "マリカ練習・飲酒雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3959,
+        "label": "虫歯トークとゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4487,
+        "label": "ブイズキャンプ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4938,
+        "label": "ルート確認・雪の街へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5504,
+        "label": "ホテルの事件を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6085,
+        "label": "氷の町を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "ブティックで衣装選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7047,
+        "label": "ジム戦前の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7562,
+        "label": "氷ジムのチャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8819,
+        "label": "氷ジムのジム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9540,
+        "label": "ジム戦後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9720,
+        "label": "壁画・英雄伝承とソニア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10118,
+        "label": "ライバル戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10285,
+        "label": "今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10620,
+        "label": "終盤の探索とキャンプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10980,
+        "label": "配信終了・おやすみなさい",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

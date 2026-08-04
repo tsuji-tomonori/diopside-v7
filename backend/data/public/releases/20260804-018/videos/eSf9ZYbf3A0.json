@@ -1,0 +1,120 @@
+{
+  "videoId": "eSf9ZYbf3A0",
+  "title": "【雑談】お話と告知と戦利品とちょこっとお披露目【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-27T14:30:36Z",
+  "duration": "PT2H43S",
+  "durationSec": 7243,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eSf9ZYbf3A0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:59:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "おかえりの挨拶と近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 398,
+        "label": "バイオ8DLC・配信予定と喉のケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "朝日新聞掲載のファンタジアD1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 840,
+        "label": "歌謡祭の練習と視聴者との話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1177,
+        "label": "コンタクトと視力矯正の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1805,
+        "label": "コラボ配信とまねきねこの体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2309,
+        "label": "ゲーム出演・作品の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2903,
+        "label": "再生リスト整理と常設ボイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3424,
+        "label": "おすすめアーカイブ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4086,
+        "label": "ゲーム診断・3D動画とおすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4406,
+        "label": "過去の実況と配信への考え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4814,
+        "label": "常設ボイスと配信休止への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5241,
+        "label": "新しい表情のお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5976,
+        "label": "スパチャ読みとグッズ・温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6421,
+        "label": "スパチャ読み：冬・ASMR・目の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6805,
+        "label": "スパチャ読み：目の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7098,
+        "label": "締めの挨拶と今後の告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

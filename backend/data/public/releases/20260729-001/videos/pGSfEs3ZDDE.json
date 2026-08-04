@@ -1,0 +1,95 @@
+{
+  "videoId": "pGSfEs3ZDDE",
+  "title": "【2.0お披露目】より大人のお姉さんになったって話【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-30T14:30:27Z",
+  "duration": "PT1H22M35S",
+  "durationSec": 4955,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pGSfEs3ZDDE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:09:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・2.0お披露目導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 526,
+        "label": "2.0お披露目・第一印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 562,
+        "label": "表情・可動域のデモ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1220,
+        "label": "衣装・横顔・動きの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1706,
+        "label": "コメントで表情・目線を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1928,
+        "label": "髪型・ポーズの追加デモ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2213,
+        "label": "今後の予定を告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "雑談と追加の表情デモ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2648,
+        "label": "1.0と2.0を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2860,
+        "label": "ハロウィン時期の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3033,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4867,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

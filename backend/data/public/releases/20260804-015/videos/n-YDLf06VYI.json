@@ -1,0 +1,125 @@
+{
+  "videoId": "n-YDLf06VYI",
+  "title": "【雀魂/視聴者参加型】大会前日。迷わない！逃げない！立直！ツモ！ロン！【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-08T16:07:37Z",
+  "duration": "PT2H38M49S",
+  "durationSec": 9529,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/n-YDLf06VYI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 416,
+        "label": "視聴者参加の進め方と基礎確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 516,
+        "label": "視聴者参加対局1・序盤から終盤の押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "対局設定を修正",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1533,
+        "label": "視聴者参加対局2・手作りとドラ判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2864,
+        "label": "視聴者参加対局2・第二局の手作りと押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3976,
+        "label": "対局結果の振り返りと次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4266,
+        "label": "視聴者参加対局3・タンヤオと押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5248,
+        "label": "対局結果を確認して次へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5288,
+        "label": "視聴者参加対局4・速度重視の手作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "視聴者参加対局4・ドラを含む終盤の判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6780,
+        "label": "対局の振り返りと最後の実戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6897,
+        "label": "最後の視聴者参加対局・大会前の実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7506,
+        "label": "対局の振り返りと大会への意気込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7723,
+        "label": "スーパーチャット読み・新年の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8397,
+        "label": "カンのルールと麻雀の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8802,
+        "label": "大会での打ち方と応援",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9343,
+        "label": "締め・翌日の大会案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

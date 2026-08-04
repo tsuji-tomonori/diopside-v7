@@ -1,0 +1,120 @@
+{
+  "videoId": "cQGXUoKbY3I",
+  "title": "【チェイサーゲームW】気持ちのままに最速感想会(初見さんも大歓迎)【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-27T10:45:05Z",
+  "duration": "PT1H34M28S",
+  "durationSec": 5668,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cQGXUoKbY3I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:03:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・最終回感想会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 435,
+        "label": "作品の魅力とキャストの印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 810,
+        "label": "GLと百合の捉え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1107,
+        "label": "学生時代から作品世界を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1379,
+        "label": "最終話の展開と関係性を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1711,
+        "label": "結婚・不倫・愛情の境界を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2079,
+        "label": "家族とセクシュアリティを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2372,
+        "label": "青山の場面から恋愛観へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2787,
+        "label": "作品全体の評価とスピンオフへの期待",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3247,
+        "label": "作品世界と脇役・キャストの魅力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3768,
+        "label": "衣装から読む関係性の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4034,
+        "label": "演技・キャスティングの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4504,
+        "label": "女性同士の関係と不倫の境界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4670,
+        "label": "恋愛の心の容量について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4886,
+        "label": "感想会の締めとスパチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5235,
+        "label": "おすすめ作品と男性キャラの描き方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5599,
+        "label": "復帰配信案内・最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

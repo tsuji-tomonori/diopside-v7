@@ -1,0 +1,125 @@
+{
+  "videoId": "DYHwyWSrZrw",
+  "title": "#白雪巴誕生日2025 ※告知あり！【Among Us】自分、誕生日に視聴者参加型で宇宙人狼してもいいですか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-08T18:25:17Z",
+  "duration": "PT5H9M30S",
+  "durationSec": 18570,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DYHwyWSrZrw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:30:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 603,
+        "label": "ルール・部屋設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1614,
+        "label": "第1戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3698,
+        "label": "第1戦ふり返り・参加者交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3828,
+        "label": "第2戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6840,
+        "label": "第2戦ふり返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7007,
+        "label": "LINEスタンプ第2弾のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7243,
+        "label": "マップ・ルール再設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7512,
+        "label": "第3戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10630,
+        "label": "第3戦ふり返り・参加者交代",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10839,
+        "label": "第4戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13644,
+        "label": "ファンミーティング告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13802,
+        "label": "休憩・新作待機動画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14045,
+        "label": "最終戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14408,
+        "label": "最終戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16375,
+        "label": "最終戦ふり返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16870,
+        "label": "アフタートーク・スパチャお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18371,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "videoId": "IfFQdhX6FgY",
+  "title": "【マリオカート8DX】夜のドライブデート【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-05T17:11:54Z",
+  "duration": "PT3H12M31S",
+  "durationSec": 11551,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IfFQdhX6FgY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:00:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・参加型マリオカートの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1078,
+        "label": "第1レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1412,
+        "label": "第2レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2047,
+        "label": "第3レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2471,
+        "label": "第4レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3048,
+        "label": "第5レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3276,
+        "label": "第6レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3891,
+        "label": "第7レース・参加者交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4608,
+        "label": "第8レース・次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5069,
+        "label": "第9レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5529,
+        "label": "参加者交代・レース再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5794,
+        "label": "第10レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6328,
+        "label": "第11レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6439,
+        "label": "歌枠の話・ルーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6782,
+        "label": "第12レース・コメント読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7207,
+        "label": "第13レース・少人数マリオカート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7389,
+        "label": "第14レース・参加者交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7684,
+        "label": "歌枠で歌う曲の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8354,
+        "label": "第15レース・3人対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8793,
+        "label": "第16レース・夜更けの再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9022,
+        "label": "第17レース・終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9418,
+        "label": "第18レース・最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9866,
+        "label": "配信終了・罰ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10250,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10652,
+        "label": "視聴者の好み・今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "次回配信・コラボ予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11438,
+        "label": "最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

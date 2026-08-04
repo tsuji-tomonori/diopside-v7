@@ -1,0 +1,125 @@
+{
+  "videoId": "3cbNpzVMfn4",
+  "title": "【恐怖耐性診断テスト】あなたは耐えられる？恐怖を与える演出にご注意【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-22T14:38:56Z",
+  "duration": "PT1H33M",
+  "durationSec": 5580,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3cbNpzVMfn4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:31:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・恐怖耐性診断へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 212,
+        "label": "ゲーム開始・診断の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 545,
+        "label": "能力テスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 953,
+        "label": "テスト1「驚く恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1498,
+        "label": "テスト2「隠れる恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2402,
+        "label": "テスト3「逃げる恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2963,
+        "label": "1周目の診断結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3213,
+        "label": "再テストへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3487,
+        "label": "再テスト1「驚く恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3779,
+        "label": "再テスト2「隠れる恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4098,
+        "label": "再テスト3「逃げる恐怖」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4606,
+        "label": "再テストの診断結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4674,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4899,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4999,
+        "label": "3D酔いと締めの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5241,
+        "label": "ホラー耐性を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5495,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

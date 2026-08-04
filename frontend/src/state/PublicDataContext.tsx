@@ -49,11 +49,11 @@ export function PublicDataProvider({ children }: PropsWithChildren) {
     try {
       const nextLatest = await loadLatest();
       const releaseId = nextLatest.releaseId;
-      const nextRelease = await loadReleaseIndex(releaseId);
-      const nextSearch = await loadSearchIndex(releaseId);
-      const nextTags = nextLatest.releaseMode === 'normal'
-        ? await loadTags(releaseId)
-        : null;
+      const [nextRelease, nextSearch, nextTags] = await Promise.all([
+        loadReleaseIndex(releaseId),
+        loadSearchIndex(releaseId),
+        nextLatest.releaseMode === 'normal' ? loadTags(releaseId) : Promise.resolve(null),
+      ]);
       setLatest(nextLatest);
       setRelease(nextRelease);
       setSearch(nextSearch);

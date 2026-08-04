@@ -1,0 +1,140 @@
+{
+  "videoId": "sMSuoVFKDP0",
+  "title": "【ポケモンユナイト】即席チーム【夜見れな／にじさんじ】",
+  "publishedAt": "2021-09-05T15:16:38Z",
+  "duration": "PT2H38M10S",
+  "durationSec": 9490,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sMSuoVFKDP0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 400,
+        "label": "1試合目の編成・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 531,
+        "label": "1試合目・序盤のレーン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1217,
+        "label": "2試合目の編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1265,
+        "label": "2試合目・集団戦と終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2126,
+        "label": "2試合目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2303,
+        "label": "チーム全体の立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2586,
+        "label": "3試合目・連携とオブジェクト戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4062,
+        "label": "3試合目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4479,
+        "label": "4試合目の編成・開幕作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4818,
+        "label": "4試合目・レーン戦と終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5524,
+        "label": "4試合目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5707,
+        "label": "5試合目の編成・序盤準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5816,
+        "label": "5試合目・ゴール防衛と集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7201,
+        "label": "試合後のマップ・オブジェクト講座",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7664,
+        "label": "6試合目・連携と攻守判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8339,
+        "label": "6試合目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8420,
+        "label": "7試合目の編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8480,
+        "label": "7試合目・集団戦とゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9095,
+        "label": "最終試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9215,
+        "label": "配信後半の雑談・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

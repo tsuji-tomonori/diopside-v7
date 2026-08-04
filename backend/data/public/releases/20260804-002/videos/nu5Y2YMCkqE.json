@@ -1,0 +1,130 @@
+{
+  "videoId": "nu5Y2YMCkqE",
+  "title": "【#春雨麗女彼女募集中】犬山たまきpresents🩵🍶【星川サラ/白雪巴/空澄セナ/夜絆ニウ/北小路ヒスイ/我部りえる/本阿弥あずさ/稲荷いろは/ﾚｸﾞﾙｼｭ･ﾗｲｵﾝﾊｰﾄ】",
+  "publishedAt": "2025-02-12T15:41:30Z",
+  "duration": "PT1H31M40S",
+  "durationSec": 5500,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nu5Y2YMCkqE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・彼女募集企画開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 217,
+        "label": "企画説明・春雨麗女の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 840,
+        "label": "好きなタイプ・募集条件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 988,
+        "label": "春雨麗女の恋愛エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "レグルシュ・ライオンハートとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1861,
+        "label": "稲荷いろはとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2143,
+        "label": "北小路ヒスイとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2411,
+        "label": "夜絆ニウとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2726,
+        "label": "空澄セナとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3054,
+        "label": "本阿弥あずさとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3307,
+        "label": "星川サラとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3644,
+        "label": "白雪巴との候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4130,
+        "label": "我部りえるとの候補者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4621,
+        "label": "候補者トークの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4778,
+        "label": "候補者選び・連絡準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4893,
+        "label": "連絡後の反応を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5169,
+        "label": "バレンタイン企画告知・罰ゲーム確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5296,
+        "label": "企画の感想・終了挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5372,
+        "label": "エンディング歌唱",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

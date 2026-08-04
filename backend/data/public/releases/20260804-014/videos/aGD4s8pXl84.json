@@ -1,0 +1,120 @@
+{
+  "videoId": "aGD4s8pXl84",
+  "title": "【 #にじドラ 】生ボイスドラマ配信！告知もあるよ！【 にじさんじ/神田笑一/黛灰/成瀬鳴/エリー・コニファー/健屋花那/シスター・クレア/フミ/白雪巴 】",
+  "publishedAt": "2022-07-12T10:59:49Z",
+  "duration": "PT54M57S",
+  "durationSec": 3297,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aGD4s8pXl84/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "箱研究会の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 226,
+        "label": "届き続ける古い箱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 449,
+        "label": "箱入り娘の伝説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 750,
+        "label": "箱を開けて確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "箱をめぐる不穏な話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1185,
+        "label": "箱を開ける場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1313,
+        "label": "箱をめぐる後半のやりとり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1375,
+        "label": "箱研究会の由来",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1578,
+        "label": "生ボイスドラマの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1960,
+        "label": "出演者と役名の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2031,
+        "label": "企画の経緯とオーディション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2315,
+        "label": "役に合う声と演技の方向性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2728,
+        "label": "収録版ボイスドラマの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2855,
+        "label": "販売版と特典の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3005,
+        "label": "衣装・価格・販売ページの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3088,
+        "label": "配信の締めと告知のお願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3200,
+        "label": "出演者の名前紹介と最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

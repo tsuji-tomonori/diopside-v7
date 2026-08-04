@@ -1,0 +1,115 @@
+{
+  "videoId": "ZIGmG-AZelI",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆10ステ◆【癒月ちょこ/白雪巴/にじさんじ】",
+  "publishedAt": "2021-02-18T13:34:22Z",
+  "duration": "PT2H12M46S",
+  "durationSec": 7966,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZIGmG-AZelI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:45:11.106Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1幕「スパイシーガールの休日」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 722,
+        "label": "第1幕の感想・作品紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "第2幕「悪魔と姫の物語」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2000,
+        "label": "第2幕の感想・第3幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2557,
+        "label": "第3幕「それは苦く、そして甘く」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3778,
+        "label": "第3幕の感想・次の台本紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "第4幕「午前2時半脳内集会」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5071,
+        "label": "第4幕の感想・第5幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "第5幕「プロの裏側」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6092,
+        "label": "第5幕の感想・最終幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6400,
+        "label": "第6幕「大人の甘さ」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7052,
+        "label": "閉幕後トーク・総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7336,
+        "label": "記念ボイス・グッズの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7731,
+        "label": "次回ゲスト告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7840,
+        "label": "終了の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7860,
+        "label": "Cパート・おまけ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

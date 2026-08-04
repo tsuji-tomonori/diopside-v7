@@ -1,0 +1,115 @@
+{
+  "videoId": "GyeNV8KqSvc",
+  "title": "【Minecraft】雪のおうちを作りたいの！整地＆土台作り【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-16T15:17:58Z",
+  "duration": "PT2H45M3S",
+  "durationSec": 9903,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GyeNV8KqSvc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雪の家の建築計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 393,
+        "label": "既存家屋の解体・素材選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 794,
+        "label": "寸法を測って雪の家の土台づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "土台の寸法と玄関を修正",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3096,
+        "label": "コメントとの距離感を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3812,
+        "label": "既存家屋の解体を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4500,
+        "label": "配信者とリスナーの関係を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5521,
+        "label": "推し・恋愛観の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6067,
+        "label": "雪だるまの整理と道具補充",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6813,
+        "label": "告知を挟んで外観改装へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7387,
+        "label": "資材整理と床づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8017,
+        "label": "床・柱・天井を施工",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8431,
+        "label": "玄関と庭まわりの方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "土台の仕上げ・記念撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9127,
+        "label": "本編の締め・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9464,
+        "label": "スーパーチャット読み・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

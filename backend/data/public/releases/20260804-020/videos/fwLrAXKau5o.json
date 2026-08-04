@@ -1,0 +1,140 @@
+{
+  "videoId": "fwLrAXKau5o",
+  "title": "#2434寝坊防止委員会  第一回決起集会【にじさんじ】",
+  "publishedAt": "2024-08-26T22:07:51Z",
+  "duration": "PT6H45M51S",
+  "durationSec": 24351,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fwLrAXKau5o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:39:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・就寝準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 411,
+        "label": "睡眠時間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13516,
+        "label": "早起き報告・次の参加者待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14510,
+        "label": "4時ラジオ・起床ルールの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15000,
+        "label": "参加者紹介・寝坊経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16088,
+        "label": "睡眠対策と移動中の寝坊談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16875,
+        "label": "告知・今後の企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17211,
+        "label": "遅刻・酒・食事の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18152,
+        "label": "参加者の合流・寝坊エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18460,
+        "label": "遅刻談と主催者の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19091,
+        "label": "シーシャ談義・寝坊未遂の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19693,
+        "label": "体内時計と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19908,
+        "label": "参加者登場・運営の舞台裏",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20324,
+        "label": "新人参加者の到着・自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20655,
+        "label": "名簿確認・参加者の合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21047,
+        "label": "起床報告と寝坊防止会のルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21949,
+        "label": "遅刻者の判定・睡眠相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22333,
+        "label": "アラームと起こし電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23113,
+        "label": "次回ルール・ポイント制度の提案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23476,
+        "label": "遅刻者対応・初回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24266,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

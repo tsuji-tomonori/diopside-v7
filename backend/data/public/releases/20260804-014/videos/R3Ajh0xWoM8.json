@@ -1,0 +1,95 @@
+{
+  "videoId": "R3Ajh0xWoM8",
+  "title": "【白雪巴/フミ】フルートイトイとあそぼ♥インサイダーゲーム【ルイス・キャミー/白雪みしろ】#フルトイインサイダー",
+  "publishedAt": "2020-10-07T13:08:31Z",
+  "duration": "PT1H2M23S",
+  "durationSec": 3743,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R3Ajh0xWoM8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:12:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 304,
+        "label": "インサイダーゲームのルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 502,
+        "label": "第1問目：お題を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 767,
+        "label": "第1問目：インサイダーを推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1143,
+        "label": "第2問目：お題を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1563,
+        "label": "第2問目：候補を話し合う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1995,
+        "label": "第3問目：お題を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2414,
+        "label": "第3問目：インサイダーを推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2776,
+        "label": "第4問目：最後のお題を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3204,
+        "label": "第4問目：インサイダーを推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3581,
+        "label": "ゲームの感想・コラボ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3701,
+        "label": "締めの挨拶・チャンネル案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

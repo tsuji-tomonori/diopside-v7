@@ -1,0 +1,120 @@
+{
+  "videoId": "ZGsvVa2GgR0",
+  "title": "【#にじさんじ３Ｄ新春餅つき大会】🎍紅白対抗‼元旦から３Dで本気の餅つき大会🎍【 にじさんじフミ 】",
+  "publishedAt": "2026-01-01T09:32:03Z",
+  "duration": "PT2H24M55S",
+  "durationSec": 8695,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZGsvVa2GgR0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:16:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新春餅つき大会の趣旨と出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 483,
+        "label": "2025年振り返りクイズのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 665,
+        "label": "前半クイズ・第1〜5問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2011,
+        "label": "後半クイズ・第6〜10問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3559,
+        "label": "クイズ終了・餅つき準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3920,
+        "label": "参加者みんなで餅つき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4625,
+        "label": "餅つき後のお土産紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5015,
+        "label": "乾杯と餅の試食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5450,
+        "label": "餅つき後の健康・人間関係トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5885,
+        "label": "2025年のベストバイ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6197,
+        "label": "追加の餅試食とお酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6621,
+        "label": "2026年の目標トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7455,
+        "label": "2026年に実現したい企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7848,
+        "label": "デスソース餅を実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8120,
+        "label": "一年を振り返る締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8184,
+        "label": "出演者の新年挨拶と告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8566,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

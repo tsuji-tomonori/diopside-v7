@@ -1,0 +1,135 @@
+{
+  "videoId": "1cktuCs6Dyk",
+  "title": "＃２【星のカービィ ディスカバリー】一面コンプ済み！二面いくぽよ！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-30T14:54:25Z",
+  "duration": "PT2H28M39S",
+  "durationSec": 8919,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1cktuCs6Dyk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の進捗を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 446,
+        "label": "2面・最初のステージを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1545,
+        "label": "列車ステージとトレジャーロード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2343,
+        "label": "ステージ探索・ワドルディ救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2993,
+        "label": "ワドルディの町・カフェのミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "ランチタイムの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3930,
+        "label": "新ステージ探索・ボス戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4279,
+        "label": "ボス戦・トルネード能力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4640,
+        "label": "ミッション回収・隠しルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5163,
+        "label": "次のステージ・環境ギミックを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5584,
+        "label": "ドリルのステージ・タイムチャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5980,
+        "label": "能力とミッションを確認・次の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "宝箱と壁を探す探索パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "能力強化・戦闘と登攀",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7023,
+        "label": "車両・爆弾ギミックのステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7562,
+        "label": "集中戦闘・ミッション確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7763,
+        "label": "終盤ステージを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "ステージの締め・次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8480,
+        "label": "スーパーチャット読み・今後のゲーム話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8880,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

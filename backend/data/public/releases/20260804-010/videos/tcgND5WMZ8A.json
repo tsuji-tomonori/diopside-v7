@@ -1,0 +1,135 @@
+{
+  "videoId": "tcgND5WMZ8A",
+  "title": "【雑談】骨くっついた！ので久しぶりに飲酒で記念雑談じゃー♡♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-30T15:58:08Z",
+  "duration": "PT2H46M30S",
+  "durationSec": 9990,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tcgND5WMZ8A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:25:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "骨がくっついた記念の飲酒雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 483,
+        "label": "骨折の回復とリハビリの近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1564,
+        "label": "骨折後の生活と周囲の支え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2722,
+        "label": "あおぎり高校とのコラボ近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2924,
+        "label": "バニーガーデンとコンセプトバーの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4103,
+        "label": "リアル脱出ゲームとマーダーミステリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4634,
+        "label": "周囲の支えと5月の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5028,
+        "label": "漫画家との対談コラボ企画を告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5565,
+        "label": "本格化するリハビリと体調の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6024,
+        "label": "歯磨きと親知らずの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6692,
+        "label": "ちびまる子ちゃんとサザエさんの記憶違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7341,
+        "label": "シーマンと懐かしのゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7638,
+        "label": "バニーガーデン配信の音量を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7829,
+        "label": "ブルーアーカイブと今後のゲーム配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8372,
+        "label": "5月の予定とスーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8854,
+        "label": "サザエさんの家族関係を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9009,
+        "label": "運転免許の学科試験の勉強法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9239,
+        "label": "親知らずと忙しい近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9608,
+        "label": "教習所の予定とデビュー順の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9855,
+        "label": "今後の配信方針と締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "AQL1Ivfk58Y",
+  "title": "クリア耐久【OUTLAST】深夜にまったりホラゲ‥まったりって何？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-03T21:19:43Z",
+  "duration": "PT6H26M33S",
+  "durationSec": 23193,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AQL1Ivfk58Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T20:46:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・OUTLAST導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 540,
+        "label": "操作確認・病院の背景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "院内探索・暗視カメラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1440,
+        "label": "患者区域の鍵探し・地下発電機へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2160,
+        "label": "地下で発電機とバッテリーを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4440,
+        "label": "患者区域を抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5220,
+        "label": "下水道を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "下水道の資料とバルブ操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8760,
+        "label": "男性病棟へ・追跡をかわす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9780,
+        "label": "エレベーターの鍵と通気口の先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11100,
+        "label": "男性病棟から次の区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13020,
+        "label": "外周から女性病棟へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14280,
+        "label": "女性病棟でヒューズを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16860,
+        "label": "ヒューズを揃えて上階へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17760,
+        "label": "カメラ回収・3階への進路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19140,
+        "label": "映画館の鍵と3階の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20280,
+        "label": "地下研究所へ降りる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21900,
+        "label": "研究所の設備を操作して脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22860,
+        "label": "ゲーム終了後の感想・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "JEmnD2HScPo",
+  "title": "【雑談】罵倒ASMRが遂に解禁‥！？裏話など最近のことも話しちゃお♥【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-30T15:46:18Z",
+  "duration": "PT1H38M41S",
+  "durationSec": 5921,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JEmnD2HScPo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T21:24:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・罵倒ASMRの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 316,
+        "label": "イラストと販売までの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 610,
+        "label": "周囲の反応と収録形式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 959,
+        "label": "収録現場と声に込めた思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1418,
+        "label": "発売記念の展開とASMRの楽しみ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1869,
+        "label": "収録後の反応と次回の誕生日展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2105,
+        "label": "運転教習の進捗と試験エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2592,
+        "label": "次の教習段階と交通ルールの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "ゲーム実況の振り返りと登場人物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3696,
+        "label": "最近遊んだホラー作品の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "1月の振り返りと今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4269,
+        "label": "2月の誕生日とカウントダウン企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4449,
+        "label": "マクドナルドとKFCの食べ物談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4911,
+        "label": "スーパーチャット読み・反響紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5151,
+        "label": "誕生日ボイスへの反響と次のASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5463,
+        "label": "リスナーの感想と続編への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5759,
+        "label": "スーパーチャット終了・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

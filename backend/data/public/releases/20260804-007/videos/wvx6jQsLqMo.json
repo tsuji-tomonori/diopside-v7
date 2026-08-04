@@ -1,0 +1,140 @@
+{
+  "videoId": "wvx6jQsLqMo",
+  "title": "【#にじイカ祭り2025】チーム顔合わせ！！【 オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2025-12-09T20:05:34Z",
+  "duration": "PT4H47M10S",
+  "durationSec": 17230,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wvx6jQsLqMo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:49:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "チーム顔合わせ・役割相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 290,
+        "label": "最初の試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 707,
+        "label": "試合後の振り返りと連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1808,
+        "label": "生存重視の作戦と次の試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2413,
+        "label": "ギア相談・リッター対策の連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3483,
+        "label": "自陣塗りの方針と金モデラー企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3907,
+        "label": "金モデラーで試合・武器のアドバイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "再接続後の連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7380,
+        "label": "休憩とチーム雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8040,
+        "label": "休憩後の連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9420,
+        "label": "次の試合と連携の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10927,
+        "label": "部屋を作り直し、次のステージを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11163,
+        "label": "新しいマップの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11464,
+        "label": "温泉マップでの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12089,
+        "label": "中央を奪い返す試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12540,
+        "label": "連携の振り返りと本番前準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12840,
+        "label": "終盤の連戦と狭い道の対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14414,
+        "label": "終盤の作戦を共有",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14700,
+        "label": "ラストマッチとチーム名相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16207,
+        "label": "練習の振り返りとギア選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17160,
+        "label": "告知・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

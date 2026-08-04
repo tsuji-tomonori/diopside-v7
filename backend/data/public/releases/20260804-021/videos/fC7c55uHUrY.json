@@ -1,0 +1,120 @@
+{
+  "videoId": "fC7c55uHUrY",
+  "title": "【閉店事件】推し活のため20時までには何がなんでも帰りたいアルバイター【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-26T11:08:52Z",
+  "duration": "PT2H53M48S",
+  "durationSec": 10428,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fC7c55uHUrY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:32:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム導入・初出勤準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 797,
+        "label": "初日の接客・ドリンク研修",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2203,
+        "label": "複数注文に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3023,
+        "label": "探偵客の接客・初日閉店",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3270,
+        "label": "停電対応・2日目の出勤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3590,
+        "label": "2日目の接客",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "不審な視線と客対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4518,
+        "label": "夜シフト・女子高生の注文",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5256,
+        "label": "閉店作業と不穏な帰宅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5908,
+        "label": "ドライブスルー対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "閉店準備・暗闇のラテ対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "異音の確認と店内作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7798,
+        "label": "閉店作業・屋上確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8404,
+        "label": "終盤の危機と脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9234,
+        "label": "本編後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9773,
+        "label": "ゲーム終了後のトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9899,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

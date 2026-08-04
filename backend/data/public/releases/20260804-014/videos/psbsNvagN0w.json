@@ -1,0 +1,120 @@
+{
+  "videoId": "psbsNvagN0w",
+  "title": "【Minecraft】装備無し持ち物は食料のみ…。24時時点の場所で誕生日を迎えるマイクラ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-07T16:48:46Z",
+  "duration": "PT2H55M55S",
+  "durationSec": 10555,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/psbsNvagN0w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日マイクラの計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 318,
+        "label": "食料を選んで新サーバーへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 624,
+        "label": "0時までの待機と誕生日の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 894,
+        "label": "新サーバーの街を探検",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "共有都市の建築巡り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2237,
+        "label": "夜の景色とパチンコ建築",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2573,
+        "label": "ダイヤ建築・雪の塔・景色",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3447,
+        "label": "線路を探して村人脱走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3833,
+        "label": "駅からトロッコで移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4218,
+        "label": "トロッコで誕生日の瞬間へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4808,
+        "label": "誕生日後の家・地下施設巡り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6017,
+        "label": "共有住宅巡りと同期妄想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7557,
+        "label": "カラフルな建築と学校を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8359,
+        "label": "誕生日メッセージと帰路の探検",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9438,
+        "label": "マイクラの締めと次の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9788,
+        "label": "スーパーチャット・メンバーシップ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10374,
+        "label": "最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "0AtHd6vaRTg",
+  "title": "【 スプラトゥーン3 】 #にじイカ祭り2025　 個人練習～！いろいろ試すぞ～～～ 【 にじさんじ / 蝸堂みかる 】",
+  "publishedAt": "2025-12-12T03:36:28Z",
+  "duration": "PT2H24M37S",
+  "durationSec": 8677,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0AtHd6vaRTg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T06:41:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 151,
+        "label": "ジャイロと塗り方を矯正",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 429,
+        "label": "金モデラーで実戦確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 854,
+        "label": "散歩で立ち回りを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1644,
+        "label": "マヒマヒを散歩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2753,
+        "label": "アマ美術大学を散歩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3831,
+        "label": "金モデラーの立ち回り実践",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4264,
+        "label": "もみじシューターを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4598,
+        "label": "金モデラー中心の連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5506,
+        "label": "オーバーフロッシャーを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6606,
+        "label": "上空リプレイで立ち回り分析",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7294,
+        "label": "ギア構成を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7579,
+        "label": "ラスト実戦の準備へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8239,
+        "label": "ラスト実戦をリプレイ分析",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8554,
+        "label": "練習の総括・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

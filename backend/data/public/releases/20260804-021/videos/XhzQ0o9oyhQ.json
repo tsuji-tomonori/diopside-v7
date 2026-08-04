@@ -1,0 +1,105 @@
+{
+  "videoId": "XhzQ0o9oyhQ",
+  "title": "【ASMR】耳元で語りかけるバイノーラル朗読【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-22T14:35:36Z",
+  "duration": "PT30M10S",
+  "durationSec": 1810,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XhzQ0o9oyhQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "海と人魚の語り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 177,
+        "label": "人魚の思いと海辺への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "海辺の町とろうそく屋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 533,
+        "label": "石段の下の出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 634,
+        "label": "娘の成長とろうそくの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 802,
+        "label": "娘の絵とろうそく屋の広がり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1028,
+        "label": "娘の仕事と訪れた商人",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1191,
+        "label": "娘をめぐる申し出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1307,
+        "label": "商人の訪れと夜の家",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1474,
+        "label": "夜の訪問者",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1561,
+        "label": "海の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1641,
+        "label": "ろうそくをめぐる噂",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1714,
+        "label": "夜の海の情景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1781,
+        "label": "朗読の結び",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

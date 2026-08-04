@@ -1,0 +1,130 @@
+{
+  "videoId": "sLAd0V94lCg",
+  "title": "アプデ＃２【Ghostwire: Tokyo】新エリア「中学校」攻略！！！激コワらしいので絶叫注意‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-26T18:22:46Z",
+  "duration": "PT2H43M46S",
+  "durationSec": 9826,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sLAd0V94lCg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新ミッションと技選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 369,
+        "label": "視聴者参加のQ&Aと属性アンケート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 528,
+        "label": "氷属性の準備と新しい妖怪の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 711,
+        "label": "新エリアへ向かい氷の戦い方を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1362,
+        "label": "中学校に到着・校内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1798,
+        "label": "プールの戦闘と校内の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2279,
+        "label": "怪奇研究部の記録と封印の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2622,
+        "label": "教室探索と教師の問い掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3075,
+        "label": "残りの印を探し人体模型の怪異に遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3657,
+        "label": "図書室の資料と学校校歌の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "視聴覚室の手掛かりと屋上の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4795,
+        "label": "戦闘再挑戦と物語の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5525,
+        "label": "部室に戻って学校の記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6398,
+        "label": "新たな異変を進み学校へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6819,
+        "label": "校内のステルス攻略に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7664,
+        "label": "戦闘と救出パートを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8396,
+        "label": "河童を探す寄り道ミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8877,
+        "label": "終了挨拶・今後の配信案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9022,
+        "label": "スパチャ読み・Cパート",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

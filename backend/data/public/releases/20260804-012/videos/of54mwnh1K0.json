@@ -1,0 +1,170 @@
+{
+  "videoId": "of54mwnh1K0",
+  "title": "マリオカート8DX | 勝つぞ～！！！！チーム「神速RTA」にじさんじ杯 団体戦【にじさんじ/叶】",
+  "publishedAt": "2021-12-18T10:09:30Z",
+  "duration": "PT2H32M49S",
+  "durationSec": 9169,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/of54mwnh1K0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "対戦部屋の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1163,
+        "label": "初回レース・走行開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1520,
+        "label": "次のレース・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "レース進行・順位確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2180,
+        "label": "レースとポイント確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "レース・アイテム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2901,
+        "label": "レース継続・チームの得点確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3272,
+        "label": "カップ進行・走行後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3650,
+        "label": "レース継続・休憩の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3995,
+        "label": "次のレース・コース攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4480,
+        "label": "休憩前の最後の走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4781,
+        "label": "15分休憩・次の参加形態の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "休憩後のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5422,
+        "label": "チーム戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5711,
+        "label": "再接続・レース再開準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6021,
+        "label": "レース進行・アイテム運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6460,
+        "label": "順位変動・走行アドバイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6909,
+        "label": "操作解説・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7390,
+        "label": "レース終盤・アイテム回避",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7620,
+        "label": "レース後トーク・次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7887,
+        "label": "部屋準備・チーム選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8171,
+        "label": "レース・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8625,
+        "label": "レース終盤・順位確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8876,
+        "label": "レース後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8917,
+        "label": "締めの走行・打ち上げトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9063,
+        "label": "配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "x_xetpLH7BU",
+  "title": "【スーパーマリオパーティー】すこやさん。私と一緒になってくれる？【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-06-09T15:39:36Z",
+  "duration": "PT1H29M42S",
+  "durationSec": 5382,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/x_xetpLH7BU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T14:11:38.301Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "ゲーム準備・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1131,
+        "label": "古代遺跡ステージを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1661,
+        "label": "協力ミニゲームとボード進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1921,
+        "label": "位置合わせミニゲームと次のターン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2201,
+        "label": "協力ミニゲームを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2449,
+        "label": "パズル系ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2615,
+        "label": "順位確認・ボード進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2923,
+        "label": "ブロック操作のミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3224,
+        "label": "終盤のボード進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3465,
+        "label": "サッカー風ミニゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3665,
+        "label": "最終盤のボード進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4536,
+        "label": "結果発表・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4847,
+        "label": "ゲームの感想・アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "終了前の感想・お礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5225,
+        "label": "コラボ・関連告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5320,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

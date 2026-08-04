@@ -1,0 +1,130 @@
+{
+  "videoId": "CBI-Ox7r0Jw",
+  "title": "【3D】Concept Live『Chic！』【#森中花咲3Dコンセプトライブ】",
+  "publishedAt": "2024-05-25T12:30:29Z",
+  "duration": "PT1H23M59S",
+  "durationSec": 5039,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CBI-Ox7r0Jw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:10:46.103357Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "シャル・ウィ・ダンス？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 447,
+        "label": "ライブの挨拶・コンセプト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "正六面体惑星パンドラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 915,
+        "label": "相反スペル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1126,
+        "label": "ソロ歌唱後MC・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1317,
+        "label": "ゲスト歌唱・月光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1574,
+        "label": "月光後MC・次のゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1803,
+        "label": "ゲスト歌唱・ヒアソビ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2083,
+        "label": "ヒアソビ後MC・誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2445,
+        "label": "ゲスト歌唱・天使の翼。",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2695,
+        "label": "天使の翼。後MC・選曲トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2916,
+        "label": "4人集合・抜き打ち大人チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3135,
+        "label": "コーヒー当てクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3667,
+        "label": "コーヒーの結果発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3780,
+        "label": "醤油当てクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4287,
+        "label": "醤油の結果発表・企画の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4398,
+        "label": "告知・誕生日グッズとソロライブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4573,
+        "label": "ラスト4人歌唱の準備・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4758,
+        "label": "4人で歌うラストソング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

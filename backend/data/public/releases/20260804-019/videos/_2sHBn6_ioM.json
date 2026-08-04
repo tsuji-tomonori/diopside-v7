@@ -1,0 +1,160 @@
+{
+  "videoId": "_2sHBn6_ioM",
+  "title": "【Knockout City】対ヨロ【#夜王国/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-20T13:29:16Z",
+  "duration": "PT2H1M39S",
+  "durationSec": 7299,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_2sHBn6_ioM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:21:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 405,
+        "label": "プライベートマッチの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 698,
+        "label": "トレーニングで操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1088,
+        "label": "最初の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1177,
+        "label": "次の対戦に向けた設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1319,
+        "label": "2試合目・マップを把握",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1772,
+        "label": "振り返り・チーム戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2403,
+        "label": "チーム戦・1回目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3062,
+        "label": "チーム戦後の振り返り・再準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3222,
+        "label": "チーム戦・2回目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3445,
+        "label": "次のチーム戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "チーム戦・3回目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3947,
+        "label": "対戦後の話・次のマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "チーム戦・4回目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4414,
+        "label": "ロビーで再編・再戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4523,
+        "label": "チーム戦・5回目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4924,
+        "label": "対戦後の振り返り・操作練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "個人戦・特殊ボールの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5650,
+        "label": "もう一度の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5713,
+        "label": "個人戦・特殊ルールのマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6684,
+        "label": "ゲーム後の振り返り・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6922,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6949,
+        "label": "アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7089,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7260,
+        "label": "最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "videoId": "4WQF7MSpT3E",
+  "title": "＃57【崩壊：スターレイル】オンパロス編。星穹列車ファミリーは無敵じゃ！！！👊🌟【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-02-20T16:52:32Z",
+  "duration": "PT3H38M30S",
+  "durationSec": 13110,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4WQF7MSpT3E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T09:27:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 453,
+        "label": "開拓クエスト再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 684,
+        "label": "遺跡エリアを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1103,
+        "label": "過去の記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1917,
+        "label": "封鎖区画と紋章を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2823,
+        "label": "記憶アーカイブを収集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5015,
+        "label": "最深部のシステムを起動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5734,
+        "label": "方針をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6832,
+        "label": "開拓クエスト・戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7114,
+        "label": "選択をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8013,
+        "label": "写真と旅の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8718,
+        "label": "記憶領域での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9554,
+        "label": "次の作戦と世界の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10321,
+        "label": "物語の次の局面へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "開拓クエスト・映像",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11332,
+        "label": "物語の感想・次回相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11604,
+        "label": "キャラクター育成・跳躍相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11745,
+        "label": "キャラクター・光円錐の跳躍",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12674,
+        "label": "配信の感想・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12868,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13038,
+        "label": "配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

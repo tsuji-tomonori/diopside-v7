@@ -1,0 +1,115 @@
+{
+  "videoId": "RaDdNIncl38",
+  "title": "＃５【リングフィットアドベンチャー】朝活でストイックに鍛え上げるモテ美ボディ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-28T23:18:13Z",
+  "duration": "PT1H11M10S",
+  "durationSec": 4270,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RaDdNIncl38/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:01:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・朝活の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 271,
+        "label": "月初のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "リングフィット本編・ストーリー導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 787,
+        "label": "装備・アイテムを準備してコースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1055,
+        "label": "ステージ1・運動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1724,
+        "label": "ステージ1・ゴール後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1903,
+        "label": "ゲームジム・ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2188,
+        "label": "ストーリー進行・次のステージへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2393,
+        "label": "ステージ2・運動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2830,
+        "label": "ステージ2・ゴールと休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3030,
+        "label": "ステージ3・運動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3321,
+        "label": "運動後の準備・予定トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3678,
+        "label": "クールダウン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3910,
+        "label": "姿勢とトレーニングのアドバイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3983,
+        "label": "運動の振り返り・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4098,
+        "label": "スパチャ読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

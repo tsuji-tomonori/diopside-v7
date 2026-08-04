@@ -1,0 +1,145 @@
+{
+  "videoId": "agXpg8C5w58",
+  "title": "【総勢19名】 #にじさんじヘアケア調査委員会  | #レインと美活 【レイン・パターソン/にじさんじ】",
+  "publishedAt": "2023-10-04T14:02:35Z",
+  "duration": "PT2H3S",
+  "durationSec": 7203,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/agXpg8C5w58/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:14:30.920Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・レインのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 852,
+        "label": "赤城ウェンのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1283,
+        "label": "天ヶ瀬むゆのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1953,
+        "label": "海妹四葉のヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2340,
+        "label": "えるのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2610,
+        "label": "鏑木ろこのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2951,
+        "label": "倉持めるとのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3324,
+        "label": "シスター・クレアのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3613,
+        "label": "渋谷ハジメのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3993,
+        "label": "北小路ヒスイのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4279,
+        "label": "白雪巴のヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4567,
+        "label": "セラフ・ダズルガーデンのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4945,
+        "label": "鷹宮リオンのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5199,
+        "label": "虎姫コトカのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5523,
+        "label": "奈羅花のヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5738,
+        "label": "フミのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5937,
+        "label": "森中花咲のヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6219,
+        "label": "雪城眞尋のヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6479,
+        "label": "レヴィ・エリファのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6783,
+        "label": "ルイス・キャミーのヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7020,
+        "label": "19名のヘアケア総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7085,
+        "label": "終了挨拶・エンドカード",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

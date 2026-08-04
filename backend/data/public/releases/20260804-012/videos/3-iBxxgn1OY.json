@@ -1,0 +1,105 @@
+{
+  "videoId": "3-iBxxgn1OY",
+  "title": "【Splatoon2】#にじスプラ大会 本番夢追視点【にじさんじ/夢追翔/鷹宮リオン/ニュイ・ソシエール/白雪巴】",
+  "publishedAt": "2021-11-20T11:07:01Z",
+  "duration": "PT47M19S",
+  "durationSec": 2839,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3-iBxxgn1OY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:23:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会本番前の挨拶と音量確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 108,
+        "label": "本番のルールとステージを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 293,
+        "label": "練習試合でヤグラを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 501,
+        "label": "大会の試合を観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1590,
+        "label": "次の試合を待ちながらチーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1700,
+        "label": "大会インタビュー・チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1781,
+        "label": "大会インタビュー・対戦チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1904,
+        "label": "次の対戦と大会進行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2070,
+        "label": "ルーム準備とチーム編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2141,
+        "label": "次の試合の作戦を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2324,
+        "label": "試合開始・エリアを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2739,
+        "label": "試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2798,
+        "label": "締めトーク・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

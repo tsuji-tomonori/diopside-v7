@@ -1,0 +1,110 @@
+{
+  "videoId": "Gln_7DqFMU4",
+  "title": "＃１【ポケモンレジェンズアルセウス】ヒノアラシ！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-30T14:55:47Z",
+  "duration": "PT2H54M21S",
+  "durationSec": 10461,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gln_7DqFMU4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:34:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・アルセウス初見プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 600,
+        "label": "導入と捕獲チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "最初のポケモンを捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1866,
+        "label": "図鑑の使命と村の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2584,
+        "label": "入団試験に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3299,
+        "label": "黒曜の原野で入団試験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4299,
+        "label": "試験後の調査隊準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5220,
+        "label": "クラフトと図鑑タスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6144,
+        "label": "原野で捕獲と調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7142,
+        "label": "強い野生ポケモンとの遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7987,
+        "label": "図鑑タスクを進めて探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8796,
+        "label": "村で依頼とランク上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9300,
+        "label": "訓練場でポケモン勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9662,
+        "label": "配信の締め・追加調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10090,
+        "label": "感想・次回予告・アフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

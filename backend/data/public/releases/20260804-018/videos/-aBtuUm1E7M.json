@@ -1,0 +1,120 @@
+{
+  "videoId": "-aBtuUm1E7M",
+  "title": "【Minecraft】白雪はじめてのものづくり仕上げ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-12T15:41:29Z",
+  "duration": "PT2H42M39S",
+  "durationSec": 9759,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-aBtuUm1E7M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の作業確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 432,
+        "label": "ラブホテルと周辺施設を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1144,
+        "label": "ホテルの導線と案内文を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1733,
+        "label": "ホテルメニューの名前と価格を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2454,
+        "label": "ドリンクとサービスメニューを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2882,
+        "label": "セットメニューの構成を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3612,
+        "label": "シークレットメニューを組み立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4592,
+        "label": "追加サービスと価格表を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5364,
+        "label": "コスチューム候補を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6304,
+        "label": "衣装の最終比較とメニュー完成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6975,
+        "label": "ホテルの看板を作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7504,
+        "label": "看板完成後に周辺を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8081,
+        "label": "墓の建築",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8712,
+        "label": "近隣施設を見学",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9054,
+        "label": "祈りの場所を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9562,
+        "label": "最後の仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9666,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

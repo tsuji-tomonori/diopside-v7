@@ -1,0 +1,105 @@
+{
+  "videoId": "PVUcATlSFN0",
+  "title": "【Crime Scene Cleaner】✨大型アプデ✨新エリアを特殊清掃します。【白雪巴/にじさんじ】",
+  "publishedAt": "2026-03-31T17:18:50Z",
+  "duration": "PT3H8M49S",
+  "durationSec": 11329,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PVUcATlSFN0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T22:54:10.291Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 303,
+        "label": "新規依頼・現場準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 637,
+        "label": "入口・ロビー周辺の清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2722,
+        "label": "配信室・ジム周辺の清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4010,
+        "label": "上階オフィスの清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4918,
+        "label": "隣接オフィスの清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6349,
+        "label": "管理側エリアの清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7521,
+        "label": "最終エリアの清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8579,
+        "label": "全体回収・残作業確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9785,
+        "label": "最終確認・現場退出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10047,
+        "label": "依頼完了・次回確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10185,
+        "label": "スキル・装備設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10542,
+        "label": "振り返り・配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10902,
+        "label": "スーパーチャット・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

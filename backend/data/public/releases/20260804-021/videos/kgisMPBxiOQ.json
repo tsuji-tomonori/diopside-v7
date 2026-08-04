@@ -1,0 +1,145 @@
+{
+  "videoId": "kgisMPBxiOQ",
+  "title": "【新幹線0号】ん？この新幹線、何かがおかしい‥んなことないか！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-29T15:37:16Z",
+  "duration": "PT2H27M45S",
+  "durationSec": 8865,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kgisMPBxiOQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T17:07:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 245,
+        "label": "新幹線車内のチュートリアル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 565,
+        "label": "普通車で異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1491,
+        "label": "0号車を目指す初回プレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1930,
+        "label": "セカンドステージのルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2147,
+        "label": "セカンドステージの車内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3470,
+        "label": "重力の異変とリセット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3597,
+        "label": "リセット後の異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4093,
+        "label": "赤青ルールに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4222,
+        "label": "再挑戦で車内を再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5354,
+        "label": "高速探索への切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5638,
+        "label": "最終車両への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6071,
+        "label": "0号車での最終確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "停止後の車内探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6511,
+        "label": "列車の事情を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7063,
+        "label": "エンディング・クレジット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7444,
+        "label": "本編後の感想と追加確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7682,
+        "label": "追加ルートを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8008,
+        "label": "ゲームの感想と考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8369,
+        "label": "次回配信の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8386,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8831,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "videoId": "omvx1oTzCQg",
+  "title": "#2【We Were Here Together】あれデジャヴ！？協力謎解きで脱出セヨ【#女王と会長/にじさんじ】",
+  "publishedAt": "2021-07-08T13:43:25Z",
+  "duration": "PT2H27M57S",
+  "durationSec": 8877,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/omvx1oTzCQg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T19:56:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 497,
+        "label": "ゲーム開始・ステージ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "温室を調べて謎解きの手がかり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1440,
+        "label": "色ガスのパイプ謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "次のエリアを探索・仕掛けを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5163,
+        "label": "歯車と梯子の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5523,
+        "label": "庭園の水路と材料集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "材料を育てて調合を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7682,
+        "label": "仕掛けを進めて道を開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8163,
+        "label": "次の部屋へ・次回に続く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "ゲーム後の振り返り・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

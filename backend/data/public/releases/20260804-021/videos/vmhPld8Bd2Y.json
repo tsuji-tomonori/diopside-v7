@@ -1,0 +1,145 @@
+{
+  "videoId": "vmhPld8Bd2Y",
+  "title": "【ダレカレ】最後には号泣するゲームだってオススメ(？)されました。【白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-24T16:16:03Z",
+  "duration": "PT3H6M38S",
+  "durationSec": 11198,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vmhPld8Bd2Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T18:28:52.509Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 367,
+        "label": "起動設定・プレイ開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 580,
+        "label": "チャプター1・朝の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 977,
+        "label": "電話と食事の操作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1245,
+        "label": "家からの脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1577,
+        "label": "パン屋での場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1774,
+        "label": "チャプター2・身支度と節目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2230,
+        "label": "家で料理をしながら待つ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2899,
+        "label": "探索と日常操作の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3839,
+        "label": "人物との対話と記憶探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4444,
+        "label": "物語終盤・最後の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5181,
+        "label": "初回プレイ終了・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5463,
+        "label": "二周目・序盤の再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6362,
+        "label": "二周目・出会いと家での場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7334,
+        "label": "二周目・家事と記録の再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8311,
+        "label": "二周目・物語終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8744,
+        "label": "二周目終了・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8903,
+        "label": "作品を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9314,
+        "label": "身近な経験と支え合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9961,
+        "label": "支援へのお礼・脳と老化の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10789,
+        "label": "物忘れと頭を使う習慣",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11046,
+        "label": "次回予定・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

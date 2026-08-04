@@ -1,0 +1,110 @@
+{
+  "videoId": "QSG1yFC34lA",
+  "title": "【雑談】すでに眠たい白雪の晩酌配信【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-12T07:41:00Z",
+  "duration": "PT2H28M17S",
+  "durationSec": 8897,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QSG1yFC34lA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T21:50:50.431Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・挨拶と音声確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 646,
+        "label": "乾杯・季節の近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1164,
+        "label": "寒暖差と花粉の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1347,
+        "label": "ボイス作品・共同制作の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2227,
+        "label": "次回作とボイス制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2566,
+        "label": "コンビ活動とリスナー目線",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3174,
+        "label": "配信方針・視聴者への配慮",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3654,
+        "label": "自己表現と人との関わり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3973,
+        "label": "活動で見つけた自分・リスナーへの感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4652,
+        "label": "質問タイム・新マイクと歌枠の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5779,
+        "label": "最近の出来事・日常雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6899,
+        "label": "人狼コラボ振り返り・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7666,
+        "label": "同期3人の関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8151,
+        "label": "共演者との活動・これからやりたいこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8567,
+        "label": "就寝演出・感謝と最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

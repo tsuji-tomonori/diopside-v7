@@ -1,0 +1,95 @@
+{
+  "videoId": "LTY7ff6-rwc",
+  "title": "【雑談】お姉さんとアルコールと猫耳と時々ニャ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-16T13:43:25Z",
+  "duration": "PT2H8M7S",
+  "durationSec": 7687,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LTY7ff6-rwc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・梅酒で乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 446,
+        "label": "14万人記念と今後の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1011,
+        "label": "3Dお披露目の感想と準備の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1725,
+        "label": "3D当日の寝坊とリハーサル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2490,
+        "label": "3D企画の裏話とこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3310,
+        "label": "百物語とスタジオの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "Dead by Daylight大会とゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4621,
+        "label": "声の話と今後のコラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "グッズ・音楽・歌ってみた告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5629,
+        "label": "DMMスクラッチとゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6087,
+        "label": "猫耳でスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "締め・最後のスパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

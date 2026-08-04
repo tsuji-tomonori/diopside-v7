@@ -1,0 +1,115 @@
+{
+  "videoId": "23pz176eOAM",
+  "title": "＃４【リングフィットアドベンチャー】朝活でストイックに鍛え上げるモテ美ボディ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-21T23:21:37Z",
+  "duration": "PT1H14M23S",
+  "durationSec": 4463,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/23pz176eOAM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "朝活の挨拶とウォームアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 359,
+        "label": "コース選択・ゲーム開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 587,
+        "label": "コース進行と運動メニュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1126,
+        "label": "スキル選択とバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "スムージー作りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1857,
+        "label": "運動バトルを継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2369,
+        "label": "次の区間へ進みレベル調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2614,
+        "label": "ミニゲームと素材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2802,
+        "label": "素材確認とバトル準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3062,
+        "label": "バトル再開と運動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3331,
+        "label": "もも上げで高負荷トレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "進行度とミッション確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3941,
+        "label": "運動結果を確認して終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4017,
+        "label": "クールダウンとストレッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4249,
+        "label": "夜の告知・外出時の注意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4337,
+        "label": "スパチャ読み・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

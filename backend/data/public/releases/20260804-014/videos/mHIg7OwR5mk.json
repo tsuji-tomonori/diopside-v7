@@ -1,0 +1,190 @@
+{
+  "videoId": "mHIg7OwR5mk",
+  "title": "【晩酌】共依存ってアリ？ナシ？お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 02【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-07-03T17:18:31Z",
+  "duration": "PT3H50M16S",
+  "durationSec": 13816,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mHIg7OwR5mk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌トーク導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 606,
+        "label": "夏の暑さと日焼け対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 721,
+        "label": "新作ボイスのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 927,
+        "label": "カラオケコラボと食事会の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1272,
+        "label": "ホラー番組と心霊スポットの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1691,
+        "label": "身近な人の悩みと支え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2577,
+        "label": "占い・旅行・足つぼの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2960,
+        "label": "カラオケ仲間との食事会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3254,
+        "label": "後輩たちとの交流エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4155,
+        "label": "2軒目の晩酌と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4468,
+        "label": "視聴者のお題・勉強の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4628,
+        "label": "相性のいい相手と恋愛相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5366,
+        "label": "人間関係と依存・自立の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "危険な状況と安全の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6431,
+        "label": "家族・子ども・未来の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6966,
+        "label": "来世の動物とナマケモノの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7510,
+        "label": "ペット先輩のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7702,
+        "label": "傘と安全の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7955,
+        "label": "価値観の違いと他者理解",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8425,
+        "label": "雷が苦手な話とその後",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8793,
+        "label": "恋愛の距離感とアプローチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9124,
+        "label": "配信予定・アーカイブと自分磨き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9598,
+        "label": "お酒の体質と飲み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9969,
+        "label": "酔ったときの失敗談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10359,
+        "label": "おつまみとお酒の楽しみ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10716,
+        "label": "酔い方と飲み会の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11324,
+        "label": "閉店とお会計",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11480,
+        "label": "学生時代と幼なじみの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12259,
+        "label": "身長・服装・体型の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12680,
+        "label": "晩酌終了・依存の話まとめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12779,
+        "label": "スパチャ読み・締めトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "V-tMl0NCwO4",
+  "title": "【Among us】裏切り者は誰…？初めての宇宙人狼！【白雪みしろ／のりプロ所属】#異色あもあす",
+  "publishedAt": "2021-03-02T13:47:26Z",
+  "duration": "PT1H38M",
+  "durationSec": 5880,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/V-tMl0NCwO4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:24:05.687112Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Among Us企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 579,
+        "label": "第1ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1278,
+        "label": "第1ゲーム・会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1454,
+        "label": "第1ゲーム・後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1795,
+        "label": "第1ゲーム・終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2154,
+        "label": "第1ゲーム後の振り返り・次ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2459,
+        "label": "第2ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2633,
+        "label": "第2ゲーム・会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2817,
+        "label": "第2ゲーム・後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3024,
+        "label": "第2ゲーム・終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3342,
+        "label": "第3ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3596,
+        "label": "第3ゲーム後の振り返り・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3910,
+        "label": "第4ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4235,
+        "label": "第4ゲーム・会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4417,
+        "label": "第4ゲーム・後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4808,
+        "label": "第4ゲーム・最終局面の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5425,
+        "label": "第4ゲーム・最終投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5603,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5704,
+        "label": "告知・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

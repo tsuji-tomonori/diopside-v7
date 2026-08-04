@@ -1,0 +1,105 @@
+{
+  "videoId": "WqLqVljtEaw",
+  "title": "【スプラトゥーン2】初心者イカマッチ。イカちゃん達とガチで戯れる【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-03T11:15:13Z",
+  "duration": "PT2H25M37S",
+  "durationSec": 8737,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WqLqVljtEaw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:32:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチホコ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 57,
+        "label": "最初のガチホコに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1152,
+        "label": "2回目のガチホコと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1706,
+        "label": "ガチヤグラのルールを学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "ガチヤグラを連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3595,
+        "label": "ガチヤグラの立ち回りを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4825,
+        "label": "武器を変えてガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5250,
+        "label": "ガチヤグラ向けの武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6327,
+        "label": "ギア選びと能力を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7047,
+        "label": "バケツでガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7615,
+        "label": "バケツでガチヤグラを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "終盤のガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8624,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "次回配信の告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

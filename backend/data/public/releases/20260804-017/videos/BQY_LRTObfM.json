@@ -1,0 +1,155 @@
+{
+  "videoId": "BQY_LRTObfM",
+  "title": "【#綺沙良3Dお披露目】きちゃ良～！3Dの綺沙良と一杯飲んでいかん？【綺沙良/にじさんじ】",
+  "publishedAt": "2026-02-13T13:21:34Z",
+  "duration": "PT1H13M24S",
+  "durationSec": 4404,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BQY_LRTObfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T09:35:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3Dお披露目・乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 229,
+        "label": "オープニング歌唱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 380,
+        "label": "3Dセットと小物紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 528,
+        "label": "ゲストとスクリーンショット企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 919,
+        "label": "ライブパート・ゲスト歌唱 1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1224,
+        "label": "ゲストトーク・記念撮影",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1346,
+        "label": "ゲスト歌唱 2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1576,
+        "label": "歌唱後のゲストトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1672,
+        "label": "ゲスト歌唱 3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1866,
+        "label": "ゲストグループとのトーク・退場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1970,
+        "label": "企画ゲスト登場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2035,
+        "label": "対決企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2096,
+        "label": "フラフープ対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2262,
+        "label": "全力じゃんけん対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2473,
+        "label": "お尻相撲対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2604,
+        "label": "4人協力チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3131,
+        "label": "企画ゲストとの歌唱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3401,
+        "label": "ゲスト歌唱 4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "ゲストとの思い出トーク・退場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3709,
+        "label": "オリジナル曲披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "ライブ振り返り・楽曲告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3926,
+        "label": "視聴者への手紙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3996,
+        "label": "ファイナル歌唱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4307,
+        "label": "配信の締め・次のお披露目へ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

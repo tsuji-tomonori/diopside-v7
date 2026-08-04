@@ -1,0 +1,125 @@
+{
+  "videoId": "JY4v03VsdwE",
+  "title": "【DbD】祈りなさい。然らば処刑してあげる【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-23T06:56:55Z",
+  "duration": "PT2H5M8S",
+  "durationSec": 7508,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JY4v03VsdwE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ハントレス挑戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 430,
+        "label": "第1戦・ハントレスを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1103,
+        "label": "第1戦の振り返り・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1358,
+        "label": "第2戦・ハントレスの手斧練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "ハントレスの立ち回りを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2222,
+        "label": "第3戦・手斧で追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2942,
+        "label": "第3戦の振り返り・パーク選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3302,
+        "label": "第4戦・ホーキンスで追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3848,
+        "label": "第4戦の振り返り・次の役割へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4076,
+        "label": "サバイバーの準備・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4376,
+        "label": "第5戦・サバイバーに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "ハントレスに戻って装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5303,
+        "label": "第6戦・屋外マップでハントレス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5580,
+        "label": "第6戦の振り返り・キラー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5808,
+        "label": "第7戦・発電機とゲートをめぐる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "第7戦の振り返り・最後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6799,
+        "label": "第8戦・ハントレスに再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7372,
+        "label": "振り返り・次回のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

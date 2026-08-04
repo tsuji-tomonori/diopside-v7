@@ -1,0 +1,110 @@
+{
+  "videoId": "5rns6j2eHcQ",
+  "title": "【#癒月ちょこ生誕祭2024】‐ GotCheat‐コラボ者多数！重大告知あり！3DBirthdayLIVE!!!【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2024-02-14T11:10:37Z",
+  "duration": "PT56M41S",
+  "durationSec": 3401,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5rns6j2eHcQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:37:50.630401Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 388,
+        "label": "2曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 610,
+        "label": "挨拶・ライブ企画紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 749,
+        "label": "3曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 837,
+        "label": "4曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1116,
+        "label": "5曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1257,
+        "label": "6曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1799,
+        "label": "7曲目の歌唱パフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2043,
+        "label": "ゲストとの誕生日トーク・記念撮影",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2399,
+        "label": "次の曲紹介と歌唱パフォーマンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2651,
+        "label": "誕生日記念グッズ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2920,
+        "label": "レッドカーペット・新ステージ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3080,
+        "label": "重大告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3144,
+        "label": "新曲歌唱パフォーマンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3365,
+        "label": "エンディング・次の配信案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

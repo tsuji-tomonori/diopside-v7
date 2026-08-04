@@ -1,0 +1,110 @@
+{
+  "videoId": "RxjeR_SL0sU",
+  "title": "【雑談】ハスキーお姉さんは嫌いですか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-03T07:56:31Z",
+  "duration": "PT1H34M14S",
+  "durationSec": 5654,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RxjeR_SL0sU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:45:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 276,
+        "label": "前日の出来事を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 485,
+        "label": "ラーメン・食べ物の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1685,
+        "label": "コラボや旅行の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1938,
+        "label": "次のゲーム配信の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "ASMR機材の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2566,
+        "label": "ゲーム初心者としての準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2922,
+        "label": "声・方言と家族構成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3396,
+        "label": "姉と家族のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3954,
+        "label": "感情の振り返り・歌の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4231,
+        "label": "歌の準備と試唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4524,
+        "label": "紅蓮華の歌唱と発声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4783,
+        "label": "歌い方と表現を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5299,
+        "label": "今後の歌ってみた・追加歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5400,
+        "label": "告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

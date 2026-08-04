@@ -1,0 +1,170 @@
+{
+  "videoId": "navrPw5C0lo",
+  "title": "#にじスプラ祭り 【スプラトゥーン3】雪月シスターズ第12話(完結)「ずっと味方‥ダヨッ」【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-16T13:39:32Z",
+  "duration": "PT4H16M35S",
+  "durationSec": 15395,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/navrPw5C0lo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T16:19:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 341,
+        "label": "第1試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1089,
+        "label": "第2試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1775,
+        "label": "第3試合・ガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2894,
+        "label": "第4試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3785,
+        "label": "第5試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4700,
+        "label": "第6試合・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5519,
+        "label": "第7試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6417,
+        "label": "第8試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7465,
+        "label": "第9試合・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7695,
+        "label": "第9試合後の振り返り・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8946,
+        "label": "第10試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9197,
+        "label": "第10試合後の作戦会議・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9796,
+        "label": "第11試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10181,
+        "label": "第11試合後の振り返り・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10701,
+        "label": "第12試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "第12試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11524,
+        "label": "第13試合・ナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11760,
+        "label": "第13試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12122,
+        "label": "第14試合・ナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12791,
+        "label": "第15試合・ナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13054,
+        "label": "試合後の雑談・食べ物トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13522,
+        "label": "ショートコントと集計・二次会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14111,
+        "label": "二次会・オープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14525,
+        "label": "二次会後の挨拶と解散",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14590,
+        "label": "大会の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14763,
+        "label": "スパチャのお礼と今後の配信",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

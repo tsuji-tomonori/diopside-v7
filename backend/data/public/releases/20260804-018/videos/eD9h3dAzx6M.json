@@ -1,0 +1,190 @@
+{
+  "videoId": "eD9h3dAzx6M",
+  "title": "【 #マリカにじさんじ杯 】夜王国練習会【 にじさんじ / グウェル・オス・ガール 】",
+  "publishedAt": "2020-12-20T11:50:26Z",
+  "duration": "PT1H9M45S",
+  "durationSec": 4185,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eD9h3dAzx6M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T10:10:18.652317+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "夜王国練習会スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 182,
+        "label": "大会と予選を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 399,
+        "label": "アイテムと重量級の走りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 455,
+        "label": "キャラとマシン構成を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 626,
+        "label": "本番に向けて練習コースを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 798,
+        "label": "レインボーロードから練習レースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 998,
+        "label": "レース後の次回練習と配信設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1119,
+        "label": "子どものなりたい職業を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1199,
+        "label": "マシン構成とコインの取り方を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1360,
+        "label": "2回目の練習レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1432,
+        "label": "レース後にキャラ相性を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1538,
+        "label": "大会エピソードと夜王国の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1734,
+        "label": "軽量級の操作を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1927,
+        "label": "アイテム判断と重量級の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2186,
+        "label": "キャラクター名と活動の節目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2320,
+        "label": "オンライン走行と連絡の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2514,
+        "label": "練習走行とキラーへの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "水中のような画面で練習する冗談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2829,
+        "label": "練習レースでアイテムに反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2952,
+        "label": "視聴者イラストと配信の定番ネタ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "マリオカートスタジアムを走る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3206,
+        "label": "ロビーで参加者の話をする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3278,
+        "label": "練習レースとコースの罠",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3415,
+        "label": "3戦勝負から旅行の話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3620,
+        "label": "接戦とアイテムを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3670,
+        "label": "アニメの話で盛り上がる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3793,
+        "label": "最後の練習レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "アニメキャラを同期に例える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4001,
+        "label": "おにぎりの具で声遊び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4105,
+        "label": "締めの挨拶と告知へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4138,
+        "label": "クリスマスボイスを告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

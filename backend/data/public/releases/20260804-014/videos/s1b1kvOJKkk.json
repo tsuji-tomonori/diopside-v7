@@ -1,0 +1,100 @@
+{
+  "videoId": "s1b1kvOJKkk",
+  "title": "【#にじさんじDbD大会】３位決定戦 夕陽リリ視点【白雪巴/瀬戸美夜子/宇志海いちご/夕陽リリ】",
+  "publishedAt": "2020-07-30T12:06:47Z",
+  "duration": "PT49M59S",
+  "durationSec": 2999,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s1b1kvOJKkk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:29:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3位決定戦の紹介・試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 514,
+        "label": "第1ゲーム開始・キラー視点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1208,
+        "label": "第1ゲーム終盤の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "第1ゲーム後のポイント確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1608,
+        "label": "第2ゲームの視点・パーク確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1979,
+        "label": "第2ゲーム序盤・索敵と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2089,
+        "label": "治療・救助をつなぐ連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "第2ゲーム終盤・ゲート攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2597,
+        "label": "試合後の感想・状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2728,
+        "label": "チーム戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2837,
+        "label": "終了前の案内・共演者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2882,
+        "label": "ゲーム内容の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2977,
+        "label": "最後の感謝・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "Hmo7m8-W_ow",
+  "title": "同時視聴【ダンダダン】完全初見で8～12話を観る！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-16T15:55:58Z",
+  "duration": "PT2H43M56S",
+  "durationSec": 9836,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Hmo7m8-W_ow/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:02:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・視聴準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 325,
+        "label": "第8話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1846,
+        "label": "第8話 感想・次話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2065,
+        "label": "第9話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3405,
+        "label": "第9話 感想・次話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3702,
+        "label": "第10話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5036,
+        "label": "第10話 感想・次話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5252,
+        "label": "第11話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6599,
+        "label": "第11話 感想・次話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6735,
+        "label": "第12話 同時視聴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8153,
+        "label": "第2期ティザー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8265,
+        "label": "元ネタを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8715,
+        "label": "全話を見終えて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9192,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9754,
+        "label": "配信案内・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

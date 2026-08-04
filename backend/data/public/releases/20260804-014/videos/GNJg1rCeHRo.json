@@ -1,0 +1,130 @@
+{
+  "videoId": "GNJg1rCeHRo",
+  "title": "【ARK: Crystal isles】タスクは増え続けるもの【#にじARK/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-10-25T17:02:04Z",
+  "duration": "PT2H21M45S",
+  "durationSec": 8505,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GNJg1rCeHRo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ARK序盤の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 843,
+        "label": "雑談を挟んだ拠点整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1355,
+        "label": "金属ピッケル作成の資材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2308,
+        "label": "資材準備と迷子の恐竜探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2815,
+        "label": "飛行中の危険と狩りからの帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3577,
+        "label": "クリッカー救助と帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3913,
+        "label": "拠点と卵の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4206,
+        "label": "金属ピッケル完成・狩りの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4592,
+        "label": "飛行個体で狩り・肉集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5013,
+        "label": "卵の計画と再出発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5364,
+        "label": "新しい恐竜のテイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5633,
+        "label": "テイム個体と海上探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6041,
+        "label": "砂漠で仲間を救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "拠点整備と食料整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6849,
+        "label": "恐竜の世話と卵の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7023,
+        "label": "繁殖と次の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7496,
+        "label": "今後の探索・建築計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7853,
+        "label": "配信の締め・今日の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7935,
+        "label": "告知・拠点の話・恐竜紹介",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

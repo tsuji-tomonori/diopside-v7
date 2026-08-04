@@ -1,0 +1,165 @@
+{
+  "videoId": "w-tw5NIuK8g",
+  "title": "【公衆電話】古の神ゲー。30円で公衆電話から脱出せよ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-18T10:51:39Z",
+  "duration": "PT3H38M2S",
+  "durationSec": 13082,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/w-tw5NIuK8g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 325,
+        "label": "最初の電話と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 758,
+        "label": "最初の分岐を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 925,
+        "label": "家族への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1187,
+        "label": "旧友への電話と手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1859,
+        "label": "友人への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "コインを使ってルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2909,
+        "label": "選択肢を振り返り次の電話先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3639,
+        "label": "別の電話を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4088,
+        "label": "過去への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4550,
+        "label": "過去の自分への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5019,
+        "label": "福田への電話と分岐",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5784,
+        "label": "海原への電話と分岐",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6458,
+        "label": "田中への電話と分岐",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7072,
+        "label": "家族に相談するルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7392,
+        "label": "警察への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "緊急番号を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8554,
+        "label": "追加の番号を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8750,
+        "label": "満腹屋への電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9400,
+        "label": "満腹屋の過去と分岐",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10142,
+        "label": "残ったルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10822,
+        "label": "隠し要素を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11494,
+        "label": "不思議な電話を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12142,
+        "label": "ゲームの余韻と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12407,
+        "label": "配信の締めトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12621,
+        "label": "スーパーチャット読み・最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

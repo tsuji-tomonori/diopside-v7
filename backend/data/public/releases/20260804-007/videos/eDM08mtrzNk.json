@@ -1,0 +1,180 @@
+{
+  "videoId": "eDM08mtrzNk",
+  "title": "【バイオRE:2】やられたらやり返すビビりお姉さんのバイオプレイ#最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-14T16:15:02Z",
+  "duration": "PT2H59S",
+  "durationSec": 7259,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eDM08mtrzNk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:03:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最終回の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 364,
+        "label": "研究所でシェリー救出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 539,
+        "label": "睡眠と早起きの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 794,
+        "label": "研究所探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1185,
+        "label": "プラント43周辺を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1537,
+        "label": "タイラントへの対処を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1749,
+        "label": "戦闘をやり直して攻撃を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1996,
+        "label": "リッカーを警戒して治療室へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2240,
+        "label": "通路を進み敵と物資を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2719,
+        "label": "研究所の仕掛けを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3006,
+        "label": "研究所内の敵に対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3127,
+        "label": "研究記録と冷却薬を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3329,
+        "label": "冷却操作を進めて出口方面へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3611,
+        "label": "残敵確認と戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3907,
+        "label": "研究所の奥へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4223,
+        "label": "ビデオテープを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4334,
+        "label": "研究記録を読み進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4618,
+        "label": "アイテム回収と戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4755,
+        "label": "研究所でのボス戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5262,
+        "label": "エレベーターで次の区域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5361,
+        "label": "次の戦いに向けた準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5573,
+        "label": "物語場面を見守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5892,
+        "label": "決着へ向けて先へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6058,
+        "label": "列車へ向けて準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6110,
+        "label": "列車周辺の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6309,
+        "label": "大きな戦闘に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6616,
+        "label": "戦闘の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6688,
+        "label": "作品談義と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7178,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

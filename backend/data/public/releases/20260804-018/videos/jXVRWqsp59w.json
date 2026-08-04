@@ -1,0 +1,125 @@
+{
+  "videoId": "jXVRWqsp59w",
+  "title": "【雀魂】脱！初心者検定。視聴者参加型で見定めよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-06T14:12:39Z",
+  "duration": "PT2H53M10S",
+  "durationSec": 10390,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jXVRWqsp59w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:49:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・視聴者参加対局の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 711,
+        "label": "第1局・視聴者参加対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1634,
+        "label": "第1局の振り返り・牌の切り方を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1974,
+        "label": "第2局・攻守の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "第2局の振り返り・トップ取りの方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3864,
+        "label": "第3局・親番と手牌の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4092,
+        "label": "第4局・鳴きと守備の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5024,
+        "label": "第4局の振り返り・攻め方を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5163,
+        "label": "第5局・字牌とリーチの判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6631,
+        "label": "第5局の振り返り・テンパイを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6725,
+        "label": "第6局・鳴きと手作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7002,
+        "label": "第6局の振り返り・鳴きの考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7153,
+        "label": "第7局・序盤の手作りと順位確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7513,
+        "label": "休憩・次の対局に向けた振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7743,
+        "label": "第8局・大会形式対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8521,
+        "label": "第9局・手作りと守備の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9970,
+        "label": "対局後の振り返り・成長を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10237,
+        "label": "次回配信のお知らせ・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

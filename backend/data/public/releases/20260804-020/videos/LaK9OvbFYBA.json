@@ -1,0 +1,105 @@
+{
+  "videoId": "LaK9OvbFYBA",
+  "title": "【雀魂】視聴者参加型！一緒に戯れましょ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-03T15:48:08Z",
+  "duration": "PT1H31M11S",
+  "durationSec": 5471,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LaK9OvbFYBA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:32:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 430,
+        "label": "参加者募集・第1対局の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 666,
+        "label": "第1対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "第1対局後の感想・次の参加者募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2036,
+        "label": "第2対局の準備・対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "対局の合間の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2860,
+        "label": "第3対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3501,
+        "label": "第4対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "第5対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4244,
+        "label": "第6対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4519,
+        "label": "第7対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4774,
+        "label": "対局後の感想・翌日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4904,
+        "label": "第8対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5387,
+        "label": "配信終了・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

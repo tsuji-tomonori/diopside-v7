@@ -1,0 +1,75 @@
+{
+  "videoId": "z6keASLqPYw",
+  "title": "【#92 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-07-11T03:00:31Z",
+  "duration": "PT14M25S",
+  "durationSec": 865,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/z6keASLqPYw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組開始・パーソナリティ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 147,
+        "label": "自己紹介と3Dお披露目への意気込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 252,
+        "label": "西園千草とのFGOガチャの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 321,
+        "label": "6月のコラボと近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "お便り：パーソナリティ就任の心境",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 535,
+        "label": "お便り：3D化を祝うライバー仲間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 689,
+        "label": "お便り：ラジオの魅力と声で伝えること",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 842,
+        "label": "お便り募集・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

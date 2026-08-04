@@ -1,0 +1,125 @@
+{
+  "videoId": "F41vG1os7q8",
+  "title": "【APEX】自分オーダーｽｶ？？wwwwwwwwwwwwww【にじさんじ】",
+  "publishedAt": "2021-07-23T14:37:18Z",
+  "duration": "PT2H50M40S",
+  "durationSec": 10240,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/F41vG1os7q8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:17:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 403,
+        "label": "CRカップの説明・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 609,
+        "label": "1試合目・立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2187,
+        "label": "次の試合・終盤までの展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3443,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3667,
+        "label": "次の試合・序盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4213,
+        "label": "マッチング・キャラ選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4323,
+        "label": "試合中盤から終盤の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5505,
+        "label": "試合の合間の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5892,
+        "label": "試合再開・物資と移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6714,
+        "label": "生存重視の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7795,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8180,
+        "label": "次の試合・終盤への移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8932,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9171,
+        "label": "暑さと部屋の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9286,
+        "label": "最後の試合に向けた準備と序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10021,
+        "label": "終盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10161,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

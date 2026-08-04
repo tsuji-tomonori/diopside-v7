@@ -1,0 +1,125 @@
+{
+  "videoId": "U5fIsO1YveI",
+  "title": "【ゴブリン・ノーム・ホーン】休止前にサクッと英雄になっておきますか……。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-09-10T17:49:47Z",
+  "duration": "PT4H31M17S",
+  "durationSec": 16277,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/U5fIsO1YveI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:27:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 312,
+        "label": "ゲーム開始・労働チュートリアル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1221,
+        "label": "評価Sを目指して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2204,
+        "label": "便所掃除を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2895,
+        "label": "タンポポ載せに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4432,
+        "label": "門番の評価Sに再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4756,
+        "label": "パトロールの評価Sへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7463,
+        "label": "最後の評価Sを目指して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9683,
+        "label": "王への謁見",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9902,
+        "label": "ゲーム終盤・次の挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11281,
+        "label": "小休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11410,
+        "label": "休憩明け・終盤戦再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12809,
+        "label": "準備を整えて再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14356,
+        "label": "エンディング・ゲーム振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14558,
+        "label": "今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14824,
+        "label": "活動休止について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15430,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16103,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

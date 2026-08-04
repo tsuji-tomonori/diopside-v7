@@ -1,0 +1,160 @@
+{
+  "videoId": "cZtxAvBE5B0",
+  "title": "【オフコラボ】オフで乾杯🍺手錠拘束コラボをふりかえる【にじさんじフミ/白雪巴】#手錠拘束プレイ耐久",
+  "publishedAt": "2023-11-24T19:18:51Z",
+  "duration": "PT5H4M30S",
+  "durationSec": 18270,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cZtxAvBE5B0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:35:28Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オフコラボの振り返り導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1196,
+        "label": "タイトル確認・アーカイブ視聴準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1675,
+        "label": "VRホラー場面の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2024,
+        "label": "ベッド・マンゴー・Pocky場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2643,
+        "label": "凸待ち・参加者とのポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4378,
+        "label": "Twister・床ドン場面の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5273,
+        "label": "企画のきっかけ・朝まで雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6295,
+        "label": "ゲームの好み・物語ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7639,
+        "label": "家族の話・日常のマイルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8660,
+        "label": "S・Mの話とリスナー文化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10102,
+        "label": "ファンクラブ・コメント実験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10787,
+        "label": "ウマ娘・好きなキャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11750,
+        "label": "Fashion Dreamerで服選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12170,
+        "label": "Nobuta Produceの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12480,
+        "label": "童話バトル・切ない昔話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13080,
+        "label": "童話バトル・ツッコミどころ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13888,
+        "label": "怖い話・タクシーの怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14580,
+        "label": "食べ物の異物談・接客の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15140,
+        "label": "公園と新居の怖い体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15670,
+        "label": "入浴剤・リラックス方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16170,
+        "label": "服の交換・季節と好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16767,
+        "label": "水着の披露・デザインと値段当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17600,
+        "label": "締めの振り返り・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17741,
+        "label": "終了挨拶・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17912,
+        "label": "コメント表示・最後の感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

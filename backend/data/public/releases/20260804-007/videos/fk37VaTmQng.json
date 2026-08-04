@@ -1,0 +1,120 @@
+{
+  "videoId": "fk37VaTmQng",
+  "title": "【晩酌】紳士はつらいよ…お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 05【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-19T15:46:55Z",
+  "duration": "PT2H22M4S",
+  "durationSec": 8524,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fk37VaTmQng/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今夜の飲み物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 245,
+        "label": "教習所の進捗と新PC初配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 499,
+        "label": "GTAロールプレイ企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "健康診断とめまいの近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2009,
+        "label": "路上教習と運転のルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2477,
+        "label": "乗馬クラブの夢・馬の名前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3097,
+        "label": "崩壊：スターレイル近況・ガチャの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3373,
+        "label": "百合漫画家コラボの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3678,
+        "label": "酔うと眠くなる・お酒の失敗談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4003,
+        "label": "誕生日プレゼントとコスメ選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4172,
+        "label": "救急講習・心肺蘇生とAED",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5561,
+        "label": "酔った人への接し方と恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "酔った相手への対応を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6772,
+        "label": "お酒に流されない恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7381,
+        "label": "晩酌の振り返り・タイトル決め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7646,
+        "label": "次回配信のお知らせ・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7829,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

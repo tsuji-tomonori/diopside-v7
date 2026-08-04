@@ -1,0 +1,145 @@
+{
+  "videoId": "Na3YUATIYzw",
+  "title": "【スプラトゥーン2】見込んだ愛銃ちゃんたちで土台作り【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-07T16:38:08Z",
+  "duration": "PT2H47M7S",
+  "durationSec": 10027,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Na3YUATIYzw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:28:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 150,
+        "label": "武器とギアを選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 720,
+        "label": "ガロンで試合を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1426,
+        "label": "チャージャーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1969,
+        "label": "ZAPで試合を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2381,
+        "label": "雑談と次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2657,
+        "label": "ZAPでエリア戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3663,
+        "label": "武器比較と次の選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3916,
+        "label": "エリアで立ち回りを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4391,
+        "label": "試合の合間の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4517,
+        "label": "デュアルで試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5422,
+        "label": "試合後の分析と次の試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5889,
+        "label": "武器変更を検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6144,
+        "label": "ZAPで試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6961,
+        "label": "上達について語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7222,
+        "label": "エリアの試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8040,
+        "label": "試合の成果と次の武器",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8405,
+        "label": "スピナーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9110,
+        "label": "終盤の試合と意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9567,
+        "label": "バケツで試合を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9656,
+        "label": "試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9906,
+        "label": "締めの挨拶・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "WIMd04n0O3w",
+  "title": "【スプラトゥーン３】実に２年ぶりのこの四人。おパブロ侍はとりあえず振り回します。【影山シエン/白雪巴/柚原いづみ/風見くく】",
+  "publishedAt": "2022-09-18T13:37:53Z",
+  "duration": "PT1H28M25S",
+  "durationSec": 5305,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WIMd04n0O3w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T18:18:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4人コラボの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 387,
+        "label": "最初の試合・塗りと連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1555,
+        "label": "次の試合・前線での攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2030,
+        "label": "試合後の武器相談・サーモンラン準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2311,
+        "label": "サーモンラン開始・イクラ納品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "次のバイト・納品と特殊ウェーブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3009,
+        "label": "バイト結果・次の武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3142,
+        "label": "武器を分担してサーモンラン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3506,
+        "label": "最後のバイト・特殊ウェーブに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "特殊ウェーブ後の振り返り・次のバイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4083,
+        "label": "バケツに持ち替えて納品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4309,
+        "label": "大物とビッグウェーブ・満潮の終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4808,
+        "label": "バイト後の振り返り・報酬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4877,
+        "label": "ライブ・誕生日記念グッズの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5009,
+        "label": "追加ライブ・イベント案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5180,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

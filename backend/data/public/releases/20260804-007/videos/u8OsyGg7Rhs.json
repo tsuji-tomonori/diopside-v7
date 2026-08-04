@@ -1,0 +1,155 @@
+{
+  "videoId": "u8OsyGg7Rhs",
+  "title": "【雑談】新コンビ名の前に性癖コンビを振り返る回【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-06-11T13:24:35Z",
+  "duration": "PT2H31M2S",
+  "durationSec": 9062,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/u8OsyGg7Rhs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T15:05:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お寿司を食べながら近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 549,
+        "label": "性癖コンビの交流の始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 708,
+        "label": "コンビ名の由来を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "クリスマスの百合台本を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 946,
+        "label": "最初のコラボと台本リベンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1346,
+        "label": "音声劇と夏祭りの台本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2131,
+        "label": "台本の感想と衣装・背景の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "1月のコラボと台本作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "共同作業の場と初めての訪問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3637,
+        "label": "お泊まりコラボと距離が縮まった頃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4413,
+        "label": "心理テスト動画と視聴者参加企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4651,
+        "label": "遠距離設定の動画企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "デュエット企画と歌リレー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "オンラインゲームの思い出と歌動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5371,
+        "label": "学力企画と謎解きゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5731,
+        "label": "距離を保ちながらの日常と共同作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5995,
+        "label": "最近見つけた曲と足・マッサージの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "お寿司の食べ方とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6741,
+        "label": "衣装の話とお互いの好きなところ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7482,
+        "label": "家族写真とお正月の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7807,
+        "label": "新コンビ名発表前の準備と関連告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8471,
+        "label": "コンビ名候補の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8575,
+        "label": "新しい名前の由来とこれからの活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8871,
+        "label": "コメント読み・これからもよろしくお願いします",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "ru-0C6eKcAs",
+  "title": "【世界のアソビ大全51】ぜのちゃんにリベンジ！！私だって強い‥んだから‥！！！【猫瀬乃しん/白雪 巴】",
+  "publishedAt": "2022-06-09T14:31:03Z",
+  "duration": "PT1H4M31S",
+  "durationSec": 3871,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ru-0C6eKcAs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 329,
+        "label": "6ボールパズル対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 645,
+        "label": "第2ゲーム対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 829,
+        "label": "スピード対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1102,
+        "label": "テニス対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1307,
+        "label": "対戦後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1481,
+        "label": "次のゲーム選び・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1796,
+        "label": "コネクトフォー対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2014,
+        "label": "勝敗確認・ヨットのルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2186,
+        "label": "ヨット対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2764,
+        "label": "ヨット終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3038,
+        "label": "対戦後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3270,
+        "label": "罰ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3348,
+        "label": "写真披露とアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3580,
+        "label": "次回コラボの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3608,
+        "label": "配信予定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3744,
+        "label": "締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "videoId": "YTgt2SbZ0ys",
+  "title": "【雑談】目に穴が空くほど見ていいわよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-29T13:07:00Z",
+  "duration": "PT57M40S",
+  "durationSec": 3460,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YTgt2SbZ0ys/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:35:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・2.0告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 253,
+        "label": "2.0比較用の全身・表情チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1078,
+        "label": "衣装・アクセサリー確認と視聴者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1604,
+        "label": "髪型とメイクの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1845,
+        "label": "1.0卒業の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1989,
+        "label": "2.0お披露目の演出相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2148,
+        "label": "2.0比較用ポーズの実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "1.0送別会・これまでの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2648,
+        "label": "最後の歌と明日のお披露目告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2755,
+        "label": "最後に歌う曲を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3002,
+        "label": "『およげたいやきくん』を歌う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "歌後の挨拶・明日のお披露目案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

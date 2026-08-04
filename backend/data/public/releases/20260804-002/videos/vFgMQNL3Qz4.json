@@ -1,0 +1,100 @@
+{
+  "videoId": "vFgMQNL3Qz4",
+  "title": "【Dead by Daylightコラボ】@here DBD @4【夕陽リリ/にじさんじ】",
+  "publishedAt": "2022-06-21T13:40:56Z",
+  "duration": "PT2H29M16S",
+  "durationSec": 8956,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vFgMQNL3Qz4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・第1戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 580,
+        "label": "第1戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1185,
+        "label": "第1戦振り返り・第2戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1694,
+        "label": "第2戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2651,
+        "label": "第2戦振り返り・第3戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2994,
+        "label": "第3戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "第3戦振り返り・第4戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4325,
+        "label": "第4戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5070,
+        "label": "第4戦振り返り・第5戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5902,
+        "label": "第5戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6929,
+        "label": "第5戦振り返り・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7892,
+        "label": "最終カスタム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8785,
+        "label": "配信終了・振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

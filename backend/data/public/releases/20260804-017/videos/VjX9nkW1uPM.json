@@ -1,0 +1,190 @@
+{
+  "videoId": "VjX9nkW1uPM",
+  "title": "【誕生日記念】25人に逆凸するまで終わらない配信【にじさんじ/リゼ・ヘルエスタ】",
+  "publishedAt": "2023-05-25T17:14:25Z",
+  "duration": "PT5H42M54S",
+  "durationSec": 20574,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VjX9nkW1uPM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:48:23.780675Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・25人逆凸企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 494,
+        "label": "アンジュとの逆凸・誕生日サプライズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1539,
+        "label": "石神のぞみとのお風呂・死生観トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2178,
+        "label": "倉持めるとの野望と最強能力の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2828,
+        "label": "加賀美ハヤトと歌収録・能力談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3581,
+        "label": "来栖夏芽との通信トラブル・近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4343,
+        "label": "西沢さんPとオリジナル曲・作詞の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5222,
+        "label": "小清水透との初対面トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5701,
+        "label": "樋口楓と先輩後輩・学校の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6431,
+        "label": "名取さなとの友人・漫画トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7561,
+        "label": "空星きらめと麻雀・爬虫類の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8286,
+        "label": "上田麗奈と映画・旅行の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9126,
+        "label": "花畑チャイカとの兄妹トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9909,
+        "label": "ベルモンドとのゲーム・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10711,
+        "label": "セラフとの楽器・教養トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11349,
+        "label": "海妹四葉との深夜通話・ケーキ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12068,
+        "label": "天ヶ瀬むゆとの先輩後輩・デビュー相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12608,
+        "label": "剣持刀也とのマリカ・家族役割トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13412,
+        "label": "緋八マナとの初対面・家族役割トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14053,
+        "label": "フレンとの深夜通話・ラーメン談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14581,
+        "label": "先斗寧との後輩相談・信頼の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15122,
+        "label": "星川サラとの初通話・歌と香水の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15949,
+        "label": "竜胆尊との共通点・距離感トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16473,
+        "label": "笹木咲との服・楽屋トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17114,
+        "label": "周防パトラとの楽屋トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17729,
+        "label": "25人達成・追加通話へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17822,
+        "label": "椎名唯華との追加通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18362,
+        "label": "ラトナ・プティとのゲーム仲間トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18997,
+        "label": "白雪巴との深夜トーク・歌の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19532,
+        "label": "社築とのPC・ゲーム・ラーメン談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20347,
+        "label": "振り返り・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

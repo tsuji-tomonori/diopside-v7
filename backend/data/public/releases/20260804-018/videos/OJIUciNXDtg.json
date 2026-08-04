@@ -1,0 +1,120 @@
+{
+  "videoId": "OJIUciNXDtg",
+  "title": "【#白雪巴新衣装】聖なる夜に舞い降りた女神です✨重大発表も…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-25T14:54:55Z",
+  "duration": "PT2H40M31S",
+  "durationSec": 9631,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OJIUciNXDtg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:12:47.568Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・クリスマス雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 456,
+        "label": "お披露目会場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 618,
+        "label": "白衣装を足元から公開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1684,
+        "label": "女神の決意と転換演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2040,
+        "label": "黒衣装お披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2303,
+        "label": "白黒衣装のデザイン秘話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2722,
+        "label": "撮影タイムと追加差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3562,
+        "label": "歌ってみた告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3743,
+        "label": "ファンミーティング告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4125,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5485,
+        "label": "黒衣装でお礼読み・制作トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6140,
+        "label": "白衣装でお礼読み・質問回答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "黒衣装の表情チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6936,
+        "label": "スーパーチャット読み・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7902,
+        "label": "白黒衣装アンケート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8591,
+        "label": "グリーンバック撮影",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9322,
+        "label": "アンケート結果・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

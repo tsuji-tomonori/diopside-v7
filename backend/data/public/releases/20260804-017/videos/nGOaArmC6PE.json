@@ -1,0 +1,195 @@
+{
+  "videoId": "nGOaArmC6PE",
+  "title": "＃29【崩壊：スターレイル】オンパロス編。今んとこ美女とイケメンと幼女とたまにオジ【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-22T20:43:00Z",
+  "duration": "PT7H18M56S",
+  "durationSec": 26336,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nGOaArmC6PE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:10:08.835000Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 160,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 374,
+        "label": "オンパロス編を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 998,
+        "label": "時間修復の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1682,
+        "label": "ダミアノスとの出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2048,
+        "label": "屋上の寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2822,
+        "label": "ファイノンと予言の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3172,
+        "label": "オクヘイマの街歩き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4602,
+        "label": "掲示板の噂を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6537,
+        "label": "アグライアのもとへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7918,
+        "label": "4つの問い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9021,
+        "label": "試練の解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9463,
+        "label": "十二のタイタン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10781,
+        "label": "遠征の依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11139,
+        "label": "出発前夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11859,
+        "label": "黄金裔の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12604,
+        "label": "クレムノス攻略開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14204,
+        "label": "要塞の歴史と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16125,
+        "label": "ザグレウスの手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17167,
+        "label": "黄金の獅子からの警告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18383,
+        "label": "決戦前の情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19141,
+        "label": "ボス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19683,
+        "label": "戦いのあと、次の作戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20702,
+        "label": "運命の神殿と2つの時間軸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21822,
+        "label": "天秤の試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22856,
+        "label": "オロニクスとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23105,
+        "label": "不思議な記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23904,
+        "label": "記憶の精霊と新たな力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24630,
+        "label": "記憶の中での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25017,
+        "label": "新たな戦闘チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25310,
+        "label": "記憶から帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25703,
+        "label": "振り返り・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

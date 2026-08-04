@@ -1,0 +1,190 @@
+{
+  "videoId": "Kp4NKYApGcI",
+  "title": "【#にじフェス2022 振り返り】FANTASIAライブ＆にじフェスお疲れ様！！どうだった？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-03T16:30:30Z",
+  "duration": "PT3H9M50S",
+  "durationSec": 11390,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kp4NKYApGcI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T17:08:42Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "FANTASIA振り返り開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 345,
+        "label": "前日ホテル入り・深夜の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 900,
+        "label": "本番前の準備・舞台裏",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1383,
+        "label": "Virtual to LIVE～オープニング振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1940,
+        "label": "シンデレラ・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2175,
+        "label": "Shocking Party",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2733,
+        "label": "えらいえらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2924,
+        "label": "サクラあっぱれーしょん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3188,
+        "label": "イロドレ・ファッショニスタ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3438,
+        "label": "アオノショウドウ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3915,
+        "label": "Mela!・TOKIO FUNKA",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4653,
+        "label": "虎視眈々",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5012,
+        "label": "ステージ感想・ユニット映像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5221,
+        "label": "さくゆい曲・スタンドマイク演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5524,
+        "label": "ヨワネハキ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5812,
+        "label": "唯華さんのダンス裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6154,
+        "label": "命ばっかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "ここで息をして",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6811,
+        "label": "ソロ後MC・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7180,
+        "label": "どりーみんチュチュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7419,
+        "label": "チクタク・Magicaる・アイドルタイム／ビバハッピー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7741,
+        "label": "CONVERSATION FANCY・PUNCH☆MIND☆HAPPINESS",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8187,
+        "label": "アンコール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8393,
+        "label": "FANTASIA全体の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9063,
+        "label": "にじフェス・私物展示",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9270,
+        "label": "視聴覚室の1対1トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9704,
+        "label": "教室レク・アメとムチ出張版",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10333,
+        "label": "パネル前の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10647,
+        "label": "スパチャ読み延期・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10858,
+        "label": "終演後の会場巡回・裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11247,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

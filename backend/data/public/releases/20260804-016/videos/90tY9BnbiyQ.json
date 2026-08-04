@@ -1,0 +1,120 @@
+{
+  "videoId": "90tY9BnbiyQ",
+  "title": "【スプラトゥーン3】#にじイカ祭り2025 初中級チーム３初顔合わせ🦑✨【七瀬すず菜/にじさんじ】",
+  "publishedAt": "2025-12-09T20:13:51Z",
+  "duration": "PT4H54M11S",
+  "durationSec": 17651,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/90tY9BnbiyQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:46:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 380,
+        "label": "序盤の試合と作戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2509,
+        "label": "試合とチーム調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3678,
+        "label": "武器ショップ休憩・金モデラー選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4105,
+        "label": "金モデラーで対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5520,
+        "label": "参加者離脱と部屋の立て直し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5622,
+        "label": "連携を深める対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7481,
+        "label": "休憩を挟んだ対戦と雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8076,
+        "label": "試合再開と作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9988,
+        "label": "続く対戦と中央の立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11114,
+        "label": "マップ談義と武器変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12114,
+        "label": "継続して対戦・作戦を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13736,
+        "label": "終盤の対戦と作戦整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14808,
+        "label": "長めの対戦とラストスパート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15901,
+        "label": "ラストスパートの対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16418,
+        "label": "締めの挨拶とチーム名決め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17577,
+        "label": "配信終了・次回配信のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

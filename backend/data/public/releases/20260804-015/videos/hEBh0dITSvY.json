@@ -1,0 +1,175 @@
+{
+  "videoId": "hEBh0dITSvY",
+  "title": "【#Crossick】汗とインクに塗れたスプラトゥーン筋トレ【健屋花那・白雪巴/にじさんじ】",
+  "publishedAt": "2021-01-15T19:54:36Z",
+  "duration": "PT3H38M32S",
+  "durationSec": 13112,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hEBh0dITSvY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T10:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信準備・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 666,
+        "label": "企画説明・対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1330,
+        "label": "最初の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1738,
+        "label": "筋トレ実演・回数確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2106,
+        "label": "次の対戦とルール相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2511,
+        "label": "スナイパー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2577,
+        "label": "筋トレ企画の回数を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3108,
+        "label": "筋トレメニューを決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3513,
+        "label": "リーグ戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3922,
+        "label": "対戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4198,
+        "label": "筋トレ回数とキル数の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4593,
+        "label": "武器を選んで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5194,
+        "label": "対戦中断・チーム再編",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5472,
+        "label": "再編成後の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "対戦と結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6365,
+        "label": "リーグ対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6712,
+        "label": "休憩・配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6987,
+        "label": "エリア対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7900,
+        "label": "再戦・キル数実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8620,
+        "label": "次の対戦とキル数勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9007,
+        "label": "休憩・再開準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9254,
+        "label": "スナイパー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10001,
+        "label": "結果確認・次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11060,
+        "label": "筋トレ相談・エリア対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11743,
+        "label": "最後の一戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12439,
+        "label": "最終筋トレ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12939,
+        "label": "告知・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

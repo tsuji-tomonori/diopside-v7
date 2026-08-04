@@ -1,0 +1,110 @@
+{
+  "videoId": "nKVbp3BqvN0",
+  "title": "＃２【ボク姫PROJECT】女装少年が学園一の美少女を目指す！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-06T14:14:39Z",
+  "duration": "PT2H7S",
+  "durationSec": 7207,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nKVbp3BqvN0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:44:35.529069Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信告知・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 583,
+        "label": "ゲーム再開・学園へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 958,
+        "label": "入学式で姉の評判を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1708,
+        "label": "入学式で姫と出会う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2407,
+        "label": "姫とのやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2901,
+        "label": "新たな姫たちとの交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3494,
+        "label": "学園の姫制度と姉の情報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4048,
+        "label": "入学式の再開と生徒代表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4772,
+        "label": "入学式で起きた騒動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4859,
+        "label": "危機への対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5509,
+        "label": "再燃する騒動と主人公の対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6006,
+        "label": "学園を出て入学式を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "友達とこれからの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6708,
+        "label": "ゲーム本編の振り返り・次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6849,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

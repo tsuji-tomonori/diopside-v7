@@ -1,0 +1,180 @@
+{
+  "videoId": "i36USrpIXu8",
+  "title": "＃４【ピクミン4】ピクミンを死なせずに攻略100％でクリアせよ。【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-07-30T11:02:53Z",
+  "duration": "PT5H41M43S",
+  "durationSec": 20503,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i36USrpIXu8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:57:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "前回の進捗と今日の攻略方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 599,
+        "label": "段取りバトルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1083,
+        "label": "遭難者救助と白ピクミン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1647,
+        "label": "氷の地下を切り開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "大型原生生物との戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2941,
+        "label": "地上回収と水辺の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3979,
+        "label": "拠点確認と次の探索準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4739,
+        "label": "氷と水の地下を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5637,
+        "label": "危険な運搬ルートと鍵穴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6610,
+        "label": "次の地下フロアと電気ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "光ピクミンの発見と地下探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8397,
+        "label": "雲の脅威を避けて進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9516,
+        "label": "紫ピクミンで地下攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9988,
+        "label": "地上探索と拠点の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11577,
+        "label": "大型原生生物に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12210,
+        "label": "スクラップディスコを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13262,
+        "label": "羽ピクミンと火の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14410,
+        "label": "ディスコ風エリアを攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15571,
+        "label": "戦闘後の救助と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15828,
+        "label": "FANTASIAの映像作品について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16065,
+        "label": "水辺探索の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16455,
+        "label": "バスルーム演習場の段取りバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16876,
+        "label": "水辺の遭難者救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17956,
+        "label": "飛行機内の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18165,
+        "label": "水中探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18287,
+        "label": "短時間の段取り課題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19290,
+        "label": "地上の残りを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19903,
+        "label": "配信の締めと次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20288,
+        "label": "スーパーチャット読み上げ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

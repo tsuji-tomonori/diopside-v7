@@ -1,0 +1,145 @@
+{
+  "videoId": "i7Y4FaJ9GCQ",
+  "title": "【雑談】ルーレットで出たキャラでスパチャ読み【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-05T19:01:10Z",
+  "duration": "PT3H20M39S",
+  "durationSec": 12039,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i7Y4FaJ9GCQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:02:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ルーレット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 750,
+        "label": "ルーレット開始・最初の声でスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 940,
+        "label": "スマホケースの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1098,
+        "label": "キャラと呼び方を組み合わせてスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1602,
+        "label": "にゃん系でスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1889,
+        "label": "私服でキャラ声を変えながらスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2450,
+        "label": "周年記念分・クール系などを抽選",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3279,
+        "label": "年末年始の雑談とささやき声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "セクシー系の声でスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4188,
+        "label": "ものまね抽選とショタ系の声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5202,
+        "label": "ものまね・ささやき・セクシー系の読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6097,
+        "label": "アニメ声のものまねとキャラ抽選",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "ものまね候補選びとキャラ声のスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "セクシー・通常・クール系の読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7839,
+        "label": "アニメキャラのものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8444,
+        "label": "低い声のキャラ実演とものまね談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8854,
+        "label": "終盤の抽選と低い声のスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9719,
+        "label": "メイのものまねと告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10180,
+        "label": "鋼の錬金術師などのものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10707,
+        "label": "声域の雑談と終盤のキャラ抽選",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11108,
+        "label": "ラスト抽選・ものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11519,
+        "label": "締めの感謝と次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "E2raT7r9I50",
+  "title": "【オフコラボ】ハロウィン♡お泊まり仮装パーティー【#フルトイ/にじさんじ】",
+  "publishedAt": "2021-10-29T15:18:22Z",
+  "duration": "PT2H48M21S",
+  "durationSec": 10101,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/E2raT7r9I50/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ハロウィンお泊まりパーティー開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 576,
+        "label": "仮装に着替えてお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1264,
+        "label": "仮装トークと乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1602,
+        "label": "カップケーキ作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3384,
+        "label": "ハロウィンの歌とひと息",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3625,
+        "label": "仮装で寸劇とわちゃわちゃ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3887,
+        "label": "焼き菓子の完成と試食準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4327,
+        "label": "試食順を決めるパーティーゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4911,
+        "label": "カップケーキを実食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5195,
+        "label": "視聴者の仮装投稿を紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7232,
+        "label": "手作り・創作系の仮装投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8466,
+        "label": "視聴者のペット写真を紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8724,
+        "label": "仮装・コスプレ投稿の後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9539,
+        "label": "ハロウィンパーティーを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9646,
+        "label": "サプライズケーキを開ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9821,
+        "label": "感謝と眠気のおやすみ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

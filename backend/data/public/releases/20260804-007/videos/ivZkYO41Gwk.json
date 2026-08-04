@@ -1,0 +1,125 @@
+{
+  "videoId": "ivZkYO41Gwk",
+  "title": "＃38【崩壊：スターレイル】オンパロス編。開拓クエストの続きとヒアンシーお迎えガチャ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-21T16:50:07Z",
+  "duration": "PT3H28M51S",
+  "durationSec": 12531,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ivZkYO41Gwk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:25:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 414,
+        "label": "開拓クエスト再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2470,
+        "label": "次の目的と資料確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2730,
+        "label": "キャラクター資料を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3782,
+        "label": "メインストーリーへ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4366,
+        "label": "キャストリスとの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5398,
+        "label": "戦闘とショートアニメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6296,
+        "label": "オクヘイマで物語を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6820,
+        "label": "手がかりを追ってオクヘイマへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7598,
+        "label": "次の目的地をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8420,
+        "label": "ヒアンシーお迎えガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9110,
+        "label": "ヒアンシー鑑賞・育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9740,
+        "label": "ヒアンシー光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10263,
+        "label": "光円錐装備と次のガチャ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10757,
+        "label": "マダム・ヘルタお迎えガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11153,
+        "label": "マダム・ヘルタ光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11524,
+        "label": "マダム・ヘルタ編成・鑑賞",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12098,
+        "label": "スパチャ読み・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

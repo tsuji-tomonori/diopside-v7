@@ -101,7 +101,12 @@ export const videoDetailSchema = videoIndexSchema.extend({
   chat: artifactBase.extend({ totalCount: z.number().int().nonnegative() }).strict().optional(),
   comments: artifactBase.extend({ totalCount: z.number().int().nonnegative() }).strict().optional(),
   timestamps: artifactBase.extend({
-    items: z.array(z.object({ atSec: z.number().nonnegative(), label: z.string(), confidence: z.number().optional() }).strict()),
+    items: z.array(z.object({
+      atSec: z.number().int().nonnegative(),
+      label: z.string().min(1),
+      confidence: z.number().optional(),
+      confidenceLevel: z.enum(['high', 'medium', 'low']).optional(),
+    }).strict()),
   }).strict().optional(),
   wordcloud: artifactBase.extend({
     topTerms: z.array(z.object({ term: z.string(), count: z.number().int().positive() }).strict()).optional(),

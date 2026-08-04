@@ -1,0 +1,160 @@
+{
+  "videoId": "l5tf3tQ2-mA",
+  "title": "【バイオハザード0】強気ビビりお姉さんのバイオハザード実況＃最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-22T15:52:35Z",
+  "duration": "PT3H55M26S",
+  "durationSec": 14126,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l5tf3tQ2-mA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "最終回の導入・ゲーム再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 381,
+        "label": "施設探索と電源ギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 661,
+        "label": "施設内の戦闘と合流への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 938,
+        "label": "終盤エリアの仕掛けを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1182,
+        "label": "装備を整えて終盤探索へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1504,
+        "label": "水路の仕掛けとキャラ切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1961,
+        "label": "大型の箱パズルに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3604,
+        "label": "箱パズル突破後の施設攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4421,
+        "label": "戦闘後の帰路と施設資料",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5122,
+        "label": "装備回収と施設の先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6293,
+        "label": "制御基板とバッテリーの仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6990,
+        "label": "合流後の装置攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7860,
+        "label": "研究施設の探索と危険な通路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8663,
+        "label": "終盤の戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9301,
+        "label": "帰路を確認して施設を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9626,
+        "label": "進行確認と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10031,
+        "label": "終盤エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10325,
+        "label": "終盤のイベントと先への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11128,
+        "label": "本編を振り返るアフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11460,
+        "label": "次回予告と追加モードの導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12018,
+        "label": "追加モードの探索と操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13104,
+        "label": "列車ステージの進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13472,
+        "label": "追加モードの戦闘検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13618,
+        "label": "告知を挟んで追加モード再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13959,
+        "label": "配信の締めと今後の告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

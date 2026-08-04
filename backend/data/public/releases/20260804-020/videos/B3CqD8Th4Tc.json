@@ -1,0 +1,140 @@
+{
+  "videoId": "B3CqD8Th4Tc",
+  "title": "＃56【崩壊：スターレイル】オンパロス編。荒笛と激突！？その力は誰の手に…。【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-02-11T15:45:12Z",
+  "duration": "PT2H3M19S",
+  "durationSec": 7399,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/B3CqD8Th4Tc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:07:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最近の活動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 338,
+        "label": "前回の振り返りと迷宮へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 594,
+        "label": "飛行ギミックで水路探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1021,
+        "label": "水の導きと物語の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1346,
+        "label": "記憶が映す過去",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1493,
+        "label": "足場パズルと奥地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1764,
+        "label": "迷宮内の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1930,
+        "label": "長い記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3108,
+        "label": "迷宮探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3388,
+        "label": "迷宮奥での対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3740,
+        "label": "大地の試練に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3995,
+        "label": "大地の意志をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4706,
+        "label": "旅の決意を確かめる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5335,
+        "label": "記憶の海を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5695,
+        "label": "記憶の中で交わす対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6133,
+        "label": "旅の手掛かりを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6506,
+        "label": "次の道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6574,
+        "label": "今回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6792,
+        "label": "今後の予定とショート告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7092,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7335,
+        "label": "配信終了・次回へ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

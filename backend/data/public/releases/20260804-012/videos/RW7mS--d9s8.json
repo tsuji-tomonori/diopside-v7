@@ -1,0 +1,110 @@
+{
+  "videoId": "RW7mS--d9s8",
+  "title": "【バイオRE:2】強気お姉さんのビビりバイオプレイ#4【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-08T15:51:08Z",
+  "duration": "PT2H32M55S",
+  "durationSec": 9175,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RW7mS--d9s8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T16:37:25.912651+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 364,
+        "label": "施設内を探索して進路を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1590,
+        "label": "焼却炉の仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1879,
+        "label": "施設を探索して電子部品を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2919,
+        "label": "施設の記録と警報を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3260,
+        "label": "プラグの仕掛けと周辺の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3961,
+        "label": "鍵を使う場所を探して帰路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5137,
+        "label": "警察署を探索してアイテムを回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5771,
+        "label": "地下へ戻って仕掛けを再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6241,
+        "label": "下層を探索してプラグを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7199,
+        "label": "プラグ配置と敵への対処",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7689,
+        "label": "プラグの種類を整理して次の仕掛けへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8013,
+        "label": "強敵との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8492,
+        "label": "戦闘後の進路確認と次の施設への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9107,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

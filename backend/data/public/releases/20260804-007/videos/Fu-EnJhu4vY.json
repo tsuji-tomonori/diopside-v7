@@ -1,0 +1,130 @@
+{
+  "videoId": "Fu-EnJhu4vY",
+  "title": "#5『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-12T16:05:40Z",
+  "duration": "PT2H54M",
+  "durationSec": 10440,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Fu-EnJhu4vY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T11:27:41Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 43,
+        "label": "オープニング・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 157,
+        "label": "海辺の調査を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 827,
+        "label": "鉄箱の方角パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1336,
+        "label": "鉄箱の中身を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1896,
+        "label": "調査結果を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2475,
+        "label": "島に伝わる歴史を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3743,
+        "label": "資料確認と手掛かりの整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5105,
+        "label": "末裔を探す方針へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5728,
+        "label": "翌日の聞き込み調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6167,
+        "label": "ペンデュラムで調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6359,
+        "label": "反応先を訪ねる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7190,
+        "label": "船で沖へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7492,
+        "label": "船上で語られる過去",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8613,
+        "label": "交換条件を巡る選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9177,
+        "label": "物語の転機と記録確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9678,
+        "label": "次の目的地へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9830,
+        "label": "プレイ終了・今回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10216,
+        "label": "スーパーチャットのお礼・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

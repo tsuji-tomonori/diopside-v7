@@ -1,0 +1,100 @@
+{
+  "videoId": "w92SarPWFD8",
+  "title": "【#にじさんじ壺カップ】Eグループのお姉さんです！【にじさんじ/シスター・クレア】",
+  "publishedAt": "2020-07-18T12:51:36Z",
+  "duration": "PT32M27S",
+  "durationSec": 1947,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/w92SarPWFD8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:04:58.209674Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Eグループ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 238,
+        "label": "大会前の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 399,
+        "label": "打ち上げと到達点の見立て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 521,
+        "label": "体調の話とコラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 700,
+        "label": "大会会場への切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 868,
+        "label": "Eグループ選手紹介と試合方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1112,
+        "label": "5分間の本番実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1467,
+        "label": "判定ルールと結果発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1504,
+        "label": "試合後の感想と今後の意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1659,
+        "label": "参加者の今後の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1809,
+        "label": "Eグループの締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1842,
+        "label": "再トーク・練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1905,
+        "label": "次回配信案内と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

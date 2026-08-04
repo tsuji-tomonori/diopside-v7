@@ -1,0 +1,140 @@
+{
+  "videoId": "HZdgb8tPdvU",
+  "title": "【Papers, Please】入国審査官、始めました。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-06T12:45:06Z",
+  "duration": "PT7H34M44S",
+  "durationSec": 27284,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HZdgb8tPdvU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・入国審査ゲームの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 600,
+        "label": "初回チュートリアル審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2100,
+        "label": "再挑戦で審査に慣れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3000,
+        "label": "IDカードと入国許可証の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "就労許可と家族の生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "外交官対応と審査の難化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5700,
+        "label": "家族の危機と再開準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "検査機能で審査を効率化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "組織との接触と家族の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "次のモードへ再始動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9300,
+        "label": "新モードで再挑戦・高速審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12000,
+        "label": "検査ショートカットで連続審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13800,
+        "label": "組織と報酬をめぐる判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15000,
+        "label": "新制度と警備強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18000,
+        "label": "拒否理由の確認と終盤準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19800,
+        "label": "亡命審査と終盤の対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21600,
+        "label": "地区パスポートの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22800,
+        "label": "最終日進行と外交案件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24000,
+        "label": "終盤の生活管理と最終日の審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26100,
+        "label": "ゲーム終盤の審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26700,
+        "label": "ゲーム後のアフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

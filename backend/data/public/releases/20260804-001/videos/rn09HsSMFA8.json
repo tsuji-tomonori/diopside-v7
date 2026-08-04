@@ -1,0 +1,165 @@
+{
+  "videoId": "rn09HsSMFA8",
+  "title": "【Refind Self：性格診断ゲーム】白雪巴の本質がみんなにバレちゃうってコト‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-09T17:19:32Z",
+  "duration": "PT3H39M46S",
+  "durationSec": 13186,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rn09HsSMFA8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 576,
+        "label": "最初の探索と博士の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1009,
+        "label": "街を巡って最初の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1840,
+        "label": "研究所周辺と羊探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2572,
+        "label": "羊の世話ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2709,
+        "label": "研究所・カジノを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3051,
+        "label": "防衛戦とタレット強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3716,
+        "label": "修理の記憶と海辺の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4109,
+        "label": "カフェとコーヒー選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4514,
+        "label": "博士の記録をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5314,
+        "label": "羊をめぐる最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5597,
+        "label": "1周目の結果を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5947,
+        "label": "2周目の探索と選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6696,
+        "label": "2周目の防衛戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7214,
+        "label": "2周目の手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7863,
+        "label": "2周目の終盤へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8193,
+        "label": "2周目の結果と次の周回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8610,
+        "label": "3周目の調査と記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9180,
+        "label": "3周目の羊ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "塔への手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10164,
+        "label": "終盤の対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11145,
+        "label": "記憶と約束をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11598,
+        "label": "最後の選択とエンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11887,
+        "label": "最終診断結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12576,
+        "label": "感想・お知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12725,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

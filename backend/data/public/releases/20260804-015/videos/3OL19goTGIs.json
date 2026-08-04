@@ -1,0 +1,155 @@
+{
+  "videoId": "3OL19goTGIs",
+  "title": "#最終回！！『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-05-30T20:16:30Z",
+  "duration": "PT4H58M15S",
+  "durationSec": 17895,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3OL19goTGIs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T06:43:25Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 145,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 572,
+        "label": "本編再開・二人の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4921,
+        "label": "案内人の問いかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5075,
+        "label": "新たなルートを進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "案内人のヒント・記憶の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8022,
+        "label": "次の物語ルートへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9897,
+        "label": "呼びかけの謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10943,
+        "label": "次の手掛かり・画面探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12169,
+        "label": "記憶の核心へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12873,
+        "label": "人魚の過去と記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13800,
+        "label": "フローチャートを再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14092,
+        "label": "終盤ルートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14366,
+        "label": "エンディング・物語の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14697,
+        "label": "物語の後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15496,
+        "label": "エンディング後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15582,
+        "label": "追加要素を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16193,
+        "label": "追加エピソードを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16489,
+        "label": "残る分岐を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17135,
+        "label": "追加コンテンツを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17289,
+        "label": "ゲーム本編の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17376,
+        "label": "配信の振り返り・お知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17541,
+        "label": "スーパーチャット読み・クリア後トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17824,
+        "label": "最後の挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

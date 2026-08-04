@@ -1,0 +1,125 @@
+{
+  "videoId": "NAVsnV3ekZM",
+  "title": "【雑談/ASMR】汚名返上？健屋さんと仲直りお泊まり【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-02-15T19:11:15Z",
+  "duration": "PT2H9M29S",
+  "durationSec": 7769,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NAVsnV3ekZM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・お泊まりの趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 915,
+        "label": "チョコとおつまみの実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1511,
+        "label": "お風呂上がりの雑談とマシュマロ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1784,
+        "label": "バイノーラルASMRと配信復帰",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2265,
+        "label": "仲直りの話と励ましASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "メッセージ読みからASMRへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3062,
+        "label": "寝る時の服・触れ合いASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3662,
+        "label": "実演後の確認とマシュマロ質問",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4340,
+        "label": "入れ替わりシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4547,
+        "label": "酔いと触れ合いの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4817,
+        "label": "ポッキーゲームとバイノーラル勝負",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5327,
+        "label": "マシュマロとバレンタインの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5603,
+        "label": "二人の出会い・交流と酔いの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6426,
+        "label": "締め準備と今後のコラボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6576,
+        "label": "最後のマシュマロとバイノーラルしりとり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6874,
+        "label": "スキンシップのリクエストと運営の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7108,
+        "label": "締め前の触れ合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7511,
+        "label": "感謝・次回予定・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

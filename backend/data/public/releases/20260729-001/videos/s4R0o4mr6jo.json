@@ -1,0 +1,125 @@
+{
+  "videoId": "s4R0o4mr6jo",
+  "title": "【SILENT HILL f #3】2周目-前半- 雛子、もう同じことしたら駄目よ。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-24T22:15:03Z",
+  "duration": "PT6H58M48S",
+  "durationSec": 25128,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s4R0o4mr6jo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T12:17:50.422Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・2周目前半の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1218,
+        "label": "2周目前半を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1788,
+        "label": "家々で地図と資料を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5212,
+        "label": "仕掛けと戦いを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7242,
+        "label": "長い会話で次の目的を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7373,
+        "label": "次の目的地へ向けて探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8945,
+        "label": "複数の場所で仕掛けを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11922,
+        "label": "会話を追って次の区域へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12309,
+        "label": "広い区域で長い謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14963,
+        "label": "探索漏れを確かめる寄り道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15905,
+        "label": "資料を探しながら長い道のりへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18665,
+        "label": "建物内で進む道を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19529,
+        "label": "戦いを交えて探索を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21029,
+        "label": "部屋を巡って資料と仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22679,
+        "label": "会話と移動の合間に短い戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23583,
+        "label": "次の経路を探して長文の資料を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24146,
+        "label": "続きの予定を確認して区切りへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24340,
+        "label": "2周目前半の振り返り・お礼",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

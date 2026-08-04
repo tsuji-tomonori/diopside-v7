@@ -1,0 +1,115 @@
+{
+  "videoId": "cjc32hquRrk",
+  "title": "＃1【星のカービィ ディスカバリー】本日発売！カービィ新作きた！！ぽよ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-25T12:44:05Z",
+  "duration": "PT2H19M53S",
+  "durationSec": 8393,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cjc32hquRrk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:58:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "基本操作とコピー能力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1000,
+        "label": "車ほおばりで街を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "仲間救出とステージ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2300,
+        "label": "ステージ目標に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "ワドルディの町と次ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "トレジャーロードに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4207,
+        "label": "通常ステージとトレジャー探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "車ほおばりのステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "次ステージの攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5778,
+        "label": "氷のステージを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6247,
+        "label": "モール区域の攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7069,
+        "label": "ワドルディの町・能力強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7377,
+        "label": "寄り道目標と追加挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7726,
+        "label": "ゲーム振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7934,
+        "label": "スーパーチャット読み・雑談",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

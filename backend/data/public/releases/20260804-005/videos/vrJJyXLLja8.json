@@ -1,0 +1,120 @@
+{
+  "videoId": "vrJJyXLLja8",
+  "title": "【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】",
+  "publishedAt": "2020-10-11T13:26:36Z",
+  "duration": "PT1H16M22S",
+  "durationSec": 4582,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vrJJyXLLja8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:46:17.865Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・身体測定企画の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 533,
+        "label": "衣装・アクセサリーをチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 960,
+        "label": "身長・体型を測定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "心理テスト①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1591,
+        "label": "心理テスト②・お金の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1880,
+        "label": "一般常識クイズに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2339,
+        "label": "クイズ結果・次の企画へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2467,
+        "label": "ルーレット企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2551,
+        "label": "役柄を決めてロールプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2704,
+        "label": "妹役でロールプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3010,
+        "label": "役柄を変えてロールプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3450,
+        "label": "お風呂シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3659,
+        "label": "役割を入れ替えてロールプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "リスナーのお願い・甘やかし実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4298,
+        "label": "コラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4388,
+        "label": "エンディング・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4517,
+        "label": "終了後の追加トーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

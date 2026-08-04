@@ -1,0 +1,110 @@
+{
+  "videoId": "vN1vs1bCD-w",
+  "title": "【#ロリアモアス】にじさんじ幼稚園～宇宙遠足編～【健屋花那/にじさんじ】",
+  "publishedAt": "2021-03-03T14:11:20Z",
+  "duration": "PT1H59M",
+  "durationSec": 7140,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vN1vs1bCD-w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 746,
+        "label": "1戦目・宇宙船を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1496,
+        "label": "1戦目・会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1783,
+        "label": "1戦目・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "1戦目・会議で情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3230,
+        "label": "1戦目・続く会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "1戦目・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3917,
+        "label": "2戦目・会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4469,
+        "label": "2戦目・ゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5004,
+        "label": "2戦目・会議で推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5769,
+        "label": "終盤のゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6145,
+        "label": "最終会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6401,
+        "label": "ゲーム後の感想・参加者コメント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6830,
+        "label": "主催者の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7004,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

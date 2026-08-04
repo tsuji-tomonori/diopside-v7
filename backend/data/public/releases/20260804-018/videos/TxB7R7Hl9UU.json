@@ -1,0 +1,105 @@
+{
+  "videoId": "TxB7R7Hl9UU",
+  "title": "【#W白雪コラボ】正反対？それとも似た者同士？教えて白雪さん！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-20T15:37:17Z",
+  "duration": "PT1H3M35S",
+  "durationSec": 3815,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TxB7R7Hl9UU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 523,
+        "label": "最初のマシュマロ・出会いのきっかけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 910,
+        "label": "ものまねとマシュマロの食べさせ合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1300,
+        "label": "S気質と互いの印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1461,
+        "label": "衣装と見せない美学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1645,
+        "label": "姉妹エチュードのお題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1847,
+        "label": "姉妹エチュード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2144,
+        "label": "エチュードの感想と共通点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2272,
+        "label": "二人を動物に例えると？",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2697,
+        "label": "意外な共通点と機械音痴トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3189,
+        "label": "歌コラボの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3440,
+        "label": "コラボを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3516,
+        "label": "次回コラボ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3665,
+        "label": "締め・SNS案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

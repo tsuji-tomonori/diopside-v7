@@ -1,0 +1,185 @@
+{
+  "videoId": "JMVkkEdc6m8",
+  "title": "＃７【NieR:Automata -ニーアオートマタ-】2周目突入。機械生命体に感情はない。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-30T18:50:25Z",
+  "duration": "PT5H35M29S",
+  "durationSec": 20129,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JMVkkEdc6m8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:13:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 228,
+        "label": "オープニングと前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 408,
+        "label": "パスカルの村から任務再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1318,
+        "label": "大型機械生命体の警報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1516,
+        "label": "飛行ユニットで迎撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1971,
+        "label": "陥没地帯と新たな反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2300,
+        "label": "陥没地帯を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3013,
+        "label": "「記憶喪失」の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "パスカルの村でサブクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4498,
+        "label": "古い世界の情報集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5454,
+        "label": "砂漠の洞窟でジャッカス探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7492,
+        "label": "ジャッカスに聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7891,
+        "label": "引きこもるロボ・続編",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8459,
+        "label": "ゲームクリエイターロボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9119,
+        "label": "「記憶喪失」の調査へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10000,
+        "label": "メインストーリーへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10459,
+        "label": "異星人の痕跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10998,
+        "label": "バンカーへ帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11410,
+        "label": "パスカルへの聞き取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11773,
+        "label": "謎のマーカーを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12646,
+        "label": "工場廃墟のサブクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14206,
+        "label": "ゲームクリエイターロボ・続編",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14837,
+        "label": "脱走者たちの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15259,
+        "label": "森の国へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15617,
+        "label": "森の国を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17395,
+        "label": "武器屋と装備強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18180,
+        "label": "森の城を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18517,
+        "label": "物語の転機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18907,
+        "label": "振り返りと考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19588,
+        "label": "スーパーチャットお礼とエンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "TtiwNDrD8qs",
+  "title": "【歌枠】「化物語」シリーズ縛りで歌うます！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-14T13:38:13Z",
+  "duration": "PT1H31M31S",
+  "durationSec": 5491,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TtiwNDrD8qs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:49:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・物語シリーズ歌枠紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 481,
+        "label": "staple stable",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 749,
+        "label": "1曲目後の感想・2曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 816,
+        "label": "帰り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1067,
+        "label": "2曲目後のトーク・3曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1178,
+        "label": "ambivalent world",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1432,
+        "label": "3曲目後のトーク・4曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1586,
+        "label": "シュガー・スイート・ナイトメア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1863,
+        "label": "4曲目後のトーク・5曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2036,
+        "label": "二言目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2299,
+        "label": "5曲目後のトーク・6曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2475,
+        "label": "marshmallow justice",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2741,
+        "label": "6曲目後のトーク・7曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2987,
+        "label": "白金ディスコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3249,
+        "label": "7曲目後のトーク・8曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3401,
+        "label": "chocolate insomnia",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3683,
+        "label": "8曲目後のトーク・後半曲紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3882,
+        "label": "もうそう☆えくすぷれす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4152,
+        "label": "9曲目後のトーク・10曲目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4408,
+        "label": "内緒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4678,
+        "label": "10曲目後の感想・コラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5066,
+        "label": "君の知らない物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5408,
+        "label": "歌唱後の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "uQCYAKVOSog",
+  "title": "【総勢17名】にじさんじライバーのお気に入り香水調査してみた！第2弾｜#にじさんじライバー香水調査 【#レインと美活  】",
+  "publishedAt": "2024-12-24T11:17:35Z",
+  "duration": "PT1H8M56S",
+  "durationSec": 4136,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uQCYAKVOSog/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:55:29Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・17名の香水調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 274,
+        "label": "加賀美ハヤト：メルセデス・ベンツ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 459,
+        "label": "綺沙良：オゥパラディ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 647,
+        "label": "小清水透：ジミー チュウ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 927,
+        "label": "虎姫コトカ：バーム オーデコロン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1090,
+        "label": "早乙女ベリー：ランバン モダン プリンセス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1334,
+        "label": "酒寄颯馬：ディプティック／レプリカ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1599,
+        "label": "シスター・クレア：虹フレグランス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1853,
+        "label": "白雪巴：ディオール ジャドール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2088,
+        "label": "珠乃井ナナ：白のサボン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2274,
+        "label": "ドーラ：虹フレグランス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2448,
+        "label": "ナセラ：ブルガリ オムニア アメジスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2649,
+        "label": "七瀬すず菜：ランバン／シャネル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2877,
+        "label": "奈羅花：ミス ディオール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3142,
+        "label": "ハユン：シャネル ブルー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3292,
+        "label": "緋八マナ：エルメス オスマンサス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3564,
+        "label": "ヤン・ナリ：アリアナ・グランデ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3786,
+        "label": "ルイス・キャミー：フェルナンダ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3976,
+        "label": "17名の調査まとめ・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

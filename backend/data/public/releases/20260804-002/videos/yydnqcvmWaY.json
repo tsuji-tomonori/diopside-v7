@@ -1,0 +1,80 @@
+{
+  "videoId": "yydnqcvmWaY",
+  "title": "【検証】夜王国は朝６時半集合のラジオ体操に集合できるのか【にじさんじ / グウェル・オス・ガール / 不破湊 / 白雪巴 】",
+  "publishedAt": "2020-08-13T21:38:42Z",
+  "duration": "PT10M7S",
+  "durationSec": 607,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yydnqcvmWaY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:12:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "朝6時半集合の検証企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 73,
+        "label": "集合前の待機と予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 180,
+        "label": "集合場所へ移動・参加者と合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 258,
+        "label": "朝6時半の集合結果を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 311,
+        "label": "ラジオ体操の実施準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 365,
+        "label": "ラジオ体操を実施",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 419,
+        "label": "体操後の感想・朝の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 547,
+        "label": "体操後の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "放送終了・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

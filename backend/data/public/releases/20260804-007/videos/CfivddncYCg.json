@@ -1,0 +1,120 @@
+{
+  "videoId": "CfivddncYCg",
+  "title": "【#異色あもあす】ふええインポスターとかできないですう【健屋花那/にじさんじ】",
+  "publishedAt": "2021-03-02T13:50:02Z",
+  "duration": "PT1H38M25S",
+  "durationSec": 5905,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CfivddncYCg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:16:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 530,
+        "label": "1戦目開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 745,
+        "label": "1戦目：会議とアリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1227,
+        "label": "1戦目：続く会議と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1780,
+        "label": "1戦目：停電後の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2006,
+        "label": "1戦目：終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2136,
+        "label": "1戦目後の振り返り・2戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2432,
+        "label": "2戦目開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2631,
+        "label": "2戦目：最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3243,
+        "label": "2戦目：プレイ再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3360,
+        "label": "2戦目：追加の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "2戦目：投票後のプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "2戦目：停電と扉の検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4730,
+        "label": "2戦目：移動経路の検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4972,
+        "label": "2戦目：終盤のタイムライン整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5401,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5684,
+        "label": "告知・締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

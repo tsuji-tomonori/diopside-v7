@@ -1,0 +1,110 @@
+{
+  "videoId": "EmDhEqFIOrU",
+  "title": "【あつまれどうぶつの森】私好みの百合ハーレム王国つくれるって聞いたんですけど【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-01T09:59:20Z",
+  "duration": "PT2H18M40S",
+  "durationSec": 8320,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EmDhEqFIOrU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 740,
+        "label": "無人島移住の方針とキャラメイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1468,
+        "label": "島の設定・地図・初期選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2085,
+        "label": "無人島に到着して島を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2721,
+        "label": "住民計画とテントの配置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3422,
+        "label": "キャンプファイヤー準備と島名候補",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4015,
+        "label": "島名決定から一日目の終了まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4847,
+        "label": "翌朝の生活とスマホ機能",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5376,
+        "label": "パスポート・マイルとDIY",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6160,
+        "label": "資源集めと生き物の寄贈",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6975,
+        "label": "博物館の場所決めと次回実況の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7249,
+        "label": "収集物を渡して終了前の作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7758,
+        "label": "部屋を整えて傘作りを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8044,
+        "label": "売却確認・買い物・就寝準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8181,
+        "label": "最後の島歩きと今後の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

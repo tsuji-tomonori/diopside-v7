@@ -1,0 +1,120 @@
+{
+  "videoId": "ClYrIR88JWc",
+  "title": "【#にじさんじ壺カップ】そこに壺があったから【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-18T13:21:00Z",
+  "duration": "PT1H58M7S",
+  "durationSec": 7087,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ClYrIR88JWc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:45:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・壺カップの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 294,
+        "label": "Aグループの試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "Aグループ終了・次の観戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1097,
+        "label": "Bグループの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2022,
+        "label": "ルート解説・参加者トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2713,
+        "label": "Cグループの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3252,
+        "label": "Cグループ後半の挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3618,
+        "label": "Dグループの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "参加者の駆け引き・観戦トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4196,
+        "label": "Dグループ後半の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4604,
+        "label": "休憩・出前の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4811,
+        "label": "Eグループの試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5537,
+        "label": "決勝戦の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5902,
+        "label": "決勝戦の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6268,
+        "label": "決勝戦の最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6660,
+        "label": "決勝戦後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6935,
+        "label": "大会振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

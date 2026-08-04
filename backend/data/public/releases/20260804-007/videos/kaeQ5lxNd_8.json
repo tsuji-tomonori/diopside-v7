@@ -1,0 +1,150 @@
+{
+  "videoId": "kaeQ5lxNd_8",
+  "title": "【マイクラ】土地は手放しても夢まで手放すつもりはn【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-07T15:40:19Z",
+  "duration": "PT2H10M42S",
+  "durationSec": 7842,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kaeQ5lxNd_8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:25:21.009697Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "久しぶりのMinecraft・土地整理と城計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 335,
+        "label": "誕生日の話と視聴者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 651,
+        "label": "拠点へ戻ってサバイバル騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 944,
+        "label": "音声確認と荷物移動の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1104,
+        "label": "新天地を目指してゲート探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1815,
+        "label": "線路の終点からゲート・サーバーを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2450,
+        "label": "建物を目印に進み自動化施設を発見",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2971,
+        "label": "自宅を探しながら街とイベント会場を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3434,
+        "label": "城を見直して旧拠点の荷物整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3919,
+        "label": "朝の出発・線路移動とゴーレムの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4389,
+        "label": "受験生への応援と勉強の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "学生と大人の自由・責任を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5397,
+        "label": "過去を振り返り仲間との距離感を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5810,
+        "label": "歌や映像の魅力について雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6015,
+        "label": "帰路を探して橋を計画・建設",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6446,
+        "label": "ゾンビ化した村人への対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6628,
+        "label": "土地を手放してMinecraftを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6703,
+        "label": "雪景色を見ながら誕生日の準備と食事の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7010,
+        "label": "誕生日の瞬間と秘密基地案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7303,
+        "label": "誕生日の感謝とこれからのMinecraft計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "終了挨拶と朝を待つ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7616,
+        "label": "秘密基地を広げながらMinecraft継続の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7773,
+        "label": "誕生日当日の挨拶と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

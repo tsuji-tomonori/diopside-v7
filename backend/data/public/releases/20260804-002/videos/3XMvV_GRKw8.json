@@ -1,0 +1,100 @@
+{
+  "videoId": "3XMvV_GRKw8",
+  "title": "【やわらかあたま塾】疲労困憊の今こそ脳トレしてみる【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-11T15:09:30Z",
+  "duration": "PT1H27M57S",
+  "durationSec": 5277,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3XMvV_GRKw8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T06:33:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 43,
+        "label": "オープニング・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 246,
+        "label": "ゲーム紹介・開始準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 552,
+        "label": "頭のストレッチ・初期設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1192,
+        "label": "最初の実力チェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1706,
+        "label": "結果確認・個別トレーニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2284,
+        "label": "5分チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2672,
+        "label": "結果確認・パズルトレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3153,
+        "label": "記憶・空間認識トレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3751,
+        "label": "計算・追加トレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4419,
+        "label": "練習後の実力チェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4933,
+        "label": "最終結果・ゲーム振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5038,
+        "label": "スーパーチャット読み・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

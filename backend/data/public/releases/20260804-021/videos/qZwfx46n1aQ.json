@@ -1,0 +1,80 @@
+{
+  "videoId": "qZwfx46n1aQ",
+  "title": "【#マリカにじさんじ杯】かつ！【文野環/野良猫】",
+  "publishedAt": "2020-12-19T05:07:06Z",
+  "duration": "PT58M31S",
+  "durationSec": 3511,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qZwfx46n1aQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:32:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会説明・出場準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 505,
+        "label": "参加者待ちと開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "予選レースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1767,
+        "label": "レース間の反応と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2055,
+        "label": "予選レース後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2419,
+        "label": "予選結果の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2617,
+        "label": "予選後のインタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2686,
+        "label": "参加者インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3341,
+        "label": "予選振り返り・次回予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

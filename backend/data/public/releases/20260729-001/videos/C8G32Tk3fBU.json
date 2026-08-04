@@ -1,0 +1,125 @@
+{
+  "videoId": "C8G32Tk3fBU",
+  "title": "【幽霊列車】ホラゲーだろうと電車内ではお静かに【#Crossick/にじさんじ】",
+  "publishedAt": "2020-07-25T14:39:56Z",
+  "duration": "PT1H56M51S",
+  "durationSec": 7011,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/C8G32Tk3fBU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:17:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 323,
+        "label": "ゲーム準備と罰ゲーム相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 844,
+        "label": "ゲーム開始・列車内を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1040,
+        "label": "車内探索・わさび罰ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "運転手を探して車内を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2253,
+        "label": "乗客への聞き取り・子どもの手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2712,
+        "label": "車内の異変を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3180,
+        "label": "罰ゲームとゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3762,
+        "label": "異常な車内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4055,
+        "label": "音の謎解きに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4522,
+        "label": "乗客との会話・終点の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4788,
+        "label": "降車後の駅を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5260,
+        "label": "進行をやり直して手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5537,
+        "label": "品物を使う謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5853,
+        "label": "駅の外で帰宅方法を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "終盤の帰路をめぐる場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6691,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

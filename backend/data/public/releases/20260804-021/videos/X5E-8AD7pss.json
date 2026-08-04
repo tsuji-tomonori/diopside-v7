@@ -1,0 +1,145 @@
+{
+  "videoId": "X5E-8AD7pss",
+  "title": "＃14【崩壊：スターレイル】ピノコニー編！アベンチュリン神回！？涙腺崩壊ってマ…？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-09T17:06:15Z",
+  "duration": "PT3H52M57S",
+  "durationSec": 13977,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/X5E-8AD7pss/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:30:08.851639Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のあらすじ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 344,
+        "label": "夢の中の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "記憶をめぐる探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1804,
+        "label": "レイシオとの作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2526,
+        "label": "フィルムランドのミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3004,
+        "label": "アベンチュリンの過去と謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4203,
+        "label": "夢の中の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5049,
+        "label": "家族の記憶とピノコニーの過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "星穹列車の合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6244,
+        "label": "中央ステージでの作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6723,
+        "label": "アベンチュリン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8163,
+        "label": "戦闘後のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9241,
+        "label": "黄泉との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9842,
+        "label": "夢の境界と記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10322,
+        "label": "ギャラガーとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10803,
+        "label": "ブートヒル登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11281,
+        "label": "ギャラクシーレンジャーの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11522,
+        "label": "サンデーとの対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12121,
+        "label": "ロビンのイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12483,
+        "label": "配信の振り返りと次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12602,
+        "label": "ゲーム感想・キャラクター雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13201,
+        "label": "予定・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "videoId": "pDjmObwDdpc",
+  "title": "【#93 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-07-18T03:00:30Z",
+  "duration": "PT14M59S",
+  "durationSec": 899,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pDjmObwDdpc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介・ゲスト告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 200,
+        "label": "ゲスト登場・自己紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 303,
+        "label": "ガンダムの日とプラモデルの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 421,
+        "label": "ルイス・キャミーの自己紹介・麻雀トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 516,
+        "label": "麻雀配信の練習と炒飯エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 583,
+        "label": "麻雀の段位と三人の個性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 651,
+        "label": "キャラクターの由来とデビュー当時",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 717,
+        "label": "Nintendo Switchとマリオカートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 793,
+        "label": "デビュー時期と三人の関係性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 854,
+        "label": "オフでの交流とコラボの話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

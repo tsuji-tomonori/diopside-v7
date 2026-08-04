@@ -1,0 +1,110 @@
+{
+  "videoId": "vL5EeW3Ww-U",
+  "title": "【DbD】エイダレベッカウェスカーありがとうございます【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-03T13:31:04Z",
+  "duration": "PT2H7M57S",
+  "durationSec": 7677,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vL5EeW3Ww-U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DbDバイオコラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 603,
+        "label": "エイダ・レベッカのパーク解説と初戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1033,
+        "label": "初戦・ウェスカー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1686,
+        "label": "ウェスカーの能力・パーク解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2310,
+        "label": "第二試合・エイダで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3301,
+        "label": "第二試合・救助とゲート攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3591,
+        "label": "試合後のコラボ衣装チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "レベッカのパーク解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4358,
+        "label": "レベッカのパークを試す試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4910,
+        "label": "次の試合の準備・救助戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5806,
+        "label": "試合後の反省と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6372,
+        "label": "ネメシス戦・発電と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7205,
+        "label": "ネメシス戦・終盤のチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7461,
+        "label": "試合後のパーク感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7550,
+        "label": "配信終了・感想と告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

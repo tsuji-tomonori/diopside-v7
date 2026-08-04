@@ -1,0 +1,120 @@
+{
+  "videoId": "I7IpFZlqM2E",
+  "title": "【※ネタバレあり】癒しのゲーム♡大きくないと煽られまくるってマ？｜塊魂アンコール＋王様プチメモリーpart2【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-02T16:16:22Z",
+  "duration": "PT2H50M37S",
+  "durationSec": 10237,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/I7IpFZlqM2E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:05:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 176,
+        "label": "王様の孫のためのステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 358,
+        "label": "ハニーちゃんのステージ・プレゼント探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1146,
+        "label": "夜の学校でホタル集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2188,
+        "label": "猛特訓ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2603,
+        "label": "相撲ステージ・塊を大きくする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3238,
+        "label": "レース場でプレゼント探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4490,
+        "label": "タイヤ集めのトレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5260,
+        "label": "動物園で友達探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6007,
+        "label": "バレリーナを集めるステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6586,
+        "label": "学校で持ち物・給食集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7205,
+        "label": "夜の学校で忘れ物探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7460,
+        "label": "味噌汁のステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8648,
+        "label": "千羽鶴を集めるステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9303,
+        "label": "いちごを集めるステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9661,
+        "label": "ステージ後の様子・思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9907,
+        "label": "ゲーム終了・告知・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

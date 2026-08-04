@@ -1,0 +1,130 @@
+{
+  "videoId": "_tkCezZS9a4",
+  "title": "【バイオハザード0】強気ビビりお姉さんのバイオハザード実況#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-19T17:23:41Z",
+  "duration": "PT3H3M59S",
+  "durationSec": 11039,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_tkCezZS9a4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 619,
+        "label": "列車事件のプロローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 904,
+        "label": "列車内の探索を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1518,
+        "label": "ビリーとの遭遇・2人で探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2147,
+        "label": "2人操作と列車内の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2992,
+        "label": "装備を整え、列車内の強敵へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3748,
+        "label": "列車の各車両を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4475,
+        "label": "鍵と燃料を探して列車奥へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4997,
+        "label": "フックショットで新たな通路へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5998,
+        "label": "列車と洋館の感染の謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6113,
+        "label": "列車を止める装置を操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6782,
+        "label": "列車事件の背景と次の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7724,
+        "label": "装置を解除して施設を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8580,
+        "label": "物語を振り返りながら部品探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8949,
+        "label": "施設の資料を読み、探索を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9360,
+        "label": "大型の敵との遭遇・施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9812,
+        "label": "養成所の資料を読み、先へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10390,
+        "label": "敵や仕掛けに対応しながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10986,
+        "label": "配信終了・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

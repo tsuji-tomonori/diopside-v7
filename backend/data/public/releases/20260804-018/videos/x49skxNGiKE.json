@@ -1,0 +1,125 @@
+{
+  "videoId": "x49skxNGiKE",
+  "title": "【雑談】いよいよ今週末にじフェスだー！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-28T12:36:33Z",
+  "duration": "PT1H25M23S",
+  "durationSec": 5123,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/x49skxNGiKE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・にじフェス直前の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 380,
+        "label": "9月の配信予定と開始時刻",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 558,
+        "label": "鼻に500円玉が入った思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 724,
+        "label": "9月の振り返り・本番準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 817,
+        "label": "にじフェス共通衣装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1085,
+        "label": "FANTASIA・にじフェス出演予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1501,
+        "label": "私物展示とリハーサルの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1944,
+        "label": "練習の日々と本番後の感想会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2205,
+        "label": "楓との練習話・本番への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2704,
+        "label": "お風呂キャスの案内と入浴剤の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3012,
+        "label": "アカペラと本番への不安",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3425,
+        "label": "応援を受けて本番へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3659,
+        "label": "スーパーチャット読み・会場案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "本番前の腸活と自分磨き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4154,
+        "label": "初ライブへの緊張と決意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4442,
+        "label": "私物展示・現地とオンラインの楽しみ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4685,
+        "label": "撮影ルールと終盤のスーパーチャット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5038,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

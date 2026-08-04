@@ -1,0 +1,175 @@
+{
+  "videoId": "2aadL7H7kso",
+  "title": "＃03【崩壊：スターレイル】ヤリ―ロⅥ編。何故こうなってしまったのか…真相求む【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-20T04:57:41Z",
+  "duration": "PT3H43M23S",
+  "durationSec": 13403,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2aadL7H7kso/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 771,
+        "label": "リベットタウンへ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1957,
+        "label": "リベットタウンの探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2555,
+        "label": "物資箱の捜索と出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "商店街周辺の戦闘と編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "診療所の物資を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4197,
+        "label": "施設の記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4506,
+        "label": "ブローニャの過去に触れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4827,
+        "label": "クラーラとスバローグをめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5383,
+        "label": "物資報告とパーティー調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6035,
+        "label": "地下の拠点へ向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6677,
+        "label": "ロボットの認証試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7193,
+        "label": "認証を突破して手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7703,
+        "label": "クラーラをめぐる戦闘と作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8292,
+        "label": "設備を直して先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8800,
+        "label": "拠点の守り手との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9334,
+        "label": "拠点の守り手との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "戦闘後に記録を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10342,
+        "label": "記録の内容を整理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10493,
+        "label": "地下の次の方針を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11015,
+        "label": "均衡の試練に備える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11330,
+        "label": "均衡の試練に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11772,
+        "label": "報酬確認とキャラクター育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12145,
+        "label": "次の目的地を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12331,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12438,
+        "label": "リベットタウンの回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12857,
+        "label": "次回への案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12991,
+        "label": "感想・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "V_jAAGDXFrg",
+  "title": "#3【SILENT HILL2】サイレントヒル2を布教したいお姉さんのリメイク版実況【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-15T17:58:21Z",
+  "duration": "PT4H42M38S",
+  "durationSec": 16958,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/V_jAAGDXFrg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T20:50:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 405,
+        "label": "病院探索を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2083,
+        "label": "パズルの手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "中庭・プール周辺を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3768,
+        "label": "不足品を回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4512,
+        "label": "院長室の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5203,
+        "label": "屋上へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5575,
+        "label": "奥の区画へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6304,
+        "label": "病院探索を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6759,
+        "label": "複数の経路を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7971,
+        "label": "記録と設備を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8703,
+        "label": "仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9742,
+        "label": "下の区画へ移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10246,
+        "label": "地下区画を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11045,
+        "label": "仕掛けを仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11615,
+        "label": "出口を目指す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11938,
+        "label": "夜の市街地を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13201,
+        "label": "次の目的地を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14029,
+        "label": "公園から地下へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15219,
+        "label": "密室の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15772,
+        "label": "さらに奥へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16317,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16696,
+        "label": "スーパーチャットお礼・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

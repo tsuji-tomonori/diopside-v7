@@ -1,0 +1,125 @@
+{
+  "videoId": "eoB-Nk5nswQ",
+  "title": "【スイカゲーム】スイカをつくりたい‥‥！リベンジ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-27T13:08:34Z",
+  "duration": "PT3H50M21S",
+  "durationSec": 13821,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eoB-Nk5nswQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T03:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・リベンジの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 209,
+        "label": "スイカゲーム開始・序盤の配置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1028,
+        "label": "本番盤面で果物を育てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2094,
+        "label": "視聴者相談で盤面を立て直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3550,
+        "label": "スイカを目指して第一盤面を粘る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "盤面の崩れから再挑戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5923,
+        "label": "二度目の挑戦・配置の鉄則を実践",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7230,
+        "label": "連鎖後の次の盤面へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7501,
+        "label": "再挑戦・綺麗な盤面を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9247,
+        "label": "高得点を目指して盤面を詰める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10328,
+        "label": "回線不調・復帰待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10460,
+        "label": "回線復帰後の盤面を立て直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11615,
+        "label": "終盤の高得点盤面を粘る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12581,
+        "label": "終盤の盤面をさらに伸ばす",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13017,
+        "label": "挑戦を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13103,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13198,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13762,
+        "label": "締めの雑談・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

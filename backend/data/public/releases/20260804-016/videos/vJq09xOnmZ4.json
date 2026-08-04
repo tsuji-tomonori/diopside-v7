@@ -1,0 +1,115 @@
+{
+  "videoId": "vJq09xOnmZ4",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆9ステ◆【ベルモンド・バンデラス/白雪巴/にじさんじ】",
+  "publishedAt": "2021-01-18T12:58:04Z",
+  "duration": "PT1H47M23S",
+  "durationSec": 6443,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vJq09xOnmZ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:20:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第一幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 711,
+        "label": "企画説明・出演者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1079,
+        "label": "第二幕「古傷」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1596,
+        "label": "第二幕後・作品感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1786,
+        "label": "第三幕「笑顔の為に」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2288,
+        "label": "第三幕後・作品感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2549,
+        "label": "第四幕「Last Magic」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3545,
+        "label": "第四幕後・アドリブの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3694,
+        "label": "第五幕「Scarlet Snow」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4406,
+        "label": "第五幕後・作品感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4726,
+        "label": "第六幕・終幕の声劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5682,
+        "label": "第六幕後・作品感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5826,
+        "label": "六幕全体の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6169,
+        "label": "出演者の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6244,
+        "label": "次回の三分劇場・募集案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6338,
+        "label": "終了後の追加雑談",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

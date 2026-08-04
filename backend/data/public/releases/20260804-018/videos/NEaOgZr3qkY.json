@@ -1,0 +1,95 @@
+{
+  "videoId": "NEaOgZr3qkY",
+  "title": "【Friday the 13th】二日酔いで帰ってきたら殺人鬼【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-13T15:20:53Z",
+  "duration": "PT1H15M13S",
+  "durationSec": 4513,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NEaOgZr3qkY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 322,
+        "label": "第1試合・探索と逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 840,
+        "label": "接続エラー・再試合の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1316,
+        "label": "第2試合・車の修理と仲間の救援",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1924,
+        "label": "第2試合・警察要請と救出待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2321,
+        "label": "第2試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2653,
+        "label": "第3試合・車とバッテリーを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3327,
+        "label": "第3試合後の感想・次試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3443,
+        "label": "第4試合・警察と車の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3603,
+        "label": "第4試合・バッテリー探索と合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4040,
+        "label": "第4試合・車での脱出を目指す終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4392,
+        "label": "配信終了の挨拶・案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

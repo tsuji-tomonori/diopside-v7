@@ -1,0 +1,75 @@
+{
+  "videoId": "HZZ13GOkqIU",
+  "title": "【にじさんじおえもり杯】Cリーグ￤マウスしかないけど多分勝つる✍【雪城眞尋/にじさんじ】",
+  "publishedAt": "2023-03-04T09:55:54Z",
+  "duration": "PT30M7S",
+  "durationSec": 1807,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HZZ13GOkqIU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画導入・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 65,
+        "label": "1回目のお絵描き当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 544,
+        "label": "1回目終了・得点確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 595,
+        "label": "2回目のお絵描き当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1027,
+        "label": "3回目のお絵描き当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1604,
+        "label": "ゲーム終了・順位確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1691,
+        "label": "本配信休憩・敗者復活戦の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1759,
+        "label": "締めトーク・次回配信の話",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

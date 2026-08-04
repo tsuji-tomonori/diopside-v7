@@ -1,0 +1,365 @@
+{
+  "videoId": "Mf8Lqe_xhKk",
+  "title": "【#犬山たまき5周年】50人に逆凸するまで終わらない耐久!?☎🔥",
+  "publishedAt": "2023-09-22T14:35:57Z",
+  "duration": "PT5H15M52S",
+  "durationSec": 18952,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Mf8Lqe_xhKk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "特別オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 163,
+        "label": "5周年記念・逆凸企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 520,
+        "label": "5周年記念の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 900,
+        "label": "星川サラと逆凸スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1245,
+        "label": "夕刻ロベルと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1552,
+        "label": "英リサと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1823,
+        "label": "戌亥トコと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2159,
+        "label": "さいとうなおきと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2467,
+        "label": "小森めとと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2854,
+        "label": "天宮こころと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "お祝い動画・ゲストメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3422,
+        "label": "休憩・お色直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "オリバー・エバンスと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3951,
+        "label": "レオス・ヴィンセントと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4304,
+        "label": "なつめさんちと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4654,
+        "label": "渋谷ハルと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5028,
+        "label": "ゲスト通話・近況と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5288,
+        "label": "のせさんと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5582,
+        "label": "トナカイトと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5859,
+        "label": "兎鞠まりと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6155,
+        "label": "歌衣メイカと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6525,
+        "label": "ガッチマンVと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6953,
+        "label": "お祝い動画・メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7160,
+        "label": "休憩・20時台の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7236,
+        "label": "夢追翔と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7611,
+        "label": "神田笑一と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8062,
+        "label": "ベルモンド・バンデラスと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "グウェル・オス・ガールと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8718,
+        "label": "フレン・E・ルスタリオと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9056,
+        "label": "ゲスト通話・贈り物とMBTI",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9326,
+        "label": "葉加瀬冬雪と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9645,
+        "label": "アンジュ・カトリーナと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10242,
+        "label": "周防パトラと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10520,
+        "label": "多井隆晴と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10842,
+        "label": "のりプロゲーマーズと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11165,
+        "label": "白雪みしろと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11435,
+        "label": "姫咲ゆずると通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11746,
+        "label": "稲荷いろはと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12081,
+        "label": "レグルシュ・ライオンハートと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12411,
+        "label": "伊東ライフと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12600,
+        "label": "ゲスト通話・長年の交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12970,
+        "label": "ゲスト通話・ナレーション談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13262,
+        "label": "お祝い動画・ゲストメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13453,
+        "label": "休憩・次のゲスト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13521,
+        "label": "桜ころみんと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13826,
+        "label": "休憩・告知動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13929,
+        "label": "音楽セグメント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14226,
+        "label": "休憩・衣装替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14392,
+        "label": "栗駒こまると通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14809,
+        "label": "山黒音玄と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15120,
+        "label": "ゲスト通話・TRPGの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15491,
+        "label": "白雪巴と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15845,
+        "label": "にじさんじゲストと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16093,
+        "label": "シスター・クレアと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16506,
+        "label": "待機・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16705,
+        "label": "遠隔ゲストと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17043,
+        "label": "竜胆尊と通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17412,
+        "label": "レイン・パターソンと通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17649,
+        "label": "ゲスト通話・デュエットと近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18231,
+        "label": "50人達成・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18346,
+        "label": "配信中の動画公開について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18390,
+        "label": "5周年の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18558,
+        "label": "歌ってみた告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18625,
+        "label": "配信終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18675,
+        "label": "エンディング曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18874,
+        "label": "ポストロール音楽",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

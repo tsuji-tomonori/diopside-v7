@@ -1,0 +1,110 @@
+{
+  "videoId": "9HcXsgJftHc",
+  "title": "【#マリカにじさんじ杯】予選Hリーグ。仮免許なら持ってます。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-05T12:42:14Z",
+  "duration": "PT1H30M24S",
+  "durationSec": 5424,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9HcXsgJftHc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:54:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Hリーグの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 301,
+        "label": "ウォームアップと参加者予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 660,
+        "label": "田舎滞在の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1264,
+        "label": "今後の配信告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1441,
+        "label": "Hリーグ直前準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1834,
+        "label": "休憩・コース選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2193,
+        "label": "ロビー合流と通信トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3217,
+        "label": "Hリーグ本番・第1コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3448,
+        "label": "Hリーグ本番・第2コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "Hリーグ本番・第3コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3831,
+        "label": "Hリーグ本番・最終コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3951,
+        "label": "Hリーグ本番後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4418,
+        "label": "本戦と今後の配信について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4937,
+        "label": "スパチャ読み・レース振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5338,
+        "label": "配信の締めと次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

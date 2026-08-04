@@ -1,0 +1,125 @@
+{
+  "videoId": "qYQzgqGmT3A",
+  "title": "【雑談】この夏、いろんな初めてを経験したっていうお話。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-26T16:29:56Z",
+  "duration": "PT3H19M17S",
+  "durationSec": 11957,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qYQzgqGmT3A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:05:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況と夏の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1008,
+        "label": "Hex卒業をめぐる思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1553,
+        "label": "見送りコラボの企画と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2413,
+        "label": "卒業と変化について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2908,
+        "label": "コラボ当日の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3665,
+        "label": "コラボ準備と配信トラブルの裏側",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4226,
+        "label": "別れとこれからについて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4658,
+        "label": "初めての人間ドック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5120,
+        "label": "胃カメラとマンモグラフィの体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5609,
+        "label": "婦人科・呼吸機能検査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6281,
+        "label": "採血・超音波・胃カメラの後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7105,
+        "label": "人間ドック質問タイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7614,
+        "label": "甥っ子との夏の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8567,
+        "label": "コラボの話と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9129,
+        "label": "夏の振り返りと締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9415,
+        "label": "スーパーチャットお礼・夏の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10868,
+        "label": "これからの活動について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11319,
+        "label": "スーパーチャット読み・家電の話と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

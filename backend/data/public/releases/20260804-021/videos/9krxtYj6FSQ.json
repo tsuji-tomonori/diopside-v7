@@ -1,0 +1,115 @@
+{
+  "videoId": "9krxtYj6FSQ",
+  "title": "【#にじ診断】一番性格が近い先輩がわかる‥ってコト！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-10-24T12:51:43Z",
+  "duration": "PT1H38M46S",
+  "durationSec": 5926,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9krxtYj6FSQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:34:21.624213Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・にじ診断の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 280,
+        "label": "ゲーム開始・学校場面の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 794,
+        "label": "水晶玉の世界で診断開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1189,
+        "label": "最初の診断質問に答える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1920,
+        "label": "魔法少女とお化け屋敷の診断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "アイドルの世界と日常の診断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3154,
+        "label": "ライブ本番の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3448,
+        "label": "失恋した友人への反応を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3780,
+        "label": "桃太郎風の世界へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4053,
+        "label": "日常の選択・冒険の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4376,
+        "label": "桃太郎の歌を歌う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4486,
+        "label": "鬼ヶ島を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4870,
+        "label": "最後の診断質問に答える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5197,
+        "label": "診断結果を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5504,
+        "label": "ゲームの感想・視聴者への案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5728,
+        "label": "支援メッセージ読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

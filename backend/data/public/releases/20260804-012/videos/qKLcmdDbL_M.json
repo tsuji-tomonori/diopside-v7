@@ -1,0 +1,160 @@
+{
+  "videoId": "qKLcmdDbL_M",
+  "title": "【雀魂】夜王国で麻雀【不破湊/にじさんじ 】",
+  "publishedAt": "2022-02-16T13:34:13Z",
+  "duration": "PT2H21M45S",
+  "durationSec": 8505,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qKLcmdDbL_M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・再会トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 154,
+        "label": "三人麻雀のルール説明・初回半荘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "衣装の話と役満狙い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1698,
+        "label": "夜王国の周年・活動振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "初回半荘・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1897,
+        "label": "ルーム再設定・高得点ルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1963,
+        "label": "2回戦・高得点手の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2407,
+        "label": "2回戦・守備と役満狙い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3038,
+        "label": "次のコラボゲームの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3428,
+        "label": "2回戦終盤・点数の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3710,
+        "label": "対局後の振り返り・ルール調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3774,
+        "label": "新しい卓・次の局の立ち上がり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4193,
+        "label": "大きな手への反撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4447,
+        "label": "10万点を目指す終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4949,
+        "label": "提灯アンコウの生態トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "次局の対局・3Dモデルの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5551,
+        "label": "高打点の手と接戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5991,
+        "label": "次の局・点数を積み上げる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6516,
+        "label": "Minecraftアカウントの復旧相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6627,
+        "label": "終盤の順位争い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6800,
+        "label": "最終盤・順位争いの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7839,
+        "label": "終盤の攻防・ゲーム進行の山場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8154,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8273,
+        "label": "締めの挨拶・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8312,
+        "label": "個人枠の告知・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

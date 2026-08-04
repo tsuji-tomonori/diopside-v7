@@ -1,0 +1,115 @@
+{
+  "videoId": "lZcnYOs_Ih0",
+  "title": "沖縄・宮古島に初旅行してきたよ🛫🌟写真と動画も！？どーんと公開✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-05-06T16:03:23Z",
+  "duration": "PT2H48M25S",
+  "durationSec": 10105,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lZcnYOs_Ih0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T03:28:58.924Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 143,
+        "label": "宮古島旅行の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 526,
+        "label": "到着・最初の海",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1241,
+        "label": "東平安名崎と島内の寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2231,
+        "label": "17ENDビーチと通り池",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2860,
+        "label": "クリアカヤックと海中の景色",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3396,
+        "label": "ウミガメシュノーケリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4875,
+        "label": "与那覇前浜ビーチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "ヤギと犬のカフェ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5676,
+        "label": "雪塩のお土産とミュージアム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6348,
+        "label": "マンゴースイーツ巡り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6736,
+        "label": "島の食材とアグー豚",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7693,
+        "label": "帰りの飛行機とホテルの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8796,
+        "label": "写真に入りきらなかった旅話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9541,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9683,
+        "label": "次の旅行先・配信予定・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

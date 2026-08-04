@@ -1,0 +1,200 @@
+{
+  "videoId": "jNdro_NRQdM",
+  "title": "＃最終回【We Were Here Forever】最強名(迷)探偵のお通りよ！！！！【#女王と会長/にじさんじ】",
+  "publishedAt": "2022-09-22T19:17:45Z",
+  "duration": "PT5H39M6S",
+  "durationSec": 20346,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jNdro_NRQdM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 367,
+        "label": "探索開始・海中マップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 975,
+        "label": "海中エリアの酸素パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1570,
+        "label": "空気ネットワークをたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2341,
+        "label": "迷路とバルブ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3129,
+        "label": "空気移送と次の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3607,
+        "label": "ダイヤの手がかりから次の区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4502,
+        "label": "水族館の図形パイプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5415,
+        "label": "パイプの出力と色をつなぐ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "拡張グリッドの経路整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7485,
+        "label": "パイプ部品を組み替える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8650,
+        "label": "色のルートと海中区画の切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9470,
+        "label": "タコ語の謎解きへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10023,
+        "label": "記号を読み解いて返答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10734,
+        "label": "タコ語をまねる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11140,
+        "label": "問いかけへの返答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11565,
+        "label": "最後の質問に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12002,
+        "label": "制御室のダイヤルと翻訳本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12389,
+        "label": "記号の選択をやり直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12688,
+        "label": "問いかけに対処する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13503,
+        "label": "出口の手がかりと移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13770,
+        "label": "化学室とレシピの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14749,
+        "label": "素材を混ぜて調合する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15908,
+        "label": "調合の進行と在庫整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16866,
+        "label": "必要素材をそろえる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17319,
+        "label": "出口ルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17616,
+        "label": "上層への移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17869,
+        "label": "光とレバーの協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18452,
+        "label": "外周ルートと天体スイッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18981,
+        "label": "宇宙のような空間と海へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19119,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19343,
+        "label": "感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19934,
+        "label": "お知らせ・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

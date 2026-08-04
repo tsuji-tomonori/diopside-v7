@@ -1,0 +1,155 @@
+{
+  "videoId": "jjPjZ_YjdwE",
+  "title": "【スプラトゥーン3】百合漫画家様×にじ百合好きスペシャルコラボ✨✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-09T15:19:31Z",
+  "duration": "PT3H59M37S",
+  "durationSec": 14377,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jjPjZ_YjdwE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:42:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 167,
+        "label": "コラボスタート＆メンバー紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 641,
+        "label": "ゲーム準備と百合談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 909,
+        "label": "ビッグランへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1385,
+        "label": "ビッグラン開始＆恋バナ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2025,
+        "label": "ナワバリへ＆恋の原点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3184,
+        "label": "好きなタイプと推しカプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3761,
+        "label": "恋愛シチュエーション談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4761,
+        "label": "漫画に生きる実体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5837,
+        "label": "ガチエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6308,
+        "label": "投稿エピソードと推しカプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6767,
+        "label": "好きな服装とランジェリー談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7569,
+        "label": "ガチエリアに集中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8155,
+        "label": "学生時代と漫画の心理描写",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8511,
+        "label": "好きな仕草とこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9002,
+        "label": "百合漫画のすすめ方とNG",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9898,
+        "label": "恋の始まりと理想の相手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10432,
+        "label": "激しい恋愛エピソード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10893,
+        "label": "恋人との境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11716,
+        "label": "ラストマッチと明るい話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13043,
+        "label": "コラボ締め＆お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13350,
+        "label": "ひとり振り返り＆今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13737,
+        "label": "スパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14007,
+        "label": "最後の振り返り＆エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

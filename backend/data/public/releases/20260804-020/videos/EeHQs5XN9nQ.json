@@ -1,0 +1,125 @@
+{
+  "videoId": "EeHQs5XN9nQ",
+  "title": "【ロードモバイル】ついに決着！！手料理めぐって全面対決【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-22T13:59:38Z",
+  "duration": "PT1H15M11S",
+  "durationSec": 4511,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EeHQs5XN9nQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T02:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対決の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "対決ルールと最初の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 572,
+        "label": "作戦準備とギルド連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 931,
+        "label": "開始条件の確認・最終準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1204,
+        "label": "料理をかけた勝負の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1520,
+        "label": "最初の攻撃を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1824,
+        "label": "最初の攻撃・次の目標へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2100,
+        "label": "レベル4砦への攻撃準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2311,
+        "label": "作戦の考え方と進軍",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "兵種相性と偵察を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3035,
+        "label": "終盤の進軍と最後の攻撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3272,
+        "label": "結果待ち・報告の呼びかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3452,
+        "label": "討伐ポイントを集計",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3671,
+        "label": "締切後の結果待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3788,
+        "label": "料理勝負への思い・結果表示",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3909,
+        "label": "各ギルドのポイントを発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4139,
+        "label": "作戦の振り返り・対決後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4308,
+        "label": "次回告知・今後の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

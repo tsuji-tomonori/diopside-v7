@@ -1,0 +1,155 @@
+{
+  "videoId": "pw1r0FNeDDA",
+  "title": "【#にじさんじポケユナ大会】本戦前編【にじさんじ/ポケモンユナイト】",
+  "publishedAt": "2021-09-12T11:07:15Z",
+  "duration": "PT2H32M43S",
+  "durationSec": 9163,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pw1r0FNeDDA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:08:32.342Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 309,
+        "label": "大会ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 427,
+        "label": "8チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1417,
+        "label": "第1試合の対戦カード・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1508,
+        "label": "第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2244,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2461,
+        "label": "第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3189,
+        "label": "第2試合後のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3366,
+        "label": "第3試合の対戦カード・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3667,
+        "label": "第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4403,
+        "label": "第3試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4539,
+        "label": "次試合の構成予想・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4669,
+        "label": "次チーム紹介・第4試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "第4試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5462,
+        "label": "第4試合後のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5660,
+        "label": "大会形式の説明・準決勝準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5970,
+        "label": "準決勝シリーズ第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6614,
+        "label": "準決勝第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6811,
+        "label": "準決勝シリーズ第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7499,
+        "label": "準決勝シリーズ第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8381,
+        "label": "試合後のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8497,
+        "label": "試合後の案内・休憩告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8569,
+        "label": "休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8869,
+        "label": "休憩明け・次の対戦カード紹介",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

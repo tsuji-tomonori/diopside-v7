@@ -1,0 +1,130 @@
+{
+  "videoId": "WpCXVGIZ4og",
+  "title": "【コラボ企画】本妻の声を見抜け！ボイスチェックで聞き分けろ！【聖女れりあ・白雪巴・健屋花那】",
+  "publishedAt": "2020-07-17T15:32:01Z",
+  "duration": "PT1H23M18S",
+  "durationSec": 4998,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WpCXVGIZ4og/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:33:28.748Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画導入・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 243,
+        "label": "ボイス収録の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 422,
+        "label": "ルール説明・10問の進め方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 617,
+        "label": "最初のボイスチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 849,
+        "label": "声の聞き分けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1059,
+        "label": "難しいボイスと追加チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1499,
+        "label": "次の問題と一発勝負の難しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1792,
+        "label": "録音背景も交えた聞き分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2300,
+        "label": "新たなボイスと得点の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2857,
+        "label": "次のボイスチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3107,
+        "label": "ミスリードの仕掛けと声の分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3637,
+        "label": "第9問のボイスチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3790,
+        "label": "最終問題に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4099,
+        "label": "最終判定と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4184,
+        "label": "企画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4353,
+        "label": "追加ボイス企画の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4457,
+        "label": "追加ボイスのリクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4687,
+        "label": "参加者の感想と締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4807,
+        "label": "告知・コラボ案内・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "i5BFfG8a19Q",
+  "title": "後編【クローズド・ナイトメア】結構ガチめで怖いリアルホラー脱出ゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-07-15T20:05:05Z",
+  "duration": "PT6H28M14S",
+  "durationSec": 23294,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i5BFfG8a19Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T20:21:28Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1500,
+        "label": "最初の探索と分岐を試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3201,
+        "label": "Junとの対峙・部屋の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4202,
+        "label": "記録映像から過去をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5702,
+        "label": "惑星カードと神像の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8101,
+        "label": "儀式の目的とカードパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9505,
+        "label": "過去映像を見て工場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10802,
+        "label": "仮面の部屋と儀式の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12601,
+        "label": "儀式の選択を試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13601,
+        "label": "別ルートの条件を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15001,
+        "label": "別の儀式手順を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16601,
+        "label": "鏡と仮面の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17905,
+        "label": "カードパズルを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19803,
+        "label": "出口の選択と再試行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20801,
+        "label": "終盤の条件を検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21609,
+        "label": "ゲーム終盤の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21803,
+        "label": "終盤の物語場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22517,
+        "label": "ゲーム感想・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "bSCVBkXMkmw",
+  "title": "【スマブラSP】テスト配信を兼ねて少しだけ練習【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-01T19:02:48Z",
+  "duration": "PT2H48M35S",
+  "durationSec": 10115,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bSCVBkXMkmw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:07:30.002Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前日の練習説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 605,
+        "label": "スマブラの練習条件を設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 773,
+        "label": "ゼルダでCPU戦を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1885,
+        "label": "カービィ対策とゼルダの立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3124,
+        "label": "ホムヒカでCPU戦を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4696,
+        "label": "ホムヒカの練習を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "カービィ戦を続けて対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6313,
+        "label": "ピカチュウでCPU戦を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7144,
+        "label": "ピカチュウ戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7545,
+        "label": "ゼルダに戻してCPU戦を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8050,
+        "label": "おまかせCPU練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8604,
+        "label": "本番想定の対戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9352,
+        "label": "練習終了・配信状態を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9472,
+        "label": "大会前のキャラ運用を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9710,
+        "label": "明日の大会に向けた締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9937,
+        "label": "スパチャ読み・視聴者へのお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10058,
+        "label": "最終方針を確認して配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

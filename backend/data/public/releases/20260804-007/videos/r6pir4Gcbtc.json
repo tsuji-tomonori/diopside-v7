@@ -1,0 +1,145 @@
+{
+  "videoId": "r6pir4Gcbtc",
+  "title": "＃25【崩壊：スターレイル】バナ悪非道・忍義なき戦い編！アイエエエエ！ニンジャ！？ニンジャナンデ！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-01T07:21:41Z",
+  "duration": "PT6H36M54S",
+  "durationSec": 23814,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/r6pir4Gcbtc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:57:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 439,
+        "label": "ドリームリーフの調査開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1841,
+        "label": "バナーネ部へ潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "ロビンと雑音を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3988,
+        "label": "折紙大学の講義へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5402,
+        "label": "創作課題に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6523,
+        "label": "三月なのかの潜入調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7806,
+        "label": "ウェルス学部の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8863,
+        "label": "バナーネ映画の撮影へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10850,
+        "label": "ミスターレックの解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12201,
+        "label": "バナーネ部の深部へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12897,
+        "label": "潜入作戦の核心へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15000,
+        "label": "次の手掛かりを追って",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16202,
+        "label": "心象世界の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18747,
+        "label": "ドリームリーフの危機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19503,
+        "label": "救援作戦を立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20400,
+        "label": "DJロビンのパーティー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21002,
+        "label": "心象世界での追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21903,
+        "label": "物語終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22506,
+        "label": "エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23264,
+        "label": "ストーリー感想と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23453,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

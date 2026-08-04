@@ -1,0 +1,170 @@
+{
+  "videoId": "rVdnUaEzJgI",
+  "title": "【Crime Scene Cleaner】大晦日だし大掃除しよ～！血に塗れた犯罪現場を【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-31T11:00:19Z",
+  "duration": "PT4H46M48S",
+  "durationSec": 17208,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rVdnUaEzJgI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T20:27:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 253,
+        "label": "配信開始・年末のご挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 484,
+        "label": "ゲーム紹介・設定確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 766,
+        "label": "最初の依頼へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2494,
+        "label": "2024年を振り返りながら清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3149,
+        "label": "上階の清掃へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4753,
+        "label": "依頼後の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5317,
+        "label": "リザルト・スキル選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5653,
+        "label": "自宅で次の依頼を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "ウェルネスセンターへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7581,
+        "label": "サロン・サウナ区画の清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8738,
+        "label": "プール区画の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9063,
+        "label": "特殊清掃の仕事トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9401,
+        "label": "ロッカーと奥の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10134,
+        "label": "VIPルームへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10224,
+        "label": "2024年の骨折を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10578,
+        "label": "残りのエリアを探索・仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11445,
+        "label": "リザルト・装備強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12029,
+        "label": "豪邸の依頼へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12844,
+        "label": "豪邸の奥へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13851,
+        "label": "二階の清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14552,
+        "label": "二階奥の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15682,
+        "label": "終盤の探索と仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16058,
+        "label": "豪邸のリザルト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16153,
+        "label": "アフタートーク・年末の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16470,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17142,
+        "label": "次配信の案内・最後のご挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

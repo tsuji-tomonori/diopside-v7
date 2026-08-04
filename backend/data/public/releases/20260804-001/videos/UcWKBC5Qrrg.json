@@ -1,0 +1,115 @@
+{
+  "videoId": "UcWKBC5Qrrg",
+  "title": "【オフコラボ】お姉さん達の夏の過ごし方‥♡【#フルートイトイ/にじさんじ】",
+  "publishedAt": "2020-07-28T12:28:17Z",
+  "duration": "PT2H17M54S",
+  "durationSec": 8274,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UcWKBC5Qrrg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:38:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オフコラボ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 364,
+        "label": "夏のかき氷企画を紹介・削り始め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1217,
+        "label": "味付けとトッピング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1691,
+        "label": "完成したかき氷を試食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2229,
+        "label": "小さなトラブルと次の味の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2611,
+        "label": "かき氷の食べ比べと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3653,
+        "label": "夏祭りの思い出と夏の装い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4320,
+        "label": "将来の家族像とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4785,
+        "label": "飲み物を囲んだ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "3人の活動の始まりとこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5403,
+        "label": "リップとメイクの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5554,
+        "label": "オリジナル曲と3人の関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6008,
+        "label": "助言・飲みコラボと新展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6798,
+        "label": "スーパーチャット読み・感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7799,
+        "label": "グッズ案と終盤のメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8072,
+        "label": "配信の振り返り・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

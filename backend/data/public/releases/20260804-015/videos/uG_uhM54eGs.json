@@ -1,0 +1,125 @@
+{
+  "videoId": "uG_uhM54eGs",
+  "title": "【Project Winter】はじめてだけど雪山綺麗そう！！楽しみ！！【早乙女ベリー/にじさんじ】",
+  "publishedAt": "2025-01-17T14:57:15Z",
+  "duration": "PT1H59M18S",
+  "durationSec": 7158,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uG_uhM54eGs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:24:56Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介とゲーム開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 435,
+        "label": "第1試合の資源集めと拠点修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 990,
+        "label": "第1試合、吹雪の中で仲間を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1508,
+        "label": "第1試合の発電施設探索とサバイバル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2355,
+        "label": "第1試合の振り返りと次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2530,
+        "label": "第2試合の資源・食料集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2942,
+        "label": "装備を整えて貯蔵庫を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3249,
+        "label": "拠点修理と救援ポッドの手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3657,
+        "label": "危険な物資と電線の危機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4448,
+        "label": "第2試合の振り返りと最終試合の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4703,
+        "label": "最終試合、脱出に向けた資源集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5129,
+        "label": "燃料探しと通信機で吹雪を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5529,
+        "label": "拠点へ戻り発電施設を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6072,
+        "label": "発電施設を修理して脱出準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6255,
+        "label": "脱出ヘリに向けた最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6384,
+        "label": "第3試合の後半と見守り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6862,
+        "label": "ゲーム後の感想と参加者への挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7038,
+        "label": "配信後のひとり反省会と翌日の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

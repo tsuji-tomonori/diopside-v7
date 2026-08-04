@@ -1,0 +1,200 @@
+{
+  "videoId": "7DJnJTlII8M",
+  "title": "【#白雪巴4周年】いち…に…さん…よんっ！？？ケーキとワインで召す♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-30T17:50:24Z",
+  "duration": "PT4H38M6S",
+  "durationSec": 16686,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7DJnJTlII8M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:33:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4周年記念雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 431,
+        "label": "ワインで乾杯・味わい談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 785,
+        "label": "4周年の感慨と応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "ワイン・しゃぶしゃぶ・ケーキを楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1793,
+        "label": "みかん農家の話とネット談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2043,
+        "label": "ジブリ作品と『ハウル』の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "声優・俳優の個性とプロ意識",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "同期イベントの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3300,
+        "label": "デビュー初期と配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4203,
+        "label": "親密さと人間関係の距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5401,
+        "label": "視聴者の意見と活動姿勢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5700,
+        "label": "期間限定ボイスの告知・収録の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "配信視聴の負担とアナリティクス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6902,
+        "label": "なりたい人外の姿と画面調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7203,
+        "label": "同期イベントのリハーサルと裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7807,
+        "label": "歴代衣装と初期活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "ラブライブ談義と歌枠の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "百合の好みを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9002,
+        "label": "新キャラクターと声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9300,
+        "label": "ゲームのキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "今後の配信・ゲーム企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10200,
+        "label": "3分劇場の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10502,
+        "label": "やりたい配信と視聴者の需要",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11102,
+        "label": "年末年始の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11403,
+        "label": "清楚・クール・セクシーの茶番",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12300,
+        "label": "推しと活動を続ける距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12603,
+        "label": "自己受容と視聴者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12902,
+        "label": "4周年の締めのメッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13202,
+        "label": "スーパーチャット読み・4周年の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13800,
+        "label": "長期視聴者と応援の距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14400,
+        "label": "スーパーチャット読み・過去配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15300,
+        "label": "5年目への挨拶と応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16504,
+        "label": "締めの即興茶番・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

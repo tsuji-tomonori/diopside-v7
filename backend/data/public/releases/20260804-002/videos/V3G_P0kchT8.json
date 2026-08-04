@@ -1,0 +1,115 @@
+{
+  "videoId": "V3G_P0kchT8",
+  "title": "＃２【ポケモンレジェンズアルセウス】イーブイ！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-01T14:56:24Z",
+  "duration": "PT2H38M24S",
+  "durationSec": 9504,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/V3G_P0kchT8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:00:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "冒頭トークと告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 274,
+        "label": "ゲーム開始・序盤の捕獲と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1198,
+        "label": "パーティー整理と次のエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1633,
+        "label": "キャプテン戦と次の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2304,
+        "label": "依頼を進めながら戦闘・捕獲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "親分ポケモンの調査任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3345,
+        "label": "任務後のストーリーと次の任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3647,
+        "label": "村の準備・依頼・身だしなみ変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4369,
+        "label": "バサギリ調査任務の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4779,
+        "label": "道具整理とサブ依頼の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5505,
+        "label": "野外調査とキノコ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6794,
+        "label": "進化を見守りながら野外探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8020,
+        "label": "調査の進行と村への帰還",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8698,
+        "label": "ライド解放と風船割り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8928,
+        "label": "帰還・依頼達成と次回準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9193,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

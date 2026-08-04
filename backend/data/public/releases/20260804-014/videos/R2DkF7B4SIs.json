@@ -1,0 +1,135 @@
+{
+  "videoId": "R2DkF7B4SIs",
+  "title": "【晩酌】とりとめのないお話を。お姉さんの一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 11軒目【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-03-15T16:15:19Z",
+  "duration": "PT2H33M42S",
+  "durationSec": 9222,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R2DkF7B4SIs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T04:03:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 87,
+        "label": "オープニング・今夜の一杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 256,
+        "label": "乾杯・梅酒と近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 583,
+        "label": "WBCと勝負の流れ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 744,
+        "label": "SNSとの付き合い方・配信スタイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1205,
+        "label": "みんなの近況・質問タイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1714,
+        "label": "動物動画・話題の犬クリップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1911,
+        "label": "生成AIとコンテンツ表示",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2359,
+        "label": "Xの返信・検索とネットの信頼性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2645,
+        "label": "バイオハザードの感想・シリーズ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3706,
+        "label": "質問タイム・販売中ボイスの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3833,
+        "label": "零シリーズと和ホラー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4274,
+        "label": "否定的コメントとの向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4985,
+        "label": "好きなアニメ・作品談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5418,
+        "label": "復讐・法・倫理を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7186,
+        "label": "気分転換のアニメおすすめ会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7731,
+        "label": "一杯晩酌の締め・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7802,
+        "label": "今後のゲーム・次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8318,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9114,
+        "label": "最終挨拶・おやすみなさい",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

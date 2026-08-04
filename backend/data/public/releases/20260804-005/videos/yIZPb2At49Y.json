@@ -1,0 +1,115 @@
+{
+  "videoId": "yIZPb2At49Y",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆3ステ◆【えま★おうがすと/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-19T14:35:09Z",
+  "duration": "PT1H47M14S",
+  "durationSec": 6434,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yIZPb2At49Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1幕：魔王の屋敷",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 848,
+        "label": "第1幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1310,
+        "label": "第2幕：魔王の願い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1731,
+        "label": "第2幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1975,
+        "label": "第3幕：ホシ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2305,
+        "label": "第3幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2658,
+        "label": "第4幕：Sら雪姫とM王様",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3256,
+        "label": "第4幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3583,
+        "label": "第5幕：嘘と首輪",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4533,
+        "label": "第5幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4911,
+        "label": "第6幕：えまさんの力－チカラ－",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5588,
+        "label": "第6幕後のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5906,
+        "label": "全作品の振り返り・謝辞",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6157,
+        "label": "告知：次回配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6236,
+        "label": "告知：次回の3分バーチャル劇場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6324,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

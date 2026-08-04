@@ -1,0 +1,110 @@
+{
+  "videoId": "CMLa02m1oLc",
+  "title": "【スプラトゥーン3】チーム3✨初✨顔合わせ練習🦑🌈 #にじイカ祭り2025 【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-09T20:04:48Z",
+  "duration": "PT4H47M47S",
+  "durationSec": 17267,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CMLa02m1oLc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T12:37:55+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "チーム初顔合わせ・自己紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 445,
+        "label": "初戦・武器を試しながら練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1150,
+        "label": "塗り・生存・隊形を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3026,
+        "label": "装備・ギア・役割を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4232,
+        "label": "全員金モデラーを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4483,
+        "label": "役割分担を整えて連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7546,
+        "label": "休憩・チーム雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8230,
+        "label": "練習再開・集合と打開を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10032,
+        "label": "中央維持の作戦を実践",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11066,
+        "label": "ステージ別の立ち回り練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13242,
+        "label": "スペシャル役と対策を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15286,
+        "label": "最後の練習セット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16423,
+        "label": "練習終了・チーム名確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16504,
+        "label": "チーム練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17138,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

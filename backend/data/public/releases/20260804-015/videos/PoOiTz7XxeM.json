@@ -1,0 +1,125 @@
+{
+  "videoId": "PoOiTz7XxeM",
+  "title": "【DbD】どんなゲームにおいても状況把握は最強オブ最強【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-06T18:15:48Z",
+  "duration": "PT3H57M2S",
+  "durationSec": 14222,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PoOiTz7XxeM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DbDの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 281,
+        "label": "活動予定・コラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 732,
+        "label": "1試合目・発電と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "1試合目後・装備と立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3032,
+        "label": "2試合目・ナース戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5998,
+        "label": "2試合目後・次の装備確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6054,
+        "label": "3試合目・救助とアイテム運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7778,
+        "label": "3試合目後・デイリーと練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "4試合目・ゲート脱出を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9224,
+        "label": "4試合目後・マップ確認と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9492,
+        "label": "5試合目・トラッパーの罠に警戒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10257,
+        "label": "5試合目後・ポイントと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10782,
+        "label": "6試合目・フレディのワープを学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11679,
+        "label": "6試合目後・反省と救助判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12495,
+        "label": "最終試合の装備・パーク確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12896,
+        "label": "最終試合・ドクター戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14105,
+        "label": "最終試合後・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14135,
+        "label": "終了の挨拶・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

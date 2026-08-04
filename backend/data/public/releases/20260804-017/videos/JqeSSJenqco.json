@@ -1,0 +1,140 @@
+{
+  "videoId": "JqeSSJenqco",
+  "title": "【同時視聴】#にじさんじカウントダウンライブ を飲酒しながら綺沙良さんと観る！！！🍺✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-31T17:06:57Z",
+  "duration": "PT3H43M35S",
+  "durationSec": 13415,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JqeSSJenqco/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T20:21:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・視聴準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1253,
+        "label": "乾杯・開演直前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1836,
+        "label": "カウントダウンライブ開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2650,
+        "label": "Nornisパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3308,
+        "label": "伏見ガクパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4069,
+        "label": "周央サンゴパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4647,
+        "label": "VOLTACTIONパート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5446,
+        "label": "壱百満天原サロメパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6093,
+        "label": "笹木咲パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6368,
+        "label": "年越しカウントダウン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6974,
+        "label": "ROF-MAOパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7709,
+        "label": "ChroNoiRパート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8251,
+        "label": "月ノ美兎・樋口楓パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9057,
+        "label": "夢追翔パート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9749,
+        "label": "星川サラパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10386,
+        "label": "スペシャルコラボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11695,
+        "label": "終演案内・記念グッズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12074,
+        "label": "フィナーレ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12445,
+        "label": "ライブ終了・アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12877,
+        "label": "今後の目標・ホラー企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13108,
+        "label": "新年配信の告知・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

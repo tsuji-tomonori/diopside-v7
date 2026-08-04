@@ -1,0 +1,135 @@
+{
+  "videoId": "3LHkscF2K1M",
+  "title": "【ASTRONEER】こちらシスターズ、地球の皆さん聞こえますか？【海妹四葉/にじさんじ】",
+  "publishedAt": "2022-11-20T12:23:54Z",
+  "duration": "PT2H50M9S",
+  "durationSec": 10209,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3LHkscF2K1M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T16:07:39.780Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ASTRONEER紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 735,
+        "label": "拠点づくりと酸素設備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1543,
+        "label": "地形操作と地下資源探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2271,
+        "label": "ストレージ整備と中型プリンター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3194,
+        "label": "発電機づくりとテザー拡張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4134,
+        "label": "サンプル探索と研究設備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5062,
+        "label": "自動採取と地下作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5868,
+        "label": "研究・発電と地形整備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6603,
+        "label": "資源採取とミッション進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7010,
+        "label": "夜の拠点と照明設備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7235,
+        "label": "地下遠征の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7470,
+        "label": "休憩・食べ物雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7658,
+        "label": "地下遠征と装備アンロック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8205,
+        "label": "資源を持ち帰り拠点へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8765,
+        "label": "拠点整理と電源設備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9140,
+        "label": "地下探索と資源回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9640,
+        "label": "終盤の遠征と拠点集合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9896,
+        "label": "配信終了の挨拶・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10017,
+        "label": "二次会の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10118,
+        "label": "告知・最終挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

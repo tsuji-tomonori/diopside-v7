@@ -1,0 +1,105 @@
+{
+  "videoId": "LSQsNDb9gxc",
+  "title": "よ~【#にじさんじDbD大会】３位決定戦宇志海いちご視点【白雪巴/瀬戸美夜子/宇志海いちご/夕陽リリ】~",
+  "publishedAt": "2020-07-30T12:10:10Z",
+  "duration": "PT58M19S",
+  "durationSec": 3499,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LSQsNDb9gxc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声トラブル対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 180,
+        "label": "3位決定戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 537,
+        "label": "第1試合の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 823,
+        "label": "第1試合序盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1194,
+        "label": "第1試合終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1321,
+        "label": "ハッチとゲートをめぐる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2015,
+        "label": "第1試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2069,
+        "label": "第2試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "第2試合序盤の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "第2試合中盤の救助と発電機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2903,
+        "label": "第2試合終盤の攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3035,
+        "label": "試合後の感想と作戦振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3408,
+        "label": "大会決勝戦の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3435,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

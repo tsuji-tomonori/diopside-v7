@@ -1,0 +1,135 @@
+{
+  "videoId": "zhtQKBedID4",
+  "title": "#最終回【ピクミン3】ダレモシナセタクナイ完全初見ピクミン【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-25T14:43:01Z",
+  "duration": "PT3H29M13S",
+  "durationSec": 12553,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zhtQKBedID4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:07:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 381,
+        "label": "最終ステージへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 680,
+        "label": "最初の戦闘をやり直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1938,
+        "label": "編成を立て直して再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3016,
+        "label": "日没を越えて攻略を再計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3380,
+        "label": "囮と運搬を分ける作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "新しい日に攻略を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4204,
+        "label": "複数チームで救出を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "ゲーム内ナレーションと仕掛けの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6160,
+        "label": "キャプテンを発見して護衛へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7567,
+        "label": "次の攻略ルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8329,
+        "label": "攻略手順を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8594,
+        "label": "経路を開通して先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9077,
+        "label": "大型原生生物との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10039,
+        "label": "戦闘をやり直して再戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10657,
+        "label": "編成を変えて再戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11148,
+        "label": "ゲーム内の終幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11359,
+        "label": "終幕後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11764,
+        "label": "スーパーチャット読み・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12481,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "yIeiQ5t1UD0",
+  "title": "【雑談】罵倒マシュマロ読み上げ＃２【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-05T15:57:18Z",
+  "duration": "PT2H28M48S",
+  "durationSec": 8928,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yIeiQ5t1UD0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:27:34.929Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・罵倒マシュマロの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1047,
+        "label": "甘めの言葉責め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2620,
+        "label": "短めの言葉責め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3106,
+        "label": "辛口の言葉責め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4075,
+        "label": "仕事・生活場面の罵倒",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4255,
+        "label": "『気持ち悪い』と言われたい投稿",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4428,
+        "label": "長文の犬扱いシチュエーションと反応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5109,
+        "label": "仕事シチュエーション：営業成績を詰める上司",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5668,
+        "label": "仕事仲間の主従シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5951,
+        "label": "甘い仕事シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6266,
+        "label": "会社で趣味が知られるシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6586,
+        "label": "短い罵倒と企画の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7029,
+        "label": "デスゲームの特殊シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7221,
+        "label": "気弱なOLの拒絶シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7674,
+        "label": "寝取られを題材にした特殊シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7899,
+        "label": "特殊編の締めと追加の罵倒",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8159,
+        "label": "声を変えて読む罵倒",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8311,
+        "label": "『バーカ』の言い分け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8610,
+        "label": "最後の特殊マシュマロ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8769,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

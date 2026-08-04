@@ -1,0 +1,120 @@
+{
+  "videoId": "Dw8q3clJuG0",
+  "title": "【Minecraft】初心者まったりマイクラ～資材集めの回～【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-02-28T15:51:27Z",
+  "duration": "PT2H37M48S",
+  "durationSec": 9468,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Dw8q3clJuG0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・マイクラ導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 206,
+        "label": "白雪城の外観を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1101,
+        "label": "2月の振り返りと拠点整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1818,
+        "label": "他ゲームの予定と配信スタイル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2765,
+        "label": "2月振り返り・4年目の活動方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3473,
+        "label": "まったりマイクラとライブ振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "白雪城の拡張計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4300,
+        "label": "ベル拠点へ向かい資材ルートを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5217,
+        "label": "シュルカー探索から資材サーバーへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5736,
+        "label": "資材サーバーで箱作りと資材集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6399,
+        "label": "活動の雑談と長編ゲームの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6687,
+        "label": "シュルカーボックスの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7135,
+        "label": "資材サーバーで追加の資材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8017,
+        "label": "しゃぶしゃぶと旅行の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8380,
+        "label": "資材サーバーから帰宅",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8754,
+        "label": "帰宅・次回の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9027,
+        "label": "終了挨拶・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

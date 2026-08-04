@@ -1,0 +1,175 @@
+{
+  "videoId": "tmoBjkDqyFI",
+  "title": "【お悩み相談】学生限定のお悩み相談マシュマロ#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-02T15:17:34Z",
+  "duration": "PT2H43M52S",
+  "durationSec": 9832,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tmoBjkDqyFI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:37:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・学生のお悩み相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 797,
+        "label": "集中力と勉強方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1168,
+        "label": "部長としての部活運営",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "アルバイト・勉強の価値",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2228,
+        "label": "授業中の眠気対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2531,
+        "label": "進路変更と新生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2979,
+        "label": "毎日勉強する習慣",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3161,
+        "label": "しつこい連絡への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3618,
+        "label": "同性への恋愛感情と距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4177,
+        "label": "片思いと恋愛への不安",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4494,
+        "label": "いじりへの境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4905,
+        "label": "学生メイクの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5060,
+        "label": "生きがいと日常の過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5322,
+        "label": "大学生活の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5713,
+        "label": "ヘアカラーとヘアケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5942,
+        "label": "工業高校と進路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6041,
+        "label": "自分の意思で進路を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6263,
+        "label": "学びたい道を選んだ経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6906,
+        "label": "後悔を減らす進路選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7151,
+        "label": "受験経験者への聞き取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "受験勉強の工夫・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7731,
+        "label": "受験後の気持ちと新しい目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7969,
+        "label": "受験当日の心構え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8182,
+        "label": "家族への聞き取り：受験との向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8590,
+        "label": "家族への聞き取り：継続とプレッシャー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8851,
+        "label": "進路変更と就職の経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9080,
+        "label": "受験生へのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9533,
+        "label": "締めの挨拶・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

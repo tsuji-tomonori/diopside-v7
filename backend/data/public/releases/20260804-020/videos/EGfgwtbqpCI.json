@@ -1,0 +1,160 @@
+{
+  "videoId": "EGfgwtbqpCI",
+  "title": "＃８【ポケモンSV】今度こそエンディングを迎える‥のか‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-27T15:34:41Z",
+  "duration": "PT3H9M24S",
+  "durationSec": 11364,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EGfgwtbqpCI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 614,
+        "label": "ゼロゲートで冒険の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1076,
+        "label": "エリアゼロへ降下",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1322,
+        "label": "エリアゼロ地下を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2181,
+        "label": "観測ユニット1を開放",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2462,
+        "label": "観測ユニット2と研究記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2881,
+        "label": "研究記録を読みながら地下を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4106,
+        "label": "観測ユニット3とミライドン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4441,
+        "label": "最後の観測ユニットを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "崩壊した施設と通信異常",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6421,
+        "label": "最後のロック解除・ゼロラボへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6722,
+        "label": "ゼロラボのゲートとポケモン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "ゼロラボ内部へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7622,
+        "label": "博士からタイムマシンの話を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8344,
+        "label": "未来ポケモンとの連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9001,
+        "label": "強敵とのポケモンバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9360,
+        "label": "戦闘後のストーリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9661,
+        "label": "戦闘後の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9902,
+        "label": "宝探しを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10201,
+        "label": "学校での表彰と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10561,
+        "label": "大会準備と学校イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10803,
+        "label": "次回予定と配信終了の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10923,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11036,
+        "label": "宝探しの振り返り・今後の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11324,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "oIQPp-g2eK0",
+  "title": "＃１【We Were Here Forever】最強名(迷)探偵のお通りよ！！！！【#女王と会長/にじさんじ】",
+  "publishedAt": "2022-09-01T14:13:42Z",
+  "duration": "PT2H57M12S",
+  "durationSec": 10632,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oIQPp-g2eK0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 390,
+        "label": "前作を振り返ってゲーム開始へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 521,
+        "label": "雪の舞台と最初の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 608,
+        "label": "最初の通信パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1003,
+        "label": "形状記号を伝えて扉を開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1469,
+        "label": "地下区画と色付きの鍵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1890,
+        "label": "機械部品をそろえて合流を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2342,
+        "label": "ダイヤルと鍵の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2996,
+        "label": "歯車と時間制限のボタン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3866,
+        "label": "レバーと回転機構を連携操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4775,
+        "label": "部屋の方向を照合する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5225,
+        "label": "トロッコと歯車の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5574,
+        "label": "助言を受けて仕掛けを再調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5857,
+        "label": "新しい部屋へ移動する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5998,
+        "label": "星座と本の記号を照合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6832,
+        "label": "回転する額縁に記号を入力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "ヒントを確認して装置を再調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8226,
+        "label": "新しいフィールドを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8373,
+        "label": "フィールドのマス目ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8991,
+        "label": "図柄を踏むルートを組む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9598,
+        "label": "次の区画とルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9900,
+        "label": "新しい図柄ルートに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10272,
+        "label": "本編の区切り・次回へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10346,
+        "label": "終了挨拶・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10432,
+        "label": "感想・コメント読み・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

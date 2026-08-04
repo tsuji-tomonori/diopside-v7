@@ -1,0 +1,125 @@
+{
+  "videoId": "eI8S6EX98Hc",
+  "title": "＃１【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-28T15:01:09Z",
+  "duration": "PT2H35M18S",
+  "durationSec": 9318,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eI8S6EX98Hc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:22:42.428661Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作品紹介と操作説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 360,
+        "label": "渋谷の街と物語の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 867,
+        "label": "戦闘・マップの基本操作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1024,
+        "label": "病院ミッション・探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1508,
+        "label": "病院内の探索と救出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2718,
+        "label": "病院の会話・次の章へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3363,
+        "label": "第2章・神社の浄化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3904,
+        "label": "犬を手掛かりに街を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4861,
+        "label": "家の調査と事件資料の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5513,
+        "label": "失踪事件の手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5947,
+        "label": "弓の戦闘・時間制限探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "結界解除後の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6725,
+        "label": "妖怪資料の確認・犬の救出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "空中移動の習得・天狗との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8073,
+        "label": "妖怪資料・空中移動で周辺探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8485,
+        "label": "座敷わらしの依頼・今後の探索方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8650,
+        "label": "感想・配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8888,
+        "label": "配信終了時のトラブル対応",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

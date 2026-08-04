@@ -1,0 +1,115 @@
+{
+  "videoId": "XSNX5BQKDnI",
+  "title": "#2『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-07T15:06:52Z",
+  "duration": "PT1H56M51S",
+  "durationSec": 7011,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XSNX5BQKDnI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T06:31:54.671Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 292,
+        "label": "オープニング・前回確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 337,
+        "label": "海岸での調査開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 522,
+        "label": "聞き取り・人物資料",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 774,
+        "label": "海岸周辺の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1136,
+        "label": "現場の詳しい調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1830,
+        "label": "会話・資料確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2580,
+        "label": "現場での調査・推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3343,
+        "label": "場面を移して調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3783,
+        "label": "事件整理・推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4377,
+        "label": "歴史資料の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4942,
+        "label": "手掛かり整理・捜査方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5587,
+        "label": "聞き込み・人物調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6174,
+        "label": "捜査の整理・進行選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6599,
+        "label": "プレイの区切り・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6839,
+        "label": "スーパーチャット・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

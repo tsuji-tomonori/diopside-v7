@@ -1,0 +1,85 @@
+{
+  "videoId": "fSRW0qw4234",
+  "title": "【スプラトゥーン3】練習2日目✨練習試合✨君もセクスィ―色に染まらなイカ？🦑🌈 #にじイカ祭り2025 【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-11T12:13:48Z",
+  "duration": "PT1H21M5S",
+  "durationSec": 4865,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fSRW0qw4234/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T11:39:22+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・練習試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "3人でウォームアップ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 806,
+        "label": "4人合流・練習試合の待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1496,
+        "label": "合同練習試合・序盤セット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2041,
+        "label": "装備・役割調整と中盤セット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3226,
+        "label": "練習試合・連携の立て直し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4024,
+        "label": "練習試合・終盤の作戦調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4658,
+        "label": "合同練習終了・チーム挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4705,
+        "label": "練習試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4787,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

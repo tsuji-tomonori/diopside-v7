@@ -1,0 +1,125 @@
+{
+  "videoId": "KaSfA1npecg",
+  "title": "【お悩み相談】男性限定のお悩み相談マシュマロ#2【#フルトイ/にじさんじ】",
+  "publishedAt": "2021-05-17T16:05:31Z",
+  "duration": "PT2H29M36S",
+  "durationSec": 8976,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KaSfA1npecg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T19:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オープニングトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 296,
+        "label": "男性限定お悩み相談の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 744,
+        "label": "責任の重い仕事と不安",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1206,
+        "label": "大人の男性とは？",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1838,
+        "label": "友達から恋愛対象になるには",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2605,
+        "label": "食事制限と周囲の理解",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3148,
+        "label": "恋愛経験がない不安",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3842,
+        "label": "出会い方とマッチングアプリ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4709,
+        "label": "身だしなみとコンプレックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5148,
+        "label": "パートナーの質問への答え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5714,
+        "label": "応援する気持ちとの向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6253,
+        "label": "ファンアートとの向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6556,
+        "label": "一度断られた恋との向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7212,
+        "label": "話題の距離感と気遣い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7695,
+        "label": "女性ファッションの資料探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8406,
+        "label": "相談企画を振り返って",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8516,
+        "label": "三人からのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8891,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

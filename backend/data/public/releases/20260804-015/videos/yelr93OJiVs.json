@@ -1,0 +1,125 @@
+{
+  "videoId": "yelr93OJiVs",
+  "title": "＃35【崩壊：スターレイル】オンパロス編。開拓クエスト解放！！！キャストリスのガチャお迎えもします。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-04-23T16:22:28Z",
+  "duration": "PT3H9M26S",
+  "durationSec": 11366,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yelr93OJiVs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:34:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 319,
+        "label": "前回の振り返りと編成準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 779,
+        "label": "開拓クエスト再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "オロニクスの試練へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1833,
+        "label": "キャストリスの物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2193,
+        "label": "丹恒からの情報と資料確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2919,
+        "label": "オロニクスの試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4020,
+        "label": "試練のあと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4391,
+        "label": "キャストリスの調査と報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5295,
+        "label": "アナイクスの記憶とお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6109,
+        "label": "キャストリス跳躍へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6659,
+        "label": "光円錐の跳躍",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7048,
+        "label": "星魂を目指して追加跳躍",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9204,
+        "label": "育成タイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9992,
+        "label": "編成ボイスと待機モーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10509,
+        "label": "新編成の試運転",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10812,
+        "label": "今後の予定とお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11010,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

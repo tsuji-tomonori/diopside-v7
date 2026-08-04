@@ -1,0 +1,105 @@
+{
+  "videoId": "gE8GMc_Y_Ho",
+  "title": "【第五人格】上手くないけどやめられない白雪がお送りする第五人格プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-11T14:00:28Z",
+  "duration": "PT53M3S",
+  "durationSec": 3183,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gE8GMc_Y_Ho/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:14:33Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信準備・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 538,
+        "label": "第五人格を起動・操作を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 692,
+        "label": "ゲームの魅力とストーリーを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 995,
+        "label": "サバイバーの基本をチュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1196,
+        "label": "第五人格の経験談・操作談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1379,
+        "label": "ゲーム音のトラブル対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1712,
+        "label": "PC操作を練習・チェイスの基本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1942,
+        "label": "キャラクターの性能を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2167,
+        "label": "医師で物語と操作を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2317,
+        "label": "サバイバー側の対戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2498,
+        "label": "ハンター側へ切り替え・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2711,
+        "label": "ハンター側の練習マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2980,
+        "label": "対戦後の反応・漢字談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3072,
+        "label": "終了・次回のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

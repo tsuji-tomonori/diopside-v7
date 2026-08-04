@@ -1,0 +1,110 @@
+{
+  "videoId": "c3dGioEZgJ0",
+  "title": "【 #ロリアモアス 】おにいちゃ～ん！おねえちゃ～ん！【にじさんじ/シスター・クレア】",
+  "publishedAt": "2021-03-03T14:18:13Z",
+  "duration": "PT2H1M47S",
+  "durationSec": 7307,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/c3dGioEZgJ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ルール説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 930,
+        "label": "ゲーム開始・船内探索と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1530,
+        "label": "次ラウンド・タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "ラウンド後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2132,
+        "label": "新ラウンド・探索と行動確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2615,
+        "label": "会議で目撃情報を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3034,
+        "label": "中盤ラウンド・探索と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3441,
+        "label": "会議とタスク進行を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4010,
+        "label": "タスク進行・投票前の情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4679,
+        "label": "次ラウンド・タスクと証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5108,
+        "label": "終盤ラウンド・探索と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5464,
+        "label": "終盤の推理とタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "終盤ラウンド・タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6582,
+        "label": "ゲーム後の感想・企画全体の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7034,
+        "label": "締めの挨拶・お知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

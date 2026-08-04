@@ -1,0 +1,120 @@
+{
+  "videoId": "apOmFX2XIDU",
+  "title": "【晩酌】女子同士の朝チュンってアリ？お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 01【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-17T17:20:59Z",
+  "duration": "PT1H56M8S",
+  "durationSec": 6968,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/apOmFX2XIDU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 698,
+        "label": "カレーの思い出と子ども向けの味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1206,
+        "label": "実家で甘える気持ちと親への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1750,
+        "label": "お酒のペースとちゃんぽんの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2103,
+        "label": "ダーツと飲み会の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2660,
+        "label": "飲めるお酒の選び方と介抱の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3244,
+        "label": "酔った人の介抱と境界線",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3585,
+        "label": "男女間の友情をめぐる考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4040,
+        "label": "友人との距離感と温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4481,
+        "label": "子どもの頃のお風呂と正座の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4844,
+        "label": "家族のしつけと幼少期の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5305,
+        "label": "家族の役割としつけを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5687,
+        "label": "親の怖さと無視をめぐる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6073,
+        "label": "晩酌の振り返り・本編閉店",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6353,
+        "label": "スーパーチャット読み・飲み物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6780,
+        "label": "晩酌形式の振り返り・予定告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6901,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "videoId": "QLWIma4SD7I",
+  "title": "【#にじイカ祭り2025】チームセクスィー色に染まらなイカ？本番！！【 オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2025-12-13T07:48:36Z",
+  "duration": "PT4H23M45S",
+  "durationSec": 15825,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QLWIma4SD7I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:47:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前日の練習振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 465,
+        "label": "参加者募集・プライベート部屋の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 779,
+        "label": "ルール確認・参加型の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 973,
+        "label": "参加型の練習試合・連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1364,
+        "label": "参加型の練習試合・連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "試合の切り替え・次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2031,
+        "label": "参加型の練習試合・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2300,
+        "label": "参加者交代・立ち回り確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2420,
+        "label": "参加型の練習試合・参加者交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2612,
+        "label": "参加者交代・本番前の休憩確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2775,
+        "label": "参加型の練習試合・連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3021,
+        "label": "参加型の練習試合・塗りと連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3226,
+        "label": "試合後の振り返り・次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3333,
+        "label": "参加型の練習試合・連携と報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4191,
+        "label": "参加者交代・次の練習試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4349,
+        "label": "最後の練習試合・ローラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5200,
+        "label": "練習試合後の感想・チームの立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5549,
+        "label": "ギア構成・スペシャル運用の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5780,
+        "label": "参加型の練習試合・ボムとスペシャル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5993,
+        "label": "部屋の再接続・相手への対策確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6178,
+        "label": "参加型の練習試合・相手チームへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6921,
+        "label": "参加型終了・本番直前の心構え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7186,
+        "label": "本番開始待ち・イベントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7906,
+        "label": "公式チーム紹介・インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8330,
+        "label": "本番直前の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9044,
+        "label": "本番初戦・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9328,
+        "label": "本番2試合目・次の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "試合後の相手分析・次戦作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10306,
+        "label": "本番試合・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10830,
+        "label": "試合後の感想・次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11604,
+        "label": "本番試合・中央維持と防衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12096,
+        "label": "試合後の対戦分析・作戦整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12958,
+        "label": "本番の試合・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13404,
+        "label": "試合後の感想・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13800,
+        "label": "本番試合・自陣と中央の防衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13997,
+        "label": "短い振り返り・次戦の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14084,
+        "label": "本番試合・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14229,
+        "label": "本番後の感想・大会振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15241,
+        "label": "配信の締め・今後の練習予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

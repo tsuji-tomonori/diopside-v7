@@ -1,0 +1,150 @@
+{
+  "videoId": "wxBCpnDAueU",
+  "title": "【Splatoon2】チームE練習会！初顔合わせです。【にじさんじ/夢追翔】",
+  "publishedAt": "2021-11-07T15:51:30Z",
+  "duration": "PT1H32M34S",
+  "durationSec": 5554,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wxBCpnDAueU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:55:33.247Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 416,
+        "label": "ルール説明・試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 634,
+        "label": "練習試合1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "練習試合2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1462,
+        "label": "ステージ選択・次の試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1602,
+        "label": "練習試合3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1800,
+        "label": "練習試合4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2308,
+        "label": "試合後の振り返り・武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2456,
+        "label": "練習試合5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2742,
+        "label": "ガチエリアのルール説明・試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2914,
+        "label": "練習試合6",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3228,
+        "label": "試合後の振り返り・役割相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3346,
+        "label": "練習試合7",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3612,
+        "label": "試合後の振り返り・次の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3909,
+        "label": "練習試合8",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4017,
+        "label": "練習試合9",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4229,
+        "label": "武器相談・次の編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4323,
+        "label": "練習試合10",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4589,
+        "label": "試合後の振り返り・再練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4789,
+        "label": "練習試合11",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5001,
+        "label": "試合の振り返り・最後の練習準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5169,
+        "label": "参加者への謝辞・武器振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5233,
+        "label": "最後の追加練習",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "6rOvLC4IUGo",
+  "title": "【Among Us】初プレイ。宇宙でも人狼って正気？？#Niji_AmongUs【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-18T13:40:57Z",
+  "duration": "PT2H28M11S",
+  "durationSec": 8891,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6rOvLC4IUGo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:02:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 468,
+        "label": "ルール説明・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 781,
+        "label": "第1ゲーム：タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1483,
+        "label": "第2ゲーム：探索と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2289,
+        "label": "第3ゲーム：複数の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3585,
+        "label": "第4ゲーム：通報と緊急対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4223,
+        "label": "第5ゲーム：探索と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5439,
+        "label": "第6ゲーム：集団行動と妨害対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6290,
+        "label": "第7ゲーム：推理と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7182,
+        "label": "第8ゲームの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7290,
+        "label": "第8ゲーム：タスクと妨害",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7870,
+        "label": "ファイナルゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7991,
+        "label": "ファイナルゲーム：終盤の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8524,
+        "label": "ゲーム後の振り返り・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8630,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

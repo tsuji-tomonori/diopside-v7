@@ -1,0 +1,110 @@
+{
+  "videoId": "stFEvLpXJVo",
+  "title": "【スプラトゥーン2】雑談しながらガチマ潜ってB帯あがりたイカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-22T16:18:49Z",
+  "duration": "PT2H21M4S",
+  "durationSec": 8464,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/stFEvLpXJVo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:10:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最初のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 405,
+        "label": "ランクを上げるガチマッチ連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 959,
+        "label": "ヤグラ対戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1539,
+        "label": "ヤグラ対戦と試合後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1738,
+        "label": "待ち時間の雑談・次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1813,
+        "label": "ヤグラの攻防・配信予定の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2506,
+        "label": "ヤグラ連戦・ステージ攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3700,
+        "label": "集中してヤグラ対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4474,
+        "label": "ローラーを含むガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4880,
+        "label": "B帯を目指す対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5211,
+        "label": "対戦と上達についての雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5924,
+        "label": "ヤグラ攻略・視聴者との雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6656,
+        "label": "終盤のガチマッチ・次回配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7441,
+        "label": "ローラー対策を考えるガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8062,
+        "label": "最後のガチマッチ・配信まとめ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

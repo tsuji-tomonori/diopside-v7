@@ -1,0 +1,120 @@
+{
+  "videoId": "0OHVlhousQY",
+  "title": "【#Niji_AmongUs】桃鉄より平和なわちゃわちゃ宇宙人狼【黛 灰 / にじさんじ】",
+  "publishedAt": "2020-11-19T14:01:21Z",
+  "duration": "PT2H35M22S",
+  "durationSec": 9322,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0OHVlhousQY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:37:18.661Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 460,
+        "label": "ルール説明・進行方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 676,
+        "label": "第1試合の開始と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1285,
+        "label": "第1試合後半の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2203,
+        "label": "第2試合の開始と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "第2試合後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "第2試合終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "第3試合の開始と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5333,
+        "label": "第3試合後半の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6489,
+        "label": "第3試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6618,
+        "label": "接続トラブル・休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6908,
+        "label": "次の試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7408,
+        "label": "第4試合の開始と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7725,
+        "label": "第4試合後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8257,
+        "label": "ラストゲームの開始と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8853,
+        "label": "ラストゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9046,
+        "label": "配信終了・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

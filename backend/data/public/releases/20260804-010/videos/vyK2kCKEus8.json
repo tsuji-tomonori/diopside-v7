@@ -1,0 +1,130 @@
+{
+  "videoId": "vyK2kCKEus8",
+  "title": "＃夜見生誕祭２０２２】 　本日誕生日なので、ハッピーバースディを歌ってくれるＶちゅーばーを募集してみた【夜見れな/にじさんじ】",
+  "publishedAt": "2022-02-27T16:05:33Z",
+  "duration": "PT2H47M6S",
+  "durationSec": 10026,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vyK2kCKEus8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T21:17:51.110Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日の挨拶・企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 389,
+        "label": "グループ1の応募音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2213,
+        "label": "グループ1のまとめ音声",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2324,
+        "label": "グループ2の応募音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4039,
+        "label": "グループ3の応募音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5555,
+        "label": "グループ3のまとめ音声",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5631,
+        "label": "グループ4の募集経緯・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5743,
+        "label": "グループ4の応募音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6313,
+        "label": "グループ4ミックスの調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7194,
+        "label": "グループ4のまとめ音声",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7504,
+        "label": "延長分の追加応募音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8380,
+        "label": "英語歌詞を含む追加音声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "残りのメッセージ・動画確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8952,
+        "label": "誕生日の飾り付け・コメント読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9196,
+        "label": "手作りプレゼント・ケーキ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9391,
+        "label": "全体ミックスの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9470,
+        "label": "50名の全体Happy Birthdayミックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9598,
+        "label": "告知・今後の配信と制作予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9907,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

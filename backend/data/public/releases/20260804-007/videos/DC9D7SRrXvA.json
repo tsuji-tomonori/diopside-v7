@@ -1,0 +1,145 @@
+{
+  "videoId": "DC9D7SRrXvA",
+  "title": "【ポケモンユナイト】みんな自由行動で!!チームDvsチームG対抗戦!!【にじさんじ/エクス・アルビオ/白雪巴/不破湊/夕陽リリ/夜見れな】",
+  "publishedAt": "2021-09-11T18:42:45Z",
+  "duration": "PT5H10M28S",
+  "durationSec": 18628,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DC9D7SRrXvA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開幕・練習試合1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1050,
+        "label": "練習試合2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1999,
+        "label": "練習試合3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2620,
+        "label": "練習試合3後・Gチーム対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3685,
+        "label": "Gチーム戦1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4440,
+        "label": "Gチーム戦2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5114,
+        "label": "Gチーム戦後の作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5997,
+        "label": "Gチーム戦3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7456,
+        "label": "Gチーム戦3後・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7681,
+        "label": "Gチーム戦4",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8395,
+        "label": "Gチーム戦4後・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8613,
+        "label": "Gチーム戦5",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9224,
+        "label": "Gチーム戦5後・次の作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10332,
+        "label": "通信切断を挟む練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11621,
+        "label": "再開後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12311,
+        "label": "ドリームチーム結成・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12667,
+        "label": "ドリームチーム戦1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13530,
+        "label": "ドリームチーム戦2",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15038,
+        "label": "ドリームチーム戦2後・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16048,
+        "label": "ドリームチーム戦3",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17047,
+        "label": "最終練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18499,
+        "label": "試合後の総括・本戦告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

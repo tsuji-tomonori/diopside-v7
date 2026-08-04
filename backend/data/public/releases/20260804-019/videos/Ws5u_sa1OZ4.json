@@ -1,0 +1,80 @@
+{
+  "videoId": "Ws5u_sa1OZ4",
+  "title": "【#にじさんじ麻雀杯】L卓！！強敵達に打ち勝つ伏見視点【にじさんじ / 伏見ガク】",
+  "publishedAt": "2023-01-07T10:24:29Z",
+  "duration": "PT46M4S",
+  "durationSec": 2764,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ws5u_sa1OZ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "L卓対局開始までの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 337,
+        "label": "L卓の対局スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1671,
+        "label": "終盤のリーチと攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1876,
+        "label": "対局終了・インタビューへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1926,
+        "label": "対局を振り返りながらインタビュー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2183,
+        "label": "L卓メンバーの振り返りインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2502,
+        "label": "次の卓の紹介と明日への意気込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2589,
+        "label": "対局の緊張感を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2657,
+        "label": "対局の振り返りと締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

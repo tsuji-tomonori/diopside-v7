@@ -1,0 +1,140 @@
+{
+  "videoId": "_RLLQAg0r3Y",
+  "title": "【マイクラ】夜王国初コラボ～みんなで始めようにじ鯖マイクラ～【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-15T07:51:34Z",
+  "duration": "PT1H43M43S",
+  "durationSec": 6223,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_RLLQAg0r3Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3人で始めるにじ鯖マイクラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 536,
+        "label": "にじ鯖マイクラの始め方を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 751,
+        "label": "共有ハウスを見学して装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1417,
+        "label": "城や大きな建築物を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1655,
+        "label": "合流して拠点周辺を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1945,
+        "label": "水流エレベーターとラマを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2457,
+        "label": "にじさんじランドへ向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2778,
+        "label": "トロッコでにじさんじランドへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "にじさんじランドとスノードームを見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3585,
+        "label": "スノードームを出て拠点を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3783,
+        "label": "夜王国の夜とベッド探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3961,
+        "label": "城と空中の建築を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4295,
+        "label": "山の動物と地形を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4571,
+        "label": "山の入口とジェットコースター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4792,
+        "label": "イルミネーションと乗り物を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5242,
+        "label": "夜王国の城と家づくりを計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5523,
+        "label": "今日の収穫と共同生活を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5724,
+        "label": "昼の帰路で鉄道と建築を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5940,
+        "label": "拠点へ帰還してベッドを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6036,
+        "label": "3人での初コラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6082,
+        "label": "終了挨拶と今後のマイクラ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "UCQLb29rxd8",
+  "title": "【偽夢】ホラー？異変を見つけてカメラで激写だぁ！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-26T16:30:46Z",
+  "duration": "PT3H18M10S",
+  "durationSec": 11890,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UCQLb29rxd8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "最初の部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 894,
+        "label": "夢のルールとカメラの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1214,
+        "label": "最初の異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1853,
+        "label": "異変を進めて最初の区切りへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2551,
+        "label": "81個の異変探しを開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3440,
+        "label": "リビング・台所の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3837,
+        "label": "細かな異変と隠れんぼ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "異変探しと家の気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "深夜の異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7263,
+        "label": "時間を延長して探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8044,
+        "label": "チェックしながら異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9079,
+        "label": "難しい異変に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9902,
+        "label": "終盤の異変探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10446,
+        "label": "家の謎を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10902,
+        "label": "終盤の異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11393,
+        "label": "終盤の演出・手紙の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11486,
+        "label": "感想・スーパーチャット読み・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

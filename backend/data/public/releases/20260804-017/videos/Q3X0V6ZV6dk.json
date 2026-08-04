@@ -1,0 +1,100 @@
+{
+  "videoId": "Q3X0V6ZV6dk",
+  "title": "声帯結節が治るまで配信をお休みします！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-06-01T14:23:39Z",
+  "duration": "PT1H16M46S",
+  "durationSec": 4606,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Q3X0V6ZV6dk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T21:27:21.979Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・待機画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 191,
+        "label": "挨拶・日曜日の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 274,
+        "label": "ペット先輩とのお出かけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 655,
+        "label": "配信休止のお知らせ・これまでの経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1135,
+        "label": "声帯結節の説明と休養の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1414,
+        "label": "直近の活動予定について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1588,
+        "label": "休養期間と今後について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1715,
+        "label": "休止中のメンバーシップ・ファンクラブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1904,
+        "label": "休止中の動画・アーカイブ案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2077,
+        "label": "報告のまとめ・締めの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2447,
+        "label": "休止前のフリートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3138,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4386,
+        "label": "感謝と最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

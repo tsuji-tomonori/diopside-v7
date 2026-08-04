@@ -1,0 +1,105 @@
+{
+  "videoId": "LTc3gcpRBUE",
+  "title": "【ホラー体験】あなたが体験したゾッとする話聞かせて第三弾【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-21T13:37:25Z",
+  "duration": "PT1H25M53S",
+  "durationSec": 5153,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LTc3gcpRBUE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T19:12:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "スマホに残った謎の検索履歴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 306,
+        "label": "企画紹介と巴の実体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 757,
+        "label": "公園で出会った女性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1098,
+        "label": "戻ってくる花火",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1445,
+        "label": "深夜の公衆電話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1749,
+        "label": "廃ホテルのアルバム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2126,
+        "label": "キャンプ写真の不思議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2566,
+        "label": "清掃現場で起きた異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3030,
+        "label": "ホテルで見た女性の気配",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3505,
+        "label": "墓地へ戻る道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "夢の記憶が導く出来事",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4261,
+        "label": "祖母の部屋に残る気配",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4631,
+        "label": "廃屋での肝試し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4870,
+        "label": "感想と次回のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "LVApO9ysLMM",
+  "title": "【#マリカにじさんじ杯】予選Bリーグ🔥モテたいがために免許を取った女代表【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-04-27T07:51:26Z",
+  "duration": "PT57M33S",
+  "durationSec": 3453,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LVApO9ysLMM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:35:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・予選当日の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 98,
+        "label": "アイテム戦略とコース選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 326,
+        "label": "大会前の準備・ファンミーティング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 584,
+        "label": "Bリーグ選手紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 837,
+        "label": "ロビー待機・大会トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1220,
+        "label": "大会ロビーへ・待機画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1599,
+        "label": "予選直前・目標トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1739,
+        "label": "第1レース・リボンロード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1981,
+        "label": "第2レース・ワルージピンボール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2208,
+        "label": "第3レース・ビッグブルー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2402,
+        "label": "第4レース（最終レース）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2563,
+        "label": "予選結果確認・レース振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2957,
+        "label": "次回配信・ファンミーティング案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3143,
+        "label": "スーパーチャット読み・大会振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3390,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

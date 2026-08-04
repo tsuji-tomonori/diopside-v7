@@ -1,0 +1,120 @@
+{
+  "videoId": "Dno_EzwlI5w",
+  "title": "【大人気V10名参戦!!】秋のペア対抗クイズ大会「V配信王」!!!【愛園愛美/白雪巴/神楽すず/ヤマトイオリ/風見くく/柚原いづみ/姫熊りぼん/天川はの/夜空メル/白上フブキ/たみー】",
+  "publishedAt": "2021-10-19T12:54:47Z",
+  "duration": "PT2H44M9S",
+  "durationSec": 9849,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Dno_EzwlI5w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・クイズ大会の概要",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 281,
+        "label": "出演者紹介・ペア確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1083,
+        "label": "配信ルールの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1147,
+        "label": "優勝予想アンケート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1279,
+        "label": "本番準備・クイズルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1578,
+        "label": "Q1〜6：配信機材・ソフト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3009,
+        "label": "Q7〜13：VTuber・配信文化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4393,
+        "label": "前半戦の得点確認・休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4740,
+        "label": "Q14〜17：ゲームクイズ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5296,
+        "label": "早押しルールとQ18〜21",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5792,
+        "label": "Q22：ペアの相性を問うサービス問題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "Q23〜26：後半の難問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7244,
+        "label": "Q27〜30：終盤のゲーム問題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8024,
+        "label": "全問終了・集計待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8332,
+        "label": "最終結果・順位発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8715,
+        "label": "結果発表後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9418,
+        "label": "告知・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

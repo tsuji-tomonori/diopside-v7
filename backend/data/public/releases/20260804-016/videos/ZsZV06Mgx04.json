@@ -1,0 +1,140 @@
+{
+  "videoId": "ZsZV06Mgx04",
+  "title": "【スプラトゥーン2】リハビリ開始【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-09T14:50:54Z",
+  "duration": "PT1H38M47S",
+  "durationSec": 5927,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZsZV06Mgx04/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T19:41:17Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・リハビリ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 526,
+        "label": "最初のマッチ・立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 700,
+        "label": "試合後の振り返り・武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 786,
+        "label": "マッチ実況・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1084,
+        "label": "マッチ実況・武器の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1367,
+        "label": "マッチ実況・前線判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1691,
+        "label": "試合の合間・操作とゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1880,
+        "label": "マッチ実況・広場トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2235,
+        "label": "アサリのマッチ・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2618,
+        "label": "次のアサリ戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "長いアサリのマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3630,
+        "label": "試合後の武器・ギア振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3752,
+        "label": "スプラ3の武器・ゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3996,
+        "label": "マッチング・武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4130,
+        "label": "マッチ実況・立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4854,
+        "label": "試合の合間の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4969,
+        "label": "終盤のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5165,
+        "label": "配信後半の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5415,
+        "label": "次回配信・動画の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5519,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5894,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

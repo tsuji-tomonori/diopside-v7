@@ -1,0 +1,115 @@
+{
+  "videoId": "olrw2NT3bwE",
+  "title": "【2025年納め】今年を振り返りながら来年の干支を描いてプレゼント🎁告知あり✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-31T09:35:25Z",
+  "duration": "PT3H9M28S",
+  "durationSec": 11368,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/olrw2NT3bwE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T15:03:21.367Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・年末企画の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 332,
+        "label": "ファンミーティングとライブを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 942,
+        "label": "体調・配信・ゲームの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1583,
+        "label": "2025年の活動とこれから",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2509,
+        "label": "年賀アイコン制作・構図と線画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3882,
+        "label": "年賀アイコン制作・色塗りと細部",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4998,
+        "label": "年賀アイコン制作・仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6164,
+        "label": "年賀ヘッダー制作・構図と基本形",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7211,
+        "label": "年賀ヘッダー制作・表情と装飾",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7923,
+        "label": "年賀ヘッダー制作・配色と背景",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9079,
+        "label": "年賀ヘッダー制作・メッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9422,
+        "label": "完成確認と配布案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9586,
+        "label": "2026年への抱負",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9655,
+        "label": "お知らせと年始の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10201,
+        "label": "スーパーチャットへのお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11237,
+        "label": "一年の感謝・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "VPnv3hXwpQU",
+  "title": "クリア耐久【Layers of Fear inheritance DLC】狂気の続き。娘視点【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-19T14:44:28Z",
+  "duration": "PT1H32M7S",
+  "durationSec": 5527,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VPnv3hXwpQU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:34:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 912,
+        "label": "娘視点DLCを開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1161,
+        "label": "絵画パズルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1681,
+        "label": "館内探索と家族の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2164,
+        "label": "ピアノの場面と回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2421,
+        "label": "細い通路を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2905,
+        "label": "暗い区画と仕掛け探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3256,
+        "label": "誕生日の場面とケーキの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "怪異と地下の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4014,
+        "label": "家族の過去をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4390,
+        "label": "作品に込められた愛を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4552,
+        "label": "暗闇の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4806,
+        "label": "物語を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5246,
+        "label": "ゲーム感想・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5450,
+        "label": "次回予定・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

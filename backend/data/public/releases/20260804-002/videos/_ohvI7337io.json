@@ -1,0 +1,145 @@
+{
+  "videoId": "_ohvI7337io",
+  "title": "＃８【ポケモンレジェンズアルセウス】フローゼル！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-04T16:00:59Z",
+  "duration": "PT3H1M58S",
+  "durationSec": 10918,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_ohvI7337io/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:20:41Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・次のキング任務を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "凍土へ向けた準備と衣装選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1515,
+        "label": "水辺の探索とポケモン捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2335,
+        "label": "時空の歪みを待ちながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "新エリア探索・調査任務を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3459,
+        "label": "キング任務の説明・凍土へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3874,
+        "label": "大量発生を調査して編成を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4711,
+        "label": "凍土到着・パーティーを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5343,
+        "label": "キング任務の詳細を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5522,
+        "label": "キング戦に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "高所を目指して仕掛けを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "石像の仕掛けと謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6774,
+        "label": "謎解き後の移動と飛行準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7297,
+        "label": "飛行方法の説明と対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7960,
+        "label": "空を飛んで任務地へ移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8321,
+        "label": "配信告知・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8403,
+        "label": "最終戦に向けて育成・編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8620,
+        "label": "キング戦の実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9229,
+        "label": "戦闘後の任務整理・次の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9680,
+        "label": "空の異変・団長との会話と出発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10420,
+        "label": "次回に向けた育成と配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10607,
+        "label": "締めの挨拶・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

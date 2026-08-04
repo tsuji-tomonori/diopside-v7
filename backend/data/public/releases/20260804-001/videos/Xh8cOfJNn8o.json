@@ -1,0 +1,105 @@
+{
+  "videoId": "Xh8cOfJNn8o",
+  "title": "【#ガチ百合】本当にあったリアル百合エピソード＃５【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-03T14:22:58Z",
+  "duration": "PT1H16M8S",
+  "durationSec": 4568,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Xh8cOfJNn8o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:30:31.981231+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 300,
+        "label": "体験談① 女子校の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 507,
+        "label": "体験談② 親友への気持ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 886,
+        "label": "体験談③ 恋人への気持ちの伝え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1148,
+        "label": "体験談④ 女子校・女子大の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1455,
+        "label": "体験談⑤ 放課後の教室で見た出来事",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1781,
+        "label": "体験談⑥ 学校での思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2264,
+        "label": "体験談⑦ 身体測定の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2545,
+        "label": "体験談⑧ なりきりチャットから始まる初恋",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2899,
+        "label": "体験談⑨ 高校時代の恋",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3140,
+        "label": "体験談⑩ 初めて付き合った人の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3518,
+        "label": "企画の振り返り・投稿募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3719,
+        "label": "スパチャ読み・配信後の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4498,
+        "label": "ゆりの日のまとめ・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

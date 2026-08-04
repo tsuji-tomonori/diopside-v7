@@ -1,0 +1,135 @@
+{
+  "videoId": "_scYZygT2cM",
+  "title": "【作業配信】一緒に作業しよっ？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-10-03T17:54:52Z",
+  "duration": "PT4H31M27S",
+  "durationSec": 16287,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_scYZygT2cM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T03:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作業内容の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 731,
+        "label": "Slack整理・作業環境の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1707,
+        "label": "間食・食事と運動の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2412,
+        "label": "申請資料探し・作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2802,
+        "label": "申請状況の確認・企画準備の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4097,
+        "label": "スイカゲーム・音響と作業BGM",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4662,
+        "label": "声・美容・Xの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5232,
+        "label": "申請完了・切り抜き確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5591,
+        "label": "声真似・声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6201,
+        "label": "家族の話・恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6941,
+        "label": "切り抜き確認・タスク完了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7208,
+        "label": "歌枠準備・曲候補の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7547,
+        "label": "歯磨き・嗅覚の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7849,
+        "label": "幼少期の犬・アニメ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8220,
+        "label": "しっとり歌枠の候補曲探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10393,
+        "label": "歌候補の検索・アニメ曲確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12069,
+        "label": "歌候補の追加・深夜の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13418,
+        "label": "懐かしい曲の候補整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14750,
+        "label": "歌枠準備の仕上げ・タスク完了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15933,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

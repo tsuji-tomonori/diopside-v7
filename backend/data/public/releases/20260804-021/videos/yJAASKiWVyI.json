@@ -1,0 +1,90 @@
+{
+  "videoId": "yJAASKiWVyI",
+  "title": "【お悩み相談 #仕事編01】指導が苦手/給与の違い/転職etc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-20T15:16:24Z",
+  "duration": "PT2H5M36S",
+  "durationSec": 7536,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yJAASKiWVyI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・仕事のお悩み相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 262,
+        "label": "① 指導が苦手なときの伝え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1356,
+        "label": "② 給与差・残業と転職の迷い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3042,
+        "label": "③ 上司への相談のタイミング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3712,
+        "label": "④ 入社2か月での転職相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4423,
+        "label": "⑤ 天職の見つけ方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5472,
+        "label": "⑥ 職場の体制を変えたいときの判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6199,
+        "label": "仕事相談を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "告知・配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6700,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7199,
+        "label": "週末イベントなどの雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

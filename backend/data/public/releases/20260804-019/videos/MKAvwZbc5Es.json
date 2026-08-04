@@ -1,0 +1,95 @@
+{
+  "videoId": "MKAvwZbc5Es",
+  "title": "【 3D企画 】にじさんじ卓球大会【 #にじ卓球 】",
+  "publishedAt": "2023-04-19T11:33:52Z",
+  "duration": "PT58M39S",
+  "durationSec": 3519,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MKAvwZbc5Es/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "卓球大会の開幕と参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "卓球のルールと特殊要素を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 399,
+        "label": "ルーレットでチーム分け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 602,
+        "label": "試合前の準備と先攻決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 713,
+        "label": "第1試合とエクストララケット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1369,
+        "label": "次の対戦チームを決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1491,
+        "label": "第2試合の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1962,
+        "label": "敗者同士の決定戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2494,
+        "label": "順位発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2510,
+        "label": "再試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2583,
+        "label": "再試合と特殊ラケットの進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3387,
+        "label": "大会終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

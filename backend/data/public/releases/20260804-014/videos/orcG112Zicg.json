@@ -1,0 +1,135 @@
+{
+  "videoId": "orcG112Zicg",
+  "title": "【バイオRE:2】やられたらやり返すビビりお姉さんのバイオプレイ#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-11T16:53:03Z",
+  "duration": "PT2H35M35S",
+  "durationSec": 9335,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/orcG112Zicg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:48:05.427642Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 680,
+        "label": "操作確認と最初の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1131,
+        "label": "クレア編の導入と警察署へ向かうまで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1508,
+        "label": "警察署ロビーの探索とマービン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1726,
+        "label": "警察署の案内を読みながら探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2006,
+        "label": "ゾンビを避けて署内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "警察署の記録と廊下の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3006,
+        "label": "ロッカー・西側オフィス・机の鍵",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3668,
+        "label": "廊下を進みダイヤル式装置を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4325,
+        "label": "記録の読み上げと図書室方面の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "ジャッキとアイテムを確認して先へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5639,
+        "label": "敵への備えとマービンのもとへ戻る準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "マービン周辺の探索と通路突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7203,
+        "label": "敵のいる通路を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7598,
+        "label": "署内の残りを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8104,
+        "label": "通路を再攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8391,
+        "label": "ロッカー情報を確認して上階を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8783,
+        "label": "メダル回収と敵処理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8966,
+        "label": "出口へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9143,
+        "label": "配信終了・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

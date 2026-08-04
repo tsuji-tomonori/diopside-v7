@@ -1,0 +1,140 @@
+{
+  "videoId": "YK8z4LCmjd8",
+  "title": "【マリオカート8DX】追加コースをひたすら練習！！！NISCもチェックしなきゃ‥！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-08T15:55:10Z",
+  "duration": "PT4H19M43S",
+  "durationSec": 15583,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YK8z4LCmjd8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・追加コース練習の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 781,
+        "label": "操作確認・最初のコース練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1427,
+        "label": "サーキット系コースのルート検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1715,
+        "label": "チョコマウンテンを練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2128,
+        "label": "ココナッツモールのルート探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3650,
+        "label": "東京スクランブルを初見確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4134,
+        "label": "交通コースのショートカット検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5590,
+        "label": "ニンニン道場のルート練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6254,
+        "label": "ニューヨークドリームを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7492,
+        "label": "ピンボール系コースのルート比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7902,
+        "label": "広いコースのジャンプ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8840,
+        "label": "雪・氷のコースをゴースト比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10185,
+        "label": "氷・菓子風コースのルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11311,
+        "label": "ロンドンアベニュー系コースを練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11926,
+        "label": "ロックロックマウンテンを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12631,
+        "label": "秋の木々のコースを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13298,
+        "label": "ベルリンシュトラーセを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14134,
+        "label": "ピーチガーデンを練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15115,
+        "label": "翌日の予定・参加型練習の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15313,
+        "label": "マリカ杯への意気込み・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15443,
+        "label": "終了挨拶・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

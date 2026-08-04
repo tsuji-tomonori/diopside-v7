@@ -1,0 +1,85 @@
+{
+  "videoId": "O6tuTZ_f1vo",
+  "title": "【マリオカート8DX】フルトイは最下位なんて取りませんよ？？【にじさんじ/フルトイ/フミ(視点)/ルイス・キャミー/白雪巴】",
+  "publishedAt": "2020-12-09T13:43:55Z",
+  "duration": "PT37M8S",
+  "durationSec": 2228,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/O6tuTZ_f1vo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:55:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 365,
+        "label": "企画ルール・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 485,
+        "label": "部屋作り・参加者合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 605,
+        "label": "練習走行・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 979,
+        "label": "本番レースの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1435,
+        "label": "レース開始・コース走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1659,
+        "label": "次のレースを走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "レース後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2044,
+        "label": "終盤のレース・実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2185,
+        "label": "配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

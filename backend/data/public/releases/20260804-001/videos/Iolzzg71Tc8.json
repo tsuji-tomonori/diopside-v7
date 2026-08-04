@@ -1,0 +1,180 @@
+{
+  "videoId": "Iolzzg71Tc8",
+  "title": "＃８【NieR:Automata -ニーアオートマタ-】2周目。何のために戦ってるんだっけ…【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-01-22T17:57:16Z",
+  "duration": "PT4H41M22S",
+  "durationSec": 16882,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Iolzzg71Tc8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:44:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・接続確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 296,
+        "label": "あいさつと喉の近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 451,
+        "label": "前回の振り返りと武器物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1234,
+        "label": "今日のサブクエ選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1722,
+        "label": "ゲームクリエイターロボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1955,
+        "label": "パスカルへ調査報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2447,
+        "label": "メイン任務とサブクエ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3197,
+        "label": "脱走カップルの捜索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4359,
+        "label": "砂漠のサブクエへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4982,
+        "label": "砂漠のデータ調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5718,
+        "label": "バンカーで情報収集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6341,
+        "label": "武器強化と武器物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6867,
+        "label": "スピードスター探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7247,
+        "label": "金色の機械生命体を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7903,
+        "label": "思わぬ寄り道ルート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8199,
+        "label": "メインストーリー再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8943,
+        "label": "空母護衛作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10176,
+        "label": "戦闘後の物語と9Sの探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11125,
+        "label": "バンカーサーバー調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11711,
+        "label": "緊急援護要請",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12145,
+        "label": "工場への遠隔侵入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13624,
+        "label": "工場脱出をハッキング支援",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14318,
+        "label": "司令官からの重要な説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14585,
+        "label": "極秘資料の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15171,
+        "label": "ゲーム終了後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15450,
+        "label": "喉の近況と受診予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15821,
+        "label": "スーパーチャットとニーア考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16240,
+        "label": "ブルーアーカイブ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16736,
+        "label": "最後のスーパーチャット",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

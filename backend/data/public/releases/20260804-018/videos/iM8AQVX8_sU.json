@@ -1,0 +1,140 @@
+{
+  "videoId": "iM8AQVX8_sU",
+  "title": "低音ボイス(ショタボ)で罵倒されたい人へ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-14T14:24:35Z",
+  "duration": "PT2H3M56S",
+  "durationSec": 7436,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iM8AQVX8_sU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T10:31:25.983256Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 783,
+        "label": "マシュマロ読みと初回のショタボ演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "低音ショタの本気の罵倒と説教",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2162,
+        "label": "からかいと近距離の演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "ギャンブルへの正論説教",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2762,
+        "label": "生活習慣とホワイトデーのお返し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3041,
+        "label": "飲みすぎ注意のシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3333,
+        "label": "運動部ショタと勝負ごとの罵倒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3933,
+        "label": "怒らせてみる罵倒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4170,
+        "label": "仕事の説教シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4442,
+        "label": "変化球のショタボ演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4861,
+        "label": "禁煙の説教シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5221,
+        "label": "先延ばし・英語・片付けの説教",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5453,
+        "label": "ホワイトデーのマッサージ勘違い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5608,
+        "label": "罵倒の魅力を語る・謝罪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5881,
+        "label": "最終ラウンドの即興罵倒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6065,
+        "label": "くしゃみを注意する弟シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6421,
+        "label": "片付けの説教シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "締めの挨拶と感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6900,
+        "label": "最後のマシュマロ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6970,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

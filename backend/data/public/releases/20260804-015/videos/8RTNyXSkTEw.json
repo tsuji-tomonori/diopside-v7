@@ -1,0 +1,105 @@
+{
+  "videoId": "8RTNyXSkTEw",
+  "title": "【雑談】ライブ前日です。ちょっとだけ。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-20T16:09:35Z",
+  "duration": "PT46M53S",
+  "durationSec": 2813,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8RTNyXSkTEw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:27:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最後の自主練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 302,
+        "label": "ライブ本番の案内と日程変更への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 560,
+        "label": "自主練習に集中した理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 856,
+        "label": "本番への緊張と過去の経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 989,
+        "label": "寒さ・乾燥対策と現地の注意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1265,
+        "label": "ライバーカメラへの不安と本番の予行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1550,
+        "label": "ライブグッズを紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1934,
+        "label": "限定ドリンクの紹介と感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2238,
+        "label": "リハーサルと初ライブへの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2395,
+        "label": "自分の力でやり切る決意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2495,
+        "label": "応援の呼びかけと終了準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2600,
+        "label": "視聴者への感謝と安全案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2650,
+        "label": "お別れの挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2681,
+        "label": "最後の本音と本番への決意",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

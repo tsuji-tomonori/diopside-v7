@@ -1,0 +1,165 @@
+{
+  "videoId": "B6D1F1PMMHw",
+  "title": "＃３【ワガママハイスペック】プール掃除イベ‥水着イベ‥えっ‥えっ‥‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-05T15:17:04Z",
+  "duration": "PT2H48M5S",
+  "durationSec": 10085,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/B6D1F1PMMHw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:34:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 302,
+        "label": "生徒会の近況と新たな相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 541,
+        "label": "食堂の改善相談・新メンバー正式採用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 942,
+        "label": "新役員のお披露目を準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1142,
+        "label": "所信表明の原稿作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1818,
+        "label": "全校集会当日",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1973,
+        "label": "全校集会・新役員紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2161,
+        "label": "みひろの初心表明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2285,
+        "label": "トワの機械音声演説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2402,
+        "label": "こうきの所信表明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2542,
+        "label": "演説後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2874,
+        "label": "青春を求めて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3076,
+        "label": "プール掃除の依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3784,
+        "label": "プール掃除スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4261,
+        "label": "水掛け合戦に発展",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5110,
+        "label": "掃除完了・次の予定へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5596,
+        "label": "スパの予定と昼食へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5921,
+        "label": "洋食店で昼食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6976,
+        "label": "スパリゾートに集合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7321,
+        "label": "水着姿のお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8017,
+        "label": "ウォータースライダー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "スライダーでハプニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8641,
+        "label": "トラブル対応・景品ゲーム探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8849,
+        "label": "アイスキャンディーの景品ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9542,
+        "label": "ゲームの後半・スパの締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9781,
+        "label": "帰路・次回のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "UXuGZ685ZXo",
+  "title": "【ムベンベラジオ】今年一番怖いとか言われてるのなぁぜなぁぜ？？？＾＾【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-06T15:10:13Z",
+  "duration": "PT2H3M23S",
+  "durationSec": 7403,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UXuGZ685ZXo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム画面トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 383,
+        "label": "森の探索・初回ラジオ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 940,
+        "label": "2日目の暗証番号・お化け屋敷",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1503,
+        "label": "遠回りルート・迷路再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2053,
+        "label": "3日目のラジオ・分岐確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2425,
+        "label": "2周目・かかしの依頼と再調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3147,
+        "label": "2周目のお化け屋敷・3日目のラジオ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3910,
+        "label": "指示を無視するルート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4799,
+        "label": "別ルートの再検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5190,
+        "label": "別ルート・夜の道を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5602,
+        "label": "シークレットはがき・迷路再走",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6313,
+        "label": "エンディング後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6516,
+        "label": "ゲームの考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6813,
+        "label": "ゲーム感想・次回の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7070,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7224,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7344,
+        "label": "締めのスーパーチャット・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

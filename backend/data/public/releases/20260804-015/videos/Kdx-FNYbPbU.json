@@ -1,0 +1,130 @@
+{
+  "videoId": "Kdx-FNYbPbU",
+  "title": "【スプラトゥーン3】新衣装でA→S昇格戦！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-13T14:02:34Z",
+  "duration": "PT1H45M36S",
+  "durationSec": 6336,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kdx-FNYbPbU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新衣装と本日の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 406,
+        "label": "対戦方針と立ち回りを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 996,
+        "label": "昇格戦 1試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1179,
+        "label": "昇格戦 2試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1653,
+        "label": "昇格戦 3試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2045,
+        "label": "昇格戦 4試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2442,
+        "label": "昇格戦 5試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2787,
+        "label": "昇格戦の振り返りと今後",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2951,
+        "label": "ランク戦 1試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3320,
+        "label": "ランク戦 2試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3661,
+        "label": "シーズン変更と今後遊びたいゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3743,
+        "label": "ランク戦 3試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4165,
+        "label": "ランク戦 4試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4518,
+        "label": "大会に向けたチームの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4687,
+        "label": "ランク戦 5試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5001,
+        "label": "大会チームの話をしながら休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5152,
+        "label": "ランク戦 6試合目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5784,
+        "label": "試合後の振り返りと今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5996,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

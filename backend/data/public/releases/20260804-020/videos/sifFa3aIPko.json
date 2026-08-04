@@ -1,0 +1,85 @@
+{
+  "videoId": "sifFa3aIPko",
+  "title": "【#にじさんじ麻雀杯】二日酔い酒ヤケ声でロン！ポン！‥なんだっけ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-08T10:57:03Z",
+  "duration": "PT37M28S",
+  "durationSec": 2248,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sifFa3aIPko/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対局準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 414,
+        "label": "対局開始・卓の掛け合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 627,
+        "label": "役満を意識した手牌相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 795,
+        "label": "対局中盤の進行と読み合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 969,
+        "label": "順位条件を意識した終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1265,
+        "label": "対局後の手牌振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1637,
+        "label": "対局の勝負どころを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1931,
+        "label": "大会の感想と応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2054,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2191,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

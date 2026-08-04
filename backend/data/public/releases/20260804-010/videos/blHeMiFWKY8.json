@@ -1,0 +1,90 @@
+{
+  "videoId": "blHeMiFWKY8",
+  "title": "【#エデンとアソボウ/Among US】先輩方と宇宙旅行に行くことになりました！【レイン・パターソン/にじさんじ】",
+  "publishedAt": "2021-12-11T14:31:25Z",
+  "duration": "PT2H11M30S",
+  "durationSec": 7890,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/blHeMiFWKY8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:45:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 721,
+        "label": "マップ説明とゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1262,
+        "label": "最初の会議と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1997,
+        "label": "ラウンド進行と緊急対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "通報・サボタージュへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3554,
+        "label": "ラウンド進行と経路確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4622,
+        "label": "タスク再開から会議へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5035,
+        "label": "新ラウンドと議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5969,
+        "label": "終盤ラウンドとアリバイ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6605,
+        "label": "終盤の会議とゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7546,
+        "label": "ゲーム終了後の感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

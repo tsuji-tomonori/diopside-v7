@@ -1,0 +1,120 @@
+{
+  "videoId": "QL00kkuMXho",
+  "title": "【#にじさんじスマブラ杯】全部俺だ。 【にじさんじ / 樋口楓】",
+  "publishedAt": "2024-06-02T10:07:10Z",
+  "duration": "PT1H34M17S",
+  "durationSec": 5657,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QL00kkuMXho/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:10:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 168,
+        "label": "操作を思い出しながらCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 678,
+        "label": "専用部屋・本番準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1034,
+        "label": "最初のオンライン対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1210,
+        "label": "初戦後のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1368,
+        "label": "CPU戦・ファイター練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1905,
+        "label": "アイテム操作を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2322,
+        "label": "CPUレベル9戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2871,
+        "label": "村人・アイスクライマーでCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3378,
+        "label": "パックンフラワー・インクリングを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3744,
+        "label": "勇者・ピカチュウなどを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4425,
+        "label": "最後のCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4671,
+        "label": "使いやすいファイターを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5002,
+        "label": "ゲストとの対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5196,
+        "label": "ゲストとの対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5331,
+        "label": "対戦後インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5508,
+        "label": "振り返り・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

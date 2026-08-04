@@ -1,0 +1,120 @@
+{
+  "videoId": "LeXXIY5eEgs",
+  "title": "【ポケモンユナイト】流石です！白雪さん！【白雪巴／夕陽リリ／にじさんじ】",
+  "publishedAt": "2021-09-03T12:12:25Z",
+  "duration": "PT1H54M26S",
+  "durationSec": 6866,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LeXXIY5eEgs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:53:39.006835Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ポケモンユナイト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 595,
+        "label": "第1試合：スタンダードバトル開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1239,
+        "label": "第1試合後の振り返り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1356,
+        "label": "第2試合：ルカリオで集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1950,
+        "label": "第3試合：サーナイトで遠距離攻撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "第3試合後の判断を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2873,
+        "label": "第4試合：レーン戦と集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3414,
+        "label": "第4試合後の反省・再試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3520,
+        "label": "第5試合：プクリンで味方を支援",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "第5試合後のキャラクター振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4352,
+        "label": "第6試合：ロトム周辺の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5097,
+        "label": "第6試合後の反省・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5240,
+        "label": "第7試合：カジリガメとゴールの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5791,
+        "label": "第7試合後の技選択・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "第8試合：中央ルートとゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6626,
+        "label": "全試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6708,
+        "label": "次回案内・終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

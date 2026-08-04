@@ -1,0 +1,120 @@
+{
+  "videoId": "JRM69QXohgY",
+  "title": "【#Crossick】伝説にも始まりがあるのよ【白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2020-07-14T16:48:23Z",
+  "duration": "PT1H55M8S",
+  "durationSec": 6908,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JRM69QXohgY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:35:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 447,
+        "label": "物語の振り返りと設定づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 880,
+        "label": "保健室シーンの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1319,
+        "label": "最初の保健室シーンを実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2101,
+        "label": "台詞と車で送る流れを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "特別な関係と小休止",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2960,
+        "label": "カーテンを使った保健室演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3780,
+        "label": "次の会話場面を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4146,
+        "label": "登場人物のイメージを話し合う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4604,
+        "label": "保健室の会話を実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4796,
+        "label": "実演を振り返り作品構成を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "作品の次の展開を組み立てる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5651,
+        "label": "次の保健室場面を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6451,
+        "label": "最後の実演に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6523,
+        "label": "終盤の保健室実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6748,
+        "label": "実演後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6820,
+        "label": "告知・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

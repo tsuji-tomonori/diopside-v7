@@ -1,0 +1,160 @@
+{
+  "videoId": "rM7kiYf7E64",
+  "title": "【夜、灯す】百合×ホラーの新感覚アドベンチャーゲームを初見プレイ#最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-15T15:45:26Z",
+  "duration": "PT2H30M5S",
+  "durationSec": 9005,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rM7kiYf7E64/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:22:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "最終回の導入・旧校舎へ向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 825,
+        "label": "姉妹の過去をめぐる回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1244,
+        "label": "回想を受けた作戦整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1781,
+        "label": "夜の旧校舎を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2231,
+        "label": "演奏の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2521,
+        "label": "五人の演奏",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2745,
+        "label": "演奏後の練習室",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3220,
+        "label": "練習室で起こる異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3594,
+        "label": "襲撃と救出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "祖母との対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4144,
+        "label": "本編後の暮らし",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4544,
+        "label": "本編の締めくくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4869,
+        "label": "本編エンド後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4994,
+        "label": "別ルートの回収を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5299,
+        "label": "別ルートの練習室",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5536,
+        "label": "屋上へ向かう別分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5825,
+        "label": "線路へ向かう別分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6103,
+        "label": "共有ルートへ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6316,
+        "label": "対話で迎えるクライマックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6596,
+        "label": "練習室での物語の続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7065,
+        "label": "その後の暮らし",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7501,
+        "label": "本編のテーマを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7681,
+        "label": "追加の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8144,
+        "label": "最後の分岐を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8703,
+        "label": "全ルート回収後の感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

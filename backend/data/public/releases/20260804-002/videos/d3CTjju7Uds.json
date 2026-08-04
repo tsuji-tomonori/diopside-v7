@@ -1,0 +1,75 @@
+{
+  "videoId": "d3CTjju7Uds",
+  "title": "【#101 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-09-12T03:00:32Z",
+  "duration": "PT15M54S",
+  "durationSec": 954,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/d3CTjju7Uds/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:55:38Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・番組紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 139,
+        "label": "季節の雑談・パジャマの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 231,
+        "label": "ゲストコーナー開始・ゲスト登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 361,
+        "label": "ゲストの自己紹介・活動紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 482,
+        "label": "お互いの印象と好みのキャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "Apexコラボへの興味と配信前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 738,
+        "label": "Apex上達の振り返り・初心者へのアドバイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 860,
+        "label": "今後のコラボと締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

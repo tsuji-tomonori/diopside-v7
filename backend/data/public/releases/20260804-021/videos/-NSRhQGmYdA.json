@@ -1,0 +1,140 @@
+{
+  "videoId": "-NSRhQGmYdA",
+  "title": "【雑談】マシュマロで理想のデートを妄想する【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-14T14:11:56Z",
+  "duration": "PT1H54M39S",
+  "durationSec": 6879,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-NSRhQGmYdA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T17:33:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画導入・進行説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 455,
+        "label": "喫茶店・美術館から始まるデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 877,
+        "label": "景色を巡るドライブデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1313,
+        "label": "人気の行き先と日常のデート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1470,
+        "label": "夏フェスと何気ないデート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1585,
+        "label": "遊園地・動物園で楽しむデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1877,
+        "label": "水族館から家で過ごす休日案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2238,
+        "label": "仕事終わりの食事デート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2632,
+        "label": "家で映画や料理を楽しむデート案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2913,
+        "label": "動物園と温泉地を巡る泊まり案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3132,
+        "label": "好きなことを詰め込む癒やしの一日",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3505,
+        "label": "空から夜景を眺めるサプライズ案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3782,
+        "label": "着物で巡る和のデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4017,
+        "label": "何気ない一日を過ごすデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4391,
+        "label": "美術館で感性を楽しむデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4721,
+        "label": "冬の山と温泉を楽しむデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5139,
+        "label": "温泉旅行でゆっくり過ごすデート案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5468,
+        "label": "企画の振り返り・次回の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5557,
+        "label": "今後の予定とお願い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5909,
+        "label": "スーパーチャット読み・交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6800,
+        "label": "配信の締め・感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "videoId": "pgYjDU_O2N4",
+  "title": "【みんなで空気読み。２】ゲームくらいは好き勝手やらせて頂きます【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-04T12:12:40Z",
+  "duration": "PT1H3M23S",
+  "durationSec": 3803,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pgYjDU_O2N4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 325,
+        "label": "序盤の空気読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1508,
+        "label": "結婚式までの空気読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2040,
+        "label": "中盤のさまざまな選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2383,
+        "label": "終盤のゲーム場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2701,
+        "label": "最後のゲーム場面・スタッフロール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2864,
+        "label": "ゲーム終了後の能力チェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2965,
+        "label": "追加リズムゲームの説明・練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3338,
+        "label": "リズムゲームに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3517,
+        "label": "能力値の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3664,
+        "label": "配信の締め・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

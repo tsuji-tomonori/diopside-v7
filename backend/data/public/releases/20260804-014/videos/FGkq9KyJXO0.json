@@ -1,0 +1,115 @@
+{
+  "videoId": "FGkq9KyJXO0",
+  "title": "【雑談】初めての吸入器と鍼！？近況報告とその他雑談など💕【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-04-15T15:16:23Z",
+  "duration": "PT2H7M49S",
+  "durationSec": 7669,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FGkq9KyJXO0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:32:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・近況報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 198,
+        "label": "ニコ生とファンミの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 730,
+        "label": "喉の治療と初めての吸入器",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1154,
+        "label": "腰痛と初めての鍼治療",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1839,
+        "label": "喉の近況と今後の配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2509,
+        "label": "ローションだるま収録の裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3512,
+        "label": "作業枠から雑談へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3730,
+        "label": "朝向けASMRのアイデア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3858,
+        "label": "ペット先輩との暮らし",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4125,
+        "label": "ファンミ企画へのこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5002,
+        "label": "セルフプロデュースと活動方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5323,
+        "label": "SとMの関係性トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5857,
+        "label": "結婚・信頼・愛について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6470,
+        "label": "リスナーへの感謝と今後",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6719,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7555,
+        "label": "ニコ生案内・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

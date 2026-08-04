@@ -1,0 +1,105 @@
+{
+  "videoId": "OjpPq5Ut9k0",
+  "title": "【ARK: Crystal isles】ARK初見。殺生は致しません夜王国Ark【白雪 巴/にじさんじ/#にじARK】",
+  "publishedAt": "2021-09-28T14:49:50Z",
+  "duration": "PT2H7M39S",
+  "durationSec": 7659,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OjpPq5Ut9k0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ARK初見・平和主義で探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "恐竜を探してテイム目標を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 906,
+        "label": "操作設定から最初の恐竜探しへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1803,
+        "label": "復活から拠点と道具を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3074,
+        "label": "拠点の土台を作り水辺から戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "帰還後に拠点と恐竜を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4665,
+        "label": "パラサウロロフスのテイムを準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4991,
+        "label": "湖でテイムを試して次の恐竜を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5221,
+        "label": "ボーラとパチンコでテイムに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5606,
+        "label": "ペットを守り育てて拠点へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6652,
+        "label": "拠点見学からテイムと世話へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7189,
+        "label": "サドルを作って恐竜に乗る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7383,
+        "label": "ゲーム本編を終えて今後の予定を話す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "次回予定とARK初見の感想",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

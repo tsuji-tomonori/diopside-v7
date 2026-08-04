@@ -1,0 +1,125 @@
+{
+  "videoId": "49Egkez2lWc",
+  "title": "【事故物件】ホラーでいちゃつくカップルはたいてい真っ先に死ぬ【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-03-09T13:15:49Z",
+  "duration": "PT1H45M27S",
+  "durationSec": 6327,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/49Egkez2lWc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:18:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 790,
+        "label": "ゲーム開始・事故物件を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1338,
+        "label": "日記で事故物件の背景を知る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1638,
+        "label": "アパート周辺を探索・隣室を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "学校の日記と隣人の警告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2668,
+        "label": "隣人と家族の異変をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3185,
+        "label": "アパートの謎と脱出ルートを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3555,
+        "label": "お供え物を選び祈る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3904,
+        "label": "日記を読み別ルートを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4205,
+        "label": "暗い道とアパートの恐怖を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4814,
+        "label": "日記を読む・手がかりを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5014,
+        "label": "祈らずに別ルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5186,
+        "label": "別ルートを検証しながら探索を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5643,
+        "label": "猫の手がかりと最後の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5754,
+        "label": "終盤の脱出シーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5901,
+        "label": "ゲーム終了後の恐怖シーンを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6060,
+        "label": "ゲームの感想とコラボ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6209,
+        "label": "告知・お別れ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

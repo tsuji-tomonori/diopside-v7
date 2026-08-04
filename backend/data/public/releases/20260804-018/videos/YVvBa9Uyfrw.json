@@ -1,0 +1,145 @@
+{
+  "videoId": "YVvBa9Uyfrw",
+  "title": "＃12【ブルーアーカイブ】エデン条約編4章前半。ヘイローを壊さないで【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-14T07:30:35Z",
+  "duration": "PT3H19M48S",
+  "durationSec": 11988,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YVvBa9Uyfrw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:24:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4章導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 601,
+        "label": "アリウススクワッドの逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1167,
+        "label": "トリニティの会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1804,
+        "label": "アリウス事件をめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2523,
+        "label": "ミカの審問をめぐる動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3304,
+        "label": "ミカとの面会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "セイアとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4804,
+        "label": "ゲマトリアの動向",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5703,
+        "label": "セイアの潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "救出の知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "ミカの動向",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7203,
+        "label": "アリウススクワッドの救出作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8101,
+        "label": "救出作戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "アリウスの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "ミカとの対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9183,
+        "label": "アリウスでの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "アリウスの過去を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10681,
+        "label": "救出ルートの選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10865,
+        "label": "次回へ続く場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10981,
+        "label": "本編の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11408,
+        "label": "スパチャ読み・作品の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11702,
+        "label": "予定確認と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

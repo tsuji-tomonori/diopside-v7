@@ -1,0 +1,125 @@
+{
+  "videoId": "hD_aP8TG6vg",
+  "title": "＃５【ワガママハイスペック】文化祭！ﾊｲ!メイド喫茶！ﾊｲ!ラッキースケベ！ﾊｲﾊｲ!!【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-30T13:58:23Z",
+  "duration": "PT1H39M39S",
+  "durationSec": 5979,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hD_aP8TG6vg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:16:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・文化祭の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 422,
+        "label": "文化祭開会式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 720,
+        "label": "メイド服のお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 961,
+        "label": "ルート選択・好感度確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1101,
+        "label": "メイド服を見比べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1800,
+        "label": "メイド喫茶が開店・接客",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2226,
+        "label": "パンケーキを作って実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2820,
+        "label": "喫茶店の担当分岐・接客",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3180,
+        "label": "文化祭の屋台を食べ歩く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3482,
+        "label": "ベンチで焼きそばを食べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3965,
+        "label": "喫茶店の閉店・文化祭の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4382,
+        "label": "後夜祭のパフォーマンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4561,
+        "label": "後夜祭のビンゴ大会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "ビンゴ景品をめぐるやり取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5282,
+        "label": "翌日のパフェデート導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5462,
+        "label": "文化祭パートの締め・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5594,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5942,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

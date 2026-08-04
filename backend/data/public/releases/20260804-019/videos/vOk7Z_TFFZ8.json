@@ -1,0 +1,150 @@
+{
+  "videoId": "vOk7Z_TFFZ8",
+  "title": "＃11【ブルーアーカイブ】カルバノグの兎編 1章後半。頼む。このまま平穏でいてくれ…！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-05T09:18:27Z",
+  "duration": "PT2H5M47S",
+  "durationSec": 7547,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vOk7Z_TFFZ8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・前回のおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 297,
+        "label": "公園再開発とSRTの行方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 669,
+        "label": "ヴァルキリー側との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1054,
+        "label": "商店街で再開発を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1592,
+        "label": "SRTキャンプで物資を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2049,
+        "label": "武器の取引と火力の立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2465,
+        "label": "新しい武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "退去要求を受ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3060,
+        "label": "背後関係を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3329,
+        "label": "オペレーション・クローバーの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3435,
+        "label": "潜入作戦を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3761,
+        "label": "記録室を捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3873,
+        "label": "記録庫に閉じ込められて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4491,
+        "label": "脱出ルートでの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5080,
+        "label": "屋上での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5516,
+        "label": "ヘリで帰還・作戦報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5773,
+        "label": "事件をめぐるニュース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5951,
+        "label": "デカルトの来訪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6227,
+        "label": "SRTをめぐる追加シーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6555,
+        "label": "次回のエデン条約編を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6898,
+        "label": "ゲーム後の物語談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7162,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7450,
+        "label": "予定確認・最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

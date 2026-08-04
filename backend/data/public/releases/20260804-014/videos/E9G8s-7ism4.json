@@ -1,0 +1,130 @@
+{
+  "videoId": "E9G8s-7ism4",
+  "title": "【マリオカート8DX】視聴者参加型♥らぶスノ合同練習会♥【#らぶスノ/にじさんじ】",
+  "publishedAt": "2022-12-15T14:59:41Z",
+  "duration": "PT3H42M3S",
+  "durationSec": 13323,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/E9G8s-7ism4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:49:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・参加者紹介とルーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "序盤の視聴者参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1854,
+        "label": "本戦を意識したレース練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2387,
+        "label": "コース攻略とアイテムの使い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3300,
+        "label": "レースと参加者とのやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4562,
+        "label": "新コースの練習と順位確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5376,
+        "label": "ルーム作り直しと参加ルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5776,
+        "label": "新ルームでのレース練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6727,
+        "label": "参加者入れ替えと次の走行準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7315,
+        "label": "サンダーとアイテムをめぐるレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8466,
+        "label": "王冠争いと本戦前の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8853,
+        "label": "少人数レースとコース選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9265,
+        "label": "コース確認と操作相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9800,
+        "label": "コース攻略と連続被弾への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10746,
+        "label": "通信エラー後のルーム継続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11015,
+        "label": "最後の模擬試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12352,
+        "label": "模擬試合の最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12653,
+        "label": "模擬試合の振り返りと本戦への意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12800,
+        "label": "告知・感謝・配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "CZYiCV2RyO0",
+  "title": "【Crime Scene Cleaner】✨大型アプデ✨またこの闇バイトに戻ってきちゃった…💓【白雪巴/にじさんじ】",
+  "publishedAt": "2026-03-29T16:01:13Z",
+  "duration": "PT2H18M2S",
+  "durationSec": 8282,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CZYiCV2RyO0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:15:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 444,
+        "label": "大型アップデートと操作確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1032,
+        "label": "スキルと新装備を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1489,
+        "label": "新しい依頼内容を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1761,
+        "label": "ミッションを選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1933,
+        "label": "現場到着・清掃準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2588,
+        "label": "最初のエリアを清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3334,
+        "label": "高所エリアを探索・清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3747,
+        "label": "次のエリアを清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4320,
+        "label": "奥のエリアへ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4797,
+        "label": "室内エリアを清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5238,
+        "label": "残りのエリアを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5874,
+        "label": "仕上げ作業と見落とし確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6401,
+        "label": "追加目標を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6727,
+        "label": "拠点へ戻って動作確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7077,
+        "label": "今回のプレイを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7224,
+        "label": "次回予定と4月のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7346,
+        "label": "アップデートの感想トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7573,
+        "label": "高圧洗浄機とベランダ掃除の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8089,
+        "label": "スーパーチャットお礼・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "xJHuqBaY5VY",
+  "title": "【にじさんじポケユナ大会】タリキホンガンジム勝つぞ!!【エクス・アルビオ/白雪巴/不破湊/夕陽リリ/夜見れな】",
+  "publishedAt": "2021-09-12T10:50:24Z",
+  "duration": "PT1H55M41S",
+  "durationSec": 6941,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xJHuqBaY5VY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:58:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 151,
+        "label": "最初の試合・序盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 771,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "次の試合・レーンとゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1867,
+        "label": "試合後の振り返り・次戦方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2191,
+        "label": "試合進行・集団戦に向けた攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2986,
+        "label": "試合後の振り返り・準決勝準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3380,
+        "label": "準決勝・最初のゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4220,
+        "label": "準決勝第1ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4335,
+        "label": "準決勝・次ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4995,
+        "label": "準決勝後の休憩・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5112,
+        "label": "大会第3試合・育成とゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5854,
+        "label": "第3試合後の振り返り・大会後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "大会後の対戦・環境の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6490,
+        "label": "大会後のチーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6666,
+        "label": "大会総括・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

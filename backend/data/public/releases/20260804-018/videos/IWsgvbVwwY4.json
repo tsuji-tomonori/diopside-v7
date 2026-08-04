@@ -1,0 +1,125 @@
+{
+  "videoId": "IWsgvbVwwY4",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」#5【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-06T17:06:51Z",
+  "duration": "PT3H16M51S",
+  "durationSec": 11811,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IWsgvbVwwY4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:01:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の進行説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 97,
+        "label": "英語の手掛かりで謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 683,
+        "label": "マップ探索と進行準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1286,
+        "label": "新しい区域での戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1814,
+        "label": "屋上からの電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1966,
+        "label": "公園探索と回収地点探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3562,
+        "label": "建物から屋上へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5001,
+        "label": "ソフィーとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5334,
+        "label": "会話後の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5534,
+        "label": "分岐を試してソフィーを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6818,
+        "label": "暗い通路とヒューズ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7355,
+        "label": "追跡からシャッター周辺の戦闘へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7854,
+        "label": "新しい屋外区域の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8314,
+        "label": "チェーンソーの敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8462,
+        "label": "長いアスレチック区間に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10590,
+        "label": "アスレチック後の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11176,
+        "label": "終盤の雑談と歌枠の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11572,
+        "label": "終盤の感想・次回の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

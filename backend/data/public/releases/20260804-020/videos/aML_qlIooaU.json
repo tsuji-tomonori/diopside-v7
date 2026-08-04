@@ -1,0 +1,105 @@
+{
+  "videoId": "aML_qlIooaU",
+  "title": "【#にじ鯖夏祭り】浴衣の君を独り占めしたくて【#Crossick/にじさんじ】",
+  "publishedAt": "2020-08-22T13:43:20Z",
+  "duration": "PT1H53M31S",
+  "durationSec": 6811,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aML_qlIooaU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:49:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・夏祭り会場を散策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 602,
+        "label": "祭りの屋台や会場を見て回る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "お化け屋敷・迷路を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2607,
+        "label": "迷路を抜けて花火会場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "花火会場へ移動・開始を待つ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3725,
+        "label": "花火が始まり会場を彩る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4047,
+        "label": "花火を見ながら夏祭りの思い出を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4546,
+        "label": "参加者を集めて記念撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4990,
+        "label": "閉会式・イベント後の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5215,
+        "label": "かくれんぼを楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6115,
+        "label": "かくれんぼ後の感想と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6241,
+        "label": "運試しと景品選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6460,
+        "label": "夏祭りの余韻と締めの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6608,
+        "label": "告知・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

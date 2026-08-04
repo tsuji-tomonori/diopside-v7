@@ -1,0 +1,130 @@
+{
+  "videoId": "Sgq2rSrEO1Y",
+  "title": "【みんなで空気読み。】ゲームくらいは好き勝手やらせて頂きます【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-05T13:59:34Z",
+  "duration": "PT51M56S",
+  "durationSec": 3116,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Sgq2rSrEO1Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T21:20:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 280,
+        "label": "遊び方と空気読みのルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 414,
+        "label": "飲み会から始まる序盤プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 797,
+        "label": "電車とデートの場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 983,
+        "label": "公園で人間関係を見守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1128,
+        "label": "青春の二人と距離感の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1352,
+        "label": "困っている人に寄り添う選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1598,
+        "label": "褒め方と食事をめぐる空気読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1713,
+        "label": "合図を読み取る場面と鳥の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1869,
+        "label": "舞台上の場面と人物の関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1993,
+        "label": "魔法と助ける行動の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2155,
+        "label": "動物への対応と車内の安全行動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2234,
+        "label": "子どもと宇宙人の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2393,
+        "label": "終盤の選択と迷い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2507,
+        "label": "判定とエンディングを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2666,
+        "label": "ゲームの難しさと感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "追加プレイで空気を読まない選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2933,
+        "label": "ミニゲームに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3060,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

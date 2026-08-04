@@ -1,0 +1,145 @@
+{
+  "videoId": "gQ-im1oRbsM",
+  "title": "【スプラトゥーン3】フルトイ３人でスプラをするとどうなるこうなる【#フルトイ/にじさんじ】",
+  "publishedAt": "2022-09-16T15:03:38Z",
+  "duration": "PT1H34M32S",
+  "durationSec": 5672,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gQ-im1oRbsM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 314,
+        "label": "フルトイグッズ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 399,
+        "label": "コラボとスプラ配信の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 529,
+        "label": "1戦目・スプラトゥーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 747,
+        "label": "音声・機材トラブル対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1122,
+        "label": "2戦目・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "3戦目・武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1839,
+        "label": "ジャイロ操作とゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2010,
+        "label": "4戦目・接戦と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2469,
+        "label": "5戦目・若葉と長射程対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2762,
+        "label": "試合後の雑談・同棲設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2934,
+        "label": "グッズ紹介・販売案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3055,
+        "label": "飲み物雑談・マイクトラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3313,
+        "label": "マイク・ケーブル談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3444,
+        "label": "6戦目・巴クイズを挟んだ試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "試合後の大会・武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3986,
+        "label": "7戦目・チーム連携と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4365,
+        "label": "雑談・寝坊談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4568,
+        "label": "8戦目・ラスト戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4755,
+        "label": "ラストマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5223,
+        "label": "コラボの締め・今後のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5429,
+        "label": "視聴者へのお礼・配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

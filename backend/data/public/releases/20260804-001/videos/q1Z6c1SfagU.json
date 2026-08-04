@@ -1,0 +1,105 @@
+{
+  "videoId": "q1Z6c1SfagU",
+  "title": "【70万人記念凸待ち】来てくれた人とアソビ大全で１発ガチ勝負！【にじさんじ/笹木咲】",
+  "publishedAt": "2022-03-19T14:18:08Z",
+  "duration": "PT2H59M12S",
+  "durationSec": 10752,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/q1Z6c1SfagU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T21:05:19.201274Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・70万人記念凸待ちの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 426,
+        "label": "シェリンとボールゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1140,
+        "label": "やしきずとエアホッケー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1541,
+        "label": "レオスとボールパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2108,
+        "label": "レインとスピード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2440,
+        "label": "フミさまと神経衰弱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2791,
+        "label": "若女将とドット＆ボックス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3909,
+        "label": "妖精エリーとベースボール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4981,
+        "label": "まひろとリバーシ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6212,
+        "label": "ンゴちゃんとチャイニーズチェッカー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7381,
+        "label": "巴さんとヒット＆ブロー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8056,
+        "label": "対戦後の振り返り・最後の参加者待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8959,
+        "label": "フレンとヨット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10530,
+        "label": "最後の対戦後・70万人記念の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

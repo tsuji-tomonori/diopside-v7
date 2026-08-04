@@ -1,0 +1,155 @@
+{
+  "videoId": "lMcfx2jP0i4",
+  "title": "【#白雪新衣装】部屋着お披露目♡すっぴんも‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-06T14:37:20Z",
+  "duration": "PT2H20M35S",
+  "durationSec": 8435,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lMcfx2jP0i4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・部屋着の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 635,
+        "label": "新衣装の全体お披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "上着・小道具・髪型アレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1884,
+        "label": "すっぴんお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2073,
+        "label": "ASMRの話と撮影準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2407,
+        "label": "髪型と小道具のアレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2991,
+        "label": "猫耳の組み合わせを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3232,
+        "label": "全身と髪型の組み合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3783,
+        "label": "グリーンバック撮影と今後の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4065,
+        "label": "スパチャ読み・レッドカーペット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4821,
+        "label": "接続トラブルから復帰",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4848,
+        "label": "スパチャ読み再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5109,
+        "label": "衣装・髪型アレンジを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5531,
+        "label": "髪型を戻してスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6202,
+        "label": "メイクと洗濯ばさみの組み合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "スパチャ読み・衣装とすっぴんの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6804,
+        "label": "お団子と猫耳の組み合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6952,
+        "label": "スパチャ読み・部屋着の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7271,
+        "label": "部屋着の印象を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "最後のポーズを披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7587,
+        "label": "スパチャ読み・衣装の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "メンバーシップの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7977,
+        "label": "終盤のスパチャ読みとポーズ依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8306,
+        "label": "お披露目の締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

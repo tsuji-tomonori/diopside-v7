@@ -24,7 +24,7 @@ class LatestRelease(StrictModel):
     purgeBaseReleaseId: str | None = None
     purgeBaseManifestSha256: str | None = None
     purgeTrigger: str | None = None
-    artifactHashes: dict[str, str]
+    artifactHashes: dict[str, str] | None = None
 
 
 class Thumbnail(StrictModel):
@@ -54,6 +54,20 @@ class Coverage(StrictModel):
     sourceUpdatedAt: datetime
 
 
+class TimestampItem(StrictModel):
+    atSec: int = Field(ge=0)
+    label: str = Field(min_length=1)
+    confidence: float | None = None
+    confidenceLevel: Literal["high", "medium", "low"] | None = None
+
+
+class TimestampArtifact(StrictModel):
+    status: str
+    source: str
+    generatedAt: datetime
+    items: list[TimestampItem]
+
+
 class VideoIndexItem(StrictModel):
     videoId: str = Field(min_length=1)
     title: str = Field(min_length=1)
@@ -67,7 +81,7 @@ class VideoIndexItem(StrictModel):
     artifactFlags: ArtifactFlags
     tagIds: list[str] | None = None
     provenance: Provenance
-    coverage: Coverage
+    coverage: Coverage | None = None
 
     @model_validator(mode="after")
     def tag_ids_are_unique(self) -> VideoIndexItem:

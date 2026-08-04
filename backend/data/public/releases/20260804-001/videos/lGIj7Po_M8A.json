@@ -1,0 +1,110 @@
+{
+  "videoId": "lGIj7Po_M8A",
+  "title": "【ASMR】寂しがり屋のあなたを甘やかしながら寝かしつける【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-10-10T14:24:49Z",
+  "duration": "PT1H12M41S",
+  "durationSec": 4361,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lGIj7Po_M8A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:57:33.029049Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "再会・一緒に眠る導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 521,
+        "label": "一日の話と心音・眠気の気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 878,
+        "label": "お風呂・体調の話とふれあい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1105,
+        "label": "音声設定を確認しながら続行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1622,
+        "label": "布団に包まれて甘やかす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2030,
+        "label": "風のまねと眠気の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2373,
+        "label": "布団で落ち着いて心を確かめる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2668,
+        "label": "頬へのふれあいと甘え方のやりとり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2998,
+        "label": "耳へのふれあいと甘えたお願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3208,
+        "label": "膝枕から耳を冷ますふれあい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3382,
+        "label": "くっついて眠る姿勢を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3573,
+        "label": "しばらく会えない前に寄り添う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3729,
+        "label": "安心して眠るための声かけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3835,
+        "label": "大切な人への励ましと次の添い寝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4163,
+        "label": "感謝・消灯・おやすみ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

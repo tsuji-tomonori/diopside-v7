@@ -1,0 +1,120 @@
+{
+  "videoId": "lN2dhQIEoT8",
+  "title": "【ポケモンユナイト】Dチーム女子会！わっしょい！！【夕陽リリ/夜見れな/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-04T17:52:18Z",
+  "duration": "PT3H31M50S",
+  "durationSec": 12710,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lN2dhQIEoT8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介・初戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 505,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1988,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2119,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2678,
+        "label": "第2試合後の反省・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2868,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3407,
+        "label": "第3試合後の反省・次の編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3710,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5066,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7219,
+        "label": "第5試合後の振り返り・第6試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7395,
+        "label": "第6試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8611,
+        "label": "第7試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10944,
+        "label": "第7試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11555,
+        "label": "全試合の総括・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11820,
+        "label": "終了後のチーム反省・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12224,
+        "label": "スーパーチャット読み・視聴者との雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12659,
+        "label": "最後の感謝・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "videoId": "Y1VQdn2pmgo",
+  "title": "【夜王国1000日記念】千文字限定雑談【グウェル・オス・ガール/白雪巴/不破湊 】",
+  "publishedAt": "2022-08-23T12:14:44Z",
+  "duration": "PT10M30S",
+  "durationSec": 630,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Y1VQdn2pmgo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:39:03.872206Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・1000文字雑談のルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 48,
+        "label": "1000文字限定雑談スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 141,
+        "label": "夜王国1000日を祝う雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "500文字到達・印象深い出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 505,
+        "label": "文字数制限に合わせた調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 549,
+        "label": "終了間際の反応と挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 582,
+        "label": "最終カウント・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

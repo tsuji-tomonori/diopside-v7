@@ -1,0 +1,125 @@
+{
+  "videoId": "FjKDwt-5s8c",
+  "title": "#白雪巴誕生日2025【スプラトゥーン3】視聴者参加型でプラべ！スプラとフェスでぶち上がるッッ↑↑↑【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-09T10:03:32Z",
+  "duration": "PT3H49M47S",
+  "durationSec": 13787,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FjKDwt-5s8c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:06:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 155,
+        "label": "誕生日のあいさつ・参加ルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 724,
+        "label": "プラベの部屋作りとチーム分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1056,
+        "label": "ナワバリバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2707,
+        "label": "ガチエリア・ガチヤグラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3750,
+        "label": "ガチホコ・ガチアサリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4569,
+        "label": "プラベ2周目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6627,
+        "label": "プラベ最終ローテーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8726,
+        "label": "フェス参加ルールとチーム作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8925,
+        "label": "フェスマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9871,
+        "label": "マッチング待ちと回線トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11132,
+        "label": "プラベ・ソロで接続を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11655,
+        "label": "ソロでフェスマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12134,
+        "label": "ゲーム終了・誕生日配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12381,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12912,
+        "label": "前日のAmong Usを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13162,
+        "label": "スパチャ読み・健康雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13531,
+        "label": "エンディング・今後のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

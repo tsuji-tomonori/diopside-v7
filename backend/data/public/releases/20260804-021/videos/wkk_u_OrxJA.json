@@ -1,0 +1,115 @@
+{
+  "videoId": "wkk_u_OrxJA",
+  "title": "【#盛夏賞】ウマ娘ルームマッチ【Vtuber】",
+  "publishedAt": "2021-07-25T12:14:06Z",
+  "duration": "PT1H4M42S",
+  "durationSec": 3882,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wkk_u_OrxJA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開幕挨拶・出走者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 648,
+        "label": "最初の出走者のステータス紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 843,
+        "label": "アグネスタキオン紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1046,
+        "label": "マルゼンスキー紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1352,
+        "label": "グラスワンダー紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1531,
+        "label": "セイウンスカイ紹介・逃げ対決の見通し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1831,
+        "label": "ダイワスカーレット紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2108,
+        "label": "ゴールドシップ紹介・ステータス確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2241,
+        "label": "エルコンドルパサー紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2455,
+        "label": "ライスシャワー紹介・育成インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2752,
+        "label": "レース準備・出走者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2895,
+        "label": "盛夏賞本レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3084,
+        "label": "レース結果・展開振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3348,
+        "label": "レース後インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3574,
+        "label": "閉会・次回開催告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3725,
+        "label": "盛夏賞レースリプレイ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

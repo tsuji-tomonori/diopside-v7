@@ -1,0 +1,175 @@
+{
+  "videoId": "M-PZDbBKaNY",
+  "title": "【凸待ち】10万人記念ポッキーなめ凸待ち！【にじさんじフミ】",
+  "publishedAt": "2020-10-01T13:14:08Z",
+  "duration": "PT3H26M3S",
+  "durationSec": 12363,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M-PZDbBKaNY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:25:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "10万人記念の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "ポッキーなめ凸待ちのルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 698,
+        "label": "フルートイトイとポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1282,
+        "label": "長尾景とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1688,
+        "label": "ポッキーなめの由来と企画構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1900,
+        "label": "鈴木勝とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2283,
+        "label": "休憩雑談・卵焼きの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2786,
+        "label": "ゲストトークの振り返り・夏衣装・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3654,
+        "label": "郡道美玲とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4198,
+        "label": "凸待ち企画の意味を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4559,
+        "label": "奈羅花とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5069,
+        "label": "神田笑一とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5592,
+        "label": "フレンとポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6240,
+        "label": "西園寺メアリとポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6712,
+        "label": "事前収録映像・雨森小夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7204,
+        "label": "グウェル・オス・ガールとポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7461,
+        "label": "グウェルの再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7976,
+        "label": "月ノ美兎とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8408,
+        "label": "競技の振り返りとラストスパート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8660,
+        "label": "オンドレヤスとポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9251,
+        "label": "文野環とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9623,
+        "label": "凸待ち終盤の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9855,
+        "label": "織姫星とポッキー競技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10417,
+        "label": "凸待ち終了・参加者案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10467,
+        "label": "メンバーシップ開始・限定内容",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11081,
+        "label": "メンバーバッジ・スタンプ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11507,
+        "label": "スーパーチャット・視聴者メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12181,
+        "label": "アーカイブ視聴の案内・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

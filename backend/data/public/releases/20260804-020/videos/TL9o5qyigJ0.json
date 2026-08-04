@@ -1,0 +1,145 @@
+{
+  "videoId": "TL9o5qyigJ0",
+  "title": "【雑談】写真あり！沖縄旅行レポ♥ってまさかの●●で病院直行‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-07-13T16:02:31Z",
+  "duration": "PT2H50M10S",
+  "durationSec": 10210,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TL9o5qyigJ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:43:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信再開・沖縄旅行レポの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 515,
+        "label": "沖縄旅行レポ・修学旅行と飛行機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1143,
+        "label": "飛行機の変更・遅延と空港ごはん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1461,
+        "label": "沖縄到着・国際通りとホテル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2122,
+        "label": "海・ウミカジテラスと沖縄料理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2705,
+        "label": "沖縄の時間感覚・写真とクルージング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3521,
+        "label": "マーブル・SUPの初挑戦と旅先の夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3987,
+        "label": "パラセーリング初体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4587,
+        "label": "青の洞窟ダイビングと海の生き物",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5339,
+        "label": "親知らずの痛みと沖縄の歯科",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6205,
+        "label": "ホテルでの怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6488,
+        "label": "レンタカーで古宇利島へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6810,
+        "label": "古宇利島・イルカ体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7279,
+        "label": "最終夜の怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7949,
+        "label": "帰りの飛行機と旅行の総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8067,
+        "label": "旅行後の足のケガと受診",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8407,
+        "label": "締めの挨拶・終了後のアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8810,
+        "label": "スパチャ読み・旅行の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9361,
+        "label": "スパチャ読み・沖縄料理とお土産",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9613,
+        "label": "沖縄在住者との会話・方言",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9781,
+        "label": "スパチャ読み・旅行の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10160,
+        "label": "最後の感謝・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

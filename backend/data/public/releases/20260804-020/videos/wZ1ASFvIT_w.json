@@ -1,0 +1,155 @@
+{
+  "videoId": "wZ1ASFvIT_w",
+  "title": "【#銀河英雄伝説 戦いの輪舞曲】白雪と一緒に宇宙を手に入れないか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-17T13:38:47Z",
+  "duration": "PT1H34M30S",
+  "durationSec": 5670,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wZ1ASFvIT_w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・銀河英雄伝説ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 371,
+        "label": "ゲーム画面と同盟参加の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 695,
+        "label": "視聴者参加とプレゼント企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 910,
+        "label": "チュートリアルと参加条件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1098,
+        "label": "銀河英雄伝説の作品紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1262,
+        "label": "ゲームの遊び方と戦友システム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1467,
+        "label": "G123の遊び方・アカウント連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1645,
+        "label": "ホワイトスノー連合への加入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1998,
+        "label": "連合メンバーを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2268,
+        "label": "連合結成・協力プレイの目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2516,
+        "label": "連合開発・建設・戦友派遣",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2913,
+        "label": "連合メッセージとキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3219,
+        "label": "遠征とパーティー機能",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3505,
+        "label": "初回購入報酬と新しい戦友",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "帝国・同盟の視点と作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3805,
+        "label": "連続ログイン報酬とミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4035,
+        "label": "推し戦友と名ゼリフ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4281,
+        "label": "フレデリカのスキン紹介・作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4509,
+        "label": "ヒルダと女性キャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4669,
+        "label": "戦友の強化とフレデリカの育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4917,
+        "label": "パーティー結果確認と締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "好きなキャラクターを語るアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5385,
+        "label": "プレゼント企画の応募条件を再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5487,
+        "label": "連合長の引き継ぎ・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

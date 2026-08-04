@@ -1,0 +1,105 @@
+{
+  "videoId": "Fd1vyFcBiz8",
+  "title": "【マリオカート】最下位とったら即終了！？フルトイで！？！？【ルイス視点/フルトイ/にじさんじ】",
+  "publishedAt": "2020-12-09T13:50:03Z",
+  "duration": "PT36M17S",
+  "durationSec": 2177,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Fd1vyFcBiz8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・マリカ企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 203,
+        "label": "出演者紹介・視聴者参加型マリカ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "最下位で即終了のルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 315,
+        "label": "忘年会ボイスの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 425,
+        "label": "Discord・ゲーム部屋の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 599,
+        "label": "操作確認・練習走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 931,
+        "label": "本番部屋の作成と参加者調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1499,
+        "label": "本走行スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1617,
+        "label": "レース後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1706,
+        "label": "次のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1880,
+        "label": "レース後の感想・作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "終盤のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2050,
+        "label": "ゲームのまとめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

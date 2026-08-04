@@ -1,0 +1,140 @@
+{
+  "videoId": "c9dKe_65k1A",
+  "title": "＃２【ディスガイア7】2章ラスト・ウェイヤス戦から！！！７から始める完全初見ディスガイア【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-27T10:00:01Z",
+  "duration": "PT3H41M8S",
+  "durationSec": 13268,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/c9dKe_65k1A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 747,
+        "label": "装備更新・出撃準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1223,
+        "label": "ウェイヤス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2003,
+        "label": "戦闘後の物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2179,
+        "label": "岩島会へ到着",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2810,
+        "label": "施設確認・仲間の編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3754,
+        "label": "岩島会ステージ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4002,
+        "label": "岩島会ステージの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4963,
+        "label": "ステージ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5158,
+        "label": "C4の話を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5418,
+        "label": "岩島会ステージの戦闘・続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6104,
+        "label": "拠点で育成と編成整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6960,
+        "label": "次のステージの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7279,
+        "label": "遠距離攻撃禁止ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8905,
+        "label": "ステージ後の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10156,
+        "label": "編成・装備・スキル調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10987,
+        "label": "大会奉行アゲイン戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11554,
+        "label": "戦闘後の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12004,
+        "label": "第6章・魔界観光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12892,
+        "label": "振り返り・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13059,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

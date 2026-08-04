@@ -1,0 +1,130 @@
+{
+  "videoId": "Kfxu9VL0ny4",
+  "title": "【スプラトゥーン3】初初初！！！初対面＆初メンバー＆初フルパ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-14T14:59:40Z",
+  "duration": "PT1H46M21S",
+  "durationSec": 6381,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kfxu9VL0ny4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T18:02:28.991573Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "初対面フルパーティーでゲーム開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 592,
+        "label": "初回ナワバリバトルと試合後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 799,
+        "label": "2試合目のナワバリバトルと武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1061,
+        "label": "3試合目のナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1243,
+        "label": "4試合目のフルパーティー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1617,
+        "label": "5試合目のエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "試合後の振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2309,
+        "label": "6試合目の攻め方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2609,
+        "label": "7試合目のナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3313,
+        "label": "武器編成・ギアを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3738,
+        "label": "8試合目のエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4421,
+        "label": "試合後の感想と武器の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4533,
+        "label": "9試合目の連携プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "再接続と新しい武器の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5122,
+        "label": "10試合目・新武器に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5362,
+        "label": "初フルパーティーの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5501,
+        "label": "11試合目のやぐら戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6039,
+        "label": "最終試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6094,
+        "label": "コラボの振り返りと締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

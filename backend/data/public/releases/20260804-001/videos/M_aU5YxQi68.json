@@ -1,0 +1,115 @@
+{
+  "videoId": "M_aU5YxQi68",
+  "title": "【雑談】一緒にお風呂入って温まりましょ♪【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-28T16:10:49Z",
+  "duration": "PT1H28M58S",
+  "durationSec": 5338,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M_aU5YxQi68/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:14:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "歌とお風呂配信の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 652,
+        "label": "最近のコラボ・今後の配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 756,
+        "label": "音声企画のアイデア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1001,
+        "label": "お風呂で声と水音を楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1492,
+        "label": "お風呂の温度・入り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1866,
+        "label": "配信音声・機材を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2314,
+        "label": "入浴後のドライヤーとヘアケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2795,
+        "label": "入浴後の飲み物・近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3162,
+        "label": "記念日・プレゼントの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3427,
+        "label": "視聴者への感謝と手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3591,
+        "label": "スーパーチャット読み・お酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4166,
+        "label": "記念日ボイス・コラボと見た目の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4493,
+        "label": "感想スパチャ・お酒とペットの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "感謝とメンバーシップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5059,
+        "label": "配信の振り返り・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5291,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "A195TiIly6c",
+  "title": "【オフコラボ】新衣装でボドゲ大全！負けたら罰ゲーム♡【#フルトイ/にじさんじ】",
+  "publishedAt": "2020-11-24T15:31:58Z",
+  "duration": "PT1H46M59S",
+  "durationSec": 6419,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/A195TiIly6c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:14:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 286,
+        "label": "オリジナル曲の反響",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 424,
+        "label": "新衣装のお披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 668,
+        "label": "衣装の感想と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 840,
+        "label": "オリジナル曲の制作秘話とハモリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1322,
+        "label": "活動の振り返りと企画の趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1920,
+        "label": "ボードゲームの準備とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2161,
+        "label": "最初の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "罰ゲームカードと参加型準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "参加型のお題に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "難しいお題と得点確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "イベントカードで追加条件に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4566,
+        "label": "難問・花のお題に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "イベントカードの追加ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5347,
+        "label": "罰ゲームの相談と実行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5957,
+        "label": "罰ゲームで歌唱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6122,
+        "label": "配信の感想と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6240,
+        "label": "告知・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

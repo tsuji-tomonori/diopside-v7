@@ -1,0 +1,155 @@
+{
+  "videoId": "W0kQSGGwmEs",
+  "title": "＃42【崩壊：スターレイル】Fateコラボ⚔幕間クエスト「美しき夢と聖杯」初見プレイ！※Fateミリしらの民です【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-07-20T10:18:04Z",
+  "duration": "PT4H1M49S",
+  "durationSec": 14509,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/W0kQSGGwmEs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:55:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今日の流れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 492,
+        "label": "ファイノンガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1238,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1658,
+        "label": "次のガチャ・トリビーを検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3271,
+        "label": "編成・育成タイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4081,
+        "label": "幕間クエスト開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4931,
+        "label": "スコート陣営の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5716,
+        "label": "アベンチュリン陣営の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6125,
+        "label": "ロビンたちの調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6538,
+        "label": "列車側と参加者の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6943,
+        "label": "召喚儀式と最初の戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7791,
+        "label": "思わぬ合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8488,
+        "label": "共闘に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9051,
+        "label": "ロビン側の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9490,
+        "label": "レストランで情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10513,
+        "label": "謎の招待状と移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11177,
+        "label": "映画世界の始まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11561,
+        "label": "映画・第1幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12338,
+        "label": "脱出の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13060,
+        "label": "映画・クライマックス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13560,
+        "label": "次の映画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13727,
+        "label": "ここでクエストを中断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13853,
+        "label": "振り返り・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14155,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

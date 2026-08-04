@@ -1,0 +1,110 @@
+{
+  "videoId": "T4_o9RlleC0",
+  "title": "途中参加・退出可能｜第2回にじさんじオンラインセミナー",
+  "publishedAt": "2023-09-28T13:55:54Z",
+  "duration": "PT1H50M29S",
+  "durationSec": 6629,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/T4_o9RlleC0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:27:12.589974Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開講・セミナー概要",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 919,
+        "label": "受講生のES添削①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1451,
+        "label": "志望動機を具体化する方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "個性的なESの実例・講評",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "四季凪アキラのES紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2788,
+        "label": "健屋花那のマイブーム回答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2947,
+        "label": "小野町春香の資格・特技トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3370,
+        "label": "赤城ウェンの趣味・氷作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3719,
+        "label": "シスター・クレアの好きなキャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4056,
+        "label": "雪城眞尋の印象に残った配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4449,
+        "label": "緑仙のデビュー後の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "白雪巴のES回答・改善点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5226,
+        "label": "ジョー・力一の志望動機トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5948,
+        "label": "樋口楓のES回答・強みの伝え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6487,
+        "label": "にじフェス企画・オーディション告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

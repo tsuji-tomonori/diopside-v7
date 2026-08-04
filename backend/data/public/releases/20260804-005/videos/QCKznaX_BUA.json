@@ -1,0 +1,190 @@
+{
+  "videoId": "QCKznaX_BUA",
+  "title": "【歌枠】ラブライブ！μ's縛りで歌うわよ♡合いの手よろしく！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-02T08:37:38Z",
+  "duration": "PT2H29M5S",
+  "durationSec": 8945,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QCKznaX_BUA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:43:47.262618+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "μ's縛り歌枠・開幕トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 756,
+        "label": "僕らは今の中で",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1060,
+        "label": "1曲目後の感想・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1277,
+        "label": "ススメ→トゥモロウ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1628,
+        "label": "2曲目後の感想・A-RISE談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1931,
+        "label": "これからのSomeday",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2206,
+        "label": "3曲目後の感想・キャラクタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2597,
+        "label": "ワンダーゾーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2860,
+        "label": "ワンダーゾーン後の感想・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2987,
+        "label": "No brand girls",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3238,
+        "label": "曲間トーク・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3473,
+        "label": "START:DASH!!",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3711,
+        "label": "START:DASH!!後の感想・1期振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3947,
+        "label": "きっと青春が聞こえる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4222,
+        "label": "1期振り返り・2期曲紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4435,
+        "label": "それは僕たちの奇跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4690,
+        "label": "2期曲間トーク・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4914,
+        "label": "ユメノトビラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5203,
+        "label": "曲間トーク・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5595,
+        "label": "Love wing bell",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5865,
+        "label": "Love wing bell後の感想・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6163,
+        "label": "KiRa-KiRa Sensation!",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6442,
+        "label": "2期後半の曲間トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6782,
+        "label": "Happy maker!",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7081,
+        "label": "Happy maker!後の感想・次の曲へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7393,
+        "label": "どんなときもずっと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7670,
+        "label": "2期曲後の感想・映画曲紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7932,
+        "label": "Angelic Angel",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8239,
+        "label": "Angelic Angel後の感想・μ'sトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8608,
+        "label": "SUNNY DAY SONG",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8885,
+        "label": "締めの挨拶・次回のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

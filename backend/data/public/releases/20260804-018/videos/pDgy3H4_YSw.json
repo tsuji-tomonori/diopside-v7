@@ -1,0 +1,130 @@
+{
+  "videoId": "pDgy3H4_YSw",
+  "title": "【お悩み相談】女性限定のお悩み相談マシュマロ#2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-06T15:21:16Z",
+  "duration": "PT2H8M4S",
+  "durationSec": 7684,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pDgy3H4_YSw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:37:43.725635Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "女性向けお悩み相談#2 開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 493,
+        "label": "見た目のコンプレックスと自分磨き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 815,
+        "label": "生理の症状・ピル・周囲の理解",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1661,
+        "label": "恋愛感情の見分け方と向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2399,
+        "label": "結婚したくない気持ちと将来観",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3249,
+        "label": "歌が苦手でも楽しむカラオケ・練習法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3556,
+        "label": "新しい環境で友達を作る方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3922,
+        "label": "恋人への依存と自立を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4423,
+        "label": "ボーイッシュな女性の可愛さと甘え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4923,
+        "label": "同性愛と自分らしい幸せ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5221,
+        "label": "性的指向と人を好きになる感覚",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5779,
+        "label": "信頼できる相手への打ち明け方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5950,
+        "label": "後輩指導の悩みと教え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6552,
+        "label": "ムダ毛処理と脱毛の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6804,
+        "label": "母親との距離と家庭環境",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7186,
+        "label": "親の苦労と自分の幸せ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7383,
+        "label": "時間と環境で変わる家族との距離",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "結婚と自分の人生を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7544,
+        "label": "相談の総括と次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

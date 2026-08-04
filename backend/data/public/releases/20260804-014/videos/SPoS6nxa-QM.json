@@ -1,0 +1,150 @@
+{
+  "videoId": "SPoS6nxa-QM",
+  "title": "＃２【ポケモンSV】史上最強に顔が良いポケモン達とトレーナー【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-20T07:52:05Z",
+  "duration": "PT5H59M46S",
+  "durationSec": 21586,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SPoS6nxa-QM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・宝探しの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "3つのルートとライド機能",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1332,
+        "label": "学園探索から野生ポケモン探しへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2880,
+        "label": "初めてのテラレイドと序盤探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4207,
+        "label": "テラスタルポケモンとのバトルと道順確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4923,
+        "label": "雨の中で初ピクニック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5767,
+        "label": "探索・捕獲・レベル上げでジムへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8160,
+        "label": "セルクルジムのオリーブ転がしテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8909,
+        "label": "セルクルジムに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9490,
+        "label": "次のジムに向けた育成方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10462,
+        "label": "手持ちを見直して新メンバーを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11882,
+        "label": "テラスタル戦でタイプ相性を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12895,
+        "label": "飛行・炎要員探しとパーティー育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14394,
+        "label": "主ポケモンを目指す探索とピクニック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15375,
+        "label": "テラスタル戦と主への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16047,
+        "label": "主を探して岩場を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17887,
+        "label": "主とのバトルとその後のイベント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18460,
+        "label": "ライド機能を強化して次のジムへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19289,
+        "label": "ボウルジムのひまわり集めテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19753,
+        "label": "ボウルジムに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20042,
+        "label": "ジム後の振り返り・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20403,
+        "label": "スーパーチャット読み・寄り道・ピクニック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21345,
+        "label": "ポケモンを洗いながら振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "videoId": "0z8NCHh-29I",
+  "title": "【Splatoon3】#雪月シスターズ 、練習会ですわ 🌨🌙【にじさんじ/シスター・クレア】",
+  "publishedAt": "2022-10-15T15:11:35Z",
+  "duration": "PT4H41M51S",
+  "durationSec": 16911,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0z8NCHh-29I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音量確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 532,
+        "label": "チーム紹介と練習計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1161,
+        "label": "初回のガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2204,
+        "label": "第2マッチ・チーム調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2605,
+        "label": "第3マッチ・ローラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "第4マッチと立ち回り確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3291,
+        "label": "連続ガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3994,
+        "label": "第7マッチ・連携の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4616,
+        "label": "第8マッチ・リード維持",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5124,
+        "label": "第9マッチ・生存目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5658,
+        "label": "武器変更後の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6007,
+        "label": "休憩・ロッカー編集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6440,
+        "label": "ガチホコのルート練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7636,
+        "label": "対抗練習の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8012,
+        "label": "対抗練習 第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8913,
+        "label": "対抗練習 第2試合・エリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9899,
+        "label": "対抗練習 第3試合・エリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10329,
+        "label": "対抗練習 第4試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11278,
+        "label": "対抗練習 第5試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11761,
+        "label": "対抗練習 第6試合・ガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12367,
+        "label": "ガチアサリの説明と練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13383,
+        "label": "ガチアサリ練習・連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13956,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14759,
+        "label": "最後のガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15530,
+        "label": "相手チームと総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16017,
+        "label": "大会前の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16635,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

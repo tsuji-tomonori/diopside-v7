@@ -1,0 +1,115 @@
+{
+  "videoId": "-A8XU5FBBew",
+  "title": "【DbD】キラー練習とかいう孤独と自分との戦い【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-25T15:10:29Z",
+  "duration": "PT1H42M25S",
+  "durationSec": 6145,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-A8XU5FBBew/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 527,
+        "label": "キラー練習の趣旨・明日のカスタム告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 669,
+        "label": "キラー選択と練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1012,
+        "label": "リージョンの能力・パーク確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1463,
+        "label": "カニバルのパーク構成を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1803,
+        "label": "初戦準備・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1969,
+        "label": "初めてのカニバル実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2340,
+        "label": "初戦振り返り・次戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2441,
+        "label": "カニバル戦・チェーンソー練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2811,
+        "label": "カニバル戦・フックとチェイス練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "4対1の難しさを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3788,
+        "label": "カニバル戦・地下待ち伏せを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4107,
+        "label": "試合後の振り返り・次の構成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4497,
+        "label": "カニバル戦・索敵と救助対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4995,
+        "label": "カニバル戦・実戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5778,
+        "label": "配信の感想・明日のカスタム告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

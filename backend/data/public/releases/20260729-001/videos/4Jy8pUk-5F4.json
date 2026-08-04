@@ -1,0 +1,125 @@
+{
+  "videoId": "4Jy8pUk-5F4",
+  "title": "【unpacking】休日の昼下がり。まったりお片付け。【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-15T11:34:09Z",
+  "duration": "PT3H12M",
+  "durationSec": 11520,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4Jy8pUk-5F4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Unpackingを始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 248,
+        "label": "1997年の部屋を片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1045,
+        "label": "机まわりと遊び道具を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1687,
+        "label": "飾り棚と小物を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2411,
+        "label": "最初の部屋を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3003,
+        "label": "2004年の家を片付け始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3651,
+        "label": "衣類と寝室の収納",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4162,
+        "label": "靴・衣類・本を整理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "水回りと机まわりを整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6009,
+        "label": "寝室の配置からキッチンへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6592,
+        "label": "キッチンを片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7562,
+        "label": "次のルームシェアを片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8404,
+        "label": "作業部屋と寝室を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8890,
+        "label": "本・ゲーム・小物を別室へ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9443,
+        "label": "キッチンから机まわりへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10102,
+        "label": "残りの小物を配置する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10327,
+        "label": "最後の衣類と寝室の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11172,
+        "label": "片付けの総括・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

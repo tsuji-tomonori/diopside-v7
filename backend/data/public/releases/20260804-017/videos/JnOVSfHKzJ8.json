@@ -1,0 +1,105 @@
+{
+  "videoId": "JnOVSfHKzJ8",
+  "title": "【#Crossick】英語企画！愛と知性で白雪巴のメッセージを読み取れ！！【白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2020-10-03T16:56:27Z",
+  "duration": "PT1H24M19S",
+  "durationSec": 5059,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JnOVSfHKzJ8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:19:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・英語企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 638,
+        "label": "解答ルールと10問の進め方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 718,
+        "label": "第1問・プロフィールを読み取る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1158,
+        "label": "第2問・口癖に関する英文",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1366,
+        "label": "第3問・表情に関する英文",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1607,
+        "label": "第4問・場面を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2028,
+        "label": "第5問・長文の英語を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2710,
+        "label": "第6問・難しい表現を解読する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3183,
+        "label": "第7問・短文の英語を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3434,
+        "label": "第8問・身近なエピソードを解読する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3571,
+        "label": "第9問・長めの英文を解読する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3998,
+        "label": "最終問題・難しい英文に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4561,
+        "label": "正解確認・企画を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4890,
+        "label": "感想・告知・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

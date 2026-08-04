@@ -1,0 +1,155 @@
+{
+  "videoId": "GmQFm3V5I7g",
+  "title": "＃１【ポケモンSV】ポケモンと女の子が大好きなお姉さんトレーナーがゆく【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-19T08:50:10Z",
+  "duration": "PT4H23M39S",
+  "durationSec": 15819,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GmQFm3V5I7g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:38:43.302335+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 224,
+        "label": "主人公の名前を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 430,
+        "label": "キャラメイク：髪型と顔立ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2320,
+        "label": "キャラメイク：色選びと仕上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4323,
+        "label": "物語開始・パルデアへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4796,
+        "label": "家での出会いと旅の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5455,
+        "label": "最初のポケモン選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6712,
+        "label": "ネモとの初バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7060,
+        "label": "家を出て最初のポケモンを捕まえる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7583,
+        "label": "最初の道を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8507,
+        "label": "灯台への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9506,
+        "label": "ペッパーとのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9852,
+        "label": "ロスプラトスへ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10982,
+        "label": "ポケモンセンターの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11449,
+        "label": "南1番エリアを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12079,
+        "label": "仲間集めと身だしなみ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12787,
+        "label": "ネモとの再戦・テラスタル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13209,
+        "label": "メザゴーザを散策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13887,
+        "label": "スター団との遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14251,
+        "label": "アカデミーへ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14578,
+        "label": "アカデミーで冒険の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15053,
+        "label": "学校からの呼び出し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15320,
+        "label": "初日の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15504,
+        "label": "スーパーチャット読み・次回の話",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

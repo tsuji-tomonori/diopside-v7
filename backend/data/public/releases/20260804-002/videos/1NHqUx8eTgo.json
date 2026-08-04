@@ -1,0 +1,150 @@
+{
+  "videoId": "1NHqUx8eTgo",
+  "title": "【10万人記念】大好物食べながら雑談打ち上げ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-23T16:44:27Z",
+  "duration": "PT3H41M19S",
+  "durationSec": 13279,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1NHqUx8eTgo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・10万人記念のしゃぶしゃぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "ゲーム配信とコンビの始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1457,
+        "label": "食べながらの発言当てクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1689,
+        "label": "視聴者参加の質問・アンケート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1942,
+        "label": "配信スタイルと表現の幅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2403,
+        "label": "コラボ・ゲーム企画の構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3124,
+        "label": "先輩への感謝と共演・演技企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3605,
+        "label": "ゲームを介した交流とコラボの考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4202,
+        "label": "食べ物を残さない習慣・実家の食材",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "百合作品のおすすめと読み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5522,
+        "label": "色紙への感謝と仲間の実感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5885,
+        "label": "ゲスト登場・10万人記念トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6364,
+        "label": "料理準備を待って乾杯・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "トムヤムクンを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7812,
+        "label": "料理後の雑談・過去の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8281,
+        "label": "祝い事と「かわいい」の掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8641,
+        "label": "声真似の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9006,
+        "label": "昔の距離感と二人の掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9360,
+        "label": "10万人達成の感想と二人の特別な関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10443,
+        "label": "呼び方と相手の魅力を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11065,
+        "label": "翌日の予定・10万人達成の総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11282,
+        "label": "スーパーチャット読み上げ・個別のお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12960,
+        "label": "最後のメッセージ・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

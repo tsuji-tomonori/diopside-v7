@@ -1,0 +1,125 @@
+{
+  "videoId": "jVcT2xvyLKE",
+  "title": "【白銀ノエル/不知火フレア】vtuberチーム対抗クイズバトル【白雪巴/健屋花那/白雪みしろ】#Vクイズバトル",
+  "publishedAt": "2020-07-23T12:21:04Z",
+  "duration": "PT1H15M14S",
+  "durationSec": 4514,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jVcT2xvyLKE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・参加メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 352,
+        "label": "企画ルール・罰ゲーム説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 591,
+        "label": "第1回戦・早押しクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1424,
+        "label": "第1回戦の結果・罰ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1554,
+        "label": "第2回戦・協力もの当てクイズの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1790,
+        "label": "第2回戦・ノエフレのターン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2302,
+        "label": "第2回戦・チーム黒シックのターン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2637,
+        "label": "第2回戦の結果・罰ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2924,
+        "label": "第3回戦・全員協力クイズのルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3086,
+        "label": "第3回戦第1問・四国の県",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3208,
+        "label": "第3回戦第2問・目のことわざ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3385,
+        "label": "第3回戦第3問・ハリー・ポッター",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3505,
+        "label": "第3回戦第4問・ディズニープリンセス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3676,
+        "label": "第3回戦第5問・日本の祝日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3908,
+        "label": "第3回戦第6問・漢字の読み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4082,
+        "label": "最終問題・英語の月名",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4208,
+        "label": "企画の締め・出演者の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4468,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "videoId": "uZLDJVUtyEY",
+  "title": "【ポケモン剣盾】むらさきポケモン使い手の女王トレーナーになりたい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-21T13:14:49Z",
+  "duration": "PT3H58M56S",
+  "durationSec": 14336,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uZLDJVUtyEY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:27:33Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ポケモン初見プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 568,
+        "label": "主人公の名前と見た目を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 762,
+        "label": "ガラル地方の導入とチャンピオン戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 928,
+        "label": "ホップの家と最初の町を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1630,
+        "label": "ホップとチャンピオンの関係を知る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1960,
+        "label": "最初の3匹から相棒を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2598,
+        "label": "ホップとの初めてのポケモン勝負",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2893,
+        "label": "手持ちと町の設備を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3937,
+        "label": "草むらで捕獲・経験値稼ぎ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4819,
+        "label": "次の進行方針を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5120,
+        "label": "ソニアの研究所へ向かい次の目標を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5608,
+        "label": "ポケモンセンターとブティック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6110,
+        "label": "2番道路の探索とトレーナー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6874,
+        "label": "図鑑の旅と推薦状の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7136,
+        "label": "ホップと再戦・チャンピオンを目指す約束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7501,
+        "label": "ダイマックスバンドを受け取り冒険へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7554,
+        "label": "道中でポケモンを捕獲し手持ちを整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9166,
+        "label": "ワイルドエリアとダイマックスの仕組み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9996,
+        "label": "巣穴のダイマックス戦と捕獲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10490,
+        "label": "ワイルドエリアを抜け次の町へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11140,
+        "label": "協力ダイマックス戦を試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11641,
+        "label": "戦闘後の技整理と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12009,
+        "label": "追加のポケモン探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12385,
+        "label": "ポケモンキャンプで料理と交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13130,
+        "label": "キャンプ後にリーグカードを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13346,
+        "label": "髪型・メイク・服で主人公を仕上げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14201,
+        "label": "配信の締めと今後の育成方針",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

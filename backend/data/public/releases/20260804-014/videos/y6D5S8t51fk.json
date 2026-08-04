@@ -1,0 +1,165 @@
+{
+  "videoId": "y6D5S8t51fk",
+  "title": "【Dead by Daylight】　弱　音　は　無　し　だ　【白雪巴/夕陽リリ/にじさんじ】",
+  "publishedAt": "2021-04-08T16:20:19Z",
+  "duration": "PT3H3M28S",
+  "durationSec": 11008,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/y6D5S8t51fk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:50:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・コラボ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "久しぶりのDbDで最初のマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1320,
+        "label": "次のキラー戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2422,
+        "label": "マッチ後の髪型・関係性トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2710,
+        "label": "タメ口の練習と別ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3004,
+        "label": "次のマッチで能力とチェイスを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3607,
+        "label": "マッチ終盤と用語・コラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "好みと二人の距離感の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4292,
+        "label": "別マッチで足音と能力を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4800,
+        "label": "トリックスターの設定談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5120,
+        "label": "パーク選びとリラックスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5407,
+        "label": "オブジェクトを使ったチェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6193,
+        "label": "年上の好みと過去の回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6575,
+        "label": "マッチに戻って追跡・救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7147,
+        "label": "トリックスターの性能とキラー練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7507,
+        "label": "トリックスター戦を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8207,
+        "label": "マッチ後のタメ口・衣装談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8394,
+        "label": "服の好みとマッチ進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "終盤の追跡とゲート戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9181,
+        "label": "ゲート前の行動とマナーの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9376,
+        "label": "次のキラー戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9557,
+        "label": "新しいマッチでキャラクターを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9914,
+        "label": "マッチ中のリスナー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10294,
+        "label": "最後のマッチでキラーの能力を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10693,
+        "label": "最後のマッチ終盤・ゲート戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10848,
+        "label": "終了挨拶・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

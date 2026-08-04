@@ -1,0 +1,115 @@
+{
+  "videoId": "p5n12eJw6WM",
+  "title": "【#夜王国二周年】3D黒子夜王国【にじさんじ/グウェル・オス・ガール/不破湊/白雪巴】",
+  "publishedAt": "2021-11-28T12:03:40Z",
+  "duration": "PT59M26S",
+  "durationSec": 3566,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/p5n12eJw6WM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:21:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "2周年記念・マシュマロ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 320,
+        "label": "きのこ派・たけのこ派",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 490,
+        "label": "3人で行きたい場所・ダーツの旅",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 715,
+        "label": "好きなお酒とオンライン企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1067,
+        "label": "大学生活の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1298,
+        "label": "第一印象と夜王国の関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1471,
+        "label": "今後やりたい企画・3Dの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1606,
+        "label": "同期との違い・自由な空気感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1845,
+        "label": "夜王国の名前の由来",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1993,
+        "label": "3年目の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2090,
+        "label": "運営に期待する企画・ライブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2285,
+        "label": "どっちが本物クイズの導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2430,
+        "label": "どっちが本物クイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2909,
+        "label": "クイズ終了・カラオケ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3119,
+        "label": "デッドラインサーカス歌唱",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3344,
+        "label": "歌唱後の振り返り・周年告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

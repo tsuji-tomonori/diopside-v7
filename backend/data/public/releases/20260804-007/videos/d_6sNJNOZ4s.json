@@ -1,0 +1,175 @@
+{
+  "videoId": "d_6sNJNOZ4s",
+  "title": "【#メアリ誕生日凸待ち】お誕生日祝ってくれるホストガール待ちです♡　【西園寺メアリ / ハニスト】",
+  "publishedAt": "2022-11-22T14:52:58Z",
+  "duration": "PT2H36M18S",
+  "durationSec": 9378,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/d_6sNJNOZ4s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日凸待ちの説明と乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 380,
+        "label": "ハニーストラップ来場・プレゼント開封",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 944,
+        "label": "ハニーストラップと声ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "白雪巴さん来場・近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1920,
+        "label": "白雪巴さんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2401,
+        "label": "姉崎ユキミさん来場・女子会トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2677,
+        "label": "ユキミさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3155,
+        "label": "龍ヶ崎リンさん来場・近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3670,
+        "label": "龍ヶ崎リンさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3928,
+        "label": "白雪みしろさんの誕生日動画メッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4186,
+        "label": "杏戸ゆげさん来場・コラボ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4788,
+        "label": "杏戸ゆげさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5188,
+        "label": "家入ポポさん来場・旅とポケモン談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5798,
+        "label": "ポポさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6078,
+        "label": "稲荷いろはさん来場・女子会トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6534,
+        "label": "いろはさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6802,
+        "label": "橙里セイさん来場・ポケモン談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7256,
+        "label": "セイさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7592,
+        "label": "ナナシフェスのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7618,
+        "label": "茜音カンナさん来場・誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7870,
+        "label": "カンナさんと声ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8244,
+        "label": "柚原いづみさんと屋外電話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8495,
+        "label": "凸待ち終了・感謝と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8701,
+        "label": "仲間の印象と誕生日プレゼント談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8855,
+        "label": "配信終了準備と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9098,
+        "label": "今週の配信予定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9203,
+        "label": "誕生日グッズ・ASMRボイス案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9272,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

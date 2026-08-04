@@ -1,0 +1,120 @@
+{
+  "videoId": "3EiDfkhs_Lw",
+  "title": "【SILENT HILL f #9】5周目-最終エンド・後半- 全員、幸せであれ。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-18T19:18:50Z",
+  "duration": "PT6H3M10S",
+  "durationSec": 21790,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3EiDfkhs_Lw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T07:38:51+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・5周目後半へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2691,
+        "label": "体調確認と休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3459,
+        "label": "配信再開・周辺を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4322,
+        "label": "長く続く戦闘と対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5268,
+        "label": "町を巡って次の目的へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7431,
+        "label": "進行目標を整えて次の地域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7970,
+        "label": "新たな地域の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11153,
+        "label": "長い対話とルート進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13679,
+        "label": "謎解きと探索を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15175,
+        "label": "終盤エリアへの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15942,
+        "label": "終盤の連続イベント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17049,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17897,
+        "label": "クリア後データを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18569,
+        "label": "未確認箇所を再チェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20636,
+        "label": "物語全体の考察と感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21178,
+        "label": "次回配信の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21373,
+        "label": "スーパーチャットお礼・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

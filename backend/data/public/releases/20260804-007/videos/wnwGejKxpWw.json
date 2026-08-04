@@ -1,0 +1,140 @@
+{
+  "videoId": "wnwGejKxpWw",
+  "title": "【都市伝説解体センター #4】第三話「辺獄への階段」初見プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-13T11:30:49Z",
+  "duration": "PT4H44M1S",
+  "durationSec": 17041,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wnwGejKxpWw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T01:10:27.403Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 471,
+        "label": "第三話開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 709,
+        "label": "依頼確認・事前調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1896,
+        "label": "ミステリーツアー開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2291,
+        "label": "不忍池で現地調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3922,
+        "label": "次の目的地へ向けて調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4706,
+        "label": "二つ目の現場を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6710,
+        "label": "二つ目のミステリーを検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9066,
+        "label": "休憩・SNSで追加調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10617,
+        "label": "三つ目の現場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10895,
+        "label": "現地の仕掛けを調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12471,
+        "label": "扉の先を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12804,
+        "label": "脱出の手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13370,
+        "label": "施設内の記録を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13794,
+        "label": "センターへ連絡・情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14529,
+        "label": "現地で対話を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15173,
+        "label": "第三話のエピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15549,
+        "label": "第三話の感想・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16044,
+        "label": "スーパーチャットお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16174,
+        "label": "活動についての振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16705,
+        "label": "今後の活動について・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

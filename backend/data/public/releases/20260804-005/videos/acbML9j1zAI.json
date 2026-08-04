@@ -1,0 +1,100 @@
+{
+  "videoId": "acbML9j1zAI",
+  "title": "【DbD】新キラー に会いたいのでテスト鯖プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-22T15:12:54Z",
+  "duration": "PT1H54M44S",
+  "durationSec": 6884,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/acbML9j1zAI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T15:40:56Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 604,
+        "label": "DbD・テストサーバー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1110,
+        "label": "マッチ前の新キラー能力確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1339,
+        "label": "初回の新キラー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "能力と箱・鎖の対策を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2497,
+        "label": "再試行と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "サバイバー戦・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3361,
+        "label": "サバイバー戦を継続・箱と鎖への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "箱の扱いと鎖への対処を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5249,
+        "label": "箱の位置・解除を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5903,
+        "label": "試合後の振り返り・最後の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "最後の試合・箱と鎖への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6725,
+        "label": "試合後の感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

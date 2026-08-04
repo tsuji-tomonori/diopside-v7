@@ -1,0 +1,185 @@
+{
+  "videoId": "eqPaPJhy-Js",
+  "title": "【#ベルバン誕生日2022】初めての逆凸　いくぞぉおおおおおお！！【にじさんじ/ベルモンド・バンデラス】",
+  "publishedAt": "2022-11-03T16:48:35Z",
+  "duration": "PT4H30M30S",
+  "durationSec": 16230,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eqPaPJhy-Js/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日企画の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 299,
+        "label": "桜凛月との逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 631,
+        "label": "セラフ・ダズルガーデンとの逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1452,
+        "label": "アンジュ・カトリーナらと誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2259,
+        "label": "早瀬走・ニュイ・ソシエールとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2860,
+        "label": "森永千才との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3426,
+        "label": "えるとの逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4174,
+        "label": "宇志海いちごとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4490,
+        "label": "小林親弘との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5039,
+        "label": "民安ともえとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5581,
+        "label": "西園チグサ・レヴィ・エリファとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6385,
+        "label": "健屋花那との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6835,
+        "label": "オリバー・エバンスとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7204,
+        "label": "長尾景との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7729,
+        "label": "小野友樹との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8392,
+        "label": "四季凪アキラとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8964,
+        "label": "矢車りね・夢追翔・成瀬鳴とのグループ通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9782,
+        "label": "超学生との通話・次の呼び出し前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10231,
+        "label": "行成とあとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10829,
+        "label": "通話後の振り返りと次の呼び出し準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11102,
+        "label": "北小路ヒスイとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11535,
+        "label": "周央サンゴとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12165,
+        "label": "レオス・ヴィンセントとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12671,
+        "label": "ヤン・ナリとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13137,
+        "label": "白雪巴との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13952,
+        "label": "椎名唯華との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14575,
+        "label": "サニー・ブリスコーとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15024,
+        "label": "ナ・セラとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15429,
+        "label": "最後の通話準備とゲストとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16026,
+        "label": "通話終了・感謝とスパチャ読み案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

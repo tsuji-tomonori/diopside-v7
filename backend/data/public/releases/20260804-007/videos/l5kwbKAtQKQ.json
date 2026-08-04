@@ -1,0 +1,115 @@
+{
+  "videoId": "l5kwbKAtQKQ",
+  "title": "【DON'T SCREAM】クリア条件は「叫ばない」こと？余裕じゃん！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-10T13:51:35Z",
+  "duration": "PT47M15S",
+  "durationSec": 2835,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l5kwbKAtQKQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:57:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲームのルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 476,
+        "label": "初回探索・声量判定を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 620,
+        "label": "チュートリアル再挑戦・森の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "夜の森で物音を警戒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 920,
+        "label": "再挑戦・囁き声で進む作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1080,
+        "label": "森の出口と安全な場所を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1259,
+        "label": "夜の森を進み周囲を確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1444,
+        "label": "道に迷いながら進路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1542,
+        "label": "矢印を頼りに森を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1892,
+        "label": "探索中の雑談・最近の怖かった話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2087,
+        "label": "終盤の探索・残り時間を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2185,
+        "label": "叫ばないための工夫を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2369,
+        "label": "次回配信の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2424,
+        "label": "スパチャ読み・ゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2671,
+        "label": "掛け算と七の段の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2797,
+        "label": "締めの挨拶・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

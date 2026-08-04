@@ -1,0 +1,220 @@
+{
+  "videoId": "zr7mzxAXx8U",
+  "title": "【マリオカート8DX】ボコす？ボコされる？マリカ大乱闘！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-09T16:32:31Z",
+  "duration": "PT2H48M28S",
+  "durationSec": 10108,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zr7mzxAXx8U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:23:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "視聴者参加型のルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 703,
+        "label": "第1レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1007,
+        "label": "第2レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1328,
+        "label": "第3レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1572,
+        "label": "第4レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1802,
+        "label": "第5レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2038,
+        "label": "第6レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2323,
+        "label": "第7レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2616,
+        "label": "第8レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2995,
+        "label": "第9レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3311,
+        "label": "第10レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3594,
+        "label": "第11レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3849,
+        "label": "第12レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4081,
+        "label": "第13レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4472,
+        "label": "第14レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4683,
+        "label": "第15レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4903,
+        "label": "第16レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5121,
+        "label": "第17レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5380,
+        "label": "第18レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5598,
+        "label": "第19レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5723,
+        "label": "第20レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6081,
+        "label": "第21レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6346,
+        "label": "第22レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6570,
+        "label": "第23レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6891,
+        "label": "第24レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7060,
+        "label": "第25レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7387,
+        "label": "第26レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7597,
+        "label": "第27レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7892,
+        "label": "第28レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8133,
+        "label": "第29レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "第30レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8520,
+        "label": "第31レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8948,
+        "label": "第32レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9570,
+        "label": "最終レース前の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9641,
+        "label": "最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9800,
+        "label": "配信の振り返り・明日の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9930,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

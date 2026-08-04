@@ -1,0 +1,120 @@
+{
+  "videoId": "4f1DqlBJkeQ",
+  "title": "【都市伝説解体センター #3】第二話-後半-「鏡像から迫る死」初見プレイ！※ネタバレ注意【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-13T15:37:40Z",
+  "duration": "PT2H25M34S",
+  "durationSec": 8734,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4f1DqlBJkeQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:36:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 182,
+        "label": "ゲーム再開・前回の整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 661,
+        "label": "室内の手がかりを調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1680,
+        "label": "公園の現場調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2517,
+        "label": "調査方針を再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2850,
+        "label": "SNSと都市伝説を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3923,
+        "label": "関連事件の手がかりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4627,
+        "label": "関係者への再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5161,
+        "label": "新たな証言と物証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6002,
+        "label": "推理を整理・都市伝説を解体",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7151,
+        "label": "物語はクライマックスへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7324,
+        "label": "第二話・終盤の展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7865,
+        "label": "第二話を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8021,
+        "label": "次回予定と雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8252,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8401,
+        "label": "第二話をさらに考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8650,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

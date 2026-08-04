@@ -1,0 +1,105 @@
+{
+  "videoId": "jkvQwaVD4BY",
+  "title": "＃２【We Were Here Forever】最強名(迷)探偵のお通りよ！！！！【#女王と会長/にじさんじ】",
+  "publishedAt": "2022-09-08T14:57:41Z",
+  "duration": "PT3H36M29S",
+  "durationSec": 12989,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jkvQwaVD4BY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:20:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返りとゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 871,
+        "label": "地下通路と森を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1200,
+        "label": "四つのスートで足場を動かす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2877,
+        "label": "次のステージ・記号扉を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4560,
+        "label": "太陽と月の仕掛けを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5356,
+        "label": "王国の人物と過去を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6720,
+        "label": "紙芝居から事件を推理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8041,
+        "label": "礼拝堂の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "礼拝堂の席順ルールを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9303,
+        "label": "席順の手がかりを絞る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11480,
+        "label": "英文ルールで席順を検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12055,
+        "label": "次の区画と肖像画の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12467,
+        "label": "ゲームの振り返り・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12739,
+        "label": "スーパーチャット読み・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

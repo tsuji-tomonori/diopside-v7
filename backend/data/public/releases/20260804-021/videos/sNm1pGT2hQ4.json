@@ -1,0 +1,95 @@
+{
+  "videoId": "sNm1pGT2hQ4",
+  "title": "【スプラトゥーン2】にじスプラ大会チームE。集合。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-19T15:56:07Z",
+  "duration": "PT2H29M9S",
+  "durationSec": 8949,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sNm1pGT2hQ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:08:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "チームE集合・メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 450,
+        "label": "大会前の準備と作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 522,
+        "label": "エリアの練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "ステージ確認とエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2783,
+        "label": "ヤグラ練習・射程差の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3640,
+        "label": "ブキ構成を変えてヤグラ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4129,
+        "label": "ヤグラの連携と試合後分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5001,
+        "label": "ヤグラの守り方を実戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5780,
+        "label": "ルートとスペシャルの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6801,
+        "label": "終盤のヤグラ練習と総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7811,
+        "label": "最後のエリア練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8560,
+        "label": "練習後の感想・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

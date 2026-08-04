@@ -1,0 +1,135 @@
+{
+  "videoId": "LiWJmZUGZ9A",
+  "title": "【Splatoon3】第12話 雪月シスターズの伸びしろ伸びきれ大作戦 #にじスプラ祭り【海妹四葉/にじさんじ】",
+  "publishedAt": "2022-10-16T13:00:03Z",
+  "duration": "PT4H9M49S",
+  "durationSec": 14989,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LiWJmZUGZ9A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T17:40:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 541,
+        "label": "最初のガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1067,
+        "label": "次のガチエリアへ向けた作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1636,
+        "label": "ガチエリア・3試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2342,
+        "label": "ガチアサリの作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3084,
+        "label": "ガチアサリ・1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3602,
+        "label": "ガチアサリ・2試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4460,
+        "label": "ガチアサリ・3試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5315,
+        "label": "ヤグラ・1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "ヤグラ・2試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7004,
+        "label": "ヤグラ・3試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8020,
+        "label": "ホコ・1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9608,
+        "label": "ホコ・2試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10581,
+        "label": "ホコ・3試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11436,
+        "label": "ナワバリ・1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12245,
+        "label": "ナワバリ・2試合目と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12988,
+        "label": "追加ナワバリ・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13559,
+        "label": "試合後雑談・大会結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14159,
+        "label": "エキシビション待ち・オープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14717,
+        "label": "配信振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

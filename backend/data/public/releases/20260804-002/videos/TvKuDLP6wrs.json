@@ -1,0 +1,105 @@
+{
+  "videoId": "TvKuDLP6wrs",
+  "title": "【DbD】時間になるまであるか分からないデトバコラボ【夕陽リリ/伏見ガク/エクス・アルビオ/黛灰/白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-21T13:53:59Z",
+  "duration": "PT2H33M33S",
+  "durationSec": 9213,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TvKuDLP6wrs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T20:57:40.109Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 292,
+        "label": "カスタムロビー・ルール相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 646,
+        "label": "1試合目・ゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2699,
+        "label": "1試合目後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3061,
+        "label": "2試合目の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "2試合目・ゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3960,
+        "label": "2試合目後の振り返り・3試合目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4322,
+        "label": "3試合目・ゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5042,
+        "label": "3試合目後の振り返り・4試合目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6032,
+        "label": "4試合目・ゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7110,
+        "label": "4試合目後の振り返り・5試合目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8011,
+        "label": "5試合目・ゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8553,
+        "label": "5試合目後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8911,
+        "label": "締めトーク・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "iZXSW1_gZM0",
+  "title": "【雑談】あなたは推しのためにどこまで出来る？【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-10T13:34:51Z",
+  "duration": "PT2H18M19S",
+  "durationSec": 8299,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iZXSW1_gZM0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "20260727T142036Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況と告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 517,
+        "label": "3分バーチャル劇場を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 839,
+        "label": "ワードウルフコラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1395,
+        "label": "同居生活とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1706,
+        "label": "推しへの愛を叫ぶマシュマロ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "推しの力と無理なく応援する話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2956,
+        "label": "配信者とリスナーの距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3257,
+        "label": "さまざまな推し活投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "極端な推し活とファンの愛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "次回テーマと愛情メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4641,
+        "label": "画像やハートで伝える推しへの愛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4921,
+        "label": "学校の屋上で告白する投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5117,
+        "label": "手紙とガチ恋工場の投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5479,
+        "label": "歌マロへの反応とファン作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5891,
+        "label": "好きなところを語る投稿と最後のマシュマロ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6788,
+        "label": "感謝と今後の配信・音楽告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7263,
+        "label": "スパチャ読みと支援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7549,
+        "label": "グッズとボイスの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7687,
+        "label": "次回マシュマロ企画とIF雪の構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8166,
+        "label": "最後の告知と配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

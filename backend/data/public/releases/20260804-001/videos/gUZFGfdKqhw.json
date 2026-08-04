@@ -1,0 +1,135 @@
+{
+  "videoId": "gUZFGfdKqhw",
+  "title": "【夜、灯す】百合×ホラーの新感覚アドベンチャーゲームを初見プレイ#6【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-14T16:03:18Z",
+  "duration": "PT2H45M30S",
+  "durationSec": 9930,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gUZFGfdKqhw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:11:07.236629+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・合宿の状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 561,
+        "label": "学校と夢の中の琴の音",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1007,
+        "label": "霊への対応と調査方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1759,
+        "label": "合宿の夜、夢を見る準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2305,
+        "label": "夢の中で進路と音楽を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3096,
+        "label": "夢の手掛かりを整理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3569,
+        "label": "箏曲部部長との面談と演奏",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4443,
+        "label": "合奏練習と琴爪の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5115,
+        "label": "手掛かりを探して探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5459,
+        "label": "二人きりの対話と音楽の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5865,
+        "label": "怪異が迫る合宿",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6500,
+        "label": "探索で新たな手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6693,
+        "label": "音楽をめぐる玲子の過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7245,
+        "label": "旧校舎で始まる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7788,
+        "label": "旧校舎での交流と異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8011,
+        "label": "新たな日々と音楽",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8380,
+        "label": "合宿の危機と演奏の決断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9054,
+        "label": "二重奏の演奏と仲間との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9586,
+        "label": "次の目標に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9820,
+        "label": "次回予告・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "videoId": "EwWTgYPIxXA",
+  "title": "【雑談】罵倒マシュマロ読み上げ＃３【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-13T13:53:38Z",
+  "duration": "PT1H42M10S",
+  "durationSec": 6130,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/EwWTgYPIxXA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・注意事項",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1274,
+        "label": "ソフト寄りの罵倒マシュマロ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2951,
+        "label": "勉強・課題向けの罵倒",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3631,
+        "label": "勉強投稿の補足・強めの読みへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3861,
+        "label": "強めの罵倒マシュマロ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4696,
+        "label": "誕生日のシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4834,
+        "label": "強めの読みを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4983,
+        "label": "最後の長文投稿へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5123,
+        "label": "仕事・企画・日常のシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5827,
+        "label": "配信後の振り返り・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6023,
+        "label": "最後の追加投稿・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

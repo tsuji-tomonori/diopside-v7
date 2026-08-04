@@ -1,0 +1,145 @@
+{
+  "videoId": "u-B6sNP9dK8",
+  "title": "TRPG『カタシロ』白雪巴",
+  "publishedAt": "2026-01-22T14:33:50Z",
+  "duration": "PT2H22M23S",
+  "durationSec": 8543,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/u-B6sNP9dK8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:37:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・シナリオ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 574,
+        "label": "病院で目を覚ます",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1023,
+        "label": "最初の治療と対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1480,
+        "label": "病室を調べて隣室へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2073,
+        "label": "2日目の診察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2323,
+        "label": "テセウスの船をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2804,
+        "label": "2日目の病室探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3230,
+        "label": "アッキーと医者ごっこ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3588,
+        "label": "家族と自分について話す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4135,
+        "label": "3日目の診察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4345,
+        "label": "臓器くじをめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4875,
+        "label": "退院後、隣室を訪ねる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5520,
+        "label": "医師から事情を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5721,
+        "label": "意思と選択をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6348,
+        "label": "アッキーにこれからを伝える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6677,
+        "label": "身体と自分をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7038,
+        "label": "父親の意図と条件を確認する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7515,
+        "label": "最後の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7737,
+        "label": "本編エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7783,
+        "label": "本編後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8004,
+        "label": "出演者の感想配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8273,
+        "label": "白雪巴の感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

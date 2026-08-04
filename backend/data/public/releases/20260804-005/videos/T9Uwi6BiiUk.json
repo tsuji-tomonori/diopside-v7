@@ -1,0 +1,110 @@
+{
+  "videoId": "T9Uwi6BiiUk",
+  "title": "【迷宮校舎】ビビらせてくる何か VS ビビらない私【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-22T15:34:34Z",
+  "duration": "PT2H22M13S",
+  "durationSec": 8533,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/T9Uwi6BiiUk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:53:54.687067+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 411,
+        "label": "ゲーム開始・操作と設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 664,
+        "label": "画面調整から再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 932,
+        "label": "チュートリアル再開・校舎探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "校舎探索と最初の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2299,
+        "label": "ピアノの音を手がかりに探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2713,
+        "label": "敵を避けながら校舎を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3998,
+        "label": "リトライ・理科室へのルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5368,
+        "label": "イージーモードで再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6489,
+        "label": "人体模型を避けて出口へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7031,
+        "label": "エンディング映像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7152,
+        "label": "ゲーム後の感想・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7467,
+        "label": "次回予定・企画のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7957,
+        "label": "スパチャ読み・ゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8257,
+        "label": "近況報告・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

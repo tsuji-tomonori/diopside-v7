@@ -1,0 +1,230 @@
+{
+  "videoId": "ZH5RsbG3yJA",
+  "title": "【アカイイト】♡吸血百合♡って本当ですか！？和風伝奇の濃厚百合ゲー♥ ※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-05T11:38:57Z",
+  "duration": "PT7H11M53S",
+  "durationSec": 25913,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZH5RsbG3yJA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:18:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作品紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 585,
+        "label": "冒頭の夢と旅立ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1602,
+        "label": "終着駅での出会いと屋敷の噂",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2525,
+        "label": "屋敷へ向かう決断と到着",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3084,
+        "label": "屋敷の探索と少女との出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3595,
+        "label": "屋敷に残る決断と森の夢",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3971,
+        "label": "夢の中の出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4388,
+        "label": "目覚めと屋敷の記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5241,
+        "label": "朝の屋敷から町へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6067,
+        "label": "温泉での出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6429,
+        "label": "咲夜と屋敷の生活",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7999,
+        "label": "夜の夢と異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8102,
+        "label": "夜の異変と救出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8658,
+        "label": "出来事の説明と蛇神の昔話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9261,
+        "label": "柱様の祭りと資料館へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10016,
+        "label": "資料館で知る土地の伝承",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10994,
+        "label": "鏡の展示と盗難調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12107,
+        "label": "夕食と花火、夜の迷い道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12876,
+        "label": "刀を持つ女性との再会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13880,
+        "label": "山中の穴と分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14178,
+        "label": "分岐の選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14626,
+        "label": "選択肢を見直して再走",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15057,
+        "label": "別ルートの町歩き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16183,
+        "label": "鬼切をめぐる会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16685,
+        "label": "セーブ確認と夢の分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17589,
+        "label": "食事の選択と屋敷への帰還",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18273,
+        "label": "屋敷での異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18788,
+        "label": "屋敷の復旧と雨",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19521,
+        "label": "咲夜の来訪と夕食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20400,
+        "label": "村の過去を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21062,
+        "label": "葬式の夢と明晰夢",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21767,
+        "label": "蛇の異変と土地の伝承",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22347,
+        "label": "鈴の音をめぐる場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23098,
+        "label": "新たな手がかりを整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23753,
+        "label": "咲夜との衝突と山道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24310,
+        "label": "大木の下での場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24760,
+        "label": "分岐の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24959,
+        "label": "終盤の選択とその後",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25365,
+        "label": "配信の感想と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

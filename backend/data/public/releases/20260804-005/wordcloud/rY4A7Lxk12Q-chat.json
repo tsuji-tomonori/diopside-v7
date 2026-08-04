@@ -1,0 +1,10 @@
+{
+  "status": "generated",
+  "source": "chat_aggregation",
+  "generatedAt": "2026-07-01T01:02:00Z",
+  "topTerms": [
+    { "term": "かわいい", "count": 124 },
+    { "term": "888", "count": 98 },
+    { "term": "草", "count": 64 }
+  ]
+}

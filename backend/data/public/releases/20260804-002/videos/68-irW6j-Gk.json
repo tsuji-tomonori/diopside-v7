@@ -1,0 +1,195 @@
+{
+  "videoId": "68-irW6j-Gk",
+  "title": "【スプラトゥーン3】エンジョイ大判焼き！！久しぶりのフェス参戦激アツ↑↑↑【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-19T08:22:21Z",
+  "duration": "PT4H5M40S",
+  "durationSec": 14740,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/68-irW6j-Gk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:54:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・フェス準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 799,
+        "label": "最初のフェスマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1351,
+        "label": "フェスマッチ連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1859,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2021,
+        "label": "フェスマッチ連戦・前線戦術",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2585,
+        "label": "ガロンでフェス連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3607,
+        "label": "ギア相談・武器変更の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4338,
+        "label": "ザップでフェスマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4818,
+        "label": "ギア構成の見直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5119,
+        "label": "10倍マッチに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5590,
+        "label": "フェスマッチ・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6072,
+        "label": "トリカラバトルのルール確認・初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "トリカラ練習戦・本番準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7140,
+        "label": "トリカラ本番・立ち回り振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7772,
+        "label": "トリカラ練習戦・次戦待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8241,
+        "label": "トリカラ戦と漫画雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8736,
+        "label": "トリカラ戦・シグナル攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8947,
+        "label": "休憩中の雑談・本番待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9717,
+        "label": "トリカラ本番・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10264,
+        "label": "トリカラ戦・作戦振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10552,
+        "label": "トリカラ戦・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10971,
+        "label": "試合後の反省・武器見直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11333,
+        "label": "デュアルスイーパー練習・武器変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11808,
+        "label": "トリカラ本番・ガロンで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12148,
+        "label": "ガロンでトリカラ戦・手応え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12457,
+        "label": "トリカラ本番・長距離武器への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12726,
+        "label": "長距離武器の振り返り・変更準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13181,
+        "label": "バレルスピナーでトリカラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13380,
+        "label": "配信予定・年末雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13820,
+        "label": "最後のトリカラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14283,
+        "label": "フェス本編の締め・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14408,
+        "label": "スーパーチャット読み・周年告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "VYc6wk7IKQg",
+  "title": "#1『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-05T15:44:39Z",
+  "duration": "PT2H34M59S",
+  "durationSec": 9299,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VYc6wk7IKQg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T05:32:26.431Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 70,
+        "label": "オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 177,
+        "label": "操作説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 527,
+        "label": "物語の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1187,
+        "label": "物語開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1550,
+        "label": "素潜りの準備・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1728,
+        "label": "海中探索：前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2299,
+        "label": "海中探索：後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3280,
+        "label": "海中探索：仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3942,
+        "label": "浜辺での会話・調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4665,
+        "label": "ストーリーチャートの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4868,
+        "label": "前日の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5653,
+        "label": "周囲の調査・推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6674,
+        "label": "新たな会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7104,
+        "label": "場所を移して会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7551,
+        "label": "入り江での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8114,
+        "label": "相談の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8774,
+        "label": "初回プレイの振り返り・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8970,
+        "label": "スーパーチャット・雑談・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

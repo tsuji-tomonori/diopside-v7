@@ -1,0 +1,135 @@
+{
+  "videoId": "4LVLICmRKRU",
+  "title": "#4【バイオハザード】ビビりだけど必ず報復させるバイオプレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-31T12:11:34Z",
+  "duration": "PT2H21M5S",
+  "durationSec": 8465,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4LVLICmRKRU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:57:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 461,
+        "label": "洋館を探索してエレベーターの手掛かりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1220,
+        "label": "クランクと水門の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1842,
+        "label": "ハンターの気配と手掛かりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2207,
+        "label": "装備を整理して岩の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2419,
+        "label": "蜘蛛とハンターの通路を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "地下の仕掛けを解いて先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4119,
+        "label": "仲間との合流後に装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4364,
+        "label": "大型の敵を警戒して脱出経路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4818,
+        "label": "地下を探索して電源周辺へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5270,
+        "label": "研究記録と手記を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5539,
+        "label": "研究施設のアイテムと別ルートを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "電源の仕掛けを進めて危険地帯を通過",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6500,
+        "label": "研究施設へ進み次の場面に備える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6991,
+        "label": "写真と手紙から施設の背景を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7278,
+        "label": "メダルを使って終盤の道を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "本編を区切って配信を締める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7681,
+        "label": "別データで場面を見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8249,
+        "label": "分岐と登場人物を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8399,
+        "label": "次回予告と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

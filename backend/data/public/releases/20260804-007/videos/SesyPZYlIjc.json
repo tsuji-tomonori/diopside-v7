@@ -1,0 +1,90 @@
+{
+  "videoId": "SesyPZYlIjc",
+  "title": "【つぐのひ】びびったら激辛ホラー！【#フルトイ】",
+  "publishedAt": "2021-10-15T15:17:47Z",
+  "duration": "PT40M10S",
+  "durationSec": 2410,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SesyPZYlIjc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・ゲーム開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 225,
+        "label": "ホラーゲーム開始・電車を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 505,
+        "label": "次の日の電車を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 683,
+        "label": "驚かし場面を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 806,
+        "label": "反応トークを挟みながらゲーム進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1199,
+        "label": "新しい経路と車内の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "驚きへの反応と激辛チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1836,
+        "label": "終盤の電車を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1974,
+        "label": "ゲームの感想・企画振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2115,
+        "label": "次回のホラー・激辛企画を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2295,
+        "label": "締め・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

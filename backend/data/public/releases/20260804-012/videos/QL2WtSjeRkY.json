@@ -1,0 +1,110 @@
+{
+  "videoId": "QL2WtSjeRkY",
+  "title": "【#ロリアモアス】わくとりなおしました【フレン・E・ルスタリオ/にじさんじ】",
+  "publishedAt": "2021-03-03T14:30:45Z",
+  "duration": "PT1H37M25S",
+  "durationSec": 5845,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QL2WtSjeRkY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:54:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "撮り直しの説明・前ラウンド振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 546,
+        "label": "ラウンド準備とタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 814,
+        "label": "会議での位置確認とタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1370,
+        "label": "ラウンド後の反応と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1728,
+        "label": "次ラウンドのタスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2302,
+        "label": "位置関係の確認と同行作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2834,
+        "label": "新ラウンドの会議とタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3401,
+        "label": "ラウンド振り返りと次の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3619,
+        "label": "会議での証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4029,
+        "label": "複数の証言をめぐる投票相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4339,
+        "label": "投票後の振り返りと終盤戦略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4760,
+        "label": "終盤の会議とプレイ感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5104,
+        "label": "コラボ参加者とのアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5423,
+        "label": "ロリアモアス企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5626,
+        "label": "配信終了・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

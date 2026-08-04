@@ -1,0 +1,110 @@
+{
+  "videoId": "iLCHJ17svDU",
+  "title": "＃18【崩壊：スターレイル】ピノコニー編！待ってたよピノコニー大劇場。セレモニーを始めよっか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-31T16:04:32Z",
+  "duration": "PT2H53M6S",
+  "durationSec": 10386,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iLCHJ17svDU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:51:35.906636Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 519,
+        "label": "劇場探索・セレモニー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 995,
+        "label": "第一幕・囚人たちの物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2024,
+        "label": "第二幕・夢の国をめぐる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "第三幕・未来をめぐる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4638,
+        "label": "セレモニーと理想郷の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "大型バトルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5955,
+        "label": "戦闘後の目覚めとロビーの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6771,
+        "label": "各陣営の調停",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7195,
+        "label": "IPCとの交渉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7992,
+        "label": "本編後の反応・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8360,
+        "label": "新キャラの試運転",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8643,
+        "label": "ピノコニー振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8847,
+        "label": "続いて新キャラの試運転",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9590,
+        "label": "スパチャ読み・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "videoId": "wtxrG0BO6f8",
+  "title": "【スプラトゥーン2】深夜の͡͡コソ練。ランク20いくまで耐久【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-23T02:26:34Z",
+  "duration": "PT3H22M43S",
+  "durationSec": 12163,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wtxrG0BO6f8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・スプラ練習の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 666,
+        "label": "初見ステージでガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "ザップとバケツを比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1844,
+        "label": "ザップとバケツでガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2327,
+        "label": "黒ザップの装備と立ち回りを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2586,
+        "label": "黒ザップでガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3181,
+        "label": "ガチエリアの動きを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "連勝を目指してガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3915,
+        "label": "試合後の武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "黒ザップでガチエリアを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4568,
+        "label": "前に出る動きを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5222,
+        "label": "試合後の立ち回りを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5646,
+        "label": "延長戦を含むガチエリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6123,
+        "label": "試合後の反省と上達相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6488,
+        "label": "やぐらに向けた武器探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7563,
+        "label": "武器候補を比較する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7921,
+        "label": "武器選び・ギア準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8534,
+        "label": "やぐらステージを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8702,
+        "label": "新しい武器でやぐらに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "やぐらの試合を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9605,
+        "label": "長射程武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9903,
+        "label": "長射程武器でやぐらに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10540,
+        "label": "長射程武器の手応えを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10806,
+        "label": "最後のやぐらに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11691,
+        "label": "試合後の感想と配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12069,
+        "label": "終了挨拶・次回のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

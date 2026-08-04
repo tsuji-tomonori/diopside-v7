@@ -1,0 +1,105 @@
+{
+  "videoId": "FBb7PWHRIPc",
+  "title": "【SUPER BOMBERMAN Ｒ２】前日にちょっと練習しておけば何とかなる説【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-02T15:56:03Z",
+  "duration": "PT1H46M24S",
+  "durationSec": 6384,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FBb7PWHRIPc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 533,
+        "label": "初戦でバトル64を体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 725,
+        "label": "キャラ選びと次の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 886,
+        "label": "2戦目・アイテムと立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2011,
+        "label": "戦績振り返りと投げ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2121,
+        "label": "3戦目・キックと投げを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "戦い方を見直して白ボンへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2908,
+        "label": "4戦目・白ボンで実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4110,
+        "label": "戦績振り返りと明日の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4183,
+        "label": "5戦目・アイテム収集と生存戦略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5219,
+        "label": "戦績振り返りと連鎖爆破の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5435,
+        "label": "最終戦・アイテムと投げを実戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5991,
+        "label": "大会ルールと逃げる戦法を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6173,
+        "label": "スパチャ読みと締めくくり",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

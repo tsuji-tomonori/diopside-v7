@@ -1,0 +1,135 @@
+{
+  "videoId": "i2KlXuJ7FGc",
+  "title": "【 凸待ち 】内弁慶を直そう！！！！！【 鏑木ろこ￤にじさんじ 】",
+  "publishedAt": "2023-11-22T18:15:27Z",
+  "duration": "PT6H59M5S",
+  "durationSec": 25145,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i2KlXuJ7FGc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:13:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・凸待ちの趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 224,
+        "label": "矢車りねと友達づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1397,
+        "label": "セフィナと友達トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2241,
+        "label": "えると遊園地・食べ物トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3277,
+        "label": "白雪巴と初めての本格通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4770,
+        "label": "小野町春香と初対面トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5850,
+        "label": "アンジュ・カトリーナと友達トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7175,
+        "label": "瀬戸美夜子と食べ物・遊園地トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8815,
+        "label": "樋口楓と遊園地の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9627,
+        "label": "緑仙と友達・誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12109,
+        "label": "雪城眞尋と服・遊園地トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14153,
+        "label": "アンジュ再登場・鍋トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15093,
+        "label": "先斗寧と好きなもの・推しトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16084,
+        "label": "ベルモンド・バンデラスと映画・ドラマ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17664,
+        "label": "花畑チャイカと今年やり残したこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21778,
+        "label": "伏見ガクとボードゲーム・思い出話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22662,
+        "label": "シスター・クレアと第一印象・服の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23780,
+        "label": "神田笑一と友達・会話術",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24754,
+        "label": "凸待ちを終えて・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24931,
+        "label": "告知・終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

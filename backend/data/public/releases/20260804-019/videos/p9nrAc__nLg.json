@@ -1,0 +1,85 @@
+{
+  "videoId": "p9nrAc__nLg",
+  "title": "ガチャ配信【ウマ娘】豪運すぎる神引き回【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-08T13:38:36Z",
+  "duration": "PT31M51S",
+  "durationSec": 1911,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/p9nrAc__nLg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチャの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "最初のガチャに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 612,
+        "label": "花嫁衣装を待つ結婚式ごっこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 778,
+        "label": "次のガチャと反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "二人を祝う結婚式ごっこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1360,
+        "label": "ガチャ回数を振り返って配信を締める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "通話でガチャの感想を話す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1662,
+        "label": "通話後に配信を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1735,
+        "label": "翌日の育成・ストーリー方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1818,
+        "label": "告知とエンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

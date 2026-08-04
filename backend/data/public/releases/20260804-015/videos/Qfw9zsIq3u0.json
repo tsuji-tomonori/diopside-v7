@@ -1,0 +1,115 @@
+{
+  "videoId": "Qfw9zsIq3u0",
+  "title": "【 雪山人狼 】Project Winter シマエナガ…探しに来たはずが…【夜見れな /  にじさんじ】",
+  "publishedAt": "2025-01-17T14:41:11Z",
+  "duration": "PT1H59M28S",
+  "durationSec": 7168,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Qfw9zsIq3u0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:26:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング：参加者紹介と脱出ルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 391,
+        "label": "第1試合：資源を集めて発電施設へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1056,
+        "label": "第1試合：吹雪の中で修理と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2354,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2417,
+        "label": "第2試合：準備と序盤の方針確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2613,
+        "label": "第2試合：資源集めと発電準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2933,
+        "label": "第2試合：貯蔵庫探索と修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3639,
+        "label": "第2試合：特殊行動と罠の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3889,
+        "label": "第2試合終盤：寒さと発電施設をめぐる生存戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4463,
+        "label": "第2試合後の反省と次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4699,
+        "label": "第3試合：序盤の資源集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5435,
+        "label": "第3試合：燃料を集めて脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6062,
+        "label": "第3試合：脱出装置に集合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6243,
+        "label": "第3試合：終盤の救助騒ぎ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6844,
+        "label": "ゲーム後の感想と告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7041,
+        "label": "あと語り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

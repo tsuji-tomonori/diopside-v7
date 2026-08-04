@@ -1,0 +1,130 @@
+{
+  "videoId": "El9Y5E4P1F0",
+  "title": "〖 Among Us 〗わるいやつだ～れだ😣#ロリアモアス 〖 西園チグサ視点 〗",
+  "publishedAt": "2021-03-03T14:23:12Z",
+  "duration": "PT2H3M36S",
+  "durationSec": 7416,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/El9Y5E4P1F0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:39:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ルール説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 753,
+        "label": "第1試合開始・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1086,
+        "label": "第1試合・最初の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "第1試合続行・アリバイ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1711,
+        "label": "第1試合・会議で疑いを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1937,
+        "label": "第1試合後半・容疑者の絞り込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2312,
+        "label": "第1試合・試合の行方を見守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3029,
+        "label": "タスク確認・キルフラッシュの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3627,
+        "label": "終盤のタスク進行・護衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "第1試合終盤の会議・アリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4483,
+        "label": "会議後のタスク・試合の切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4785,
+        "label": "次の試合開始・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5041,
+        "label": "第2試合・会議で情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5328,
+        "label": "第2試合・タスクと緊急妨害への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5594,
+        "label": "第2試合・ボタン会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5826,
+        "label": "第2試合終盤・タスクを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6199,
+        "label": "第2試合・最終会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6545,
+        "label": "試合後の感想・参加者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7110,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

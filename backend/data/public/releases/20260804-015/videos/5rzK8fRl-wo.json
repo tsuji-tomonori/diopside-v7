@@ -1,0 +1,150 @@
+{
+  "videoId": "5rzK8fRl-wo",
+  "title": "＃6.5【崩壊：スターレイル】アベンチュリンを必ずお迎えする儀式(ガチャ)【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-17T15:37:55Z",
+  "duration": "PT2H27M29S",
+  "durationSec": 8849,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5rzK8fRl-wo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチャ準備の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "アベンチュリンガチャの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 620,
+        "label": "ピックアップキャラのお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 746,
+        "label": "ルカのお試しバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1227,
+        "label": "リンクスのお試しバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1571,
+        "label": "鏡流のお試しバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2124,
+        "label": "アベンチュリンのお試しバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2872,
+        "label": "アベンチュリンのキャラガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3253,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3769,
+        "label": "次の限定ガチャへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "後半の限定ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4664,
+        "label": "ガチャの続行を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4803,
+        "label": "追加の限定ガチャとその後の反応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5580,
+        "label": "キャラクターの確認と編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "キャラクター詳細・モーション確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6848,
+        "label": "育成方針と資源配分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7145,
+        "label": "スーパーチャット読みとガチャ総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7316,
+        "label": "今後のガチャと理想の編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7746,
+        "label": "ストーリーと同行クエストの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8213,
+        "label": "次のキャラ予想と近況雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8322,
+        "label": "ガチャ振り返りとコメント紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8513,
+        "label": "別ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8679,
+        "label": "告知・スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

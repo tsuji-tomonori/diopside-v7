@@ -1,0 +1,115 @@
+{
+  "videoId": "KdGGCyYLDgQ",
+  "title": "【※ネタバレあり】癒しのゲーム♡注文の多い塊魂ファンたち‥！もう一周だ！！｜塊魂アンコール＋王様プチメモリーpart4【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-05T16:21:55Z",
+  "duration": "PT3H2M35S",
+  "durationSec": 10955,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KdGGCyYLDgQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:32:28.673278Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・塊魂トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 590,
+        "label": "急いで大きくに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "キャンプファイヤーで塊を育てる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2243,
+        "label": "急いで大きく 2周目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2671,
+        "label": "エターナルで自由に巻き込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4386,
+        "label": "BIGぴったりに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5077,
+        "label": "対戦ステージに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5592,
+        "label": "対戦ステージを再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6569,
+        "label": "エターナル開始・近況雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7629,
+        "label": "プレゼント探索と活動方針の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8141,
+        "label": "超特大の鳥エターナル開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8385,
+        "label": "鳥エターナルと配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9233,
+        "label": "巨大エターナルでさらに拡大",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10068,
+        "label": "王様を目指してさらに拡大",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10341,
+        "label": "ゲーム終了・次回の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10509,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

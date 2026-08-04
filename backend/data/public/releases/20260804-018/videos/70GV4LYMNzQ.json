@@ -1,0 +1,280 @@
+{
+  "videoId": "70GV4LYMNzQ",
+  "title": "＃23【崩壊：スターレイル】風起雲湧、相見える鋒鋩編！後編突入！！悪い子はどこかしらん【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-01T07:18:05Z",
+  "duration": "PT7H10M58S",
+  "durationSec": 25858,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/70GV4LYMNzQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:12:32.498185Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本編振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 894,
+        "label": "脱獄事件の調査再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1658,
+        "label": "緊急協議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2265,
+        "label": "演武典礼をめぐる作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2540,
+        "label": "獄中調査と脱獄の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3919,
+        "label": "調査中の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4042,
+        "label": "収監の経緯をめぐる議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4609,
+        "label": "現場と逃走経路の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4909,
+        "label": "囚われた椒丘との対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5497,
+        "label": "偵察の開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5709,
+        "label": "港の偵察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6315,
+        "label": "市民をめぐる計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6689,
+        "label": "不死性をめぐる説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7068,
+        "label": "信号を追う作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7362,
+        "label": "港での聞き込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7809,
+        "label": "偽装者を追う戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8092,
+        "label": "飛霄と椒丘の回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8805,
+        "label": "敵側の計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9064,
+        "label": "モゼの警告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9294,
+        "label": "演武典礼の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10211,
+        "label": "戦況の変化と部隊分け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10766,
+        "label": "市街地の戦闘と救助",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11452,
+        "label": "演武典礼の船へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11630,
+        "label": "異常な船の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12067,
+        "label": "船内探索と航行パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12647,
+        "label": "侵入者との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12831,
+        "label": "演武場での対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13622,
+        "label": "強敵との対決と回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14410,
+        "label": "戦闘再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14841,
+        "label": "決着局面と新たな局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15599,
+        "label": "飛霄をめぐる戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16195,
+        "label": "飛霄の決意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17185,
+        "label": "精神世界での最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18269,
+        "label": "長老への追及",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19006,
+        "label": "長老側との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19190,
+        "label": "事件後の裁定と医館",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20064,
+        "label": "事件後の協議と本編の締めくくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20918,
+        "label": "霊砂のキャラクターガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21480,
+        "label": "霊砂の光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22020,
+        "label": "ガチャ結果の確認と締めの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22679,
+        "label": "収録ガチャ映像・ブラックスワン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23261,
+        "label": "収録ガチャ映像・カフカ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23556,
+        "label": "収録ガチャ映像・光円錐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23980,
+        "label": "カフカの光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24491,
+        "label": "追加分を狙う収録ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24938,
+        "label": "収録ガチャの続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25367,
+        "label": "収録ガチャの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25549,
+        "label": "ガチャから雑談へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25711,
+        "label": "最終挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

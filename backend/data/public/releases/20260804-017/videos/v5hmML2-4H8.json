@@ -1,0 +1,145 @@
+{
+  "videoId": "v5hmML2-4H8",
+  "title": "【Splatoon3】名だたる漫画家さんを招いての百合スプラ！！！！ (百合スプラ……！！！！！！！！！！？？？？？？？？？？？？？)【えま★おうがすと/にじさんじ所属】",
+  "publishedAt": "2025-03-09T15:49:13Z",
+  "duration": "PT3H45M53S",
+  "durationSec": 13553,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/v5hmML2-4H8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "出演者紹介・企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 550,
+        "label": "スプラ参加準備・合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1338,
+        "label": "ビッグラン開始と恋愛トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1969,
+        "label": "縄張り準備と好きなシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2535,
+        "label": "縄張りバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3109,
+        "label": "百合談義を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4022,
+        "label": "スプラ再開と創作に活かす実体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5010,
+        "label": "高校時代の恋愛体験談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5740,
+        "label": "ガチマと百合投稿の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6443,
+        "label": "モンハンと好きな女性像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6803,
+        "label": "服装の好みを語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7508,
+        "label": "スプラと人間愛の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8097,
+        "label": "女子校の思い出と服装の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8464,
+        "label": "仕草と恋愛シーンの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8946,
+        "label": "百合漫画のおすすめと恋愛観",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10060,
+        "label": "理想のパートナー像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10837,
+        "label": "嫉妬と許せない恋愛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11440,
+        "label": "投稿された恋愛話を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11658,
+        "label": "幸せな恋愛話とキュンとした行動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12366,
+        "label": "終盤のスプラと友人関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12999,
+        "label": "告知・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13302,
+        "label": "アフタートーク・活動告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

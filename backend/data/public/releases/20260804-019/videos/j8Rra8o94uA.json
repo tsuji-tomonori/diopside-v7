@@ -1,0 +1,145 @@
+{
+  "videoId": "j8Rra8o94uA",
+  "title": "【私たちマリアージュ１】新感覚百合！？お嬢様学校の秘密を暴いちゃうゾ♡♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-30T07:28:01Z",
+  "duration": "PT6H6M26S",
+  "durationSec": 21986,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/j8Rra8o94uA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T16:10:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・学院への導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1000,
+        "label": "授業と生徒会選挙の任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "仮想図書館を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "夜の図書館と学院の過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5104,
+        "label": "選挙活動と過去の学院",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "選挙活動とリゼとの面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7902,
+        "label": "孤立したほまれを支える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8444,
+        "label": "夜の調査と時間のずれ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9607,
+        "label": "時間のずれと姉妹の過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10800,
+        "label": "再会と選挙への立候補",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12001,
+        "label": "支持率調査と保護任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13628,
+        "label": "姉妹の過去と選挙の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14859,
+        "label": "チャームをめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16006,
+        "label": "魔法戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16801,
+        "label": "魔法戦と関係の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18311,
+        "label": "決闘再開と選挙戦後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19154,
+        "label": "公開討論と学院の新たな動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19670,
+        "label": "夜の学院で起きる異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20030,
+        "label": "追跡と場所の移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20706,
+        "label": "事情説明と配信の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21144,
+        "label": "終盤の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21599,
+        "label": "エピローグ・作品感想",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

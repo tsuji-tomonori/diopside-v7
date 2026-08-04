@@ -1,0 +1,110 @@
+{
+  "videoId": "3BSgZt_n3Vw",
+  "title": "【DEVOUR】女子が4人集まっているので実質優雅なお茶会（自己暗示）【#ホラゲV女子会】",
+  "publishedAt": "2022-08-30T14:32:47Z",
+  "duration": "PT2H5M43S",
+  "durationSec": 7543,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3BSgZt_n3Vw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:00:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DEVOURコラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 208,
+        "label": "ルール説明・プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 446,
+        "label": "館内探索と装備確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 748,
+        "label": "ヤギ集めと最初の儀式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1982,
+        "label": "次のヤギ探しと儀式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2571,
+        "label": "第二ラウンドの探索・救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3335,
+        "label": "儀式後の役割分担",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3675,
+        "label": "操作設定の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3882,
+        "label": "第三ラウンド開始・鍵探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4594,
+        "label": "ヤギを集めて儀式準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "儀式後の追跡・救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5480,
+        "label": "次の探索と鍵探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5998,
+        "label": "後半ラウンドの救助・アイテム回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6817,
+        "label": "終盤の協力プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7299,
+        "label": "ゲーム後の感想・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

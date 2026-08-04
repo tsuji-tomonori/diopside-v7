@@ -1,0 +1,115 @@
+{
+  "videoId": "5_JHcrUgn6g",
+  "title": "【Minecraft】ベルさん！！！ネザーってどんなところですか！？！？【#スノーベル/にじさんじ】",
+  "publishedAt": "2023-05-01T15:46:13Z",
+  "duration": "PT2H34M37S",
+  "durationSec": 9277,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5_JHcrUgn6g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T08:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "スノーベルのMinecraftコラボ開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 323,
+        "label": "シンベルモンド邸を見学",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 864,
+        "label": "ネザーゲートと地下拠点を案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1436,
+        "label": "ネザーへの入口と装備の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1882,
+        "label": "村人取引で装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "エンチャントと経験値の仕組み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3334,
+        "label": "初めてのダイヤ採掘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3594,
+        "label": "レッドストーンと耐火ポーションの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4427,
+        "label": "ネザー探索に向けた装備選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5472,
+        "label": "ネザーへ出発して地形を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6043,
+        "label": "ネザーの素材と危険を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7136,
+        "label": "ネザーで希少資源を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7938,
+        "label": "ネザー地下の希少資源を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8379,
+        "label": "探索を振り返り帰路へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8900,
+        "label": "次回配信などのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9021,
+        "label": "配信終了・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

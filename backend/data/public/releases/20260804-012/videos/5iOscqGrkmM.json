@@ -1,0 +1,125 @@
+{
+  "videoId": "5iOscqGrkmM",
+  "title": "クリア耐久【夜廻】クリアが先か、睡魔が先か～一夜目～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-13T21:14:40Z",
+  "duration": "PT5H28M15S",
+  "durationSec": 19695,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5iOscqGrkmM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:20:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 413,
+        "label": "ゲーム開始・序盤の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 650,
+        "label": "序盤の物語と町の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1760,
+        "label": "祠・公園・犬の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3211,
+        "label": "学校周辺と行方不明の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "妹の靴から田んぼへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6644,
+        "label": "新しい敵の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7897,
+        "label": "ワープと墓の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9080,
+        "label": "墓地の手掛かりと新しい町",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10616,
+        "label": "工場と異世界の入口",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11728,
+        "label": "表世界と裏世界を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13053,
+        "label": "赤いお守りと終盤の山道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14305,
+        "label": "山道の難所と地下ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15664,
+        "label": "終盤の物語へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16405,
+        "label": "終盤の戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17243,
+        "label": "エンディングと物語の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18083,
+        "label": "クリア後の探索・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19325,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

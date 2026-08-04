@@ -1,0 +1,150 @@
+{
+  "videoId": "rgl6BQCx-jw",
+  "title": "【バイオRE:3】殺意高めの強気ビビりでバイオプレイ#最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-07T09:25:39Z",
+  "duration": "PT2H39M19S",
+  "durationSec": 9559,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rgl6BQCx-jw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最終回の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 505,
+        "label": "研究施設を進み敵と戦う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 839,
+        "label": "ネスト2の記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 990,
+        "label": "タイレルと合流・施設の記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1529,
+        "label": "ワクチン計画を確認する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1748,
+        "label": "ワクチン素材を探して研究エリアを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2177,
+        "label": "施設記録を読み、次の区画へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2713,
+        "label": "研究警告を確認しワクチン素材を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3166,
+        "label": "ハンター戦に向けて装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3909,
+        "label": "ハンター戦と施設内の対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4664,
+        "label": "ボス戦前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "大型ボス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5617,
+        "label": "装備を見直して作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5982,
+        "label": "アリーナでの大型ボス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6487,
+        "label": "戦闘後の確認と最終準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6818,
+        "label": "終盤の大規模戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7335,
+        "label": "戦闘後の施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7525,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7788,
+        "label": "本編後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8258,
+        "label": "追加要素を確認する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8867,
+        "label": "設定資料と追加シーンの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9288,
+        "label": "ボーナス要素・ギャラリー確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9468,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "web42ZhLpck",
+  "title": "【夜、灯す】百合×ホラーの新感覚アドベンチャーゲームを初見プレイ#4【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-06T14:29:37Z",
+  "duration": "PT1H19M16S",
+  "durationSec": 4756,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/web42ZhLpck/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:17:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "前回までの振り返り・今夜のプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "夏合宿の始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 716,
+        "label": "合宿の予定を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1033,
+        "label": "事件の手がかりを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1551,
+        "label": "図書館の調査とチーム分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1707,
+        "label": "手帳から新たな手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2050,
+        "label": "夕食の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "合宿の夕食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2774,
+        "label": "肝試しの準備とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3061,
+        "label": "寺で肝試しへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3377,
+        "label": "ろうそくを探す夜の寺",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3622,
+        "label": "本堂で起きた出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3754,
+        "label": "肝試し後のひと休み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3898,
+        "label": "優香の家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4219,
+        "label": "合宿で深まる交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4522,
+        "label": "終盤のイベントと一枚絵",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4645,
+        "label": "次回のお知らせ・配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

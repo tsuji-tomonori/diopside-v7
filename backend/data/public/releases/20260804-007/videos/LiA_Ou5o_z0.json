@@ -1,0 +1,100 @@
+{
+  "videoId": "LiA_Ou5o_z0",
+  "title": "【ロリ逆凸企画】おねえさん、ゆずるたちとお話して～！🍭🎶#ゆずちょこ逆凸【癒月ちょこ/姫咲ゆずる】",
+  "publishedAt": "2022-05-12T13:24:35Z",
+  "duration": "PT1H15M1S",
+  "durationSec": 4501,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LiA_Ou5o_z0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:40:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 234,
+        "label": "好みの話・学校と読書",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 511,
+        "label": "大統領・お金持ちになる方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 800,
+        "label": "おねだり企画・最初の逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1121,
+        "label": "次の逆凸・お出かけ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1612,
+        "label": "逆凸・宇宙へ行く話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1963,
+        "label": "逆凸・衣装とお出かけ先",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2407,
+        "label": "逆凸・プレゼントと温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2709,
+        "label": "逆凸・読書とプレゼントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3128,
+        "label": "外出先と家での過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3425,
+        "label": "最後の逆凸・おねだりとお出かけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "逆凸の振り返り・お出かけ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4126,
+        "label": "企画の締め・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

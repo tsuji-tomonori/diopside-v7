@@ -1,0 +1,100 @@
+{
+  "videoId": "kNFItVVwoas",
+  "title": "【死刑囚の既読】意味怖！死刑囚とL●NEして心に潜む闇を攻略(??)せよ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-13T16:18:37Z",
+  "duration": "PT3H5M51S",
+  "durationSec": 11151,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kNFItVVwoas/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 565,
+        "label": "田辺美由との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1313,
+        "label": "日村香との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2177,
+        "label": "野田正隆との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3174,
+        "label": "恩田孝太郎との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4153,
+        "label": "クルス・マイカとの面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5397,
+        "label": "遠藤達也との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6463,
+        "label": "さ乙女奏との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7581,
+        "label": "川本幸子との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8678,
+        "label": "沢木との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9751,
+        "label": "花路との面談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10456,
+        "label": "終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10560,
+        "label": "作品の解説・感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

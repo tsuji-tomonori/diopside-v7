@@ -1,0 +1,160 @@
+{
+  "videoId": "9xcMUP0l_Xs",
+  "title": "＃最終回【NieR:Automata -ニーアオートマタ-】3周目後半。この残酷な世界に希望はあるのか【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-04-01T17:50:15Z",
+  "duration": "PT4H36M6S",
+  "durationSec": 16566,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9xcMUP0l_Xs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:05:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機・オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 312,
+        "label": "塔への道を開く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 788,
+        "label": "データ記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1983,
+        "label": "塔の入口を目指して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2730,
+        "label": "塔内部を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3608,
+        "label": "塔で待つ存在",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4443,
+        "label": "塔の最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5524,
+        "label": "向き合う二人と選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6325,
+        "label": "ひとつの結末を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6720,
+        "label": "塔をもう一度",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7510,
+        "label": "再攻略しながら物語を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8307,
+        "label": "再びの連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9857,
+        "label": "もう一つの選択へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10923,
+        "label": "分岐後を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11342,
+        "label": "分岐をたどり直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11943,
+        "label": "スタッフロールでの挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13211,
+        "label": "物語のその先へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13582,
+        "label": "残る分岐を見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14194,
+        "label": "作品全体を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14703,
+        "label": "もう一つの場面を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15103,
+        "label": "配信の締めと今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15246,
+        "label": "スーパーチャットお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15900,
+        "label": "関連作品と設定の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16215,
+        "label": "命と心を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16442,
+        "label": "最後のお礼と挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

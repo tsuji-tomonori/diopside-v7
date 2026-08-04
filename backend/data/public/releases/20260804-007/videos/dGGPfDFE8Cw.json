@@ -1,0 +1,120 @@
+{
+  "videoId": "dGGPfDFE8Cw",
+  "title": "＃２【GTA5】私がルールです。異論は認めない。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-05T00:32:29Z",
+  "duration": "PT2H41M15S",
+  "durationSec": 9675,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dGGPfDFE8Cw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:05:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信再開・GTA起動待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "GTA開始・起動対応と街の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 986,
+        "label": "ミッション再開・携帯機能の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1326,
+        "label": "街で写真撮影・病院からの移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1978,
+        "label": "目的地への運転・追跡準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2635,
+        "label": "バイク追跡ミッション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3148,
+        "label": "ミッション後の夜の街と会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3782,
+        "label": "レスキュー車両の仕事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5107,
+        "label": "女性NPC探しと街の混乱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "写真撮影・水上スタント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6317,
+        "label": "ストリップバー探しと逃走",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7013,
+        "label": "夜の店へステルス進入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7504,
+        "label": "任務後の移動とマイケルのミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8132,
+        "label": "セラピー会話・店の場所確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8405,
+        "label": "ストリップクラブ到着・音声のみ設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8703,
+        "label": "店内活動・ダンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9479,
+        "label": "振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

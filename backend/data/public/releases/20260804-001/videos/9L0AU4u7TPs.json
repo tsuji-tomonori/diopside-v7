@@ -1,0 +1,105 @@
+{
+  "videoId": "9L0AU4u7TPs",
+  "title": "【#W白雪コラボ】爆笑不可避！喧嘩不可避！？罪なすりつけ合いのスーパーバニーマン【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-18T14:31:48Z",
+  "duration": "PT1H31M1S",
+  "durationSec": 5461,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9L0AU4u7TPs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T03:12:02.222446Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 590,
+        "label": "ゲーム開始・最初のステージを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 781,
+        "label": "合体して進む最初のステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "次のステージで協力プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1914,
+        "label": "難所攻略・進み方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2844,
+        "label": "新たな協力区間を登る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "頂上への登り方を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4376,
+        "label": "残り時間で本気の攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4790,
+        "label": "最後の挑戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5070,
+        "label": "ゲーム終了・プレイを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5198,
+        "label": "体重差と操作を検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5261,
+        "label": "次回コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5330,
+        "label": "コラボ・歌ってみた告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5411,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

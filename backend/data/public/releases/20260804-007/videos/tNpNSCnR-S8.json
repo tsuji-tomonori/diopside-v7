@@ -1,0 +1,105 @@
+{
+  "videoId": "tNpNSCnR-S8",
+  "title": "【スプラトゥーン3】塗って勝ちを捧げよ！#献上スプラ w/ 白雪巴 / 影山シエン / 風見くく【柚原いづみ / あにまーれ】",
+  "publishedAt": "2022-09-18T13:53:13Z",
+  "duration": "PT1H30M18S",
+  "durationSec": 5418,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tNpNSCnR-S8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T18:04:15.837210Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・献上スプラの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 542,
+        "label": "1試合目・ナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1046,
+        "label": "2試合目と作戦振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1628,
+        "label": "3試合目・ナワバリバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2123,
+        "label": "サーモンランへ移行・初回バイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "サーモンランの仕組みとウェーブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3142,
+        "label": "バイト後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3290,
+        "label": "サーモンランのウェーブに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3614,
+        "label": "報酬確認・次のバイト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4179,
+        "label": "サーモンランのウェーブ進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4471,
+        "label": "イクラ納品とノルマ確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4801,
+        "label": "終盤のサーモンラン・報酬トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4998,
+        "label": "ライブ・グッズ・イベント告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5353,
+        "label": "エンディング・4人の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

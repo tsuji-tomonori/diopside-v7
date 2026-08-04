@@ -1,0 +1,150 @@
+{
+  "videoId": "DNqUXiTZpT0",
+  "title": "【雑談】今年もふるさと納税！あなたのオススメをぜひとも～肉編～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-12T15:54:43Z",
+  "duration": "PT2H21M26S",
+  "durationSec": 8486,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DNqUXiTZpT0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ふるさと納税の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 341,
+        "label": "昨年の返礼品と今年の食材選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 770,
+        "label": "肉編スタート・昨年の購入量",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 964,
+        "label": "おすすめの牛肉とブランド比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1178,
+        "label": "すき焼き用の牛肉を絞り込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1615,
+        "label": "候補を検索して口コミを比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2011,
+        "label": "配送時期と量を考えて候補を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "牛肉の量と価格を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "米沢牛・飛騨牛の口コミと候補選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3021,
+        "label": "飛騨牛の口コミと4kg計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3459,
+        "label": "昨年の購入量を振り返り予算を計算",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "ブランド牛の口コミを比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4509,
+        "label": "米沢牛・佐賀牛・常陸牛を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "配送の注意点と候補の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5691,
+        "label": "ステーキ用の飛騨牛を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6471,
+        "label": "神戸牛の価格と家族分を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6878,
+        "label": "マンゴーとぶどうの返礼品を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7364,
+        "label": "果物の話と次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7526,
+        "label": "配信まとめ・今後のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7667,
+        "label": "スーパーチャット読み・お肉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7826,
+        "label": "スーパーチャット読み・果物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8008,
+        "label": "ふるさと納税の仕組みを解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8199,
+        "label": "おすすめ返礼品・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

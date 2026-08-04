@@ -1,0 +1,120 @@
+{
+  "videoId": "MwdwQCFppzE",
+  "title": "【マリオパーティースーパースターズ】VSさいつよCP。NINTENDO64版を完全リメイク‥ですって？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-05T07:24:46Z",
+  "duration": "PT2H4M11S",
+  "durationSec": 7451,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MwdwQCFppzE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:08:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 276,
+        "label": "ゲーム紹介・マップ選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 779,
+        "label": "ルール説明・対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1018,
+        "label": "対CPU戦スタート・最初のミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1624,
+        "label": "序盤のミニゲームとスター争い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2280,
+        "label": "アイテムと難関ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3025,
+        "label": "スター争いのボード進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "ミニゲームと進路判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4211,
+        "label": "難関ミニゲームを練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "終盤のアイテム戦略とミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5345,
+        "label": "ゲームの仕組みを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5451,
+        "label": "終盤のボード戦・ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6074,
+        "label": "ラストターン・終盤の盤面確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6464,
+        "label": "最後の移動と結果発表前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6973,
+        "label": "ボーナススター発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7181,
+        "label": "対戦の振り返り・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7329,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

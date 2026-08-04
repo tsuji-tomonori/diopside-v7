@@ -1,0 +1,140 @@
+{
+  "videoId": "upC6jsQ9U3E",
+  "title": "【地獄銭湯】姉妹の絆・続編決定！！一緒に銭湯行きましょう【海妹四葉/にじさんじ】",
+  "publishedAt": "2022-10-17T13:09:07Z",
+  "duration": "PT2H46M33S",
+  "durationSec": 9993,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/upC6jsQ9U3E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T17:16:16.861496Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ挨拶・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 233,
+        "label": "ゲーム紹介・開始準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 337,
+        "label": "ゲーム開始・引っ越し先の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 908,
+        "label": "神社のお祓い・銭湯の下見",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "銭湯の仕事開始・初日の接客",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "二日目の探索・客への飲み物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2563,
+        "label": "画面酔いの休憩・コラボ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2976,
+        "label": "停電と銭湯の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3682,
+        "label": "お風呂・サウナと客の対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4241,
+        "label": "神社の手がかり・駄菓子屋のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5097,
+        "label": "たまちゃん探し・重曹掃除と入浴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6025,
+        "label": "一区切り・朝の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6331,
+        "label": "新しい客の接客・浴場の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7014,
+        "label": "新たな物語パート・訪問先の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7309,
+        "label": "仕事に戻り周辺を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7647,
+        "label": "冷たい風呂の修理・設備復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8024,
+        "label": "夜の銭湯・次の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "部屋の手がかり・浴場の鍵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8822,
+        "label": "終盤のシャワー室パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9745,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9921,
+        "label": "コラボの振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

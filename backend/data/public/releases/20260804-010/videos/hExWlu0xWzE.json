@@ -1,0 +1,175 @@
+{
+  "videoId": "hExWlu0xWzE",
+  "title": "【こだわりラーメン館 ＃３】麺を‼スープを‼作って作ってつくりまくれ～‼‼【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-01T18:32:35Z",
+  "duration": "PT5H16M3S",
+  "durationSec": 18963,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hExWlu0xWzE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:57:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始と今回の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 276,
+        "label": "店舗チェックと営業再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 924,
+        "label": "序盤のライバル戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1514,
+        "label": "店舗強化と今後の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2049,
+        "label": "自家製しょうゆラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3193,
+        "label": "子ども向けラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4123,
+        "label": "懐かしのしょうゆラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4998,
+        "label": "ライバル戦と店舗強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5646,
+        "label": "塩ラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6798,
+        "label": "店員育成と大会挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7660,
+        "label": "にぎやか通りへ移転",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8039,
+        "label": "新エリアの店舗づくりと大会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9167,
+        "label": "自家製豚骨ラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9744,
+        "label": "店舗運営と売上チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10403,
+        "label": "大会挑戦と店舗強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11342,
+        "label": "手頃なしょうゆラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12061,
+        "label": "設備強化とトッピング大会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12504,
+        "label": "子ども客向けの低価格ラーメン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13077,
+        "label": "ライバル戦と大会挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13348,
+        "label": "白味噌ラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14412,
+        "label": "博多風豚骨ラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15402,
+        "label": "メニュー確認と次の開発準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15841,
+        "label": "魚介豚骨ラーメンに再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16717,
+        "label": "手頃な自家製ラーメン開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17448,
+        "label": "懐かしのしょうゆラーメンを再開発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18065,
+        "label": "目標確認とライバル戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18306,
+        "label": "振り返りと今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18418,
+        "label": "スーパーチャット読みと雑談",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "lpe0elOrXOk",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#6【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-20T08:00:58Z",
+  "duration": "PT2H31M52S",
+  "durationSec": 9112,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lpe0elOrXOk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:36:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 275,
+        "label": "ゲーム開始・操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 327,
+        "label": "病室で亜美を励ます",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "亜美の手当てと病気の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1829,
+        "label": "前の場面の感想・関係性の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2158,
+        "label": "酒井との対話・看護師を目指した理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2903,
+        "label": "病院の外で起きる出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3779,
+        "label": "病気についての説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4185,
+        "label": "休憩室の昼食・仕事の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4849,
+        "label": "漫画の手伝い・徹夜明けの勤務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5311,
+        "label": "煙草の買い物をめぐる対立",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5599,
+        "label": "子どもたちと病室で過ごす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "子どもたちの退院と見送り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6777,
+        "label": "病棟のダイエット談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7681,
+        "label": "病棟の緊迫した対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8257,
+        "label": "その後の病棟での会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8700,
+        "label": "酒井の介助と止血の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9009,
+        "label": "配信終了・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

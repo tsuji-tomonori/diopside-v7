@@ -1,0 +1,135 @@
+{
+  "videoId": "9Z7a4fc1LFw",
+  "title": "クリア耐久【Layers of Fear】突発ホラゲ実況【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-21T20:06:10Z",
+  "duration": "PT3H37M21S",
+  "durationSec": 13041,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9Z7a4fc1LFw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T16:11:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Layers of Fear紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 447,
+        "label": "アトリエ探索と最初の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1123,
+        "label": "子ども部屋と屋敷の手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2233,
+        "label": "絵の手掛かり・鍵とエレベーター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3144,
+        "label": "屋敷の異変と肖像画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3977,
+        "label": "道具の探索と重力の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5107,
+        "label": "逆さの屋敷と手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5846,
+        "label": "家族の部屋と無重力の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6812,
+        "label": "図書室と人形の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7197,
+        "label": "絵画に隠れた手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7643,
+        "label": "手紙を読みながら暗証番号パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8416,
+        "label": "友人の手紙と追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9009,
+        "label": "絵画評と電話番号の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9906,
+        "label": "制作にまつわる手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10426,
+        "label": "電話の暗号と絵の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11283,
+        "label": "収集物確認と終盤の屋敷探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12065,
+        "label": "鍵を使った屋敷探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12255,
+        "label": "終盤の演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12303,
+        "label": "ゲーム感想・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12449,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "En4_T_eX75g",
+  "title": "【#にじワイテ】うそつきはだあれ？マイクラ人狼ハロウィン回【健屋花那/にじさんじ】",
+  "publishedAt": "2020-10-18T14:21:12Z",
+  "duration": "PT2H4M2S",
+  "durationSec": 7442,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/En4_T_eX75g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:06:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "マイクラ人狼のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 196,
+        "label": "参加者紹介・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 783,
+        "label": "第1ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1176,
+        "label": "第1ゲーム・観戦と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1422,
+        "label": "第1ゲーム・昼の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2031,
+        "label": "第1ゲーム終盤の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2405,
+        "label": "第2ゲーム開始・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2709,
+        "label": "第2ゲーム・夜の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2962,
+        "label": "第2ゲーム・推理と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3361,
+        "label": "第2ゲーム・観戦と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4021,
+        "label": "第3ゲーム開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4793,
+        "label": "第3ゲーム終盤の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5108,
+        "label": "第3ゲーム後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5457,
+        "label": "ラストゲームの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5488,
+        "label": "ラストゲーム開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6022,
+        "label": "ラストゲーム終盤の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6289,
+        "label": "ラストゲーム後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6481,
+        "label": "ラストゲーム・観戦と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6708,
+        "label": "ラストゲーム終盤の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6979,
+        "label": "ラストゲーム後の集計・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7181,
+        "label": "決勝進出者の発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7266,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7320,
+        "label": "配信後の振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

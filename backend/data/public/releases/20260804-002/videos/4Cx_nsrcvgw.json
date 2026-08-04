@@ -1,0 +1,110 @@
+{
+  "videoId": "4Cx_nsrcvgw",
+  "title": "【晩酌】毎日頑張ってる我々に乾杯🍻お姉さんの一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 13軒目【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-04-25T16:00:01Z",
+  "duration": "PT2H16M21S",
+  "durationSec": 8181,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4Cx_nsrcvgw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T07:42:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 490,
+        "label": "乾杯・近況トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 741,
+        "label": "日々のコンディション談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1394,
+        "label": "漢字・言葉と最近の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1681,
+        "label": "移動中の出来事・街の混雑",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2398,
+        "label": "ライバー・ボイス・ゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2960,
+        "label": "質問募集・連休と先生の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3431,
+        "label": "視聴者アンケート・人との接し方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4002,
+        "label": "お悩み相談・気持ちの切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4884,
+        "label": "お悩み相談・自分に合う選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5661,
+        "label": "暮らしとやりくりの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6596,
+        "label": "最近読んだ漫画・おすすめ作品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7463,
+        "label": "今後の配信・動画告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7646,
+        "label": "スーパーチャット読み・締めの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8031,
+        "label": "今後の予定・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

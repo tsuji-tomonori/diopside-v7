@@ -1,0 +1,100 @@
+{
+  "videoId": "hGHJyKUr85c",
+  "title": "＃4.5【崩壊：スターレイル】ガチャ配信！！！黄泉と羅刹をお迎えにいきます。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-27T13:35:40Z",
+  "duration": "PT2H25M21S",
+  "durationSec": 8721,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hGHJyKUr85c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチャ方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 571,
+        "label": "黄泉のお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1430,
+        "label": "羅刹のお試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1981,
+        "label": "姫子たちのお試し・編成確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2725,
+        "label": "無課金分のガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "課金分のガチャ・結果整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5214,
+        "label": "黄泉・羅刹の育成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6460,
+        "label": "明日のストーリー向け編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7245,
+        "label": "黄泉の育成画面・モーション確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7475,
+        "label": "ストーリー用パーティーを再検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7831,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7952,
+        "label": "次回に向けたキャラクター雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "スーパーチャット・最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

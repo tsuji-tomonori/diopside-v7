@@ -1,0 +1,115 @@
+{
+  "videoId": "W85Eyjzrp5o",
+  "title": "【Dead by Daylightコラボ】霧の森に呼ばれてる【夕陽リリ/にじさんじ】",
+  "publishedAt": "2022-05-26T15:37:01Z",
+  "duration": "PT2H50M19S",
+  "durationSec": 10219,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/W85Eyjzrp5o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ開始・第1試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 594,
+        "label": "第1試合・鎖キラーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1791,
+        "label": "第1試合後の振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2144,
+        "label": "第2試合・チェストと救助の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2942,
+        "label": "第2試合後の振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3394,
+        "label": "第3試合・キラー能力を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3955,
+        "label": "第3試合後の感想・第4試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4373,
+        "label": "第4試合・ライトとカラスを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5355,
+        "label": "第5試合の構成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5588,
+        "label": "第5試合・感染とゾンビの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6367,
+        "label": "第5試合後の振り返り・第6試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6898,
+        "label": "第6試合・箱と発電機の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8035,
+        "label": "第6試合後の振り返り・第7試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8395,
+        "label": "第7試合・リージョンでの立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9578,
+        "label": "第7試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9899,
+        "label": "コラボの感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

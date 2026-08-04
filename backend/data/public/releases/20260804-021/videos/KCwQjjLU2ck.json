@@ -1,0 +1,120 @@
+{
+  "videoId": "KCwQjjLU2ck",
+  "title": "【Dark Deception】クリアするまでサル地獄【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-29T15:10:59Z",
+  "duration": "PT2H17S",
+  "durationSec": 7217,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KCwQjjLU2ck/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:55:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Dark Deception挑戦説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 301,
+        "label": "ステージ1・クリスタル集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 853,
+        "label": "ステージ1後のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1427,
+        "label": "ステージ2の準備と敵の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1642,
+        "label": "ステージ2の探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "クリスタルと進行ルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3018,
+        "label": "マップを見直して再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "敵の追跡をかわす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4523,
+        "label": "残りのクリスタルを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4996,
+        "label": "ルートを再確認して挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5551,
+        "label": "マップとポータルの見分け方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6230,
+        "label": "ステージ終了後のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6350,
+        "label": "スキル強化と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6571,
+        "label": "ステージ3開始・敵を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6765,
+        "label": "敵を固める方法を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6907,
+        "label": "ステージ3を再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7167,
+        "label": "次回予告・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

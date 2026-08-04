@@ -1,0 +1,160 @@
+{
+  "videoId": "-ztSKgxLrOY",
+  "title": "【Crime Scene Cleaner】✨大型アプデ✨死体も血も汚れも罪も全部任せろ＿＿＿。【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-01T17:13:01Z",
+  "duration": "PT3H44M46S",
+  "durationSec": 13486,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-ztSKgxLrOY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T01:12:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 136,
+        "label": "開始挨拶・エイプリルフール雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 455,
+        "label": "ゲーム再開・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 634,
+        "label": "地下研究所の探索開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1564,
+        "label": "研究資料を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1942,
+        "label": "エレベーターで下層へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3264,
+        "label": "培養区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3826,
+        "label": "電気実験室の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4212,
+        "label": "清掃試験区画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4722,
+        "label": "浴室・居住区の清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5286,
+        "label": "研究設備のある区画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5767,
+        "label": "ヒューズを探して施設探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6548,
+        "label": "搬送装置とゲート攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7514,
+        "label": "居住区の探索と清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8492,
+        "label": "ダクトから未探索区画へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9346,
+        "label": "研究所の残件回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10051,
+        "label": "研究所内を追加探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10767,
+        "label": "病院の後日談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10913,
+        "label": "学校トイレの清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11669,
+        "label": "誕生日後の自宅清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11918,
+        "label": "学校食堂の清掃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12666,
+        "label": "自宅へ戻って荷造り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12939,
+        "label": "次の依頼とゲーム内エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13131,
+        "label": "ゲーム終了・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13186,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

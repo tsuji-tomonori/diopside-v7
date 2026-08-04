@@ -1,0 +1,120 @@
+{
+  "videoId": "cew5ApNCEHk",
+  "title": "【麻雀】弟子入り夜王国！！舞元師匠に麻雀を手取り足取り教わります【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-18T15:48:23Z",
+  "duration": "PT1H48M10S",
+  "durationSec": 6490,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cew5ApNCEHk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・麻雀企画の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 294,
+        "label": "麻雀の基本ルールと操作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 618,
+        "label": "牌の読み方と手牌づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 917,
+        "label": "初実戦でリーチと点数を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1370,
+        "label": "対局再開・親の仕組みと麻雀談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2160,
+        "label": "リーチへの守備と降りる判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2555,
+        "label": "風牌・場風と南入を説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2953,
+        "label": "鳴きと捨て牌から相手を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3390,
+        "label": "フリテンと攻め方を学ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3714,
+        "label": "ピンフ・役・ドラの基礎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4361,
+        "label": "危険牌の押し引きと対局中の読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4904,
+        "label": "終局条件と点差を意識した打ち方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5283,
+        "label": "終盤の捨て牌読みと押し引き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5778,
+        "label": "対局後のアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5863,
+        "label": "終盤のリーチ判断と対局総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6174,
+        "label": "初心者目線の感想・大会告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6385,
+        "label": "告知・終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

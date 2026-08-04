@@ -1,0 +1,300 @@
+{
+  "videoId": "_WrWZ5f1t3U",
+  "title": "【#不破湊50万人記念】50人耐久！ガチアポ無し逆凸配信【不破湊/にじさんじ】",
+  "publishedAt": "2022-02-19T21:57:19Z",
+  "duration": "PT11H40S",
+  "durationSec": 39640,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_WrWZ5f1t3U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T21:01:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1111,
+        "label": "逆凸：あばだんご",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1826,
+        "label": "逆凸：甲斐田晴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2504,
+        "label": "逆凸：三枝明那",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3350,
+        "label": "逆凸：社築",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4219,
+        "label": "逆凸：鷹宮リオン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4709,
+        "label": "逆凸：白雪巴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5279,
+        "label": "逆凸：シスター・クレア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6054,
+        "label": "逆凸：伏見ガク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6925,
+        "label": "逆凸：そらる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "逆凸：長尾景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8032,
+        "label": "逆凸：空星きらめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8541,
+        "label": "逆凸：西園チグサ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9166,
+        "label": "逆凸：アンジュ・カトリーナ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10096,
+        "label": "逆凸：星川サラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10970,
+        "label": "逆凸：葛葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11635,
+        "label": "逆凸：エクス・アルビオ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13109,
+        "label": "逆凸：樋口楓",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13555,
+        "label": "逆凸：グウェル・オス・ガール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14047,
+        "label": "逆凸：レイン・パターソン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15035,
+        "label": "逆凸：夢追翔",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15735,
+        "label": "逆凸：フレン・E・ルスタリオ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16631,
+        "label": "逆凸：夜見れな",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17338,
+        "label": "逆凸：郡道美玲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18047,
+        "label": "逆凸：葉加瀬冬雪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18572,
+        "label": "逆凸：イブラヒム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19451,
+        "label": "逆凸：弦月藤士郎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20495,
+        "label": "逆凸：本間ひまわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21624,
+        "label": "逆凸：ラトナ・プティ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22162,
+        "label": "逆凸：北小路ヒスイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22604,
+        "label": "逆凸：叶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22992,
+        "label": "逆凸：戌亥とこ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23673,
+        "label": "逆凸：小野町春香",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24272,
+        "label": "逆凸：剣持刀也",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25087,
+        "label": "逆凸：椎名唯華",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25855,
+        "label": "逆凸：nqrse",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26823,
+        "label": "逆凸：フミ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27504,
+        "label": "逆凸：夕陽リリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28387,
+        "label": "逆凸：鈴木勝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28929,
+        "label": "逆凸：加賀美ハヤト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29574,
+        "label": "逆凸：渋谷ハジメ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 30300,
+        "label": "逆凸：舞元啓介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31086,
+        "label": "逆凸：葛葉（再登場）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31497,
+        "label": "逆凸：渋谷ハル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31909,
+        "label": "逆凸：天宮こころ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 33031,
+        "label": "逆凸：レオス・ヴィンセント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 34058,
+        "label": "逆凸：レヴィ・エリファ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 35079,
+        "label": "逆凸：天月",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 35607,
+        "label": "逆凸：シェリン・バーガンディ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 36177,
+        "label": "逆凸：月ノ美兎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 37556,
+        "label": "逆凸：勇気ちひろ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 38133,
+        "label": "逆凸：ギルザレンIII世",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 38957,
+        "label": "50人達成・振り返りと締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

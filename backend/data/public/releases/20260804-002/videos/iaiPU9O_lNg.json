@@ -1,0 +1,190 @@
+{
+  "videoId": "iaiPU9O_lNg",
+  "title": "＃30【崩壊：スターレイル】オンパロス編。記憶解放！ミュリオン召喚だぁぁぁ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-24T11:48:26Z",
+  "duration": "PT6H29M35S",
+  "durationSec": 23375,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iaiPU9O_lNg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:03:35.144761Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 173,
+        "label": "オープニング・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 783,
+        "label": "本編開始・記憶の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1861,
+        "label": "アグライア視点",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4142,
+        "label": "クレムノスの記憶へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "クレムノスの採点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7202,
+        "label": "時空の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8225,
+        "label": "城の奥へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9424,
+        "label": "神聖を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10802,
+        "label": "決戦前の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11105,
+        "label": "クレムノス決戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11701,
+        "label": "クレムノス編・終幕",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12840,
+        "label": "休息とミュリオン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13927,
+        "label": "ヘルタの余話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14521,
+        "label": "謁見システムの修復",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15601,
+        "label": "謁見システムの異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16441,
+        "label": "ヘルタへの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16800,
+        "label": "オンパロスへ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17343,
+        "label": "半神の試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17941,
+        "label": "星穹列車の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18063,
+        "label": "英雄物語を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18344,
+        "label": "アグライアの英雄物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18790,
+        "label": "トリビーの英雄物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19573,
+        "label": "キャストリスの英雄物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20128,
+        "label": "アグライアのガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20400,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20943,
+        "label": "キャラクターガチャ後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22380,
+        "label": "編成・装備設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22801,
+        "label": "新編成の試運転",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22920,
+        "label": "次回予定・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23042,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

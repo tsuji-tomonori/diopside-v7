@@ -1,0 +1,135 @@
+{
+  "videoId": "3zH4uI0xAzU",
+  "title": "【参加型マリカ】ハネムーンドライブの会場はここです【#にじさんじ性癖コンビ】",
+  "publishedAt": "2020-03-28T12:54:59Z",
+  "duration": "PT2H12M33S",
+  "durationSec": 7953,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3zH4uI0xAzU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・練習準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 785,
+        "label": "参加型マリカとハネムーンカップの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1216,
+        "label": "初回練習レースとルーム再作成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1672,
+        "label": "参加者と走る練習レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2228,
+        "label": "映像トラブルとレース継続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2932,
+        "label": "映像復旧後の走行と機材調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3602,
+        "label": "三度目の大会設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3900,
+        "label": "参加型レースと本番に向けた練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4433,
+        "label": "CPU戦に切り替えて走る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4674,
+        "label": "罰ゲーム相談とレース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5001,
+        "label": "声の演技・掛け合いと順位争い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "走行とスパムコメントへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6003,
+        "label": "大会作り直しと新カップ設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6554,
+        "label": "新大会の参加準備と走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7203,
+        "label": "罰ゲームの語尾を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7256,
+        "label": "最後のレースと罰ゲームの決定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7503,
+        "label": "罰ゲームを実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7718,
+        "label": "配信総括と機材トラブルの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7824,
+        "label": "明日の本番に向けた予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7888,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

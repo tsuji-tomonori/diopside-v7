@@ -1,0 +1,115 @@
+{
+  "videoId": "O0OvU-0f2TQ",
+  "title": "【お悩み相談 #FREE編01】人間関係/メンタル/性別/推し活etc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-15T14:47:56Z",
+  "duration": "PT1H39M3S",
+  "durationSec": 5943,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/O0OvU-0f2TQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お悩み相談フリー編の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 406,
+        "label": "人間関係の悩み：誘いをやんわり断る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 809,
+        "label": "完璧主義と失敗への向き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1528,
+        "label": "スポーツの不調とコーチへの不安",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2369,
+        "label": "体調・メンタルの不調と向き合う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3102,
+        "label": "可愛くなりたい相談・眉メイク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3478,
+        "label": "自分に合うメイクと素肌のケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3881,
+        "label": "恋愛と性別についての相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3980,
+        "label": "家族への向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "好きな人との距離の縮め方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4636,
+        "label": "推し活と周囲との比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5058,
+        "label": "相談本編の締めと振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5120,
+        "label": "今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5326,
+        "label": "配信予定のゲーム・スパチャ読み開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5438,
+        "label": "相談への共感とリスナーへの感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5681,
+        "label": "スパチャ読み・配信後の雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

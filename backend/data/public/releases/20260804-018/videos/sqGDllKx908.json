@@ -1,0 +1,160 @@
+{
+  "videoId": "sqGDllKx908",
+  "title": "【YOUR TOY-キミノオモチャ-】捨てたオモチャが悪夢となって襲い掛かる【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-11T17:31:39Z",
+  "duration": "PT3H15M22S",
+  "durationSec": 11722,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sqGDllKx908/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 218,
+        "label": "ゲーム開始・最初の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 647,
+        "label": "電話と浴室の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1296,
+        "label": "閉じ込められた場面を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1566,
+        "label": "アイテムを組み合わせて先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2019,
+        "label": "水のたまった浴室を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2763,
+        "label": "鏡・水・照明のギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "配線修理と手掛かり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3347,
+        "label": "浴室内をさらに調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3819,
+        "label": "電気とコンセントを修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4195,
+        "label": "水道・鏡・個室の順番ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4810,
+        "label": "地下へ進み追跡を切り抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5542,
+        "label": "分岐エリアの探索と音楽ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "新エリアの追跡とオルゴール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7082,
+        "label": "子供時代の部屋へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8012,
+        "label": "子供部屋の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9044,
+        "label": "パズルピースを揃えて番号を解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9309,
+        "label": "終盤の仕掛けへ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9601,
+        "label": "パネルパズルと水中の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9898,
+        "label": "帰路の浴室で仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10246,
+        "label": "スイッチと水路の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10453,
+        "label": "最後の仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10799,
+        "label": "ゲーム終盤の物語パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11032,
+        "label": "ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11254,
+        "label": "感想・次回予告・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

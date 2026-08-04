@@ -1,0 +1,130 @@
+{
+  "videoId": "kwNVIXzAvn8",
+  "title": "【マリオカート８DX】特訓③🔥かわいいらしいキャラコンからの卒業🔥にじさんじフミ】",
+  "publishedAt": "2021-12-16T19:28:42Z",
+  "duration": "PT3H39M57S",
+  "durationSec": 13197,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kwNVIXzAvn8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・特訓3日目の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 239,
+        "label": "ソロのレート戦で走行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 637,
+        "label": "キャラコンを意識してレース練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1357,
+        "label": "ミラーコースで操作を反復練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "ショートカットとアイテム運用の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3916,
+        "label": "レースを続けて走り方を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "レース後の反省と基本操作の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5528,
+        "label": "基本操作とアイテム運用を実戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7372,
+        "label": "白雪巴さん合流・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7648,
+        "label": "参加型の部屋作成とルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7916,
+        "label": "白雪巴さんと参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "対戦の合間の雑談と次のレース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9941,
+        "label": "次のレースで被弾回避を検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10222,
+        "label": "レース結果を振り返り・ゲスト雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10602,
+        "label": "レース練習と操作を身につける話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11166,
+        "label": "対戦後の雑談・クリスマスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11918,
+        "label": "参加型レースを再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12385,
+        "label": "最後の練習レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12970,
+        "label": "対戦の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "videoId": "FN1ITZC-v3o",
+  "title": "【桃太郎電鉄】完全初見。桃鉄を私はまだ何も知らない【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-19T14:59:18Z",
+  "duration": "PT1H47M10S",
+  "durationSec": 6430,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FN1ITZC-v3o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:59:25Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "初見プレイの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 410,
+        "label": "桃鉄の遊び方と新要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 698,
+        "label": "ゲーム設定と参加キャラクター決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "ゲーム開始・最初の目的地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2356,
+        "label": "貧乏神と物件・カードを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2899,
+        "label": "2年目のカード運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "ラスト1年の目的地戦略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4177,
+        "label": "ワープ駅・空港駅を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4539,
+        "label": "3年目のルートを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5117,
+        "label": "目的地到着と物件購入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "最終ターンのカード運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6113,
+        "label": "ゲーム結果を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6268,
+        "label": "初見プレイの感想・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

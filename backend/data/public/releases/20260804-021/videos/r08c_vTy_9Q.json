@@ -1,0 +1,110 @@
+{
+  "videoId": "r08c_vTy_9Q",
+  "title": "【つぐのひ-忌み夜の喰霊品店-】女の子多数のホラーに女好き白雪はビビるのか！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-10T14:25:30Z",
+  "duration": "PT1H16M50S",
+  "durationSec": 4610,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/r08c_vTy_9Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:55:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作品紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 262,
+        "label": "ゲーム開始・閉店後の店内探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 949,
+        "label": "鏡の怪異と閉店後の店内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "目黒の不在と店内の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1703,
+        "label": "鏡の裏の文字を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2093,
+        "label": "鏡の中の店内とロッカー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "停電と鏡だらけの店内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "休憩室の異変と脱出方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3040,
+        "label": "鏡の文字の解読と異世界の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3294,
+        "label": "鏡の向こうと人形の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3584,
+        "label": "終盤の対峙・エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3899,
+        "label": "クリア後の感想・隠し要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4075,
+        "label": "作品の感想と今後の配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4250,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4452,
+        "label": "ホラーゲーム談義・配信締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

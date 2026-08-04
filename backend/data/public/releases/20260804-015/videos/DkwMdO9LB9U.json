@@ -1,0 +1,125 @@
+{
+  "videoId": "DkwMdO9LB9U",
+  "title": "【バイオRE:2】番外編The 4th Survivorを初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-04T16:12:24Z",
+  "duration": "PT1H52M51S",
+  "durationSec": 6771,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DkwMdO9LB9U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:15:27.661531Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・番外編の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 292,
+        "label": "HUNK編開始・警察署を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 634,
+        "label": "警察署への道を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 910,
+        "label": "警察署内のルート攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1929,
+        "label": "脱出ルートの最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "作戦を見直して再挑戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2725,
+        "label": "再挑戦・敵とアイテムに対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3404,
+        "label": "バス周辺の突破を試みる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4081,
+        "label": "リッカーのいる区画を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4521,
+        "label": "強敵エリアの対策を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4757,
+        "label": "車両エリアの攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5175,
+        "label": "拘置所へのルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5541,
+        "label": "難易度を変えて再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5808,
+        "label": "リハーサルモードで後半攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6514,
+        "label": "ゲーム終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6572,
+        "label": "ゲーム終了・告知へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6608,
+        "label": "今後の配信予定・ゲーム後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6705,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

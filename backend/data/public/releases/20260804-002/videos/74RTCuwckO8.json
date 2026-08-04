@@ -1,0 +1,150 @@
+{
+  "videoId": "74RTCuwckO8",
+  "title": "【バイオRE:2】女好き強気お姉さんのビビりバイオプレイ～クレア裏～#２【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-03T17:11:57Z",
+  "duration": "PT3H36M43S",
+  "durationSec": 13003,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/74RTCuwckO8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T15:27:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回からの続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 482,
+        "label": "警察署内の探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 900,
+        "label": "メダルの仕掛けを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "アイテム確認と武器保管庫の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2408,
+        "label": "装備を整えて次の区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3301,
+        "label": "警察署内の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3604,
+        "label": "シェリーと行動をともにする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "駐車場から署内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "署長に関する資料を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6005,
+        "label": "電子部品を探して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6606,
+        "label": "時計台の仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "取り逃しアイテムを回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8423,
+        "label": "署内のルートを組み直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9602,
+        "label": "時計台への進行と装備回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10201,
+        "label": "時計台の仕掛けと周辺の回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10820,
+        "label": "ランプの仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "取引をめぐる場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11405,
+        "label": "シェリー側の仕掛けを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11701,
+        "label": "シェリーの操作と日記",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12002,
+        "label": "音を立てずに部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12304,
+        "label": "鍵と脱出の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12602,
+        "label": "シェリー編の終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12901,
+        "label": "配信終了前の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

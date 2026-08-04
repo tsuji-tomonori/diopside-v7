@@ -1,0 +1,150 @@
+{
+  "videoId": "Bze0rujBpp4",
+  "title": "【Among Us】キャラコンに自信あり男　ホッホーゥ #Niji_AmongUs【三枝明那 / にじさんじ】",
+  "publishedAt": "2020-11-18T13:42:34Z",
+  "duration": "PT2H24M7S",
+  "durationSec": 8647,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Bze0rujBpp4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:48:15.485431Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Among Usルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 656,
+        "label": "最初のマッチ・タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1061,
+        "label": "次のマッチ・会議の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1355,
+        "label": "同行と監視カメラを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2022,
+        "label": "ルール設定を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2156,
+        "label": "タスク進行と長い会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3250,
+        "label": "サボタージュ対応と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4049,
+        "label": "同行・タスク・会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "カフェテリア周辺のマッチと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5888,
+        "label": "ラウンド後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6006,
+        "label": "次のマッチ・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6260,
+        "label": "会議とラウンド切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6618,
+        "label": "サボタージュ・タスク・同行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7070,
+        "label": "ラウンド後の反応と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7214,
+        "label": "マッチ序盤・緊急会議前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7296,
+        "label": "緊急会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7390,
+        "label": "会議後のマッチ進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7732,
+        "label": "ラウンド後の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7870,
+        "label": "終盤のマッチ・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8118,
+        "label": "終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8437,
+        "label": "ゲーム終了後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8513,
+        "label": "次回Among Us企画の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8601,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

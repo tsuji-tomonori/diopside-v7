@@ -1,0 +1,135 @@
+{
+  "videoId": "CxyaFJZl5Vk",
+  "title": "前編【クローズド・ナイトメア】結構ガチめで怖いリアルホラー脱出ゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-07-14T15:02:31Z",
+  "duration": "PT3H42M9S",
+  "durationSec": 13329,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CxyaFJZl5Vk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム開始・マリアの目覚め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1211,
+        "label": "最初の部屋から脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1621,
+        "label": "暗闇の通路とマネキンの部屋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2621,
+        "label": "マネキンの謎をやり直してカードへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3022,
+        "label": "廊下で仮面の人物を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3551,
+        "label": "研究メモと本棚を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3940,
+        "label": "指輪の仕掛けに挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4527,
+        "label": "天使と悪魔の論理パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5968,
+        "label": "赤ちゃん人形の部屋でカード探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7272,
+        "label": "銀城との出会いと脱出相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7952,
+        "label": "判定パズルの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8201,
+        "label": "証言を読み解く推理パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9002,
+        "label": "判定パートと次の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9641,
+        "label": "銀城と記憶喪失について話す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10071,
+        "label": "カメラで見えない手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10902,
+        "label": "毒の手掛かりと薬瓶の識別",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11393,
+        "label": "解毒剤を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11992,
+        "label": "カードの用途と部屋移動を推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12460,
+        "label": "儀式の記録と銀城の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12991,
+        "label": "危険な部屋で本編終了・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

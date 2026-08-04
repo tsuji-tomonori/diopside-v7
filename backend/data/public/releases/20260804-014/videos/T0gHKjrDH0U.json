@@ -1,0 +1,110 @@
+{
+  "videoId": "T0gHKjrDH0U",
+  "title": "【ポケモンユナイト】リリさんとユナイト！ポケモン色々使ってみる【夕陽リリ/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-03T12:20:29Z",
+  "duration": "PT1H53M46S",
+  "durationSec": 6826,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/T0gHKjrDH0U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:27:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 477,
+        "label": "1戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1114,
+        "label": "1戦目後の振り返り・2戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1241,
+        "label": "2戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1759,
+        "label": "2戦目後の振り返り・3戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2050,
+        "label": "3戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2655,
+        "label": "3戦目後の振り返り・4戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2801,
+        "label": "4戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3335,
+        "label": "4戦目後の振り返り・5戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "5戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4040,
+        "label": "5戦目後の振り返り・6戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4500,
+        "label": "6戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5669,
+        "label": "6戦目後の振り返り・7戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5874,
+        "label": "7戦目のゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6499,
+        "label": "7戦目後の振り返り・締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

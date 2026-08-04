@@ -1,0 +1,85 @@
+{
+  "videoId": "rq0TZFtnlGc",
+  "title": "ましろ爻はとにかくモテたい。【#にじデュオメン】",
+  "publishedAt": "2024-08-28T13:10:01Z",
+  "duration": "PT1H1M45S",
+  "durationSec": 3705,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rq0TZFtnlGc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:09:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・モテ会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 297,
+        "label": "モテ会話・自己改善",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 622,
+        "label": "モテ会話の講評",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 771,
+        "label": "男性肌とスキンケアの基礎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1169,
+        "label": "ウォッシュバームの紹介・実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2194,
+        "label": "オールインワンローションの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2985,
+        "label": "モテデートプラン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3374,
+        "label": "デートプランの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3428,
+        "label": "コラボ限定セットの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3561,
+        "label": "企画の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "wXaulkTQdOE",
+  "title": "【縦型配信】ホワイトデーだからファンサしちゃうぞ♥スクショ祭り♥【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-14T15:26:47Z",
+  "duration": "PT2H13M16S",
+  "durationSec": 7996,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wXaulkTQdOE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・スクショ祭り説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 295,
+        "label": "初回ファンサ素材とポーズ調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 719,
+        "label": "髪型・背景を変えてウインク素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1010,
+        "label": "好意メッセージと髪型違い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1410,
+        "label": "衣装選びとドレス素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1922,
+        "label": "軍服でファンサ素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2399,
+        "label": "ボンデージ素材の調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2590,
+        "label": "部屋着素材と初見トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3020,
+        "label": "通常衣装・私服・眼鏡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3439,
+        "label": "秋服・アクセサリー談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3724,
+        "label": "アサシン・ボンデージ衣装",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4104,
+        "label": "フル衣装素材の調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4436,
+        "label": "軍服素材の追加撮影",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4719,
+        "label": "私服と一年の感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5135,
+        "label": "和服・清楚系素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5567,
+        "label": "着物素材の調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5746,
+        "label": "雪背景の冬服と小物",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6330,
+        "label": "後半戦・頑張ろう素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6885,
+        "label": "アサシンなど応援素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7434,
+        "label": "ボンデージで応援素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7691,
+        "label": "最後の紫・部屋着素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7789,
+        "label": "地震対応と早期終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

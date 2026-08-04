@@ -1,0 +1,145 @@
+{
+  "videoId": "E-11oUhe1mE",
+  "title": "【雑談】生川家、コラボ最終回＿＿＿＿＿＿。✨最後に告知あり✨【影山シエン/白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-29T13:57:25Z",
+  "duration": "PT2H46M41S",
+  "durationSec": 10001,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/E-11oUhe1mE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T20:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最後のコラボ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1179,
+        "label": "ソロイベントとやりたかったこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2053,
+        "label": "これまでの活動を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2370,
+        "label": "ファンからの支持について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2635,
+        "label": "生川家ファッションショー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4204,
+        "label": "これから挑戦したいこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4584,
+        "label": "それぞれのグループの魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5040,
+        "label": "もし別の姿になったら",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5458,
+        "label": "初対面と配信BGM",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5700,
+        "label": "一週間入れ替わったら",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6150,
+        "label": "仕事の選択と後悔しない決断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6711,
+        "label": "第一印象と今の印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7006,
+        "label": "もし本当の姉弟だったら",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7439,
+        "label": "立場を入れ替えて振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7944,
+        "label": "最後に伝えたいこと",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8368,
+        "label": "生川家から最後の言葉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8441,
+        "label": "生みの親への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8679,
+        "label": "お知らせの前に",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8984,
+        "label": "最後のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9284,
+        "label": "今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9395,
+        "label": "写真撮影と思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9906,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

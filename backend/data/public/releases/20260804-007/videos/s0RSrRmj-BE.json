@@ -1,0 +1,200 @@
+{
+  "videoId": "s0RSrRmj-BE",
+  "title": "＃10【ブルーアーカイブ】カルバノグの兎編 1章前半。心がピョンピョンするんじゃ…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-29T10:19:39Z",
+  "duration": "PT3H8M11S",
+  "durationSec": 11291,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s0RSrRmj-BE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・カルバノグの兎編紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 516,
+        "label": "カルバノグの兎編1章前半スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 849,
+        "label": "SRT閉鎖をめぐる騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1185,
+        "label": "公園での抗議と作戦開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1342,
+        "label": "RABBIT小隊とヴァルキューレの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2052,
+        "label": "応援部隊と公園作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2246,
+        "label": "公園での認証確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2517,
+        "label": "対峙と作戦の行方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "作戦後の状況整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3014,
+        "label": "RABBIT小隊それぞれの事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3995,
+        "label": "SRTの処分と組織の背景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4570,
+        "label": "RABBIT小隊の今後をめぐる提案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4903,
+        "label": "作戦後の行き先を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "公園キャンプを選ぶまで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5363,
+        "label": "キャンプの朝と生活確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "食料不足と廃棄弁当",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6202,
+        "label": "数日後のキャンプと衛生問題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6542,
+        "label": "ドラム缶風呂の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6914,
+        "label": "資材探しが戦闘に",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "作戦後のドラム缶風呂",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "風呂場の騒動と新たな噂",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8304,
+        "label": "デカルトとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9086,
+        "label": "食料をめぐる対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9278,
+        "label": "戦いの後の物資とルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9509,
+        "label": "物語の一区切り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9607,
+        "label": "嵐で壊れたキャンプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9729,
+        "label": "SRTの理想をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9945,
+        "label": "先生とキャンプの復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10147,
+        "label": "読了・配信分の区切り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10241,
+        "label": "アフタートーク：今回の感想と今後の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10809,
+        "label": "スーパーチャットとゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11101,
+        "label": "次回への展望",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11134,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

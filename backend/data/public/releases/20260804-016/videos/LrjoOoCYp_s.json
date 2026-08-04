@@ -1,0 +1,175 @@
+{
+  "videoId": "LrjoOoCYp_s",
+  "title": "＃07【ブルーアーカイブ】エデン条約編 2章後半。補習授業部は無事に全員合格できる…のか！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-20T07:20:09Z",
+  "duration": "PT3H10M28S",
+  "durationSec": 11428,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LrjoOoCYp_s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 454,
+        "label": "前回ストーリーのおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 658,
+        "label": "特別学力試験の厳しい変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1290,
+        "label": "ゲヘナへの道中と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1628,
+        "label": "ゲヘナでの騒動と脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2291,
+        "label": "試験会場とナギサの指示",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2646,
+        "label": "第2次特別学力試験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2723,
+        "label": "試験後の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3387,
+        "label": "第3次試験へ向けた勉強",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3591,
+        "label": "最終試験前夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3920,
+        "label": "アリウスの計画と学園の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4432,
+        "label": "アズサの告白と平和への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5164,
+        "label": "補習授業部、それぞれの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5528,
+        "label": "ナギサを守る作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5745,
+        "label": "アリウス襲撃への対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6594,
+        "label": "戦闘後の増援と緊迫する状況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6720,
+        "label": "トリニティで動き出す新たな局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7547,
+        "label": "シスターフッドと防衛戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8225,
+        "label": "騒動の収束と仲間たちの決断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8650,
+        "label": "最終試験へ急ぐ一行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8807,
+        "label": "最後の特別学力試験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8997,
+        "label": "試験後のエピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9201,
+        "label": "次の物語への予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9342,
+        "label": "ストーリー振り返りとガチャ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9442,
+        "label": "ナギサのガチャ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10225,
+        "label": "ガチャ後半・生徒を迎える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11159,
+        "label": "最後のピックアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11240,
+        "label": "ガチャ振り返り・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

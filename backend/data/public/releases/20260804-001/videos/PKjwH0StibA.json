@@ -1,0 +1,255 @@
+{
+  "videoId": "PKjwH0StibA",
+  "title": "【スプラトゥーン3】にじさんじスプラ祭り本番！ 神視点【#にじスプラ祭り】",
+  "publishedAt": "2022-10-16T13:51:42Z",
+  "duration": "PT5H8M49S",
+  "durationSec": 18529,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PKjwH0StibA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開会・大会概要",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 296,
+        "label": "大会形式・ルールと進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 732,
+        "label": "参加チーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1353,
+        "label": "ガチエリア第1試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1862,
+        "label": "ガチエリア第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2202,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2764,
+        "label": "ガチエリア第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2984,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3674,
+        "label": "ガチエリア第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "ガチアサリ開幕・第1試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4563,
+        "label": "ガチアサリ第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4973,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5481,
+        "label": "ガチアサリ第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5912,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6365,
+        "label": "ガチアサリ第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6744,
+        "label": "ガチヤグラ開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7026,
+        "label": "ガチヤグラ第1試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7267,
+        "label": "ガチヤグラ第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7672,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8166,
+        "label": "ガチヤグラ第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8512,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8734,
+        "label": "ガチヤグラ第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9501,
+        "label": "ガチヤグラ結果・休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10270,
+        "label": "ガチホコ開幕・第1試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10565,
+        "label": "ガチホコ第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10961,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11482,
+        "label": "ガチホコ第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11780,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12372,
+        "label": "ガチホコ第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12787,
+        "label": "ナワバリ開幕・第1試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13273,
+        "label": "ナワバリ第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13545,
+        "label": "第1試合振り返り・第2試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13800,
+        "label": "ナワバリ第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14105,
+        "label": "第2試合振り返り・第3試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14681,
+        "label": "ナワバリ第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14883,
+        "label": "大会総括・結果集計",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15467,
+        "label": "MVP発表・上位結果の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15660,
+        "label": "エキシビション選出・インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16620,
+        "label": "エキシビション第1試合（ガチエリア）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16837,
+        "label": "エキシビション第2試合（ガチアサリ）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17252,
+        "label": "エキシビション第3試合（ガチヤグラ）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17686,
+        "label": "エキシビション第4試合（ガチホコ）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17882,
+        "label": "エキシビション第5試合（ナワバリ）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18166,
+        "label": "閉会コメント",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

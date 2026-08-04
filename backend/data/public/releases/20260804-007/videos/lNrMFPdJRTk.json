@@ -1,0 +1,105 @@
+{
+  "videoId": "lNrMFPdJRTk",
+  "title": "【#愛園王】愛園のことなんでも知ってるよね？【にじさんじ/愛園愛美/えま★おうがすと/白雪巴/瀬戸美夜子/ホロライブ/癒月ちょこ】",
+  "publishedAt": "2023-11-08T13:20:32Z",
+  "duration": "PT2H10M27S",
+  "durationSec": 7827,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lNrMFPdJRTk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:50:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日クイズ企画の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 216,
+        "label": "ゲスト紹介と優勝予想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 405,
+        "label": "ルール説明とクイズ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 638,
+        "label": "第1〜4問・プロフィールを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1400,
+        "label": "第5〜10問・好みや日常の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2629,
+        "label": "第11〜14問・食べ物と趣味の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3522,
+        "label": "第15〜17問・思い出と活動の記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4294,
+        "label": "第18〜20問・麻雀や企画の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5069,
+        "label": "第21〜22問・大会とリスナー企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5805,
+        "label": "第23〜24問・お出かけの思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6322,
+        "label": "第25〜26問・計算問題とメッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6911,
+        "label": "結果発表と優勝賞品の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7306,
+        "label": "企画後の感想・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7677,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

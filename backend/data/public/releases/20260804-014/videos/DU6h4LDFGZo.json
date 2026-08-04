@@ -1,0 +1,130 @@
+{
+  "videoId": "DU6h4LDFGZo",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆13ステ◆【神田笑一/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-19T12:46:43Z",
+  "duration": "PT1H35M22S",
+  "durationSec": 5722,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DU6h4LDFGZo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開演アナウンス・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 407,
+        "label": "第一幕「初期設定」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 925,
+        "label": "第一幕の感想・第二幕紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1329,
+        "label": "第二幕「AM、1:00、誘い」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2179,
+        "label": "第二幕の感想・第三幕紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2395,
+        "label": "第三幕「黒塚奇譚」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3037,
+        "label": "第三幕の感想・時代劇モチーフの解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "第四幕「最低な2人」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3594,
+        "label": "第四幕の感想・ファンアート紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3925,
+        "label": "第五幕「誰が為の正義か」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4042,
+        "label": "双子がヒーローを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4178,
+        "label": "超能力社会と適性制度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4354,
+        "label": "成長後の双子の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4642,
+        "label": "適性診断を待つ双子",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4854,
+        "label": "医師との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "診断制度をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5251,
+        "label": "最終幕の感想・二人芝居の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5442,
+        "label": "告知・次回劇場案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5599,
+        "label": "終了後のボイス雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

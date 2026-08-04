@@ -1,0 +1,180 @@
+{
+  "videoId": "94pecOIa28A",
+  "title": "【#にじスプラ祭り】雪月シスターズ、進めるのは前だけ。【弦月藤士郎/にじさんじ】",
+  "publishedAt": "2022-10-15T15:02:56Z",
+  "duration": "PT4H36M35S",
+  "durationSec": 16595,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/94pecOIa28A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T17:02:56Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・雪月シスターズ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1004,
+        "label": "最初のガチヤグラ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1800,
+        "label": "武器変更後のチーム練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2898,
+        "label": "ヤグラ上の攻防を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3710,
+        "label": "試合後の振り返り・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4080,
+        "label": "塗りとスペシャルの合わせ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4506,
+        "label": "生存重視の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5164,
+        "label": "試合後の反省・武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6007,
+        "label": "画面トラブルとロッカー雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6334,
+        "label": "ガチホコのルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "対戦相手と合流・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7824,
+        "label": "練習試合・潜伏対策と前線守り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8644,
+        "label": "試合後の反省・武器変更検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8784,
+        "label": "ガチエリアの作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9730,
+        "label": "ガチエリア練習・ボム運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11164,
+        "label": "ガチエリア・前線と後衛の役割調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12131,
+        "label": "マヒマヒのガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12240,
+        "label": "ガチアサリのルール確認・練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13091,
+        "label": "アサリ戦後の反省・次戦方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13206,
+        "label": "続くガチアサリ練習・連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13575,
+        "label": "メンバー離脱後の短い振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13685,
+        "label": "最後の練習試合に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13811,
+        "label": "ナワバリ練習・塗り範囲の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14066,
+        "label": "ナワバリ後のマップ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14183,
+        "label": "ナワバリ練習・裏取り対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14640,
+        "label": "終盤のガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15495,
+        "label": "練習全体の振り返り・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15960,
+        "label": "新マップ対策と役割整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16443,
+        "label": "本番予定の確認・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

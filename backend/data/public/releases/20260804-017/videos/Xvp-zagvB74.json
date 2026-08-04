@@ -1,0 +1,105 @@
+{
+  "videoId": "Xvp-zagvB74",
+  "title": "【#にじさんじ麻雀杯】テンパるな聴牌はしろ白雪御前【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-09T09:28:14Z",
+  "duration": "PT40M59S",
+  "durationSec": 2459,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Xvp-zagvB74/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:37:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・遅延とマイクを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 364,
+        "label": "大会対局の準備・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 630,
+        "label": "対局序盤・手牌とテンパイを実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 823,
+        "label": "World Triggerの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 907,
+        "label": "得点条件と国士無双の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 999,
+        "label": "麻雀経験を語りながら対局を観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1140,
+        "label": "終盤の点数と対局の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1460,
+        "label": "終盤の高得点をめぐる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1817,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1898,
+        "label": "参加者インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2162,
+        "label": "公式案内と拍手",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2221,
+        "label": "賞品・企画についての雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2268,
+        "label": "配信の締めと遅延の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2387,
+        "label": "対局の振り返り・感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

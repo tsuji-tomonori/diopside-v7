@@ -1,0 +1,120 @@
+{
+  "videoId": "wcGQvZCoZCw",
+  "title": "【都市伝説解体センター #5】第四話「漏れ広がる邪悪」初見プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-27T09:08:17Z",
+  "duration": "PT3H52M32S",
+  "durationSec": 13952,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wcGQvZCoZCw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T10:35:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T10:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 540,
+        "label": "第四話の調査開始・依頼人を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "関係者への聞き取りと現場確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3300,
+        "label": "配送経路と箱の手がかりを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "箱にまつわる都市伝説を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "症状と手がかりを照合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5460,
+        "label": "新たな現場で箱の来歴を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7200,
+        "label": "村へ移動・屋敷の来歴を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "屋敷の内部を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9000,
+        "label": "伝承と呪いの仕組みを読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "症状の進行と追加の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10200,
+        "label": "関係者と配送経路を再検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11400,
+        "label": "証拠を照合して推理を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12000,
+        "label": "調査結果を整理・事件を再構成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12600,
+        "label": "対決と事件の収束",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13200,
+        "label": "第四話の振り返り・次回予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13440,
+        "label": "配信予定の告知・雑談・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

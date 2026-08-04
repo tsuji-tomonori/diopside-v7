@@ -1,0 +1,105 @@
+{
+  "videoId": "O6SfcR8BSw4",
+  "title": "【#にじさんじスプラ杯】大会本番！！意外に強いらCチーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-29T15:16:44Z",
+  "duration": "PT2H14M37S",
+  "durationSec": 8077,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/O6SfcR8BSw4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 286,
+        "label": "第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 619,
+        "label": "第1試合後インタビュー・次戦待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4057,
+        "label": "大会インタビュー・試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4390,
+        "label": "対戦チームの大会インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4743,
+        "label": "次の試合に向けた作戦・第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5106,
+        "label": "第2試合後の反応・次戦待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6015,
+        "label": "決勝前の作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6496,
+        "label": "決勝の試合実況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7149,
+        "label": "決勝ラウンド間の切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7197,
+        "label": "決勝の次ラウンド",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7496,
+        "label": "決勝後の反応・インタビュー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7602,
+        "label": "決勝後のチームインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7780,
+        "label": "大会振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

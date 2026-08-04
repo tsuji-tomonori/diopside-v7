@@ -1,0 +1,135 @@
+{
+  "videoId": "KOjHwarBvJs",
+  "title": "【スプラトゥーン3】ひ　つ　ま　ぶ　し　day1【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-24T13:41:54Z",
+  "duration": "PT2H19M40S",
+  "durationSec": 8380,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KOjHwarBvJs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "フェス準備・武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 571,
+        "label": "フェス・チャレンジ初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 781,
+        "label": "ナワバリ戦とバリアの立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1280,
+        "label": "ヒーローレプリカでチャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1816,
+        "label": "フェス戦・10倍マッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2116,
+        "label": "10倍マッチに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "高台を取る作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3026,
+        "label": "ガロンで前線を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3270,
+        "label": "ガロン対スコープ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "生存力とジャイロ操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3998,
+        "label": "食料派とのフェス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4404,
+        "label": "ガロンで中央・前線を攻める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "連携チームとのオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5605,
+        "label": "オープン戦で前線へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5901,
+        "label": "オープン戦・武器対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6421,
+        "label": "連勝チームとのオープン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "若葉のバリア運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7758,
+        "label": "若葉で苦手な相手に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8017,
+        "label": "ボムだけで戦う実験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8227,
+        "label": "終了挨拶・スーパーチャット",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

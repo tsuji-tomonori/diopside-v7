@@ -1,0 +1,105 @@
+{
+  "videoId": "vwf-dGc3iss",
+  "title": "【アーテリーギア】メカ美少女100種類以上！？新作アプリゲーが凄すぎる【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-14T11:18:25Z",
+  "duration": "PT1H7M2S",
+  "durationSec": 4022,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vwf-dGc3iss/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:22:14.087631Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム紹介・世界観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 445,
+        "label": "ストーリー序盤の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 793,
+        "label": "初回バトル・属性とスキルを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1098,
+        "label": "チュートリアル戦闘と複数バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1476,
+        "label": "事件の手がかりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1784,
+        "label": "任務中のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1989,
+        "label": "強化システムを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2052,
+        "label": "お気に入りキャラで追加バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2303,
+        "label": "視聴者参加の企画を準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2379,
+        "label": "キャラ案を比較して投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2698,
+        "label": "選んだキャラを描き込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3440,
+        "label": "完成キャラをお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3589,
+        "label": "ゲストと完成デザインを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3862,
+        "label": "次回予告・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

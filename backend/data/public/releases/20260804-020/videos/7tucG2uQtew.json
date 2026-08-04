@@ -1,0 +1,105 @@
+{
+  "videoId": "7tucG2uQtew",
+  "title": "【早押し！3ヒントクイズ】常識クイズ⁉一緒に朝から脳トレして賢くスッキリしよ♪白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-11T02:43:29Z",
+  "duration": "PT3H32M39S",
+  "durationSec": 12759,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7tucG2uQtew/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T18:25:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3ヒントクイズの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 229,
+        "label": "早押し3ヒントクイズ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1536,
+        "label": "絵画・自然・人物のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2430,
+        "label": "名画・建造物・食文化のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "都市・歴史人物・動物のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4797,
+        "label": "生き物・社会・季節のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6107,
+        "label": "世界の名所・地理・人物クイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7462,
+        "label": "船・スポーツ・遺跡のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8874,
+        "label": "生き物・宇宙・神話のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10113,
+        "label": "美術・スポーツ・古生物のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11126,
+        "label": "食べ物・神話・芸術のクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12390,
+        "label": "クイズの感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12485,
+        "label": "お知らせ・締めの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12539,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "k-ZcikYqhoc",
+  "title": "【Splatoon3】コラボ中暴言禁止ですか？ぬれええええええええええ【ホロライブ/夏色まつり】",
+  "publishedAt": "2022-09-14T15:23:33Z",
+  "duration": "PT1H45M18S",
+  "durationSec": 6318,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/k-ZcikYqhoc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:02:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 284,
+        "label": "第1試合・塗り合いの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 890,
+        "label": "第2試合・スペシャルと武器の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "第3試合・エリアで連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1910,
+        "label": "第4試合の準備・ルールと武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2195,
+        "label": "第4試合・武器を変えて中央戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "第5試合・ローラーで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3074,
+        "label": "第6試合・チャージャー相手の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3346,
+        "label": "第7試合の準備・武器とステージ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3761,
+        "label": "第7試合・ヤグラを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4120,
+        "label": "第8試合・エリアを塗り返す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4491,
+        "label": "次の対戦準備・武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5182,
+        "label": "第9試合・新しいワイパーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5672,
+        "label": "第10試合・最後のヤグラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6116,
+        "label": "最終対戦後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6187,
+        "label": "参加者の感想・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "videoId": "fTaUpabsXlc",
+  "title": "【雀魂】麻雀初めての対戦相手を今日は分からせてやりますよと【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-16T13:41:57Z",
+  "duration": "PT2H26M19S",
+  "durationSec": 8779,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fTaUpabsXlc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:32:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・三人麻雀の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 384,
+        "label": "最初の三人麻雀",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1946,
+        "label": "対局結果と点数の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2127,
+        "label": "次の三人麻雀",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3261,
+        "label": "対局後の振り返りとゲーム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3556,
+        "label": "三人麻雀の対局を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5012,
+        "label": "アンコウの雑学トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5134,
+        "label": "三人麻雀の対局と点数計算",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6581,
+        "label": "Minecraftのログイントラブル談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6708,
+        "label": "最後の三人麻雀",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8231,
+        "label": "対局結果と締めのトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8368,
+        "label": "対局後の振り返りと次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8474,
+        "label": "スパチャ読みとグッズの話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

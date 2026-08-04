@@ -1,0 +1,105 @@
+{
+  "videoId": "Qrc3HPNI-dc",
+  "title": "【雀魂】謹賀新年。初めての段位戦で運試し【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-02T17:16:14Z",
+  "duration": "PT3H39M37S",
+  "durationSec": 13177,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Qrc3HPNI-dc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・段位戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 624,
+        "label": "初めての段位戦で手牌を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "二局目の段位戦とルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "役を探りながら段位戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "強い打ち方を意識して対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "平和を学びながら次の対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7007,
+        "label": "段位戦を続けて手牌を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8707,
+        "label": "鳴きと守備を考える終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10034,
+        "label": "オーラスへ・終盤の段位戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11101,
+        "label": "役を学びながら攻守を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11978,
+        "label": "コラボ予定と活動1年の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12088,
+        "label": "終盤の対局と最後の追い込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12754,
+        "label": "対局後の茶番と視聴者交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13052,
+        "label": "終了挨拶・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "KPIDnCXIdnM",
+  "title": "【雑談】夏の思い出２０２２【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-24T12:28:07Z",
+  "duration": "PT1H18M23S",
+  "durationSec": 4703,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KPIDnCXIdnM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T18:58:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・1000日記念を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 432,
+        "label": "1000日記念コラボの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 626,
+        "label": "8月前半の活動振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "今後の予定・ライブやゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 928,
+        "label": "美容・化粧水編のガチレポ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1012,
+        "label": "『イカサマカジノ』歌ってみた制作談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1421,
+        "label": "ホラー企画・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1731,
+        "label": "家族旅行・熱海の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2164,
+        "label": "熱海旅行の食事・観光・宿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2483,
+        "label": "旅行の余韻と体調・天候の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2694,
+        "label": "スーパーチャット読み・美容の質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3166,
+        "label": "ホラー体験談を読む・怪談雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3747,
+        "label": "投稿者への感謝・1000日記念",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "1000日記念コラボの裏話・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4060,
+        "label": "記念への感謝・届いたグッズの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4602,
+        "label": "締め・次回配信のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

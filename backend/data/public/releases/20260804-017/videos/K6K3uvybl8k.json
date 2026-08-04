@@ -1,0 +1,120 @@
+{
+  "videoId": "K6K3uvybl8k",
+  "title": "【#Crossick】最近忙しい嫁に突然凸してみた【健屋花那/白雪巴/にじさんじ】",
+  "publishedAt": "2021-04-27T15:51:37Z",
+  "duration": "PT45M20S",
+  "durationSec": 2720,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/K6K3uvybl8k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "通話前のサプライズ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 477,
+        "label": "最初の通話と折り返し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 651,
+        "label": "久しぶりの通話で近況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 848,
+        "label": "嫉妬と気持ちの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1057,
+        "label": "料理とレシピの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1150,
+        "label": "グッズと部屋の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1195,
+        "label": "部屋をきれいに保つ工夫",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1271,
+        "label": "好きなキャラと一途さ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1327,
+        "label": "昔のプリクラと思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1439,
+        "label": "忙しい中の食事と自炊",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1554,
+        "label": "連絡したかった気持ちと安心",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1764,
+        "label": "作品をめぐる嫉妬トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1878,
+        "label": "配信後の連絡と予定調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2039,
+        "label": "連休の予定と忙しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2245,
+        "label": "お風呂とゲームの約束",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2365,
+        "label": "通話の終盤と安心感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2500,
+        "label": "振り返りとエンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "7pYuKYRkGzw",
+  "title": "【 #マリカにじさんじ杯 】予選🄱リーグ｜本戦への切符がほしい鬼【 竜胆 尊 ┆にじさんじ 】",
+  "publishedAt": "2025-04-27T07:48:54Z",
+  "duration": "PT57M19S",
+  "durationSec": 3439,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7pYuKYRkGzw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:33:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "予選前の準備・コース談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 429,
+        "label": "ロビー待機・応援トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 742,
+        "label": "画面共有トラブルとロビー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1855,
+        "label": "予選レース開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2111,
+        "label": "コース選択と次のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2399,
+        "label": "予選レース終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2795,
+        "label": "予選終了・インタビュー移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2835,
+        "label": "順位インタビュー待機・接続トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3028,
+        "label": "予選後インタビュー①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3074,
+        "label": "予選後インタビュー②",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3156,
+        "label": "予選後インタビュー③",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3289,
+        "label": "順位表を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3332,
+        "label": "配信の締め・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3415,
+        "label": "終了後の短い後語り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

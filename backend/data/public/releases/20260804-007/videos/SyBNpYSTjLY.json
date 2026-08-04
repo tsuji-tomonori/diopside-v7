@@ -1,0 +1,115 @@
+{
+  "videoId": "SyBNpYSTjLY",
+  "title": "【#夜王国座談会】制御不能なメンバー大集合!?助けて巴さん!!【白雪巴/不破湊/グウェル・オス・ガール】",
+  "publishedAt": "2021-05-21T14:15:42Z",
+  "duration": "PT1H1M43S",
+  "durationSec": 3703,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SyBNpYSTjLY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 344,
+        "label": "コラボ再開と周年企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 582,
+        "label": "第一印象と現在の印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 928,
+        "label": "同期だから成立した関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1299,
+        "label": "3人の結婚観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "プロポーズの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1739,
+        "label": "デビュー構成への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1980,
+        "label": "視聴者層の男女比・年齢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2302,
+        "label": "同期の配信を見る・学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2553,
+        "label": "最近の活動と休み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "4か月ぶりのコラボと連絡事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2961,
+        "label": "3人で歌う可能性を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3116,
+        "label": "裏での連絡とDiscord事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3330,
+        "label": "夜王国の距離感とこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3465,
+        "label": "同期の絆とちょうどいい距離",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3647,
+        "label": "締め・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

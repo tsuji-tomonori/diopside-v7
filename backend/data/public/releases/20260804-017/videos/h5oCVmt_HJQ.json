@@ -1,0 +1,120 @@
+{
+  "videoId": "h5oCVmt_HJQ",
+  "title": "【ASTRONEER】雪月シスターズ、惑星で暮らすってよ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-20T12:28:20Z",
+  "duration": "PT2H51M59S",
+  "durationSec": 10319,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/h5oCVmt_HJQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:00:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲームの基本説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 590,
+        "label": "操作チュートリアルと拠点づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "資源集めとテザー拡張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2353,
+        "label": "新ミッションと中型設備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2853,
+        "label": "バックパック操作と設備の組み立て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3474,
+        "label": "サンプルスキャンとテザー拡張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4393,
+        "label": "研究・発電設備とテザー修復",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "設備作成の手順と資源運搬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5531,
+        "label": "地下探索と資源回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6009,
+        "label": "研究と拠点整備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7122,
+        "label": "ミッション達成とライトの試用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7510,
+        "label": "遠出と操作に慣れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7816,
+        "label": "夜間の地下探索と新資源",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8882,
+        "label": "地下の残骸と乗り物・電源",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9256,
+        "label": "地下探索の続きと拠点の電力確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9821,
+        "label": "渓谷奥の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10039,
+        "label": "配信終了・アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

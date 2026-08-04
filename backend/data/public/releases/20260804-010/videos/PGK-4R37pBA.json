@@ -1,0 +1,120 @@
+{
+  "videoId": "PGK-4R37pBA",
+  "title": "【生誕祭】初凸！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-08T16:37:52Z",
+  "duration": "PT3H31M9S",
+  "durationSec": 12669,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PGK-4R37pBA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最初のゲストとのお祝い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1726,
+        "label": "えま★おうがすとと誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2222,
+        "label": "緑仙と誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2941,
+        "label": "魔使マオとの初対談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3540,
+        "label": "健屋花那と誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4381,
+        "label": "ベルモンド・バンデラスと誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5342,
+        "label": "愛園愛美との誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6123,
+        "label": "シェリン・バーガンディと機材トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7320,
+        "label": "来栖夏芽との初対談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8342,
+        "label": "夕陽リリと誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9122,
+        "label": "同期を迎えて凸待ちを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9900,
+        "label": "同期と誕生日を祝う歌",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10082,
+        "label": "歌の後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10320,
+        "label": "同期に関する白雪巴クイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11296,
+        "label": "ボーナス問題・罰ゲームの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11465,
+        "label": "罰ゲームの焼きそば作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12421,
+        "label": "焼きそば実食・誕生日の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

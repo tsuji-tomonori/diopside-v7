@@ -1,0 +1,110 @@
+{
+  "videoId": "thJ1QDoixZc",
+  "title": "【雀魂】今年のおみくじは”吉”ですわよ～～～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-05T11:55:48Z",
+  "duration": "PT47M18S",
+  "durationSec": 2838,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/thJ1QDoixZc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:39:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・画面調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "仕事始めとライブ準備の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 441,
+        "label": "週末の麻雀大会に向けた意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 523,
+        "label": "段位戦の準備とルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 650,
+        "label": "段位戦開始・序盤の手牌",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 880,
+        "label": "中盤の手牌とドラを考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1087,
+        "label": "終盤の打牌・安全牌を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1533,
+        "label": "次の対局・手牌を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2328,
+        "label": "対局終了・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2402,
+        "label": "ライブ練習と大会への意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2530,
+        "label": "視聴者への返答と配信を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "打ち方の相談・ボイス告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2754,
+        "label": "大会前に守備判断を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2792,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

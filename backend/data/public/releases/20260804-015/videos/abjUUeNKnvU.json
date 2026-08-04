@@ -1,0 +1,130 @@
+{
+  "videoId": "abjUUeNKnvU",
+  "title": "【3D飲み会】缶詰を持ち寄って呑む、夜──★【えま★おうがすと・白雪巴・来栖夏芽/にじさんじ所属】",
+  "publishedAt": "2025-11-27T12:10:40Z",
+  "duration": "PT2H3M2S",
+  "durationSec": 7382,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/abjUUeNKnvU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 347,
+        "label": "酒と缶詰を準備して乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 598,
+        "label": "乾杯と持ち寄り缶詰の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1004,
+        "label": "缶詰を食べ比べ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "鮭・貝の試食と出会いの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2111,
+        "label": "最近の交流・コラボと酒配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2811,
+        "label": "酔い方・飲み会・読書の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3181,
+        "label": "7年目の目標とこれからの活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3673,
+        "label": "感謝と人生観、犬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4234,
+        "label": "100均の鶏缶を食べ比べ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4707,
+        "label": "お酒と酔い方を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5004,
+        "label": "映画の感想と好きなキャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5216,
+        "label": "酔いの設定とカニ味噌缶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5519,
+        "label": "支えられた思い出と新しい友人",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6674,
+        "label": "二軒目の思い出と感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6997,
+        "label": "見たい景色と海の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7111,
+        "label": "締めの歌の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7211,
+        "label": "締めの歌",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7280,
+        "label": "歌唱後の感謝と挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

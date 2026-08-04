@@ -1,0 +1,190 @@
+{
+  "videoId": "nCjE6TZsfJs",
+  "title": "【スプラ２】明日の大会に向けて【にじさんじ/ 魔界ノりりむ 】",
+  "publishedAt": "2020-06-19T17:40:12Z",
+  "duration": "PT2H18M48S",
+  "durationSec": 8328,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nCjE6TZsfJs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 516,
+        "label": "最初の縄張りバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 925,
+        "label": "試合映像の復旧作業",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1396,
+        "label": "練習試合を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1553,
+        "label": "配信枠と音声の復旧",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1763,
+        "label": "チームの強みと役割を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2028,
+        "label": "中央の取り合いとカバー練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "前線・中央・塗りの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2634,
+        "label": "初連携の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2778,
+        "label": "中央への攻めと改善点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3035,
+        "label": "潜伏・中央制圧と塗り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3337,
+        "label": "長めの練習試合と戦い方の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3715,
+        "label": "前線・塗りの練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "武器選択と塗り方を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "中央・左右の攻防と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4539,
+        "label": "ローラー対策と武器・ステージ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4845,
+        "label": "中央の攻防と自陣塗り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5191,
+        "label": "アーマー・装備を試す練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5522,
+        "label": "前後左右の連携とギア確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5778,
+        "label": "塗りと相手の動きを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5948,
+        "label": "音ズレ確認と配信更新",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6065,
+        "label": "左右の敵位置と前線を連絡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "残り周回とギア構成を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6462,
+        "label": "中央の取り方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6635,
+        "label": "苦手ステージと本番候補を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6784,
+        "label": "中央・左右の攻防を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6963,
+        "label": "ステージと役割を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7107,
+        "label": "終盤の練習試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7593,
+        "label": "連携と試合内容を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7667,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8177,
+        "label": "練習の締め・挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "Jj1jG7YB0bs",
+  "title": "【いえのあじ】ガチで怖いホラーゲーム VS ビビることを忘れたお姉さん【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-21T14:15:30Z",
+  "duration": "PT1H8M43S",
+  "durationSec": 4123,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Jj1jG7YB0bs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:35:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 243,
+        "label": "家の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 545,
+        "label": "メモを確認して外出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 718,
+        "label": "村を歩いて友人宅へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "友人宅でミニゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1172,
+        "label": "夕方の村を戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1391,
+        "label": "帰宅後の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1528,
+        "label": "夜の家を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1775,
+        "label": "家に残された記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1919,
+        "label": "夜の村へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2162,
+        "label": "トンネルの先を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2294,
+        "label": "廃屋で記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2581,
+        "label": "村へ戻って探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2847,
+        "label": "別ルートに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3130,
+        "label": "エンディング分岐を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3891,
+        "label": "もう一つのルートに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4011,
+        "label": "プレイの振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "YOcPgHdVkWA",
+  "title": "【#Niji_AmongUs】ひどいっ！！私人狼じゃありません！！！ガオー！！！！！【早瀬走視点/にじさんじ】",
+  "publishedAt": "2020-11-18T13:39:38Z",
+  "duration": "PT2H27M23S",
+  "durationSec": 8843,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YOcPgHdVkWA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:41:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 800,
+        "label": "第1ゲーム開始・進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1092,
+        "label": "第1ゲームの会議と後半戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "第2ゲームの開始と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2264,
+        "label": "第3ゲームの開始と進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3301,
+        "label": "第3ゲーム終盤のタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3652,
+        "label": "第4ゲームの会議とタスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4679,
+        "label": "リアクター対応と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5287,
+        "label": "次ゲームの進行と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6110,
+        "label": "タスク進行の区切りと切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6237,
+        "label": "ゲーム間の振り返りと設定確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6797,
+        "label": "次ゲームの進行と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7178,
+        "label": "ゲーム後の振り返りと追加試合の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7355,
+        "label": "集団移動・会議・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8004,
+        "label": "役職確認・アリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8588,
+        "label": "ゲーム後の感想・案内・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

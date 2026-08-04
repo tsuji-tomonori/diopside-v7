@@ -1,0 +1,100 @@
+{
+  "videoId": "UDG6PqTtCrU",
+  "title": "＃３【GTA5】私がルールです。異論は認めない。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-11T14:56:51Z",
+  "duration": "PT1H34M40S",
+  "durationSec": 5680,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UDG6PqTtCrU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:12:41Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 501,
+        "label": "街を探索して目標を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1282,
+        "label": "夜の街で目的地を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2136,
+        "label": "目的地到着・ストーリー導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2569,
+        "label": "最初のミッションに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2922,
+        "label": "ミッションから次の活動へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3147,
+        "label": "テニスを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3382,
+        "label": "家族ミッションへ向かう長距離ドライブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4567,
+        "label": "車を確認してカスタムショップへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4827,
+        "label": "ロスサントス・カスタムズで車を改造",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5062,
+        "label": "改造した車で家へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5438,
+        "label": "振り返りと次回の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5530,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

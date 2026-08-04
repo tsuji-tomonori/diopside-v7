@@ -1,0 +1,115 @@
+{
+  "videoId": "rfUjbI7K2ag",
+  "title": "【漢字でGO！】母国語炸裂！？泣きたくなったらやめます。【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-08-23T16:20:18Z",
+  "duration": "PT3H8M41S",
+  "durationSec": 11321,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rfUjbI7K2ag/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:17:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 416,
+        "label": "ノーマルモードの挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1138,
+        "label": "高難度モードに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1920,
+        "label": "高難度再挑戦・難読漢字の学習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3576,
+        "label": "レベル3〜4の連続挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4661,
+        "label": "ハードモード挑戦と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5177,
+        "label": "激ムズモード序盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5888,
+        "label": "激ムズの難問に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7694,
+        "label": "激ムズ再挑戦の長丁場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8394,
+        "label": "レベル5の問題に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8741,
+        "label": "激ムズのリベンジを継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9517,
+        "label": "ヘルモードに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10025,
+        "label": "ヘルモード最後の挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10378,
+        "label": "ヘルモード終盤の挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10791,
+        "label": "覚えた漢字の復習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11124,
+        "label": "次回配信のお知らせ・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

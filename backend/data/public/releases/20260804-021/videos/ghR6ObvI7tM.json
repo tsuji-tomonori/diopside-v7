@@ -1,0 +1,115 @@
+{
+  "videoId": "ghR6ObvI7tM",
+  "title": "【Splatoon3】#雪月シスターズ 、初めての顔合わせ！【にじさんじ/シスター・クレア】",
+  "publishedAt": "2022-10-14T15:26:02Z",
+  "duration": "PT2H15M48S",
+  "durationSec": 8148,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ghR6ObvI7tM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "顔合わせ・初戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 402,
+        "label": "最初のナワバリバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 607,
+        "label": "メンバー紹介とナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 837,
+        "label": "次の試合準備とナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1342,
+        "label": "役割・武器・ギアの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1862,
+        "label": "練習試合と武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2542,
+        "label": "マヒマヒでのナワバリと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2841,
+        "label": "エリアの実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3442,
+        "label": "ヤグラ開始・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3790,
+        "label": "ヤグラで連携を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4599,
+        "label": "ホコの立ち回りと実戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5026,
+        "label": "ホコ振り返り・アサリへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5811,
+        "label": "全ルールの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6582,
+        "label": "後半のヤグラと試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7514,
+        "label": "対戦終了・散歩モードで武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7887,
+        "label": "終了告知と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

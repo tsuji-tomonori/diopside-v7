@@ -1,0 +1,110 @@
+{
+  "videoId": "4H3RgFxuD5Y",
+  "title": "【TEKE TEKE -テケテケ-】この話を聞いた人は3日以内に下半身の無い女性の霊が現れる【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-12T15:40:14Z",
+  "duration": "PT2H23M1S",
+  "durationSec": 8581,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4H3RgFxuD5Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T23:25:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 558,
+        "label": "駅から屋敷へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "屋敷の探索と会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2212,
+        "label": "証明の手掛かりと写真を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3085,
+        "label": "屋敷探索と2階の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4062,
+        "label": "都市伝説の説明と手掛かり探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4637,
+        "label": "怪異との遭遇・ステルス開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "道具探しと怪異についての会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5857,
+        "label": "怪異を避けて鍵と線香を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6740,
+        "label": "供え物とルート分岐を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7202,
+        "label": "別ルートの条件を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7503,
+        "label": "別ルートで必要な物を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8071,
+        "label": "怪異についての会話と最終準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8383,
+        "label": "終盤の儀式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8447,
+        "label": "感想・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

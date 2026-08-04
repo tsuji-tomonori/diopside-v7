@@ -1,0 +1,135 @@
+{
+  "videoId": "95HQ_VMPa1c",
+  "title": "【にじ3Dお披露目】初公開！！にじ3Dで雑談＆撮影会【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-25T16:17:48Z",
+  "duration": "PT3H18M10S",
+  "durationSec": 11890,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/95HQ_VMPa1c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T17:02:00.246227Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "にじ3D初公開・スクショタイム説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 565,
+        "label": "背景素材で妄想デート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1209,
+        "label": "カメラ角度と猫ポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1648,
+        "label": "指差し・ポーズと背景調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2383,
+        "label": "日常系・駄犬ポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3309,
+        "label": "指ハート・ピースなどのポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4211,
+        "label": "百合をテーマにしたポーズ撮影",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4799,
+        "label": "隠し素材・裁判官フレーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5402,
+        "label": "百合の花・百合農家風ポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6005,
+        "label": "昼の顔・優しいお姉さん風",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6315,
+        "label": "隣人風ポーズと壁ドン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7033,
+        "label": "残りの背景素材を紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7504,
+        "label": "お披露目総括・今後の配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7783,
+        "label": "スパチャ読み・素材とカメラを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8701,
+        "label": "スパチャ読み・手や猫のポーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9302,
+        "label": "スパチャ読み・背景素材を切り替え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10201,
+        "label": "スパチャ読み・居酒屋風やドアップ素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10800,
+        "label": "スパチャ読み・表情とランダム素材",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11406,
+        "label": "スパチャ読み・表情リクエスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11705,
+        "label": "スパチャ読みの締め・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "ohJ9Z4RPxPY",
+  "title": "#ホラゲV女子会【DEVOUR】リベンジVS悪霊！！！儀式を終わらせる‥‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-16T13:06:11Z",
+  "duration": "PT2H48M54S",
+  "durationSec": 10134,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ohJ9Z4RPxPY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・参加者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 364,
+        "label": "ゲーム開始・館内探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 917,
+        "label": "最初の儀式に向けた準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1511,
+        "label": "逃げるヤギを追って進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2142,
+        "label": "敵の出現と救助対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2822,
+        "label": "鍵を開けて資源を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3114,
+        "label": "燃焼を進めて救助を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3900,
+        "label": "プレイを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4081,
+        "label": "再挑戦の作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4505,
+        "label": "再挑戦でヤギを集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5809,
+        "label": "作戦を見直して進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6481,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6594,
+        "label": "次の試行に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7162,
+        "label": "役割分担を見直して進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7502,
+        "label": "敵の増加に対応する救助と退避",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7797,
+        "label": "緊迫する救助リレー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8334,
+        "label": "プレイを振り返り次の作戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8429,
+        "label": "別ルートを試す作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8716,
+        "label": "別ルートで館内を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8936,
+        "label": "緊迫する救助対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9381,
+        "label": "終盤の探索と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9752,
+        "label": "ゲームの感想と締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9911,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9980,
+        "label": "コメント・スーパーチャット返し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10090,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

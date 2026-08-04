@@ -1,0 +1,65 @@
+{
+  "videoId": "1qPRiIZcBaI",
+  "title": "【切り抜き/Among Us】自ら企画したコラボで即落ち2コマ！？【柚原いづみ / あにまーれ】",
+  "publishedAt": "2021-03-06T10:00:15Z",
+  "duration": "PT9M46S",
+  "durationSec": 586,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1qPRiIZcBaI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:41:51.443Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "Among Usコラボの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 42,
+        "label": "序盤の探索と状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 256,
+        "label": "会議で状況を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 314,
+        "label": "会議後の推理とアドミン確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 467,
+        "label": "後半のゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 511,
+        "label": "ゲーム終了後のやりとり・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

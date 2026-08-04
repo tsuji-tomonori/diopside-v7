@@ -1,0 +1,155 @@
+{
+  "videoId": "ty4iKX56zFk",
+  "title": "【にじさんじ】夜王国APEX【グウェル・オス・ガール】",
+  "publishedAt": "2021-07-23T14:31:38Z",
+  "duration": "PT2H50M14S",
+  "durationSec": 10214,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ty4iKX56zFk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:38:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・夜王国APEXの企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 427,
+        "label": "1試合目・降下と物資集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1026,
+        "label": "1試合目・戦闘と終盤の立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2089,
+        "label": "試合間のロビー・作戦トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2211,
+        "label": "2試合目・降下と立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2888,
+        "label": "2試合目・戦闘と試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3557,
+        "label": "夜王国APEXの作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3932,
+        "label": "3試合目・移動と物資集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4933,
+        "label": "3試合目・メインの戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5373,
+        "label": "3試合目後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5654,
+        "label": "テレビ・配信サービスの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5836,
+        "label": "4試合目・序盤の物資集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6049,
+        "label": "4試合目・戦闘とローテーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6771,
+        "label": "4試合目・隠れ作戦の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7056,
+        "label": "4試合目・終盤の攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7234,
+        "label": "試合後の振り返り・次のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7454,
+        "label": "隠れんぼ形式・別降下と序盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7636,
+        "label": "隠れんぼ形式・終盤の立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8084,
+        "label": "次の試合に向けた作戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8192,
+        "label": "最終試合・降下から終盤準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8957,
+        "label": "最終試合・最初の交戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9143,
+        "label": "最終試合・立て直しと装備調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9795,
+        "label": "最終試合・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10170,
+        "label": "配信終了・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

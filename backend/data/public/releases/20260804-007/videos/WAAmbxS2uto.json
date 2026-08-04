@@ -1,0 +1,100 @@
+{
+  "videoId": "WAAmbxS2uto",
+  "title": "【世界のアソビ大全51】キレない怒らない叫ばない笑顔ニコニコ大全【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-26T12:25:12Z",
+  "duration": "PT2H1M21S",
+  "durationSec": 7281,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WAAmbxS2uto/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:32:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 401,
+        "label": "コネクトフォーのルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "コネクトフォー対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1348,
+        "label": "カードゲームで王冠を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2183,
+        "label": "次のゲームを選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2279,
+        "label": "神経衰弱でカード位置を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4329,
+        "label": "気分転換に次のゲームへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4369,
+        "label": "麻雀に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5491,
+        "label": "次の王冠候補を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "ラケット競技を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5765,
+        "label": "ラケット競技・次の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6682,
+        "label": "ラケット競技の攻略に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7145,
+        "label": "締めの挨拶と次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

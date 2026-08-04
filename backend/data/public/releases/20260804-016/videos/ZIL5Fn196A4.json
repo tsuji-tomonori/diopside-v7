@@ -1,0 +1,125 @@
+{
+  "videoId": "ZIL5Fn196A4",
+  "title": "＃05【崩壊：スターレイル】仙舟「羅浮」編。第二章スタート！今度はイケメンが多そうだ…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-28T03:21:46Z",
+  "duration": "PT2H10M3S",
+  "durationSec": 7803,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZIL5Fn196A4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・不具合対応と前回の育成振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 614,
+        "label": "羅浮編に向けた編成・レベリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 868,
+        "label": "羅浮へ出発・目的と警戒事項の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1224,
+        "label": "Wi-Fi・配信環境のトラブル対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1410,
+        "label": "港の探索と最初の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1919,
+        "label": "港の事情確認と仕掛け攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2613,
+        "label": "トンネル探索・連続バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3256,
+        "label": "船で安全区域へ・謁見準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3990,
+        "label": "神宮での謁見",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4201,
+        "label": "列車側の説明と調査協力の交渉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4785,
+        "label": "謁見後の振り返りと協力条件の整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5102,
+        "label": "神宮内の会話と作戦の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "宿舎へ移動・手掛かりの確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6531,
+        "label": "列車側との通信と今後の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6752,
+        "label": "妨害区域での戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7114,
+        "label": "一般人の救助・避難案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7355,
+        "label": "配信の締め・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7673,
+        "label": "スパチャ読み・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

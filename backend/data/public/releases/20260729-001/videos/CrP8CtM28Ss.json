@@ -1,0 +1,110 @@
+{
+  "videoId": "CrP8CtM28Ss",
+  "title": "【雑談】眠くなるまで話そっか【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-23T16:21:10Z",
+  "duration": "PT1H54M24S",
+  "durationSec": 6864,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CrP8CtM28Ss/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:03:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "10月のコラボとポーズ当てゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1014,
+        "label": "3Dコラボと同期の企画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1588,
+        "label": "学生時代と教員免許の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1861,
+        "label": "にじさんじ人狼を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2399,
+        "label": "マイクラ人狼を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2585,
+        "label": "今後のゲーム配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2757,
+        "label": "椎名人狼を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3795,
+        "label": "おでんコラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4342,
+        "label": "最近のコラボとキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4660,
+        "label": "今後の予定・作品・引っ越しの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5424,
+        "label": "スーパーチャット読み・10月の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5995,
+        "label": "引っ越し後のASMR環境とハロウィン台本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "終盤のスパチャ読みと今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6609,
+        "label": "最後のスパチャ読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

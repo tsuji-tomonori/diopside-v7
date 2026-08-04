@@ -1,0 +1,110 @@
+{
+  "videoId": "e_OxGrJ-g74",
+  "title": "【新衣装お披露目】本気の私‥見せてあげる【#白雪巴新衣装/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-27T12:29:50Z",
+  "duration": "PT35M16S",
+  "durationSec": 2116,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/e_OxGrJ-g74/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T12:07:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム風オープニング・新衣装お披露目へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 583,
+        "label": "新衣装を初披露・パーティードレス紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 722,
+        "label": "髪型と顔まわりの装飾紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 847,
+        "label": "アップヘアと首元・ポーズを紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 964,
+        "label": "視聴者への感謝と衣装の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1142,
+        "label": "チャイナ風アレンジとスクショタイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1334,
+        "label": "髪型とドレスの別スタイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1516,
+        "label": "近くで見る髪型とアクセサリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1585,
+        "label": "コメントを読みながら小物紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1694,
+        "label": "プリンセスへの憧れと母への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1741,
+        "label": "新衣装での活動と視聴者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1844,
+        "label": "今後の予定と振り返り雑談のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1931,
+        "label": "歌ってみた動画を告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2000,
+        "label": "お披露目を終えた感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2041,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

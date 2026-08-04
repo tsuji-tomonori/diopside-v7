@@ -1,0 +1,150 @@
+{
+  "videoId": "pfC_sFKxJL4",
+  "title": "#1【We Were Here Together】あれデジャヴ！？協力謎解きで脱出セヨ【#女王と会長/にじさんじ】",
+  "publishedAt": "2021-07-06T16:01:03Z",
+  "duration": "PT3H8M34S",
+  "durationSec": 11314,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pfC_sFKxJL4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:01:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・協力ゲームの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 409,
+        "label": "潜水艦で合流・初期探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 902,
+        "label": "手掛かり集めと色のパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1486,
+        "label": "信号を進める色ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1766,
+        "label": "無線で次の救助へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1980,
+        "label": "座標と燃料装置の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2649,
+        "label": "車両で新エリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2812,
+        "label": "トロッコとエレベーターの地下探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "ダイナマイトと恐竜の輸送パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3995,
+        "label": "鉱山ルートをつなぐ位置調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4401,
+        "label": "洞窟の分岐と扉の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4785,
+        "label": "色付きレバーの迷路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5234,
+        "label": "洞窟の外・浮遊足場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5401,
+        "label": "記号で足場を出すパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "分離して石版を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6530,
+        "label": "本と石版の規則を解読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7207,
+        "label": "二人の盤面を照合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8033,
+        "label": "新エリアで依頼を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8261,
+        "label": "ボトル配線と狐パネル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9193,
+        "label": "プラズマとワイヤーのパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10547,
+        "label": "区画完了・次の依頼を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10795,
+        "label": "ゲーム振り返り・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10965,
+        "label": "スーパーチャット読み上げ・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoId": "KmOtzkoTEDo",
+  "title": "#2【バイオハザード】ビビりだけどわからせたいバイオ実況【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-25T15:33:55Z",
+  "duration": "PT2H20M3S",
+  "durationSec": 8403,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KmOtzkoTEDo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・前回からの続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 217,
+        "label": "館内探索とゾンビ遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 976,
+        "label": "館内の仕掛けと燃料の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1164,
+        "label": "ゲーム中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1302,
+        "label": "鎧の鍵を目指して館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2024,
+        "label": "楽譜とピアノの部屋を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2491,
+        "label": "鎧の鍵の扉と色合わせの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2814,
+        "label": "鍵と回復アイテムの整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3216,
+        "label": "研究所の手紙とピアノの部屋への準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3686,
+        "label": "ピアノの場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4009,
+        "label": "古びた鍵で館内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4765,
+        "label": "マスク収集の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5035,
+        "label": "館の記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5216,
+        "label": "レベッカと仕掛けを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5731,
+        "label": "ダガーナイフの場面と館内ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "館内を進みマスクを揃える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "レベッカとのイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6545,
+        "label": "マスク装着へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6656,
+        "label": "ゲーム中の怖い話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "マスクの仕掛けを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6890,
+        "label": "ショットガンとゾンビへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7148,
+        "label": "危険区域とクランクの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7315,
+        "label": "怖い場面から方角の仕掛けへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7673,
+        "label": "仕掛けの先を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7875,
+        "label": "家族の記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7977,
+        "label": "記録の後の戦闘とアイテム回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8238,
+        "label": "終盤の仕掛けを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8293,
+        "label": "終了挨拶・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

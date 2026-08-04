@@ -1,0 +1,140 @@
+{
+  "videoId": "L6jLig_Mvoo",
+  "title": "【雑談】コラボとか企画とかみんなで振り返りましょ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-14T17:01:08Z",
+  "duration": "PT2H47M16S",
+  "durationSec": 10036,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/L6jLig_Mvoo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T02:46:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4月の活動振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 695,
+        "label": "ゲーム活動とヘッダー制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1282,
+        "label": "最近の活動・麻雀コラボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1767,
+        "label": "ASMR企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1939,
+        "label": "実家・家族のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2374,
+        "label": "人狼RPGを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2943,
+        "label": "アニソン縛り・歌リレー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3784,
+        "label": "スーパーバニーマンを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3939,
+        "label": "3分劇場・朗読企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4797,
+        "label": "ボイス作品の演技方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5040,
+        "label": "次回配信などの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5497,
+        "label": "コラボ予定・10万人記念案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5745,
+        "label": "女性リスナーと視聴者の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6477,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6918,
+        "label": "酒とつまみの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7759,
+        "label": "3分劇場への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7860,
+        "label": "スーパーチャット読み・歌リレーの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8888,
+        "label": "今後の企画と配信活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9581,
+        "label": "終盤のスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9774,
+        "label": "配信終了待ち・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9893,
+        "label": "終了挨拶・限定告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
