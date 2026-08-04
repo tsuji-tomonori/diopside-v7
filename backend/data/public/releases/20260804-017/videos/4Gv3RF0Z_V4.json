@@ -1,0 +1,120 @@
+{
+  "videoId": "4Gv3RF0Z_V4",
+  "title": "【#マリカにじさんじ杯】団体戦：Cチーム【にじさんじ 魔界ノりりむ】",
+  "publishedAt": "2021-12-18T10:14:45Z",
+  "duration": "PT2H35M13S",
+  "durationSec": 9313,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4Gv3RF0Z_V4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "Cチーム紹介・大会作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 501,
+        "label": "コース候補とルーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 952,
+        "label": "団体戦レース・前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1525,
+        "label": "ベビーパークのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2264,
+        "label": "レース実況・走法と連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2998,
+        "label": "次のレース・順位変動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "レース実況と前半戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4443,
+        "label": "休憩と後半戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "後半戦のレースと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5700,
+        "label": "レース続行と操作の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "走法解説と団体戦の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7258,
+        "label": "レース再開とチームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7891,
+        "label": "決勝前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8023,
+        "label": "決勝レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8845,
+        "label": "レース後の結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9049,
+        "label": "団体戦の振り返りと個人戦の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9219,
+        "label": "スーパーチャット読み・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

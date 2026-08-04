@@ -1,0 +1,120 @@
+{
+  "videoId": "hfbYoqzSFn8",
+  "title": "【APEX】初心者ローバついにランクマに潜入するっぺ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-26T06:03:04Z",
+  "duration": "PT2H6M38S",
+  "durationSec": 7598,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hfbYoqzSFn8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T15:30:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・APEX準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 324,
+        "label": "新しいマウスを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 797,
+        "label": "最初のカジュアル戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1190,
+        "label": "初戦の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1262,
+        "label": "カジュアル戦・ローバの立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2614,
+        "label": "試合後の反省・次のゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2883,
+        "label": "立ち回りの振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3143,
+        "label": "カジュアル戦・連携と戦闘の基本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3777,
+        "label": "ジャンプマスターで戦闘練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4720,
+        "label": "試合後の反省・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4826,
+        "label": "カジュアル戦・装備とリング移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5796,
+        "label": "終盤の立ち回り・生存戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6130,
+        "label": "装備調整・リング移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6674,
+        "label": "最終盤のリング戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7201,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7336,
+        "label": "配信終了の挨拶・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7442,
+        "label": "スーパーチャット読み・お礼",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "videoId": "kfg0yOpJbPU",
+  "title": "【#IF雪メイキング】リスナーさんが考えるIF世界の私を再現するVol.2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-10T16:15:08Z",
+  "duration": "PT1H49M41S",
+  "durationSec": 6581,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kfg0yOpJbPU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:29:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 828,
+        "label": "バーテンダー白雪のボイス紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1314,
+        "label": "別世界線のバーテンダー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1777,
+        "label": "マフィアボス白雪の設定紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2386,
+        "label": "メデューサ白雪・設定と神話トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3308,
+        "label": "何でも屋・ウルフのグレーアッシュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3918,
+        "label": "サキュバス白雪の声・設定紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4556,
+        "label": "魔法図書館の司書",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4904,
+        "label": "ビーストマスター白雪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5383,
+        "label": "壁の中の幽霊の設定紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "最後の作品・殺し屋白雪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6145,
+        "label": "IF雪メイキングの応募方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6515,
+        "label": "締め・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

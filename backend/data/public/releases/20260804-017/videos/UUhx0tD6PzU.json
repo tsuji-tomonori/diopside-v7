@@ -1,0 +1,80 @@
+{
+  "videoId": "UUhx0tD6PzU",
+  "title": "【#Vコーデバトル】秋のメンズファッション！お姉さんたちによる３色コーデバトル【西園寺メアリ / ハニスト】",
+  "publishedAt": "2020-10-02T14:19:01Z",
+  "duration": "PT1H13M1S",
+  "durationSec": 4381,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UUhx0tD6PzU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 401,
+        "label": "3色コーデバトルのルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 538,
+        "label": "第1回の色選びとコーデ作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1316,
+        "label": "第2回の色選びとコーデ作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2311,
+        "label": "第3回の色選びとコーデ調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3272,
+        "label": "コーデのタイトル作り・投票準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3863,
+        "label": "最終投票と審査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4146,
+        "label": "企画の感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4267,
+        "label": "告知と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

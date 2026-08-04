@@ -1,0 +1,105 @@
+{
+  "videoId": "0waEhN3Qz_k",
+  "title": "【報告】すみません、、、やらかしてしまいました。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-13T13:55:42Z",
+  "duration": "PT49M46S",
+  "durationSec": 2986,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0waEhN3Qz_k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:04:44.665182Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "怪我の報告・配信開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "階段からの転倒と救急へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 877,
+        "label": "救急での脱臼処置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1188,
+        "label": "骨折の判明・手術の可能性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1470,
+        "label": "ギプス生活と今後の配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1675,
+        "label": "左足首の話・事故の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1965,
+        "label": "手術が必要な理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2051,
+        "label": "謝罪と「骨折シャンクス」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2168,
+        "label": "仕事・教習所と自宅療養",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2320,
+        "label": "入院の見込みと家族の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2460,
+        "label": "配信終了・療養の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2550,
+        "label": "手術への不安と経験者への質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2693,
+        "label": "紹介先の病院・医師の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2834,
+        "label": "転倒への注意・今後の報告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

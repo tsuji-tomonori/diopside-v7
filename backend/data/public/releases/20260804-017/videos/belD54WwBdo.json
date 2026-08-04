@@ -1,0 +1,110 @@
+{
+  "videoId": "belD54WwBdo",
+  "title": "【ふるさと納税】白雪のオススメも教えるからあなたのオススメも教えて♪【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-08-25T15:57:51Z",
+  "duration": "PT2H37M25S",
+  "durationSec": 9445,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/belD54WwBdo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:59:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・喉の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 624,
+        "label": "ふるさと納税企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1025,
+        "label": "返礼品の検索準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1131,
+        "label": "軽井沢ビールのおすすめ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1406,
+        "label": "餃子のおすすめ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1847,
+        "label": "牛とろフレークのおすすめ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1980,
+        "label": "魚の返礼品を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2886,
+        "label": "魚の候補を比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3985,
+        "label": "近江牛のおすすめ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4464,
+        "label": "豚バラしゃぶしゃぶを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4845,
+        "label": "リスナーのおすすめ返礼品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6548,
+        "label": "豚バラ候補を比較",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8169,
+        "label": "ジュース・ゼリーの返礼品探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9094,
+        "label": "締めの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9194,
+        "label": "スーパーチャット読み・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

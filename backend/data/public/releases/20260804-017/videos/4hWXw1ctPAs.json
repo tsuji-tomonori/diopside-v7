@@ -1,0 +1,135 @@
+{
+  "videoId": "4hWXw1ctPAs",
+  "title": "【雑談】#白雪巴3D を巡回して勇気をもらいたい【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-19T15:37:48Z",
+  "duration": "PT2H12M23S",
+  "durationSec": 7943,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4hWXw1ctPAs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:19:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3Dお披露目の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 522,
+        "label": "3Dお披露目の日程と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 872,
+        "label": "視聴者の存在を確かめるエゴサと交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1222,
+        "label": "VR視聴と3Dタグ巡回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1745,
+        "label": "ファン投稿巡回と身体の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "ダンスの思い出とファン作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2313,
+        "label": "ユリの日とお披露目日の偶然",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2605,
+        "label": "お披露目への期待とプレッシャー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3008,
+        "label": "デビューから現在までの歩み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3482,
+        "label": "3Dで広がる活動と告知グラフィック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3843,
+        "label": "お披露目の構成と自然体で臨む気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4321,
+        "label": "ファンアートと3D衣装への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4804,
+        "label": "他の3D配信の研究とファンの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5419,
+        "label": "応援と視聴環境、ライブへの期待",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5653,
+        "label": "セットリスト公開とサプライズの考え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "新ビジュアルとファン投稿巡回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6369,
+        "label": "応援タグと翌日のコラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "配信予定の確認とスパチャへの感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7560,
+        "label": "3Dの晴れ舞台を見届けてほしいという願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7803,
+        "label": "配信の締めと3Dへの思い",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

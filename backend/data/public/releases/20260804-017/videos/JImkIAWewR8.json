@@ -1,0 +1,105 @@
+{
+  "videoId": "JImkIAWewR8",
+  "title": "＃52.5【崩壊：スターレイル】ダリアをガチャでお迎えしたらド好みすぎてデート回になりました。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-30T08:19:18Z",
+  "duration": "PT2H8M46S",
+  "durationSec": 7726,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JImkIAWewR8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T05:43:35+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況と今日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 748,
+        "label": "編成確認・ガチャ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 882,
+        "label": "ダリアをガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1211,
+        "label": "育成キャラの進捗紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1417,
+        "label": "ダリアガチャ・再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1679,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2033,
+        "label": "ダリアを追加ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2766,
+        "label": "ダリアのモーション鑑賞",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3602,
+        "label": "今日の進め方を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3827,
+        "label": "ダリア育成・レベルと軌跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4371,
+        "label": "ダリア育成・遺物調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5822,
+        "label": "新編成を実戦テスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6230,
+        "label": "オンパロスをのんびり散策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7391,
+        "label": "振り返り・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "AdaFPB-fszQ",
+  "title": "＃32【崩壊：スターレイル】オンパロス編。紛争の火種はどうなるのやら…。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-16T15:57:37Z",
+  "duration": "PT2H45M41S",
+  "durationSec": 9941,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AdaFPB-fszQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:17:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・育成状況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 489,
+        "label": "オンパロス編再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1467,
+        "label": "新たな同行者と旅支度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2467,
+        "label": "神悟の樹庭へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3223,
+        "label": "静まり返った樹庭",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3951,
+        "label": "オクヘイマからの報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4252,
+        "label": "樹庭で手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5215,
+        "label": "謎の声と止まった水車",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6050,
+        "label": "課された試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7115,
+        "label": "水車起動・上層探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7861,
+        "label": "仲間と合流・記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8662,
+        "label": "収集物を探して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8969,
+        "label": "ゲーム終了・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9412,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

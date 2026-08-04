@@ -1,0 +1,130 @@
+{
+  "videoId": "1q2Pk4rG-bQ",
+  "title": "【#にじ女あもあす】私はやってません、何も知りません【雪城眞尋/にじさんじ】",
+  "publishedAt": "2023-06-04T14:40:15Z",
+  "duration": "PT2H30M58S",
+  "durationSec": 9058,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1q2Pk4rG-bQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:42:17.557Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "出演者紹介・Among Usのルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 647,
+        "label": "第1試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1220,
+        "label": "第1試合後の振り返り・設定調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1504,
+        "label": "第2試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2114,
+        "label": "第2試合後の振り返り・マップ変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2363,
+        "label": "第3試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3620,
+        "label": "第3試合後の振り返り・次試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3896,
+        "label": "第4試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4822,
+        "label": "第4試合後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5184,
+        "label": "第5試合の準備・開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6047,
+        "label": "第5試合後の振り返り・設定変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6315,
+        "label": "第6試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6648,
+        "label": "第6試合の議論・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7196,
+        "label": "第6試合終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7801,
+        "label": "第6試合後の振り返り・次試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8016,
+        "label": "第7試合スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8399,
+        "label": "第7試合終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8705,
+        "label": "第7試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8897,
+        "label": "配信終了・告知と挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "HSHI6Q4mndg",
+  "title": "#ラスト【影廊2】”何処へ”導かれていくのか――「Shadow Corridor 2 雨ノ四葩」を完全初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-12T18:52:56Z",
+  "duration": "PT5H39M53S",
+  "durationSec": 20393,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HSHI6Q4mndg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T16:22:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 308,
+        "label": "雨の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1162,
+        "label": "記録を読みながら探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1863,
+        "label": "次の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3218,
+        "label": "難易度を見直して区画を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4318,
+        "label": "物語区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5172,
+        "label": "しぐれをめぐる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5668,
+        "label": "追跡区間へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "長い追跡区間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7215,
+        "label": "追跡後の物語と次の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8146,
+        "label": "新たな区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9551,
+        "label": "記録を読み終盤の区画を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10797,
+        "label": "終盤区画の出口探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11304,
+        "label": "物語の合間と次のステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11996,
+        "label": "終盤の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14146,
+        "label": "再挑戦で終盤区画を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15979,
+        "label": "終盤の物語と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16722,
+        "label": "特別な区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18001,
+        "label": "終盤の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18593,
+        "label": "物語の結び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19005,
+        "label": "プレイ後の感想・挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19642,
+        "label": "考察・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "ccREL7whX9c",
+  "title": "＃５【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-12T13:52:33Z",
+  "duration": "PT5H47M16S",
+  "durationSec": 20836,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ccREL7whX9c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T22:36:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲームの続きへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 482,
+        "label": "街中の戦闘と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "神社付近の戦闘・能力強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "犬の案内を受ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3002,
+        "label": "病院のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "妖怪資料を見ながら街を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4804,
+        "label": "壁の妖怪サブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "無人の職場を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7808,
+        "label": "メイン進行・新地域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9003,
+        "label": "霧の地域を浄化して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11106,
+        "label": "河童と公衆電話の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11401,
+        "label": "犬と飼い主のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12002,
+        "label": "血を吸う桜のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12601,
+        "label": "妖怪の由来と次の地域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13801,
+        "label": "研究資料と強敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15300,
+        "label": "戦闘後・公衆電話の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15901,
+        "label": "複数のサブミッションを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16810,
+        "label": "呪いの建物を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18301,
+        "label": "印の付いた公衆電話を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19501,
+        "label": "河童のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19805,
+        "label": "公衆電話探索・再読み込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20401,
+        "label": "ゲーム進行の確認と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20701,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

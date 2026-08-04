@@ -1,0 +1,130 @@
+{
+  "videoId": "V_Zz1s_b9lQ",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#3【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-05T07:25:27Z",
+  "duration": "PT2H17M3S",
+  "durationSec": 8223,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/V_Zz1s_b9lQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:40:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "新しい看護師と病棟の人間関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 896,
+        "label": "バイタル記録と新人指導",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1559,
+        "label": "病棟で学ぶ仕事の心得",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1829,
+        "label": "患者の観察と看護の学び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2325,
+        "label": "病院で起きた出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "過去の事故と記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3332,
+        "label": "病棟スタッフの飲み会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3813,
+        "label": "音声選択とルートの手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3972,
+        "label": "夜勤の患者対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4650,
+        "label": "学生時代のアルバイト話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4781,
+        "label": "病院の漫画と創作の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5164,
+        "label": "新しい患者との交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5604,
+        "label": "休日の買い物とお土産選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6093,
+        "label": "昼休みの人間関係と新人指導",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6913,
+        "label": "プレゼントを渡す場面とルートの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "ルート確認と居酒屋での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7832,
+        "label": "看護師の進路とルート振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8107,
+        "label": "締めトーク・次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

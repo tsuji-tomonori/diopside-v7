@@ -1,0 +1,135 @@
+{
+  "videoId": "Nml03l0uczo",
+  "title": "【#ベルモンド誕生日】はじめての凸待ち！これからもよろしく！【ベルモンド・バンデラス/にじさんじ】",
+  "publishedAt": "2020-11-03T17:10:34Z",
+  "duration": "PT3H42M29S",
+  "durationSec": 13349,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Nml03l0uczo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:11:18.361078Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・凸待ちの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 714,
+        "label": "アンジュ・カトリーナと凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1535,
+        "label": "西園チグサと演技トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2323,
+        "label": "健屋花那とセリフ実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2815,
+        "label": "でびでび・でびる＆早瀬走と凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3466,
+        "label": "弦月藤士郎と活動トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4102,
+        "label": "白雪巴と誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4810,
+        "label": "エルフのえるとコラボ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5460,
+        "label": "メリッサ・キンレンカとセリフ実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6125,
+        "label": "鈴木勝とコラボ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6832,
+        "label": "雪城眞尋とセリフ実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7335,
+        "label": "安土桃と文学・活動トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8074,
+        "label": "エリー・コニファーとお酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8760,
+        "label": "小野友樹とセリフ実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9619,
+        "label": "凸待ち後半の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10041,
+        "label": "三枝明那と企画・お酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10715,
+        "label": "高宮リオンとコラボ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11313,
+        "label": "えま★おうがすとと凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12041,
+        "label": "凸待ち終了・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13005,
+        "label": "誕生日への感謝と終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

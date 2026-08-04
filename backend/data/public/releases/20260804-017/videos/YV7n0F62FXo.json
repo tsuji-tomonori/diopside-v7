@@ -1,0 +1,145 @@
+{
+  "videoId": "YV7n0F62FXo",
+  "title": "【スマブラSP】本日、同期を倒します。【不破湊/白雪巴/グウェル・オス・ガール/にじさんじ】",
+  "publishedAt": "2021-10-20T15:35:40Z",
+  "duration": "PT2H1M26S",
+  "durationSec": 7286,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YV7n0F62FXo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:50:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 265,
+        "label": "チーム戦1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 575,
+        "label": "チーム戦2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 830,
+        "label": "チーム戦3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1107,
+        "label": "チーム戦4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1536,
+        "label": "対戦後の振り返り・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2142,
+        "label": "チーム戦5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2563,
+        "label": "チーム戦6戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2980,
+        "label": "チーム戦7戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3295,
+        "label": "チーム戦8戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3645,
+        "label": "アイテムありのチーム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3908,
+        "label": "アイテムありの連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4189,
+        "label": "偽物スマッシュボールをめぐる対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4475,
+        "label": "ソラ参加でチーム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4941,
+        "label": "チーム戦13戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5344,
+        "label": "チーム戦14戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5648,
+        "label": "チーム戦15戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6020,
+        "label": "チーム戦16戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6381,
+        "label": "チーム戦17戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6751,
+        "label": "FFなしのファイナル対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7057,
+        "label": "最後の対戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7140,
+        "label": "コラボ総括・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

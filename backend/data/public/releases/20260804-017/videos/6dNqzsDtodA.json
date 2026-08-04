@@ -1,0 +1,145 @@
+{
+  "videoId": "6dNqzsDtodA",
+  "title": "【オフコラボ】にじさんじランドお疲れ様でした！！！！【#Crossick/にじさんじ】",
+  "publishedAt": "2020-11-28T16:28:15Z",
+  "duration": "PT1H56M53S",
+  "durationSec": 7013,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6dNqzsDtodA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T03:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・打ち上げ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 626,
+        "label": "リアルイベントの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1176,
+        "label": "イベントの舞台裏",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1378,
+        "label": "クイズと即興企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1743,
+        "label": "会場の反応と参加者の様子",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1934,
+        "label": "オリジナルグッズの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2149,
+        "label": "一周年サプライズの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2631,
+        "label": "サプライズと一周年の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2954,
+        "label": "食べ物をめぐる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3328,
+        "label": "手紙とイベントの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3505,
+        "label": "これからの企画を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3852,
+        "label": "イベント後の食事とアフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4206,
+        "label": "記念ケーキの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4460,
+        "label": "ケーキを食べながら雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4820,
+        "label": "写真立てと記念品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "一周年への感謝と二年目の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5459,
+        "label": "贈り物と二人の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5888,
+        "label": "ケーキと一日の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6105,
+        "label": "一周年記念動画と楽曲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6384,
+        "label": "最後のケーキと特別な一日",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6492,
+        "label": "イベントの感謝と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6904,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

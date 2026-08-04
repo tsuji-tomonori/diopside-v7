@@ -1,0 +1,120 @@
+{
+  "videoId": "4T6Nj7Z71y0",
+  "title": "＃50【崩壊：スターレイル】オンパロス編。Ver3.5突入！「英雄は死ぬまでに」【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-09T15:57:03Z",
+  "duration": "PT2H45M28S",
+  "durationSec": 9928,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4T6Nj7Z71y0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:58:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 183,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 608,
+        "label": "エリュシオン探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1305,
+        "label": "故郷の記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1623,
+        "label": "村で人々の記憶を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2770,
+        "label": "村の人々に話を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3231,
+        "label": "仲間たちとの作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3973,
+        "label": "旅立ちの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4657,
+        "label": "新たな空間での対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5744,
+        "label": "過去の時代へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6204,
+        "label": "キュレネ跳躍の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6523,
+        "label": "キュレネ跳躍スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6877,
+        "label": "光円錐跳躍・育成準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7824,
+        "label": "跳躍後の確認・調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8633,
+        "label": "編成調整・専用ボイス確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9397,
+        "label": "振り返り・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9680,
+        "label": "スーパーチャット・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "videoId": "cwbv6P5kFOY",
+  "title": "【雑談】話題ありすぎて逆に何話そう教えて【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-03T17:09:37Z",
+  "duration": "PT2H49M46S",
+  "durationSec": 10186,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cwbv6P5kFOY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:40:27.815031+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始と翌日の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 654,
+        "label": "乾杯とサプライズボックスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1227,
+        "label": "3分劇場の延期理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1649,
+        "label": "大会・競技配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2575,
+        "label": "今後のゲームと台本の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2804,
+        "label": "白雪家のゲーム事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3100,
+        "label": "制作物・オリジナル曲とコラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3398,
+        "label": "ASMR企画と収録機材",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4145,
+        "label": "コラボ収録の思い出と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "大切な関係と今この瞬間の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5263,
+        "label": "スパチャ読みと翌日の歌枠告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5447,
+        "label": "リスナーへの感謝とツイキャス案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5801,
+        "label": "スーパーチャット読みとボイスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6448,
+        "label": "DbDの遊び方とASMR企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6752,
+        "label": "スパチャ読みと配信への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "好きなコラボとリスナーとの関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7801,
+        "label": "配信環境の改善と視聴者への励まし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8197,
+        "label": "スパチャ読みと初見向け配信の構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "初見リスナー歓迎と応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9009,
+        "label": "名前の読み方と機材の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9238,
+        "label": "新規視聴者と個人配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9539,
+        "label": "終盤のスパチャ読みと名前変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9975,
+        "label": "初見者へのおすすめの入口",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10067,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

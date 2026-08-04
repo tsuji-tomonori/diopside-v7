@@ -1,0 +1,145 @@
+{
+  "videoId": "NyYBb9Iz028",
+  "title": "【スプラトゥーン2】にじスプラ大会チームE。対戦。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-13T17:48:02Z",
+  "duration": "PT2H27M6S",
+  "durationSec": 8826,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NyYBb9Iz028/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:05:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チームE準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "最初のエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 617,
+        "label": "ホコ戦・連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1358,
+        "label": "エリア戦・次の一手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1736,
+        "label": "エリア戦・前線の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2136,
+        "label": "エリア戦からヤグラ戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2673,
+        "label": "ヤグラ戦・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3064,
+        "label": "マッチ再開・武器調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3245,
+        "label": "ローラーで前線戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "ヤグラ戦・連携の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3991,
+        "label": "マッチと次の武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4208,
+        "label": "次のマッチ・連携と立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4600,
+        "label": "マッチ・塗りとスペシャル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5162,
+        "label": "長めのマッチ・戦術調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6010,
+        "label": "マッチ・振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "マッチ・反撃と前線管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6851,
+        "label": "ホコ戦・ルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7158,
+        "label": "マッチ・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7624,
+        "label": "マッチ・終盤の押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8134,
+        "label": "最終マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "試合後のチーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8559,
+        "label": "配信終了の挨拶・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

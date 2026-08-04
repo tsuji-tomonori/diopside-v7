@@ -1,0 +1,110 @@
+{
+  "videoId": "vmgA1mhULQI",
+  "title": "【白雪巴】センシティブお姉さん襲来!?女の子が好きすぎる女王様！#たま巴 対談バトル!!【犬山たまき】",
+  "publishedAt": "2021-01-14T15:15:52Z",
+  "duration": "PT1H7M38S",
+  "durationSec": 4058,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vmgA1mhULQI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T10:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 458,
+        "label": "第一印象とコラボの印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1128,
+        "label": "高校時代・ギャル時代の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1236,
+        "label": "学校への出前ピザ・ギャル談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1392,
+        "label": "学生時代・演劇の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1526,
+        "label": "家族に活動を知られた話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1792,
+        "label": "SM談義・好みの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1968,
+        "label": "嫉妬と好きな相手への距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2312,
+        "label": "恋人とのプライベート境界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2619,
+        "label": "連絡の早さ・Discordの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2795,
+        "label": "声が好きなVTuberの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3136,
+        "label": "会話のラインを越えた出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3309,
+        "label": "年齢観とグウェルの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3596,
+        "label": "印象的な過去エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3972,
+        "label": "締めのトーク・挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

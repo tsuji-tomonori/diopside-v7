@@ -1,0 +1,105 @@
+{
+  "videoId": "qBoDKmzMJOM",
+  "title": "【#崩壊3rd】天穹夜行録を初見プレイ！女の子2人がメインのストーリーですって‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-12T12:09:52Z",
+  "duration": "PT1H3M",
+  "durationSec": 3780,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qBoDKmzMJOM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "冒頭演出・配信開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 150,
+        "label": "崩壊3rdの世界観とイベント紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 581,
+        "label": "イベントストーリー開始・最初の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 831,
+        "label": "スーサナと師匠の出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1169,
+        "label": "ゲームセンター店長の説明と任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1547,
+        "label": "別行動からゲームセンターへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1882,
+        "label": "ゲームセンターで起きた騒動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2329,
+        "label": "南エリアの戦闘とイベント進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2601,
+        "label": "監視装置の巡回と夜の街",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2896,
+        "label": "監視装置の修理と帰路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3223,
+        "label": "クレーンゲームに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3469,
+        "label": "物語の新たな謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3557,
+        "label": "初見プレイの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3648,
+        "label": "ゲーム紹介・次回告知・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

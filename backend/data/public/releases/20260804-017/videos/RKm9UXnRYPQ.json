@@ -1,0 +1,110 @@
+{
+  "videoId": "RKm9UXnRYPQ",
+  "title": "【おにぎり屋さんシミュレーター】うまい！うまい！うまい！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-25T11:46:13Z",
+  "duration": "PT2H31M24S",
+  "durationSec": 9084,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RKm9UXnRYPQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:37:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・おにぎりトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 455,
+        "label": "ゲーム開始・開店準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1176,
+        "label": "営業1日目・初めての接客",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1983,
+        "label": "営業2日目・ごま塩おにぎり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2858,
+        "label": "営業3日目・複数注文に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3423,
+        "label": "新メニュー・営業4日目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4282,
+        "label": "作業効率アップ・営業5日目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "新メニュー・営業6日目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6271,
+        "label": "作り置き作戦・営業7日目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7187,
+        "label": "1週間の営業を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7444,
+        "label": "新要素解放・延長戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7889,
+        "label": "延長戦・営業8日目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8379,
+        "label": "延長戦の営業結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8533,
+        "label": "ゲームの感想・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8711,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "1wVqoDgrqpc",
+  "title": "【サチ江-死道-】サチ江さああああああああああああん【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-05T16:50:45Z",
+  "duration": "PT3H23M27S",
+  "durationSec": 12207,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1wVqoDgrqpc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T20:38:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 330,
+        "label": "操作チュートリアル・帰り道探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 688,
+        "label": "ゴミ拾いと帰り道の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1888,
+        "label": "ゲーム進行と操作の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2324,
+        "label": "2回戦のゴミ拾い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3170,
+        "label": "新しい道で追跡を回避",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3839,
+        "label": "空き缶遊びと手掛かり探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4515,
+        "label": "ゴミ回収の進行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "体力管理でゴミ拾いを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5900,
+        "label": "墓の手入れと電話の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7331,
+        "label": "翌日の花と新しい課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7644,
+        "label": "新しいゴミと電話の課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8316,
+        "label": "終盤の逃走チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9171,
+        "label": "逃走ルートと操作手順を分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10076,
+        "label": "正規ルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10563,
+        "label": "攻略確認と操作手順の実践",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11217,
+        "label": "仕事帰りの物語パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11578,
+        "label": "開発者メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11869,
+        "label": "感想・告知・スーパーチャット",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

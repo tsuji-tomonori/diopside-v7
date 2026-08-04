@@ -1,0 +1,100 @@
+{
+  "videoId": "xk9HXuJcFJU",
+  "title": "＃２【こちら、母なる星より】荒廃した池袋で6人の女の子たちがサバイバル生活！？！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-01T15:39:20Z",
+  "duration": "PT2H21M",
+  "durationSec": 8460,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xk9HXuJcFJU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:02:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 670,
+        "label": "ゲーム開始・船内探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2255,
+        "label": "船内の食事と暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "浴場を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3704,
+        "label": "食事と就寝・船内の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4533,
+        "label": "朝の再開・スマホ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "朝の船内探索・食事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6565,
+        "label": "浴場での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6874,
+        "label": "救助を待つ船内生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7329,
+        "label": "クルーズ船への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7554,
+        "label": "ゲームの締め・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7641,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8140,
+        "label": "告知と配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

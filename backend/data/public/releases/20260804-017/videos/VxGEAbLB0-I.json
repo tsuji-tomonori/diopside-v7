@@ -1,0 +1,85 @@
+{
+  "videoId": "VxGEAbLB0-I",
+  "title": "【雀魂】いつも裏でやってた段位戦を公開でやってみる【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-28T12:08:01Z",
+  "duration": "PT2H52M11S",
+  "durationSec": 10331,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VxGEAbLB0-I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・段位戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 637,
+        "label": "第1局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1652,
+        "label": "第2局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3696,
+        "label": "第3局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5004,
+        "label": "第4局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6065,
+        "label": "第5局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "第6局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8129,
+        "label": "第7局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8778,
+        "label": "第8局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9966,
+        "label": "対局の総括・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

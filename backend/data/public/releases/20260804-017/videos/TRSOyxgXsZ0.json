@@ -1,0 +1,95 @@
+{
+  "videoId": "TRSOyxgXsZ0",
+  "title": "【 #マリカにじさんじ杯  】予選Hリーグ　栞葉るり（お巡りさん）視点【にじさんじ】",
+  "publishedAt": "2024-05-05T12:23:59Z",
+  "duration": "PT59M46S",
+  "durationSec": 3586,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TRSOyxgXsZ0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 249,
+        "label": "大会前のマリカ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 696,
+        "label": "休憩中の食事と体調の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 822,
+        "label": "機材トラブルと配信画面の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1414,
+        "label": "ロビー準備と出場予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1710,
+        "label": "本番前のロビー待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2150,
+        "label": "本番前の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2437,
+        "label": "予選レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3177,
+        "label": "予選レース後の状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3225,
+        "label": "エキシビションマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3336,
+        "label": "終了後の音声整理と大会の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3458,
+        "label": "配信終了・次回の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

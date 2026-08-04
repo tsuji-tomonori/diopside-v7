@@ -1,0 +1,115 @@
+{
+  "videoId": "LPslZiykuQ8",
+  "title": "【WE WERE HERE Too】コミュ力が試される！？謎解き協力アドベンチャーゲーム＃１【来栖夏芽/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-26T12:55:50Z",
+  "duration": "PT1H41M48S",
+  "durationSec": 6108,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/LPslZiykuQ8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:41:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ゲーム説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "ゲーム開始準備・役割確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 480,
+        "label": "最初の部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 667,
+        "label": "図形記号パズルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 903,
+        "label": "次の部屋と棺の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1512,
+        "label": "猫とチューリップの手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1852,
+        "label": "ろうそくパズルの仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2446,
+        "label": "模様ボードを組み立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2766,
+        "label": "魔法陣の一筆書き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3198,
+        "label": "マグマの図形パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3497,
+        "label": "十字装置の図形を照合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3810,
+        "label": "ブロックパズルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "六つの部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5500,
+        "label": "次の部屋を目指す挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5636,
+        "label": "図形の対応を整理して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5947,
+        "label": "配信終了・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "xlFWAjtC6No",
+  "title": "＃54【崩壊：スターレイル】オンパロス編。自分、いつでもラスボスいけます。【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-01-20T16:36:41Z",
+  "duration": "PT3H23M17S",
+  "durationSec": 12197,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xlFWAjtC6No/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T15:58:20+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 317,
+        "label": "メインストーリー再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1992,
+        "label": "探索と仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2571,
+        "label": "長い記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4221,
+        "label": "次の目的地へ・物語進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5659,
+        "label": "持続戦闘パート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6047,
+        "label": "物語進行・次の局面へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7380,
+        "label": "アーカイブを読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7848,
+        "label": "メインストーリーへ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8182,
+        "label": "記憶を巡る物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9501,
+        "label": "歴史の記録をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11108,
+        "label": "物語区切り・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11467,
+        "label": "今後の配信告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11610,
+        "label": "追加の振り返り・締め準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11849,
+        "label": "スーパーチャット読み・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12121,
+        "label": "終了挨拶・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

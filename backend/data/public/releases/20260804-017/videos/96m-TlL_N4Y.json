@@ -1,0 +1,110 @@
+{
+  "videoId": "96m-TlL_N4Y",
+  "title": "【ポケモンユナイト】フルパ戦隊【白雪巴／夜見れな／エクス・アルビオ／不破湊／夕陽リリ／にじさんじ】",
+  "publishedAt": "2021-09-08T15:24:55Z",
+  "duration": "PT2H3S",
+  "durationSec": 7203,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/96m-TlL_N4Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 244,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 834,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1860,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2359,
+        "label": "第2試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2605,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3175,
+        "label": "第3試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3627,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4227,
+        "label": "第4試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4803,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5408,
+        "label": "第5試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5537,
+        "label": "第6試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6145,
+        "label": "第6試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6454,
+        "label": "第7試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7022,
+        "label": "第7試合後の振り返り・配信案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

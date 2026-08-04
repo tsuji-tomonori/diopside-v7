@@ -1,0 +1,145 @@
+{
+  "videoId": "Am7wMXZbnOk",
+  "title": "【新衣装撮影会】スクショし放題♡♡スパチャお礼しながら撮影会！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-08-29T16:26:15Z",
+  "duration": "PT3H2M3S",
+  "durationSec": 10923,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Am7wMXZbnOk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:50:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新衣装の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 611,
+        "label": "撮影会の進め方と衣装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1024,
+        "label": "ヴァンパイア変身・表情差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1495,
+        "label": "罵倒ASMRの計画とリクエスト撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2361,
+        "label": "ゴシック背景・人外スタイルの撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2882,
+        "label": "スパチャ読み・小悪魔背景と尻尾",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3626,
+        "label": "スパチャ読み・尻尾と髪型の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4177,
+        "label": "羽・黒ネイルのポーズ撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4756,
+        "label": "人間・猫耳などのポーズ差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5198,
+        "label": "スパチャ読み・髪型と表情の差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "新衣装の感想・サキュバス撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6413,
+        "label": "背景アレンジと人外キャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6943,
+        "label": "スパチャ読み・明日のASMR予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7194,
+        "label": "リクエスト撮影・全身ポーズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7719,
+        "label": "スパチャのおねだりルールとASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8010,
+        "label": "ボディペイントからリラックス撮影へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8606,
+        "label": "グリーンバック背景の撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9008,
+        "label": "今日分のスパチャ読み・追加スクショ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9719,
+        "label": "最後のスパチャ読み・体調と共有案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10037,
+        "label": "誕生日スパチャへの返答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10177,
+        "label": "最後のリクエストとSMの方向性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10621,
+        "label": "撮影会終了・今後の予定と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

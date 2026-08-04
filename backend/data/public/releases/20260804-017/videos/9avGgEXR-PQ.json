@@ -1,0 +1,145 @@
+{
+  "videoId": "9avGgEXR-PQ",
+  "title": "【SCP：極秘ファイル】脳と精神が破壊されていきます【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-22T15:39:30Z",
+  "duration": "PT2H58M59S",
+  "durationSec": 10739,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9avGgEXR-PQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 840,
+        "label": "SCPゲーム開始・最初の任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "SCP-660の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1647,
+        "label": "SCP-143の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1985,
+        "label": "SCP-261の自動販売機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "SCP-1762の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4889,
+        "label": "SCP-302の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5021,
+        "label": "SCP-090の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5430,
+        "label": "SCP-898の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5996,
+        "label": "SCP-239任務の概要",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6166,
+        "label": "SCP-239任務・意識内への侵入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6334,
+        "label": "SCP-239の記憶を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7193,
+        "label": "接続パズルと収容室の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7521,
+        "label": "SCP-239への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7738,
+        "label": "絵本のコマドリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8110,
+        "label": "絵本の影響と計画会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8684,
+        "label": "魔女計画の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9052,
+        "label": "能力開発テスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9366,
+        "label": "創造テスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9688,
+        "label": "意識内任務・病院ステージの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10114,
+        "label": "SCP-239編・任務の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10303,
+        "label": "配信終了・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "videoId": "AhUSvI7dQbs",
+  "title": "【切り抜き】異世界転生した白雪巴は神田笑一に命乞いさせたいそうですよ！【神田笑一/白雪巴/にじさんじ】",
+  "publishedAt": "2021-11-16T09:00:09Z",
+  "duration": "PT3M39S",
+  "durationSec": 219,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AhUSvI7dQbs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "Sのイメージについて語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 57,
+        "label": "助けを求める流れへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 101,
+        "label": "SとMの要素を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 127,
+        "label": "相手を喜ばせる振る舞い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 177,
+        "label": "自分の命と位置は自分で守る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 199,
+        "label": "助けを求める掛け合い",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

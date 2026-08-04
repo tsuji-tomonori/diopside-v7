@@ -1,0 +1,120 @@
+{
+  "videoId": "868QB_gop70",
+  "title": "【祝 #白雪巴3D】白雪巴の初配信をみんなで見る会【にじさんじ】",
+  "publishedAt": "2021-06-25T12:05:55Z",
+  "duration": "PT57M39S",
+  "durationSec": 3459,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/868QB_gop70/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信準備・初配信の視聴開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 341,
+        "label": "初配信の準備を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 676,
+        "label": "プロフィール紹介と視聴者へのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1083,
+        "label": "結婚観と関係性の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1384,
+        "label": "女性ライバーの魅力と好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1628,
+        "label": "デビュー準備を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1728,
+        "label": "活動タグ・コラボ企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1908,
+        "label": "ファンの呼び名・タグを考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2108,
+        "label": "ファンアート募集と絵描きリレー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2254,
+        "label": "ファンアート紹介とイメージカラー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2437,
+        "label": "今後の雑談・企画方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "ゲーム実況の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2863,
+        "label": "ゲスト向けマシュマロ企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "コラボ志向と活動の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3047,
+        "label": "次回配信と今後の企画方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3247,
+        "label": "視聴者と成長していく活動方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3363,
+        "label": "配信後の感想・終了案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

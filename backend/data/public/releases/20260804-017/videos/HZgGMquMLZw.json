@@ -1,0 +1,155 @@
+{
+  "videoId": "HZgGMquMLZw",
+  "title": "【百尺様】デカいお姉さんが大好きなデカいお姉さんそれが私ってこと【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-09T15:01:23Z",
+  "duration": "PT1H52M15S",
+  "durationSec": 6735,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HZgGMquMLZw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:52:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 195,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 394,
+        "label": "祖父母の家へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 856,
+        "label": "昼寝中の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1241,
+        "label": "過去の記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1618,
+        "label": "間違い探しに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1860,
+        "label": "夕食と夜の備え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2171,
+        "label": "深夜の来訪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2369,
+        "label": "窓辺の攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2783,
+        "label": "村からの脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2932,
+        "label": "暗算チェイス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3166,
+        "label": "神社を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3338,
+        "label": "神社で対決準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3538,
+        "label": "神社での対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3840,
+        "label": "神社で語られる過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4239,
+        "label": "エンディング・クレジット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4430,
+        "label": "エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4675,
+        "label": "プレイ直後の感想・再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5014,
+        "label": "追加モードを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5235,
+        "label": "ゲーム・キャラクター振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5878,
+        "label": "制作・音楽の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6286,
+        "label": "次回配信のお知らせ・感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6327,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6626,
+        "label": "終了挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

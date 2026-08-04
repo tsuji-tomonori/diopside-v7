@@ -1,0 +1,37 @@
+{
+  "videoId": "9Bq65si_4TI",
+  "sheetRow": 106,
+  "subtitle": {
+    "bytes": 987545,
+    "cueCount": 5055,
+    "sha256": "fdb29b6dd705853f10146bc2bc45a92e961fb1c093a4f264b61ebe8ac4d52040",
+    "firstCueSec": 114.99,
+    "lastCueSec": 9569.56,
+    "durationSec": 9606
+  },
+  "comments": {
+    "status": "acquired",
+    "count": 20,
+    "fullTimelineOutlineAvailable": true
+  },
+  "chapterCount": 22,
+  "factReview": {
+    "decision": "pass",
+    "method": "詳細タイムラインコメントを全編字幕と照合し、各境界の最近傍字幕cueと具体的な章名の対応を独立再検査"
+  },
+  "editorialReview": {
+    "decision": "pass",
+    "method": "粒度、明瞭性、重複、全編カバレッジを作成観点と分離して再確認。最大章684秒"
+  },
+  "validation": {
+    "startsAtZero": true,
+    "ascending": true,
+    "integerSeconds": true,
+    "withinDuration": true,
+    "fullTimelineCovered": true,
+    "duplicateVideoIds": 0,
+    "releaseId": "20260804-017",
+    "releaseVideoCount": 1221,
+    "seedReleaseId": "20260804-016"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoId": "9UaN2vX4dQ4",
+  "title": "#1【SILENT HILL2】サイレントヒル2を布教したいお姉さんのリメイク版実況【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-11T18:50:23Z",
+  "duration": "PT5H20M3S",
+  "durationSec": 19203,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9UaN2vX4dQ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T08:59:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入とゲーム設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 883,
+        "label": "ニューゲーム開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1002,
+        "label": "物語の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1354,
+        "label": "霧の道を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1653,
+        "label": "墓地を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1964,
+        "label": "市街地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2622,
+        "label": "霧の中の手掛かりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2924,
+        "label": "最初の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3598,
+        "label": "店舗の仕掛けを調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4142,
+        "label": "市街地のアパート探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5218,
+        "label": "音楽店を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6854,
+        "label": "店舗の仕掛けに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8055,
+        "label": "集合住宅の探索開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8756,
+        "label": "中庭から新しい区画へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9903,
+        "label": "2階の仕掛けと探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10817,
+        "label": "館内で進路を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12969,
+        "label": "隠された部屋の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13984,
+        "label": "1階と中庭の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14887,
+        "label": "3階の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15883,
+        "label": "コインの仕掛けに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16438,
+        "label": "奥の部屋を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16837,
+        "label": "新たな集合住宅へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17186,
+        "label": "時計の仕掛けを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17945,
+        "label": "時計の手掛かりを集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18658,
+        "label": "ゲーム終了・初回の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18857,
+        "label": "次回予定・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18992,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19130,
+        "label": "配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

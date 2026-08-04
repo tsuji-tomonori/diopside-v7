@@ -1,0 +1,110 @@
+{
+  "videoId": "-vU1qyXOyRU",
+  "title": "【ストレッチャーズ】調教お姉さん×ガチ医療従事者=最強！？！？【#Crossick/にじさんじ】",
+  "publishedAt": "2020-07-14T12:33:00Z",
+  "duration": "PT1H19M20S",
+  "durationSec": 4760,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-vU1qyXOyRU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 521,
+        "label": "操作説明・トレーニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 936,
+        "label": "最初の救助ミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1023,
+        "label": "次の患者を二人で搬送",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "救助先を選んで現場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1981,
+        "label": "患者を探して搬送する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2204,
+        "label": "障害物を壊して救助を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2712,
+        "label": "搬送を続けて帰路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2939,
+        "label": "近道とジャンプ台で救助を急ぐ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3251,
+        "label": "救助後のポイントとプレイ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3373,
+        "label": "次のエリアを探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3716,
+        "label": "木材運搬ミッション開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3978,
+        "label": "設計図を見てジャンプ台を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4136,
+        "label": "木材を配置して協力プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4587,
+        "label": "ゲーム終了・感想と告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

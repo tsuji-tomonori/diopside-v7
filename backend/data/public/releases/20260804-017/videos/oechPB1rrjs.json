@@ -1,0 +1,115 @@
+{
+  "videoId": "oechPB1rrjs",
+  "title": "＃51【崩壊：スターレイル】オンパロス編。ここから始まるロマンチックな物語…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-21T15:10:08Z",
+  "duration": "PT1H59M47S",
+  "durationSec": 7187,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oechPB1rrjs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:16:58Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 339,
+        "label": "オンパロス編を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 841,
+        "label": "変わった歴史を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1026,
+        "label": "聖都へ到着",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1327,
+        "label": "会議前の情報収集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2526,
+        "label": "同盟会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3076,
+        "label": "ケリュドラとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3575,
+        "label": "会議後の密談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4031,
+        "label": "街で情報収集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4743,
+        "label": "セイレンスとの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5246,
+        "label": "宴をめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5754,
+        "label": "仲間への現状報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6081,
+        "label": "本編の区切り・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6358,
+        "label": "寄り道とマネーウォーズ雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6766,
+        "label": "今後の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6918,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

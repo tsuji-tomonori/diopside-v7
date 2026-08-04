@@ -1,0 +1,225 @@
+{
+  "videoId": "R1gwPOqim-g",
+  "title": "【30万人記念】社畜保健医復活？！悪魔の凸待ち企画！【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2020-08-18T14:34:38Z",
+  "duration": "PT4H51M15S",
+  "durationSec": 17475,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R1gwPOqim-g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・30万人記念凸待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 692,
+        "label": "潤羽るしあとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 918,
+        "label": "夏色まつりとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1114,
+        "label": "えーちゃんとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1471,
+        "label": "響木アオとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1777,
+        "label": "鷹宮リオンとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2066,
+        "label": "町田ちまとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2265,
+        "label": "轟京子との通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2551,
+        "label": "獅子神レオナとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2821,
+        "label": "高槻りつとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3139,
+        "label": "因幡はねるとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3482,
+        "label": "小野町春香との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3884,
+        "label": "白銀ノエルとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4270,
+        "label": "天宮こころとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4707,
+        "label": "飛鳥ひなとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5010,
+        "label": "健屋花那との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5420,
+        "label": "ラトナ・プティとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5753,
+        "label": "早瀬走との通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6106,
+        "label": "ユキミお姉ちゃんとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6856,
+        "label": "角巻わためとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7337,
+        "label": "アキロゼとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7882,
+        "label": "白雪みしろとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8171,
+        "label": "しぐれういとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8624,
+        "label": "白上フブキとの通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9745,
+        "label": "白雪巴との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10344,
+        "label": "兎田ぺこらとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10872,
+        "label": "森中花咲との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12415,
+        "label": "通話間の待機・睡眠トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13063,
+        "label": "夜空メルとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13482,
+        "label": "犬山たまきとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14784,
+        "label": "通話間の告知準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14924,
+        "label": "愛園愛美との通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15888,
+        "label": "桐生ココとの通話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16248,
+        "label": "30人達成・告知準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16358,
+        "label": "記念グッズ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16597,
+        "label": "企画の振り返り・リレー説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16811,
+        "label": "スーパーチャット読み上げ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17350,
+        "label": "終了前の挨拶・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

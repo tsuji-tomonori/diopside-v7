@@ -1,0 +1,155 @@
+{
+  "videoId": "QnDbxyP3h_M",
+  "title": "【定期雑談】機械オンチなりにチャレンジしまくった6月【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-30T15:38:00Z",
+  "duration": "PT2H24M57S",
+  "durationSec": 8697,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QnDbxyP3h_M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新エフェクト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 343,
+        "label": "6月振り返り・梅雨の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 658,
+        "label": "振り返り雑談の形式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 796,
+        "label": "ショート動画デビューと7月の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1183,
+        "label": "ショート動画の企画書",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "フミさんとの撮影裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1920,
+        "label": "ルイスさん・夏芽さんとの撮影裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2382,
+        "label": "ショート動画の完成・公開予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2624,
+        "label": "ゲーム・コラボ配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2704,
+        "label": "アモアスの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2989,
+        "label": "化物語歌枠の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3215,
+        "label": "次回アニメカラオケの予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3429,
+        "label": "アニメ曲コラボの裏話・後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4216,
+        "label": "Switch Sportsとマイクラの企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4767,
+        "label": "美容案件コラボの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5114,
+        "label": "ノニジュースの体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5668,
+        "label": "コラボ商品とスキンケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5764,
+        "label": "最近の出来事・コラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6340,
+        "label": "美容アイテムの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6747,
+        "label": "最近見ているYouTube",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7160,
+        "label": "7月の予定・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7421,
+        "label": "締め後の補足トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7818,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8595,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

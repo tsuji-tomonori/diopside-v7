@@ -1,0 +1,125 @@
+{
+  "videoId": "IunOLWghdC4",
+  "title": "【例外配達】どうも、3Dお披露目決まったのでビラ配りいいですか？？？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-18T15:08:26Z",
+  "duration": "PT1H49M36S",
+  "durationSec": 6576,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IunOLWghdC4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 308,
+        "label": "3Dお披露目決定のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 509,
+        "label": "『例外配達』の説明・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 754,
+        "label": "最初の配達を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1494,
+        "label": "次の配達先で住人の話を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2038,
+        "label": "荷物をめぐるやり取りと配達",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2593,
+        "label": "次の届け先を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3030,
+        "label": "不穏な配達先を離れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3268,
+        "label": "手紙を手がかりに探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3620,
+        "label": "不穏な部屋を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4066,
+        "label": "トラックで次の階へ移動する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4268,
+        "label": "次の配達と住人との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4593,
+        "label": "猫と配達の記録を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4931,
+        "label": "終盤の部屋を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5548,
+        "label": "本編の締めくくり・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5686,
+        "label": "配信後の告知・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5910,
+        "label": "スーパーチャット読み上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6482,
+        "label": "配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

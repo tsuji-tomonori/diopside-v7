@@ -1,0 +1,9 @@
+{
+  "status": "generated",
+  "source": "chat_aggregation",
+  "generatedAt": "2026-06-26T01:02:00Z",
+  "topTerms": [
+    { "term": "怖い", "count": 52 },
+    { "term": "泣いた", "count": 44 }
+  ]
+}

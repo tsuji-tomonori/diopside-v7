@@ -1,0 +1,130 @@
+{
+  "videoId": "go3S4Aw3kOw",
+  "title": "【 誕生日 】 凸待ちでタロット占い or スト6タイマン！告知もあります！ 【 にじさんじ / 神田笑一 】",
+  "publishedAt": "2026-03-05T15:38:45Z",
+  "duration": "PT3H36M57S",
+  "durationSec": 13017,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/go3S4Aw3kOw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T06:08:03.523342Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日企画の説明・凸待ちスタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 542,
+        "label": "犬山たまきと引っ越し相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1365,
+        "label": "白雪巴と人間関係の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2284,
+        "label": "健屋花那と恋愛運の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3189,
+        "label": "すこやかなえと編み物相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "レレと有馬記念・金運の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4682,
+        "label": "ストリートファイター6で対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5461,
+        "label": "エマと結婚相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6365,
+        "label": "しだれ桜と活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6784,
+        "label": "アカウントの安全対策を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7025,
+        "label": "しだれ桜の今後を占う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7266,
+        "label": "日向なおと再会トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7921,
+        "label": "トーマ・スバルと近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8163,
+        "label": "トーマの活動を占う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8824,
+        "label": "スバルの健康相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9484,
+        "label": "フミの活動運を占う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10743,
+        "label": "ゆくの今後の活動を占う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11941,
+        "label": "凸待ちの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12481,
+        "label": "告知・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "Gphsc6PSbKw",
+  "title": "手術のためしばらく活動休止させていただきます💤【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-09-15T14:49:31Z",
+  "duration": "PT1H41M34S",
+  "durationSec": 6094,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gphsc6PSbKw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:33:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 143,
+        "label": "活動休止と声帯手術のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 450,
+        "label": "休止中の動画について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 596,
+        "label": "手術と術後の注意点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1172,
+        "label": "新しい声と復帰まで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1559,
+        "label": "質問タイムとアーカイブ案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1686,
+        "label": "夜王国について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2403,
+        "label": "休止中の過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2756,
+        "label": "入院準備と視聴者Q&A",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3304,
+        "label": "コラボ動画と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "再会の約束とこれからの活動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4039,
+        "label": "入院と骨折の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4505,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5738,
+        "label": "病院の個室について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5883,
+        "label": "配達対応ボイスを試し録り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5985,
+        "label": "最後のご挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

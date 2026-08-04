@@ -1,0 +1,110 @@
+{
+  "videoId": "Gv1BGOCFPes",
+  "title": "【ProjectWinter】人生初雪山人狼！～鈍感系主人公と取り巻く美少女たち～【綺沙良/にじさんじ】",
+  "publishedAt": "2025-01-17T14:38:45Z",
+  "duration": "PT2H1M20S",
+  "durationSec": 7280,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gv1BGOCFPes/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:45:10.661582+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 410,
+        "label": "第1試合開始・資源集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "発電所修理・イベント探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2110,
+        "label": "第1試合終盤・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2521,
+        "label": "第2試合開始・資源集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3256,
+        "label": "発電所修理・脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "第2拠点へ向けた物資集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4237,
+        "label": "第2試合終盤・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4690,
+        "label": "第3試合開始・資源集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5272,
+        "label": "発電所修理と脱出地点の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5907,
+        "label": "燃料を作って脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5997,
+        "label": "燃料搬送と右側エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6349,
+        "label": "発電所トラブルへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6834,
+        "label": "コラボ感想・告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7033,
+        "label": "配信者の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

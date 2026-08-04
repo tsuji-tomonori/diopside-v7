@@ -1,0 +1,180 @@
+{
+  "videoId": "B7KJchPaicg",
+  "title": "【#レバガチャスマブラ運動会】筋肉バトル‥じゃない‥！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-24T14:53:33Z",
+  "duration": "PT3H31M23S",
+  "durationSec": 12683,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/B7KJchPaicg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:54:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会ルールとチーム分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 334,
+        "label": "大会序盤の連続対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1021,
+        "label": "次の選手をめぐる作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "中盤の連続対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2469,
+        "label": "キャラクター選択と中盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4005,
+        "label": "試合後の整理と次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4171,
+        "label": "公式戦・最初の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "続く対戦と必殺技の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5040,
+        "label": "勝敗整理・小休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5409,
+        "label": "再開後の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6152,
+        "label": "試合後の感想と同時視聴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6272,
+        "label": "ゼルダをめぐる対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6541,
+        "label": "大将格が登場する終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6992,
+        "label": "休憩・別配信の観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7106,
+        "label": "ストック差を背負った対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7506,
+        "label": "次の選手選びと作戦整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7684,
+        "label": "次の挑戦者との対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7982,
+        "label": "離席を挟んで再開準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8327,
+        "label": "再開後の接戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8677,
+        "label": "対戦準備と次の試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9027,
+        "label": "試合後の画面・音声トラブル対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9606,
+        "label": "終盤戦・レベル設定をめぐる実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10172,
+        "label": "交代と相手対策の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10501,
+        "label": "公式戦・三戦目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10771,
+        "label": "試合後の振り返りと応援",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10990,
+        "label": "終盤の重要な対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11581,
+        "label": "大会後の試合解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11731,
+        "label": "大会の感想と配信告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12002,
+        "label": "スパチャ読みと終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "dDXs9njNkiQ",
+  "title": "【#にじさんじ甲子園 2021夏】スポーツバーDERAS 本戦Bリーグ応援配信【ベルモンド・バンデラス/にじさんじ】",
+  "publishedAt": "2021-08-14T07:49:10Z",
+  "duration": "PT4H32M5S",
+  "durationSec": 16325,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dDXs9njNkiQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:25:49.451688Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Bリーグ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 283,
+        "label": "試合前の予想・乾杯準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 913,
+        "label": "本戦の試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2290,
+        "label": "試合後のトーク・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2511,
+        "label": "次の試合の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3037,
+        "label": "参加者紹介・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "試合実況・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5275,
+        "label": "試合後の感想・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6073,
+        "label": "第3試合の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9896,
+        "label": "試合後のブレイク・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10841,
+        "label": "次の試合の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13141,
+        "label": "試合後の感想・最終試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13392,
+        "label": "最終試合の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15651,
+        "label": "試合結果・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16192,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

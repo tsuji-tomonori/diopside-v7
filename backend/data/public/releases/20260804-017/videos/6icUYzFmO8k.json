@@ -1,0 +1,120 @@
+{
+  "videoId": "6icUYzFmO8k",
+  "title": "【We Were Here Too】 協力謎解き脱出ゲーム！その4 #女王と会長 【 白雪巴/来栖夏芽/にじさんじ】",
+  "publishedAt": "2020-11-25T12:48:57Z",
+  "duration": "PT1H41M11S",
+  "durationSec": 6071,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6icUYzFmO8k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:58:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 529,
+        "label": "協力脱出ゲームを開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 800,
+        "label": "時計と図形の協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1210,
+        "label": "タイムアタック型の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1614,
+        "label": "人物と図形を照合するパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "迷路攻略へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2905,
+        "label": "告知・中断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2993,
+        "label": "時計迷路のルート攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3846,
+        "label": "動く障害物を避ける迷路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4531,
+        "label": "ゴール到達・終盤パネルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4694,
+        "label": "終盤の記号パネル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4928,
+        "label": "レバーの仕掛けから脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5052,
+        "label": "エレベーター後の協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5420,
+        "label": "エレベーターで合流地点へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5532,
+        "label": "終盤の合流・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5787,
+        "label": "今後の予定・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5993,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
