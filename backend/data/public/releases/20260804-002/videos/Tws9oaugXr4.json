@@ -1,0 +1,130 @@
+{
+  "videoId": "Tws9oaugXr4",
+  "title": "#02【ウマ娘】マルゼンスキー育成、開始。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-13T16:20:46Z",
+  "duration": "PT3H50M21S",
+  "durationSec": 13821,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Tws9oaugXr4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T21:05:20.940193Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "マルゼンスキー育成の方針と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "サポートカードガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2037,
+        "label": "サポカ強化と育成前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3221,
+        "label": "チーム競技場で資金集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3443,
+        "label": "育成デッキを編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4054,
+        "label": "育成開始・チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5776,
+        "label": "距離適性とレース方針を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6442,
+        "label": "育成イベントを進めてデビュー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "チーム活動とデビュー前の育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8399,
+        "label": "デビュー戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8733,
+        "label": "マルゼンスキーのデビュー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9216,
+        "label": "デビュー後の育成とイベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10245,
+        "label": "スキル選択とチーム戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10965,
+        "label": "サポートイベントと次のレース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12081,
+        "label": "第2レースのスキルと作戦を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12342,
+        "label": "第2レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12725,
+        "label": "レース後のライブと次の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13325,
+        "label": "マルゼンスキーの背景を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13711,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

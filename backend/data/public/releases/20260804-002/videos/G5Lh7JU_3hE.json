@@ -1,0 +1,135 @@
+{
+  "videoId": "G5Lh7JU_3hE",
+  "title": "【僕、アルバイトォォ！！】コンビニバイト日雇いで来ました。ってなんか様子おかしくない？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-08T02:43:44Z",
+  "duration": "PT1H38M18S",
+  "durationSec": 5898,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/G5Lh7JU_3hE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:23:20.460701Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 540,
+        "label": "ゲーム開始・コンビニへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "店長とコンビニの仕事説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 980,
+        "label": "レジ研修と最初のお客さん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "迷惑客への対処を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1339,
+        "label": "15分勤務開始・お客さん対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "迷惑客が増える店内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1989,
+        "label": "店の異変が深まる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2201,
+        "label": "次の勤務へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2424,
+        "label": "2回目の勤務・客を見極める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3000,
+        "label": "裏側の探索と広がる異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3421,
+        "label": "異変への対処を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "勤務を終えて振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4251,
+        "label": "新たな勤務モードを選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4355,
+        "label": "新モードで勤務開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4659,
+        "label": "方針を立て直して勤務継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4766,
+        "label": "後半の店内対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5226,
+        "label": "ゲームを終えて振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5389,
+        "label": "配信の感想・ゲーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5550,
+        "label": "スパチャ読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "iH99G_DlMMM",
+  "title": "【雑談】PCが生まれ変わります…！今までありがとう＞＜【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-15T17:34:04Z",
+  "duration": "PT2H23M28S",
+  "durationSec": 8608,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iH99G_DlMMM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:15:37.471366Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信再開と旧PCの卒業・移行準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 592,
+        "label": "教習所・路上教習と車の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1878,
+        "label": "教習車での体験と車線変更",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2658,
+        "label": "骨折リハビリと回復",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2838,
+        "label": "バレーボール観戦と選手の身体能力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "アスリートへの期待とプレッシャー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "視聴者とのつながりと配信ペース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3883,
+        "label": "新PCの性能と配信環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4211,
+        "label": "免許取得後の車と同乗者への気遣い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4910,
+        "label": "歩行者・自転車から考える交通安全",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5356,
+        "label": "交通事故統計と高齢運転の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5599,
+        "label": "家族の交通事故と母をめぐる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "事故体験から考える命と感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6613,
+        "label": "視聴者とのつながりと鬼メンタル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6893,
+        "label": "旧PCへの感謝と配信の区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7148,
+        "label": "スパチャ読み・4年半の振り返りと新PCへの期待",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7575,
+        "label": "相談への回答とつらい時の助言",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7986,
+        "label": "Xのいいね・ファンアート・エゴサ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8325,
+        "label": "スパチャへの感謝と今後の配信案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

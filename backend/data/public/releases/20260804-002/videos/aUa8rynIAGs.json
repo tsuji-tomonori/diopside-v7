@@ -1,0 +1,130 @@
+{
+  "videoId": "aUa8rynIAGs",
+  "title": "【Minecraft】初心者まったりマイクラ～片付けたり整えたりする～【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-02-24T15:29:21Z",
+  "duration": "PT3H9M",
+  "durationSec": 11340,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aUa8rynIAGs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:31:32.390571Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・今日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 425,
+        "label": "チェスト整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1461,
+        "label": "マイクラ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1767,
+        "label": "地下牢獄の入口を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2593,
+        "label": "牢獄の火あぶり演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2896,
+        "label": "牢獄の仕掛けを試行錯誤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3974,
+        "label": "動物を迎える準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "冒険に出て動物を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4911,
+        "label": "動物の収容と牢獄の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5367,
+        "label": "追加の動物を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5791,
+        "label": "家の周辺で動物を救出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6323,
+        "label": "狼を探す旅",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "狼たちを連れて帰る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8705,
+        "label": "帰宅して動物を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9141,
+        "label": "動物の収容と繁殖",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9903,
+        "label": "牢獄の仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10537,
+        "label": "地下牢獄を見渡す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10630,
+        "label": "振り返りと翌日の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10888,
+        "label": "締め・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

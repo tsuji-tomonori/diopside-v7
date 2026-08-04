@@ -1,0 +1,150 @@
+{
+  "videoId": "tsak5EVsDjA",
+  "title": "【雑談】ワクチン接種延期になったお姉さんのまったり雑談枠【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-19T15:19:43Z",
+  "duration": "PT2H8M15S",
+  "durationSec": 7695,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tsak5EVsDjA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:03:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最近の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 159,
+        "label": "ワクチン接種延期の経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 650,
+        "label": "ピクミン完結と配信方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 871,
+        "label": "3D活動・歌枠の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1456,
+        "label": "誕生日プレゼントの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1570,
+        "label": "歌枠の反省と選曲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2194,
+        "label": "今後の配信予定とツチノコ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2417,
+        "label": "百合作品と推薦企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2731,
+        "label": "配信方針・ASMRの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3330,
+        "label": "次にやりたい配信と身体の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3618,
+        "label": "身長の悩みと恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3869,
+        "label": "ファンレターに込められた思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4140,
+        "label": "活動の不調と休止を考えた経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "ファンレターと視聴者に支えられた話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5361,
+        "label": "本編の締め・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5862,
+        "label": "スーパーチャット読みの整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "過去配信分のスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6514,
+        "label": "本日のスーパーチャットと感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6670,
+        "label": "無理に乗り越えない考え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6919,
+        "label": "配信と悩み相談への向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7073,
+        "label": "終盤のスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7406,
+        "label": "休む時は休むという話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7556,
+        "label": "終盤のスーパーチャットと次回カラオケ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

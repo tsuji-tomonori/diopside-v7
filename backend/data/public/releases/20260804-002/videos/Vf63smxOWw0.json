@@ -1,0 +1,105 @@
+{
+  "videoId": "Vf63smxOWw0",
+  "title": "【#マリカにじさんじ杯 /マリオカート８ DX】雪辱を果たしたい教授の第5回マリオカートにじさんじ杯 予選Fリーグ【オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2022-12-11T12:57:20Z",
+  "duration": "PT50M59S",
+  "durationSec": 3059,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Vf63smxOWw0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T15:37:16.061Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開会前の挨拶・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "大会前の英語ミニ講座",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1126,
+        "label": "予選開始・コース選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1239,
+        "label": "予選1レース目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1410,
+        "label": "1レース目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1513,
+        "label": "予選2レース目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1683,
+        "label": "予選3レース目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1942,
+        "label": "予選4レース目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2263,
+        "label": "予選後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2446,
+        "label": "大会の振り返りと観戦トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2631,
+        "label": "走り方とアイテム運用の反省",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2798,
+        "label": "Fリーグを終えて・大会の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "大会の進行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2945,
+        "label": "締めの挨拶・次回配信告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

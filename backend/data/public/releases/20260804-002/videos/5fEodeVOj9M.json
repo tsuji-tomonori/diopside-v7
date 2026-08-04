@@ -1,0 +1,140 @@
+{
+  "videoId": "5fEodeVOj9M",
+  "title": "【#フルトイバレンタイン2022】女子なら絶対勝ちたい！誰のチョコが一番好き選手権！？【ルイス・キャミー/にじさんじ】",
+  "publishedAt": "2022-02-14T15:01:42Z",
+  "duration": "PT1H37M36S",
+  "durationSec": 5856,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5fEodeVOj9M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:03:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・バレンタイントーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 236,
+        "label": "チョコ選手権のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 348,
+        "label": "手作りチョコのお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 666,
+        "label": "見た目から誰のチョコか予想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 803,
+        "label": "食べたいチョコを投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1002,
+        "label": "投票結果と作者予想・実食準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1411,
+        "label": "チョコ実食・味と作り方の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1642,
+        "label": "お菓子作りの工程と焼き上がり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1910,
+        "label": "残りのチョコを実食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2413,
+        "label": "チョコの感想とお気に入り談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2594,
+        "label": "恋愛診断の質問スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3223,
+        "label": "恋人への要望と家デートの好み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3638,
+        "label": "プライバシーと恋愛の境界線",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4035,
+        "label": "プレゼントの好みと贈り方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4320,
+        "label": "理想の関係と将来の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4641,
+        "label": "恋愛診断の結果と仕事とのバランス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5087,
+        "label": "最後のケース問題と診断結果の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5431,
+        "label": "バレンタイン企画を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5485,
+        "label": "バレンタインボイスの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5690,
+        "label": "誕生日とオンラインイベントのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5780,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "IFhTteEPRhE",
+  "title": "【記念凸待ち】誕生日！誰かお祝いしに来てくれますように！！【星川サラ/にじさんじ】",
+  "publishedAt": "2020-08-07T14:18:41Z",
+  "duration": "PT1H31M40S",
+  "durationSec": 5500,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IFhTteEPRhE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T13:08:40.286932+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日凸待ちの企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 228,
+        "label": "赤井はあとからお祝い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 317,
+        "label": "叶と誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 857,
+        "label": "犬山たまきと第一印象トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1327,
+        "label": "エクス・アルビオと凸待ちトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1681,
+        "label": "シスター・クレアと第一印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2111,
+        "label": "健屋花那との第一印象・配信づくりトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2523,
+        "label": "夏色まつりからのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2676,
+        "label": "通話後の振り返りとメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3211,
+        "label": "でびでび・でびるに逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3450,
+        "label": "レヴィ・エリファと第一印象トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3925,
+        "label": "白雪巴と誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4344,
+        "label": "次の逆凸準備・接続待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4900,
+        "label": "シェリン・バーガンディに逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5328,
+        "label": "凸待ちを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5375,
+        "label": "グッズ・今後の配信のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

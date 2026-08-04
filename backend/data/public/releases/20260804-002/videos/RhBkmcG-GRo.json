@@ -1,0 +1,115 @@
+{
+  "videoId": "RhBkmcG-GRo",
+  "title": "＃４【ポケモンレジェンズアルセウス】ミミロル！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-03T14:52:19Z",
+  "duration": "PT1H35M8S",
+  "durationSec": 5708,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RhBkmcG-GRo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・村で準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 520,
+        "label": "野生ポケモンを探して捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 902,
+        "label": "村へ戻って報告と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1195,
+        "label": "大型ポニータの捕獲に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1543,
+        "label": "紅蓮の湿地へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1775,
+        "label": "湿地で石版と任務を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1990,
+        "label": "湿地で捕獲・戦闘を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3158,
+        "label": "メイン任務と遺跡を調べる準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3406,
+        "label": "遺跡周辺を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4000,
+        "label": "湿地でベースキャンプ任務に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4284,
+        "label": "手持ちと進化を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4519,
+        "label": "ガチグマの任務を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4765,
+        "label": "ガチグマで宝探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5110,
+        "label": "村へ戻って進行を報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5295,
+        "label": "次回の配信予定と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5500,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

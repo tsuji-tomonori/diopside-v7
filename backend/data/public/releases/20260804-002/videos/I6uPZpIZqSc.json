@@ -1,0 +1,130 @@
+{
+  "videoId": "I6uPZpIZqSc",
+  "title": "【雑談】GW中の出来事をマシンガントーク！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-09T14:14:30Z",
+  "duration": "PT2H4M39S",
+  "durationSec": 7479,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/I6uPZpIZqSc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T22:51:08.803297Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・GW雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 415,
+        "label": "衣替えと家の片付け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 600,
+        "label": "GW中のSMS詐欺体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1763,
+        "label": "連休後半の食事と外出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2581,
+        "label": "温泉と動物の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3178,
+        "label": "実家の過ごし方とものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3409,
+        "label": "宅配弁当ナッシュの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3658,
+        "label": "ゲーム配信と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "絡まったアクセサリーをほどく",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4270,
+        "label": "ゲーム配信の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4636,
+        "label": "ライブ・イベントのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4780,
+        "label": "SmartNews Q&Aと配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5109,
+        "label": "活動2年半とASMRの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5280,
+        "label": "家族への贈り物と家族の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5689,
+        "label": "きょうだいと真ん中っ子の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6185,
+        "label": "ゲーム配信の今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6330,
+        "label": "新アイテムとライブ・ボイス告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6633,
+        "label": "サッカー観戦と連休明けの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7249,
+        "label": "振替ライブの案内と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

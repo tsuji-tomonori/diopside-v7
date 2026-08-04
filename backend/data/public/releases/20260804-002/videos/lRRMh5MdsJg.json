@@ -1,0 +1,175 @@
+{
+  "videoId": "lRRMh5MdsJg",
+  "title": "【#百合漫画家様対談コラボ】✨第1回ゲストはまにお先生✨「きたない君がいちばんかわいい」など【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-27T14:33:34Z",
+  "duration": "PT2H22M59S",
+  "durationSec": 8579,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lRRMh5MdsJg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対談企画の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 342,
+        "label": "ゲスト登場・作品紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 576,
+        "label": "『愛した分だけ愛してほしい』の魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 679,
+        "label": "代表作の作風とタイトルの魅力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 976,
+        "label": "百合を好きになったきっかけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1318,
+        "label": "普段読む百合作品と創作のきっかけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1811,
+        "label": "百合以外に触れる作品とBLの好み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1995,
+        "label": "キャラクターの作り方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2204,
+        "label": "妄想から作品アイデアを作る方法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2494,
+        "label": "百合の好みと定型質問の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2912,
+        "label": "作品の表現を全年齢向けに調整する過程",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3396,
+        "label": "結末の構想と関連ストーリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3697,
+        "label": "視聴者質問・好きなシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4491,
+        "label": "作業中に見る配信や歌枠",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4717,
+        "label": "癖1000％で描きたいシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4997,
+        "label": "制作がしんどい時の対処法",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5279,
+        "label": "漫画家として達成感を得る瞬間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5628,
+        "label": "家族に創作を共有するか",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5751,
+        "label": "苦手な表現を作品に描く距離感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6050,
+        "label": "百合漫画家になった経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6467,
+        "label": "キャラクターの関係性をどう見るか",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6616,
+        "label": "キャラクターの立ち位置と解釈",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7243,
+        "label": "ゲストからの質問・恋愛の距離感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7682,
+        "label": "ガーリーな衣装を着てみたいか",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8172,
+        "label": "質問タイムの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8275,
+        "label": "作品と関連コンテンツの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8445,
+        "label": "次回コラボの告知と質問募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8494,
+        "label": "ファンレター案内・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

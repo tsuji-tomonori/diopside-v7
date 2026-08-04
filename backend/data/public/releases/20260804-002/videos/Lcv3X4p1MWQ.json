@@ -1,0 +1,120 @@
+{
+  "videoId": "Lcv3X4p1MWQ",
+  "title": "【＃ポケモンユナイト】最後の練習試合🔥【にじさんじフミ】",
+  "publishedAt": "2021-09-11T16:55:03Z",
+  "duration": "PT2H58M43S",
+  "durationSec": 10723,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Lcv3X4p1MWQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:28:33Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 168,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "第2試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1780,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2433,
+        "label": "第2試合の振り返り・第3試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2830,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3912,
+        "label": "第3試合の振り返り・第4試合の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "第4試合終盤のオブジェクト攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7320,
+        "label": "第4試合の振り返り・第5試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7668,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8167,
+        "label": "第5試合の振り返り・最終試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "最終試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9061,
+        "label": "最終試合の振り返り・追加実戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9606,
+        "label": "追加実戦ブロック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10260,
+        "label": "追加実戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10443,
+        "label": "配信終了前の告知・挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

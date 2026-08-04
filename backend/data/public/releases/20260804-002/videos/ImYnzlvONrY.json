@@ -1,0 +1,220 @@
+{
+  "videoId": "ImYnzlvONrY",
+  "title": "【にじさんじ】お酒飲みながら人狼します【 #にじさんじ飲酒人狼 】",
+  "publishedAt": "2025-09-11T14:58:39Z",
+  "duration": "PT2H47M12S",
+  "durationSec": 10032,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ImYnzlvONrY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:29:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 86,
+        "label": "参加者紹介・お酒とつまみ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "ルール説明・第1戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 543,
+        "label": "第1戦・開始と初日夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 754,
+        "label": "第1戦・初日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1148,
+        "label": "第1戦・初日の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1596,
+        "label": "第1戦・2日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "第1戦・2日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2224,
+        "label": "第1戦・2日目の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "第1戦・3日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2620,
+        "label": "第1戦・3日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3182,
+        "label": "第1戦の振り返り・第2戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3821,
+        "label": "第2戦・開始と初日夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4016,
+        "label": "第2戦・初日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4410,
+        "label": "第2戦・初日の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4687,
+        "label": "第2戦・2日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4932,
+        "label": "第2戦・2日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5334,
+        "label": "第2戦・2日目の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5954,
+        "label": "第2戦・3日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6181,
+        "label": "第2戦・3日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6574,
+        "label": "第2戦・3日目の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6707,
+        "label": "第2戦・4日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6915,
+        "label": "第2戦・4日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7458,
+        "label": "第2戦・最終夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7656,
+        "label": "第2戦・最終日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8128,
+        "label": "第2戦の振り返り・短縮第3戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8707,
+        "label": "短縮第3戦・開始と初日夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8796,
+        "label": "短縮第3戦・初日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8945,
+        "label": "短縮第3戦・初日の投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9030,
+        "label": "短縮第3戦・2日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9150,
+        "label": "短縮第3戦・2日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9335,
+        "label": "短縮第3戦・3日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9416,
+        "label": "短縮第3戦・3日目の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "短縮第3戦・4日目夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9687,
+        "label": "短縮第3戦・最終日の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9874,
+        "label": "短縮第3戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9955,
+        "label": "配信終了・最後の乾杯",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

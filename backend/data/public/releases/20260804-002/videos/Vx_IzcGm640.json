@@ -1,0 +1,160 @@
+{
+  "videoId": "Vx_IzcGm640",
+  "title": "【雑談】危ないお姉さん二人のリアル二次会事情【西園寺メアリ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-25T02:56:33Z",
+  "duration": "PT3H29M59S",
+  "durationSec": 12599,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Vx_IzcGm640/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T17:26:16.661255+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯とお姉さんトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 585,
+        "label": "配信中の涙とリスナーの優しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 805,
+        "label": "声と初配信の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1092,
+        "label": "お姉さん像とM/S・グループの個性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1922,
+        "label": "個人活動と配信への想い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2136,
+        "label": "お酒と自己肯定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2384,
+        "label": "恋愛とiPadの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2619,
+        "label": "サムネ制作と赤ちゃん談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3076,
+        "label": "マッサージ機と境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3424,
+        "label": "お酒の話と飲み方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4123,
+        "label": "マシュマロ：おすすめ映画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4566,
+        "label": "洋画・ホラー・字幕吹替",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5454,
+        "label": "M/S質問と境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5981,
+        "label": "配信機材・防音・視聴スタイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7311,
+        "label": "照れさせ方と赤ちゃん談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8106,
+        "label": "映画の話ふたたび",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8376,
+        "label": "マシュマロ：見てほしい配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8843,
+        "label": "お姉さん像とリスナーの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9179,
+        "label": "深夜の視聴者分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9565,
+        "label": "女性リスナーと新企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10116,
+        "label": "配信方針・初配信・アーカイブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10875,
+        "label": "お酒に強くなる？飲み方と安全",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11475,
+        "label": "おつまみ・料理・健康",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11917,
+        "label": "互いの魅力と締めの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12302,
+        "label": "ゲスト紹介・今後の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

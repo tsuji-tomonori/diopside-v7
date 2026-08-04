@@ -1,0 +1,120 @@
+{
+  "videoId": "cDRlyVtItYQ",
+  "title": "【DbD】キラーを見ろ白雪【夕陽リリ/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-08T16:18:16Z",
+  "duration": "PT3H4M24S",
+  "durationSec": 11064,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cDRlyVtItYQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DbDコラボの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 654,
+        "label": "1戦目・サバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1151,
+        "label": "1戦目後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1593,
+        "label": "2戦目・サバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2397,
+        "label": "2戦目後の雑談・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "3戦目・サバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3605,
+        "label": "3戦目後のコラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4337,
+        "label": "4戦目・サバイバー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4751,
+        "label": "4戦目後のキラー談義・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5405,
+        "label": "5戦目・サバイバー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7108,
+        "label": "5戦目後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7779,
+        "label": "6戦目・サバイバー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8101,
+        "label": "6戦目後の雑談・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8635,
+        "label": "7戦目・サバイバー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9368,
+        "label": "7戦目後のロビー・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9547,
+        "label": "8戦目・サバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10835,
+        "label": "配信終了・エンディングトーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

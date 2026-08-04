@@ -1,0 +1,120 @@
+{
+  "videoId": "j3_5BX-yJxY",
+  "title": "【DbD】サバイバー練習！！生存意識たかめるくん【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-27T17:11:11Z",
+  "duration": "PT2H48M32S",
+  "durationSec": 10112,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/j3_5BX-yJxY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム名相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 372,
+        "label": "1戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1430,
+        "label": "1戦目後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1693,
+        "label": "2戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2463,
+        "label": "2戦目後の相談・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "3戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3367,
+        "label": "チーム名・パーク相談と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3992,
+        "label": "4戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4517,
+        "label": "4戦目後の振り返り・編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4941,
+        "label": "5戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6409,
+        "label": "5戦目後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6793,
+        "label": "6戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7856,
+        "label": "6戦目後の感想・次の待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7988,
+        "label": "7戦目のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8569,
+        "label": "7戦目後の相談・最後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "最後のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "締めのトーク・お知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

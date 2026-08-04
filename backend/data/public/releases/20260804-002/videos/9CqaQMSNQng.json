@@ -1,0 +1,220 @@
+{
+  "videoId": "9CqaQMSNQng",
+  "title": "【#帰れない百物語】100個怖い話するまで帰れない2020【月ノ美兎/にじさんじ】",
+  "publishedAt": "2020-09-12T22:04:59Z",
+  "duration": "PT9H31M44S",
+  "durationSec": 34304,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9CqaQMSNQng/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:28:47.011323Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・百物語のルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 482,
+        "label": "月ノ美兎の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "おめがシスターズの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1141,
+        "label": "アンジュ・カトリーナ朗読の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1562,
+        "label": "検索履歴をめぐる怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2040,
+        "label": "集合住宅と想像上の友人",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2828,
+        "label": "病院・学校・アニメの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "怪異映像とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4922,
+        "label": "インターホンと金魚の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5583,
+        "label": "ゲームの怪異と忘れられた言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "前世・人形・廃病院の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7327,
+        "label": "録音機とお化け屋敷の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7982,
+        "label": "夢と海辺の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8885,
+        "label": "風呂・召喚・幽体離脱の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "鏡・タクシー・学校の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11582,
+        "label": "エレベーターとゲームの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12663,
+        "label": "幼少期の友人宅と犬の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13622,
+        "label": "駅・催眠・境界の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14823,
+        "label": "匿名メッセージとインターホンの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15660,
+        "label": "ホテル・神社・天狗の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16983,
+        "label": "温泉と人形の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18426,
+        "label": "映像の怪異とゲームショップの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19681,
+        "label": "犬・SNS・身近な怪異の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20824,
+        "label": "ビー玉・石・車載映像と企画転換",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21900,
+        "label": "過去の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22800,
+        "label": "沖縄・匿名の絵・友人宅の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24004,
+        "label": "映像の怪談と犬の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25443,
+        "label": "守護霊・心霊映像・バイノーラル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26703,
+        "label": "配信画面・電話・釣り場の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27664,
+        "label": "テレビ報道と身近な怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28862,
+        "label": "心霊病院・時間・店内の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29762,
+        "label": "ゲームの怪異・廃屋・川遊び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 30601,
+        "label": "創作の夢と贈り物の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 31442,
+        "label": "黒い影・介護施設・異界の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 32524,
+        "label": "謎の歌・山の怪談・終盤の数え上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 33912,
+        "label": "100個目の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 34150,
+        "label": "終了挨拶・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

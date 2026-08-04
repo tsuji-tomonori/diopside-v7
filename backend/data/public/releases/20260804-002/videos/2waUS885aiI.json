@@ -1,0 +1,150 @@
+{
+  "videoId": "2waUS885aiI",
+  "title": "【スプラトゥーン2】チーム練習2日目！昨日の経験をイカす【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-18T14:33:13Z",
+  "duration": "PT2H8M34S",
+  "durationSec": 7714,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2waUS885aiI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T13:24:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム練習2日目の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 538,
+        "label": "作戦相談・安全な位置取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 730,
+        "label": "パブロ練習・役割確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1355,
+        "label": "練習試合1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2004,
+        "label": "試合1の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2642,
+        "label": "練習試合2・ローラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2880,
+        "label": "試合2の振り返り・最後の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3058,
+        "label": "練習試合3・連携確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "試合3の振り返り・成長確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3439,
+        "label": "練習試合4・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3899,
+        "label": "試合4の振り返り・塗りとクリアリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4339,
+        "label": "練習試合5・塗りとカバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "試合5の振り返り・次の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4882,
+        "label": "練習試合6・侵入への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5294,
+        "label": "試合6の振り返り・立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5400,
+        "label": "練習試合7・スペシャル運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5740,
+        "label": "試合7の振り返り・安全な位置取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5802,
+        "label": "練習試合8・塗りとカバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6266,
+        "label": "試合8の振り返り・ギア確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "練習試合9・スペシャルと塗り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6629,
+        "label": "試合9の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6700,
+        "label": "練習試合10・最後の実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7123,
+        "label": "実戦振り返り・チーム練習の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

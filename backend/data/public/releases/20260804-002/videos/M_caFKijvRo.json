@@ -1,0 +1,195 @@
+{
+  "videoId": "M_caFKijvRo",
+  "title": "【#カラオケへいこう】なつかしいアニメ曲をみんなでカラオケ♪♪♪【にじさんじ】",
+  "publishedAt": "2023-06-18T09:11:28Z",
+  "duration": "PT2H58M17S",
+  "durationSec": 10697,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M_caFKijvRo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:51:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介とカラオケ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 744,
+        "label": "♪深い森（犬夜叉）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1059,
+        "label": "曲順相談と初歌枠の緊張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1147,
+        "label": "曲名未確認のアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1419,
+        "label": "♪夢をかなえてドラえもん（ドラえもん）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1847,
+        "label": "♪少女S（BLEACH）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2138,
+        "label": "♪Get Over（ヒカルの碁）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2693,
+        "label": "2周目の曲順相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2803,
+        "label": "曲名未確認のアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3156,
+        "label": "曲名未確認のアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3509,
+        "label": "♪Link（鋼の錬金術師）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3841,
+        "label": "♪サムライハート（銀魂）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4089,
+        "label": "♪Over the Future（絶対可憐チルドレン）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4512,
+        "label": "選曲の振り幅を語り、ハム太郎へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4607,
+        "label": "♪ハム太郎とっとこうた（とっとこハム太郎）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4667,
+        "label": "干物妹！うまるちゃんのアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "あらいぐまラスカルのアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5415,
+        "label": "♪バラライカ（きらりん☆レボリューション）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5668,
+        "label": "♪ボディーだけレディー（キテレツ大百科）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6140,
+        "label": "♪ビバ★ロック（NARUTO）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6451,
+        "label": "曲名未確認のアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6865,
+        "label": "♪モノクロのキス（黒執事）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7333,
+        "label": "曲名未確認のアニメ曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7619,
+        "label": "♪迷宮バタフライ（しゅごキャラ！）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8103,
+        "label": "最終ラウンドの曲順決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8330,
+        "label": "♪恋☆カナ（きらりん☆レボリューション）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8568,
+        "label": "♪瞬間センチメンタル（鋼の錬金術師）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8904,
+        "label": "♪Fantastic future（変態王子と笑わない猫。）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9227,
+        "label": "♪コイノシルシ（神のみぞ知るセカイ）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9576,
+        "label": "♪世界が終るまでは…（SLAM DUNK）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9895,
+        "label": "エンディングトークとお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10425,
+        "label": "♪残酷な天使のテーゼ（全員）",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

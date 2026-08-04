@@ -1,0 +1,175 @@
+{
+  "videoId": "wAQz1yzpNPc",
+  "title": "【※ネタバレあり】癒しのゲーム♡止まるな！コロがし続けろ‥！！！｜塊魂アンコール＋王様プチメモリーpart3【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-03T12:50:52Z",
+  "duration": "PT4H31M40S",
+  "durationSec": 16300,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wAQz1yzpNPc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:39:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 334,
+        "label": "50個で大きくするステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1299,
+        "label": "ジャングル周辺の再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2234,
+        "label": "1mから大きくする長時間ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "雲を集める天空ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4695,
+        "label": "土星の輪にぴったり合わせる挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5186,
+        "label": "学校でサイズを調整するステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6326,
+        "label": "牛と熊を巻き込むステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7134,
+        "label": "急いで大きくするステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7584,
+        "label": "雪だるま作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8074,
+        "label": "太陽を巻き込む挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8396,
+        "label": "ゲーム終盤の演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8665,
+        "label": "追加ステージの進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9251,
+        "label": "追加ステージ・片付け系の挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9587,
+        "label": "追加ステージ・友達を巻き込む挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9944,
+        "label": "追加ステージ・花を摘む挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10271,
+        "label": "追加ステージ・水辺で大きくする挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10677,
+        "label": "追加ステージ・学校で生徒を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11047,
+        "label": "追加ステージ・急いで大きくする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11340,
+        "label": "キャンプファイヤーの準備・点火",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12344,
+        "label": "食べ物ステージに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12640,
+        "label": "食べ物ステージに再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13010,
+        "label": "エースで転がすステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13615,
+        "label": "対戦ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14068,
+        "label": "追加ステージ・急いで大きくする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14396,
+        "label": "追加ステージ・折り鶴集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14950,
+        "label": "終盤の大きくする挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16031,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

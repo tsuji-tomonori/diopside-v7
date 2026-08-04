@@ -1,0 +1,140 @@
+{
+  "videoId": "iF40cXgeNTc",
+  "title": "【雑談】性癖赤裸々アブノーマル雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-13T15:23:58Z",
+  "duration": "PT2H9M23S",
+  "durationSec": 7763,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iF40cXgeNTc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:22:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯とおつまみ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 939,
+        "label": "性癖トーク開始・目覚めのきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1348,
+        "label": "SM作品との出会いと好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1908,
+        "label": "拘束の好みとプレイの合意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "現実のSMと自分の傾向",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3018,
+        "label": "噛みつき・痛み・信頼関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3384,
+        "label": "外とベッドのギャップと触れ合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "タチネコとSM・作品表現",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4364,
+        "label": "BLと百合の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "百合作品の見方と具体例",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5145,
+        "label": "作品を見る時間と本編まとめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5602,
+        "label": "マイク・ASMRとSM表現",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5763,
+        "label": "YouTubeの警告と配信内容",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5936,
+        "label": "収益化と広告適合性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6219,
+        "label": "次回コラボの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "配信後の話・匂いの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6478,
+        "label": "S側から見るM側・身体感覚",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6629,
+        "label": "百合・ファン作品と活動時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6798,
+        "label": "スパチャ読みとラブライブ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7198,
+        "label": "触れ合いの好み・SMゲームとホラー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7475,
+        "label": "終盤のスパチャ読み・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

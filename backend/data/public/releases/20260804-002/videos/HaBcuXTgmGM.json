@@ -1,0 +1,150 @@
+{
+  "videoId": "HaBcuXTgmGM",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」#3.5【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-08T19:22:24Z",
+  "duration": "PT1H45M55S",
+  "durationSec": 6355,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HaBcuXTgmGM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム再開準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 329,
+        "label": "暗所探索とハンドガン回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 728,
+        "label": "敵処理と鍵・エレベーター探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1344,
+        "label": "エレベーター後の通路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1661,
+        "label": "恐怖区画への初回挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1711,
+        "label": "ロード後の再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2211,
+        "label": "恐怖区画での交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2361,
+        "label": "交戦後の再試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "次の区画へ移動・戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "ボス戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3500,
+        "label": "戦闘後の装備・弾薬確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3768,
+        "label": "ルート確認のための再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4235,
+        "label": "次の敵区間に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4557,
+        "label": "しゃがみ操作で障害区間を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4821,
+        "label": "足場・落下区間に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5044,
+        "label": "明るい区画で進行確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5199,
+        "label": "敵区間を進みアイテムを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5385,
+        "label": "到達地点でセーブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5493,
+        "label": "セーブ後の敵処理と鍵回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5618,
+        "label": "地形に挟まる操作トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5777,
+        "label": "やり直し後のルート復旧",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5994,
+        "label": "意味のある部屋と敵処理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6142,
+        "label": "セーブと次回のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

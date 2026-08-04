@@ -1,0 +1,95 @@
+{
+  "videoId": "J-0MSMhvgRI",
+  "title": "＃27.5【崩壊：スターレイル】新年初ガチャ！！！帰忘の流離人お迎えにあがります【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-01-13T14:32:45Z",
+  "duration": "PT1H21M34S",
+  "durationSec": 4894,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/J-0MSMhvgRI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:58:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 220,
+        "label": "配信スタート・ガチャ前トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 870,
+        "label": "今回の目標とガチャ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1206,
+        "label": "キャラクターガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1935,
+        "label": "キャラクターをじっくりチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2198,
+        "label": "光円錐ガチャへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2758,
+        "label": "1凸を目指して",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3603,
+        "label": "編成と掛け合いチェック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3933,
+        "label": "次回予告とキャラクター鑑賞",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4206,
+        "label": "振り返りと今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4387,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4836,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

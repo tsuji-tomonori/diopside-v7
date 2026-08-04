@@ -1,0 +1,100 @@
+{
+  "videoId": "6MD04DlROXY",
+  "title": "＼復帰配信👠✨／New声帯になって帰ってきました(まだ使いこなせていない)【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-17T15:35:42Z",
+  "duration": "PT2H22M52S",
+  "durationSec": 8572,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6MD04DlROXY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:25:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機・復帰のご挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 654,
+        "label": "新しい声帯とリハビリ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1427,
+        "label": "最後の夜王国コラボと声の変化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2195,
+        "label": "夜王国の思い出と感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3295,
+        "label": "イマーシブ・フォート東京",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3809,
+        "label": "復帰後の配信・コラボ予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3999,
+        "label": "パワプロと休止中の近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4318,
+        "label": "休止中に観た映画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5160,
+        "label": "休止中に遊んだゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5386,
+        "label": "声帯手術・入院レポ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6072,
+        "label": "これからの配信と復帰への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6481,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8458,
+        "label": "次回のお知らせ・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

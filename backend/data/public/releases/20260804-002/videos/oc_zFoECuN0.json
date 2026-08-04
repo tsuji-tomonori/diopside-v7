@@ -1,0 +1,220 @@
+{
+  "videoId": "oc_zFoECuN0",
+  "title": "＃４【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-11T14:37:18Z",
+  "duration": "PT3H8M59S",
+  "durationSec": 11339,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oc_zFoECuN0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 273,
+        "label": "マップ確認とミッション選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 462,
+        "label": "人形のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 580,
+        "label": "メインルートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 669,
+        "label": "ミッション探索と霊との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 917,
+        "label": "犬たちとのひと休み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 999,
+        "label": "傘の妖怪を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1237,
+        "label": "犬たちと街を歩く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1436,
+        "label": "買い物・強化と次の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1654,
+        "label": "廃屋の探索と連続戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2292,
+        "label": "強敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2536,
+        "label": "戦闘後の街探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2897,
+        "label": "買い物・移動・能力強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3329,
+        "label": "妖怪や道具の解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "報告エリアを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3852,
+        "label": "新たな敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4042,
+        "label": "ルート探索と寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "サブミッションとクッション探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4490,
+        "label": "属性攻撃で道を切り開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4755,
+        "label": "封印された道と強敵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5105,
+        "label": "戦闘後の探索と連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5748,
+        "label": "河童のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6145,
+        "label": "街の探索と屋上ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6521,
+        "label": "飛ぶ敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6704,
+        "label": "能力確認と犬との探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7054,
+        "label": "屋上での戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7413,
+        "label": "能力強化と河童の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7837,
+        "label": "霊を集めて高台へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8387,
+        "label": "ストーリーミッション開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8676,
+        "label": "屋上探索と犬たち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9021,
+        "label": "敵を倒しながらミッション探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9583,
+        "label": "地下ルートを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9902,
+        "label": "広い場所での大規模戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10282,
+        "label": "戦闘中のストーリーを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10473,
+        "label": "戦闘後の物語を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10685,
+        "label": "次回予告と配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10855,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

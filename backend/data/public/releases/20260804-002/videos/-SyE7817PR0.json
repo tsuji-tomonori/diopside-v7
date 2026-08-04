@@ -1,0 +1,125 @@
+{
+  "videoId": "-SyE7817PR0",
+  "title": "【＃えま虐マリパ】「えま虐三銃士を連れて来たよ。」「えま虐三銃士？」【安土桃・緑仙・白雪巴・えま★おうがすと/にじさんじ所属】",
+  "publishedAt": "2021-06-28T15:49:20Z",
+  "duration": "PT1H25M18S",
+  "durationSec": 5118,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-SyE7817PR0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介・企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 501,
+        "label": "マリパの操作・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 805,
+        "label": "最初のミニゲームに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1059,
+        "label": "ミニゲーム選択・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1618,
+        "label": "ミニゲーム対戦を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1916,
+        "label": "追う側・逃げる側のミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2263,
+        "label": "次のミニゲームを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2408,
+        "label": "ハンマー操作のミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "対戦結果と勝敗を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2803,
+        "label": "荷物を運ぶミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3311,
+        "label": "位置と読み合いの対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3596,
+        "label": "素早い動きのミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3746,
+        "label": "狙って打つミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3999,
+        "label": "チームでタイミングを合わせる対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4328,
+        "label": "残りのミニゲームを選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4490,
+        "label": "記憶・数え上げのミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4839,
+        "label": "対戦結果・ゲームの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4948,
+        "label": "振り返り・告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "videoId": "gVLvHEWZSTM",
+  "title": "【DbDカスタム】断末魔も、真相も、全ては霧の中へ。【にじさんじ たち】",
+  "publishedAt": "2022-06-21T13:59:01Z",
+  "duration": "PT2H32M1S",
+  "durationSec": 9121,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gVLvHEWZSTM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "DbDカスタムのルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 65,
+        "label": "1戦目：キラー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "1戦目後の振り返りと2戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "2戦目：サバイバー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2592,
+        "label": "2戦目後の振り返りと3戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2976,
+        "label": "3戦目：キラー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4890,
+        "label": "3戦目後の振り返りと4戦目準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5870,
+        "label": "4戦目：リージョン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6977,
+        "label": "4戦目後の振り返りとラストマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7849,
+        "label": "ラストマッチ：ドクター戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8465,
+        "label": "ラストマッチ後の振り返りと全体の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8864,
+        "label": "告知と終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

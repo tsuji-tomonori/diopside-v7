@@ -1,0 +1,155 @@
+{
+  "videoId": "lKuL1Zdxy6s",
+  "title": "＃１【ワガママハイスペック】どの娘にしようかなぁ～～？？？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-03T07:22:22Z",
+  "duration": "PT3H51M12S",
+  "durationSec": 13872,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lKuL1Zdxy6s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム開始準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1152,
+        "label": "ゲーム本編開始・PCトラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1509,
+        "label": "双子との朝・出発準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2250,
+        "label": "PC故障から登校準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3423,
+        "label": "学校生活と生徒会の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4000,
+        "label": "生徒会長・副会長の挨拶と教室コメディ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4853,
+        "label": "小テストと昼休みの学校生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5670,
+        "label": "図書室で原稿作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5949,
+        "label": "放課後・紛失したネタ帳を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6397,
+        "label": "生徒会室でネタ帳を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7297,
+        "label": "編集者との漫画打ち合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8017,
+        "label": "帰宅後のペンネーム・SNS相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8587,
+        "label": "生徒会室の騒動とその後",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9296,
+        "label": "会長との個別相談・漫画の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9889,
+        "label": "生徒会役員の依頼と条件相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10221,
+        "label": "生徒会活動の始まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10647,
+        "label": "副会長との対抗意識",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11234,
+        "label": "加入理由と試用期間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11480,
+        "label": "生徒会の仕事説明・初活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12035,
+        "label": "生徒会の初仕事・校内の犬探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12905,
+        "label": "野良犬騒動の続き・みひろとの会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13306,
+        "label": "次の生徒会活動の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13473,
+        "label": "帰宅・夕食と生徒会の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13743,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

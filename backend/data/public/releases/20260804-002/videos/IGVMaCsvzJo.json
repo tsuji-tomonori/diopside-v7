@@ -1,0 +1,160 @@
+{
+  "videoId": "IGVMaCsvzJo",
+  "title": "【SILENT HILL f #5】3周目-前半- 凛子、咲子。何があったんよ教えてくれ。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-01T22:10:09Z",
+  "duration": "PT6H51M4S",
+  "durationSec": 24664,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IGVMaCsvzJo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:28:48+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 565,
+        "label": "3周目の準備と進め方を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1362,
+        "label": "集めた情報を読み直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3231,
+        "label": "屋内の探索を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3897,
+        "label": "周囲を巡って手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5090,
+        "label": "新たな空間で仕掛けを調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6433,
+        "label": "道を進みながら状況を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8055,
+        "label": "次の目的地を探して探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9049,
+        "label": "寄り道しながら経路を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10476,
+        "label": "周囲を調べて記録をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11481,
+        "label": "建物の奥まで探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12640,
+        "label": "文書を確認して次の局面へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13664,
+        "label": "緊迫する局面を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14416,
+        "label": "進むルートを相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14932,
+        "label": "新たな場所へ向かう道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15822,
+        "label": "広い建物で手がかり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17118,
+        "label": "新たな区画を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17977,
+        "label": "仕掛けを解きながら資料を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19387,
+        "label": "日記を読み進めながら探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20898,
+        "label": "もう一つのエリアで情報を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22806,
+        "label": "対話を追って大きな戦いへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23927,
+        "label": "次の道を探して先へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24181,
+        "label": "中断地点で進行を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24279,
+        "label": "今回の振り返り・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24420,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

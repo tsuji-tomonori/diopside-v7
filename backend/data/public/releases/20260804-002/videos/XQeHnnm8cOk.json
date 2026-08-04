@@ -1,0 +1,145 @@
+{
+  "videoId": "XQeHnnm8cOk",
+  "title": "【終焉介護】介護されるの？するの？どっちなの初見【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-11T16:04:31Z",
+  "duration": "PT2H48M32S",
+  "durationSec": 10112,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XQeHnnm8cOk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 538,
+        "label": "ゲーム開始・施設を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 895,
+        "label": "訪問依頼を受けて夜道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "聡一さん宅を探して調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "隣室の異変を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2601,
+        "label": "介護の記録を受け取る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "再訪・坊さんとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3209,
+        "label": "家の探索と上階への進路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3813,
+        "label": "水音のする家を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4236,
+        "label": "手がかりを探して上階へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "家の異変と家族の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5599,
+        "label": "日記から異変を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5961,
+        "label": "訪問先で聞き込みを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6816,
+        "label": "救出に向けて家へ戻り道具を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "上階への進路と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8047,
+        "label": "異変と時計の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8404,
+        "label": "時計の謎解きを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8991,
+        "label": "会話から次の目的を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9264,
+        "label": "終盤の逃走・明かりを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9603,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9923,
+        "label": "ゲームの題材について調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10026,
+        "label": "配信の感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

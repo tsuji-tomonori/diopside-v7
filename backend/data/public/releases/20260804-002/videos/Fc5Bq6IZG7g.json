@@ -1,0 +1,100 @@
+{
+  "videoId": "Fc5Bq6IZG7g",
+  "title": "【#にじさんじポケユナ大会】タリキホンガンジムの　メンバーが　しょうぶをしかけてきた！【夕陽リリ／にじさんじ】",
+  "publishedAt": "2021-09-12T10:50:39Z",
+  "duration": "PT1H58M48S",
+  "durationSec": 7128,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Fc5Bq6IZG7g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会説明・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 256,
+        "label": "初戦・試合後",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 964,
+        "label": "初戦振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1323,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "試合後の振り返り・次戦作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "第3試合・大会進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3423,
+        "label": "準決勝・試合後",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4321,
+        "label": "次戦の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "続く対戦・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5282,
+        "label": "終盤の対戦・試合後",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6183,
+        "label": "大会振り返り・チームトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6904,
+        "label": "次回配信の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6991,
+        "label": "スパチャ読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

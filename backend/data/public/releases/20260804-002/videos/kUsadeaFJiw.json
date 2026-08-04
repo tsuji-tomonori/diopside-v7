@@ -1,0 +1,95 @@
+{
+  "videoId": "kUsadeaFJiw",
+  "title": "【百合セリフ掛け合い】ケーキと酒と百合さえあればクリぼっちなんて･･･とやさぐれていたらとんでもないことに【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-24T17:14:06Z",
+  "duration": "PT1H45M25S",
+  "durationSec": 6325,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kUsadeaFJiw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T07:02:14.254Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 306,
+        "label": "オープニング・声劇企画の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 785,
+        "label": "幕間・配信準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1733,
+        "label": "ゲストとのトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2302,
+        "label": "声劇の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3223,
+        "label": "声劇・第1幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3519,
+        "label": "声劇・中盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3607,
+        "label": "声劇・終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3680,
+        "label": "声劇終了後トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4285,
+        "label": "サムネイル紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6022,
+        "label": "感謝・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6117,
+        "label": "告知・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "YPD3a8bdGq8",
+  "title": "＃48【崩壊：スターレイル】オンパロス編。マジでヤバイ真相が判明しました……(号泣)【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-29T17:16:33Z",
+  "duration": "PT4H5M6S",
+  "durationSec": 14706,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YPD3a8bdGq8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:47:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 515,
+        "label": "オンパロス編を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1221,
+        "label": "秘密基地と妖精の隠れ家を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2299,
+        "label": "妖精の村長と信託カード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2644,
+        "label": "信託カードが映す未来",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4237,
+        "label": "第一幕・旅立ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5263,
+        "label": "第二幕・試練",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6034,
+        "label": "天秤をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6822,
+        "label": "第三幕・帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "創生の渦で見る記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8885,
+        "label": "旅の終着点での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9183,
+        "label": "終盤の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9631,
+        "label": "旅の真相をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10523,
+        "label": "結末をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11619,
+        "label": "次の旅に向けて",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12235,
+        "label": "新たな時代へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12607,
+        "label": "本編の区切り・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12847,
+        "label": "物語の情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13804,
+        "label": "次回予定・追加考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14035,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

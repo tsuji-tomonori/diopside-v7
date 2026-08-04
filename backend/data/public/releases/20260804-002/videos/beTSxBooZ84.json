@@ -1,0 +1,110 @@
+{
+  "videoId": "beTSxBooZ84",
+  "title": "【ポケモンユナイト】にじさんじポケユナ大会　本番　タリキホンガンジム　【夜見れな／にじさんじ】",
+  "publishedAt": "2021-09-12T10:59:17Z",
+  "duration": "PT2H1M59S",
+  "durationSec": 7319,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/beTSxBooZ84/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:55:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会当日の挨拶・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 361,
+        "label": "対戦スタート・序盤の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 972,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1285,
+        "label": "大会本番・対戦実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1947,
+        "label": "試合後の反省・次の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2308,
+        "label": "次の対戦・構成確認と集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3008,
+        "label": "試合後の反省・結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3246,
+        "label": "準決勝前の作戦確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3594,
+        "label": "準決勝・対戦実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5095,
+        "label": "準決勝・次戦の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5217,
+        "label": "準決勝・続く対戦と立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6016,
+        "label": "試合後の総括・大会振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6342,
+        "label": "大会後の追加対戦・ゲーム総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6810,
+        "label": "大会・配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6844,
+        "label": "配信後の感想・視聴者への感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

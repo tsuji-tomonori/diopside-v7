@@ -1,0 +1,115 @@
+{
+  "videoId": "kMzMV_JOo9I",
+  "title": "同時視聴【ウマ娘】アニメ1期をみんなで視聴する会(7～13話)【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-15T18:44:04Z",
+  "duration": "PT3H21M38S",
+  "durationSec": 12098,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kMzMV_JOo9I/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T19:49:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第7話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1796,
+        "label": "第7話後の感想・第8話準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2104,
+        "label": "第8話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3497,
+        "label": "第8話後の感想・第9話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3623,
+        "label": "第9話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5008,
+        "label": "第9話後の感想・第10話準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5156,
+        "label": "第10話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6597,
+        "label": "第10話後の感想・第11話準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6713,
+        "label": "第11話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8164,
+        "label": "第11話後の感想・第12話準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8236,
+        "label": "第12話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9472,
+        "label": "第12話後の感想・第13話準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9819,
+        "label": "第13話 同時視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11108,
+        "label": "第13話後の感想・視聴会の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11306,
+        "label": "全話視聴後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11778,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

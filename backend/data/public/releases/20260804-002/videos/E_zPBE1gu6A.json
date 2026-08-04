@@ -1,0 +1,110 @@
+{
+  "videoId": "E_zPBE1gu6A",
+  "title": "【深夜企画】ちょこおじが幼児化？！逆凸で色気を取り戻せ！【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2021-01-16T16:19:39Z",
+  "duration": "PT1H9M11S",
+  "durationSec": 4151,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/E_zPBE1gu6A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:36:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・逆凸準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 269,
+        "label": "最初の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 513,
+        "label": "二人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 905,
+        "label": "三人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1190,
+        "label": "四人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "五人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1857,
+        "label": "六人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2148,
+        "label": "七人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "八人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2667,
+        "label": "九人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3046,
+        "label": "十人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3419,
+        "label": "十一人目の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3642,
+        "label": "企画全体を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3780,
+        "label": "次回企画の話・最後の通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4027,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

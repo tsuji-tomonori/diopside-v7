@@ -1,0 +1,140 @@
+{
+  "videoId": "ttLc6aQ8C3M",
+  "title": "マスター編後半【チョコボGP】グランプリはチョコボのモノ！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-31T14:16:45Z",
+  "duration": "PT1H55M1S",
+  "durationSec": 6901,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ttLc6aQ8C3M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:13:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チョコボGP後半へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "ストーリーモード再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1006,
+        "label": "キャラクター選択・最初のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "レース後のストーリーと次のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "ストーリーレースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1693,
+        "label": "トーナメント開幕・予選準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2074,
+        "label": "予選レースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2392,
+        "label": "決勝レースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2697,
+        "label": "ストーリー進行・次のイベント準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3004,
+        "label": "次のストーリーレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3328,
+        "label": "ストーリー終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3799,
+        "label": "レース準備・ストーリーレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4338,
+        "label": "終盤のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4444,
+        "label": "ストーリーの締めくくりへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4725,
+        "label": "追加レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4920,
+        "label": "エンディング後のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "スタッフロール・エピローグカード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5880,
+        "label": "ゲームの振り返り・アンロック要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6122,
+        "label": "ショップ・モードを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6384,
+        "label": "オンライン／クイックバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6687,
+        "label": "レース後の感想・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

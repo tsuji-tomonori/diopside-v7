@@ -1,0 +1,155 @@
+{
+  "videoId": "HakQfgDFBBw",
+  "title": "＃５【ポケモンレジェンズアルセウス】スカタンク！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-15T14:19:57Z",
+  "duration": "PT1H57M26S",
+  "durationSec": 7046,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HakQfgDFBBw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:10:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・手持ちの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 768,
+        "label": "ポケモン交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1250,
+        "label": "ヒナツを探して出発",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1447,
+        "label": "ヒナツとガチグマの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1801,
+        "label": "探索・捕獲と技の見直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2077,
+        "label": "大量発生のポケモンを観察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2229,
+        "label": "新しい村で依頼を受ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2544,
+        "label": "探索と捕獲を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "クラフト・宝探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3157,
+        "label": "対決の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3353,
+        "label": "対決に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3724,
+        "label": "戦闘後の会話と手持ちの進化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4242,
+        "label": "宝探しと捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4535,
+        "label": "山道の探索と帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "村へ戻り、研究と住民の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5325,
+        "label": "射的ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5495,
+        "label": "髪型選びと散髪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5645,
+        "label": "新商品と次の地域の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5868,
+        "label": "次の調査に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6266,
+        "label": "海岸での対話と対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6476,
+        "label": "次の調査に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6688,
+        "label": "今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6760,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6820,
+        "label": "スパチャ読み・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

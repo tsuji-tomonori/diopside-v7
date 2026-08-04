@@ -1,0 +1,115 @@
+{
+  "videoId": "49_MWud7KYg",
+  "title": "【AmongUs / 宇宙人狼】#異色あもあす 女だらけの騙し合い！？【柚原いづみ / あにまーれ】",
+  "publishedAt": "2021-03-02T13:52:11Z",
+  "duration": "PT1H39M13S",
+  "durationSec": 5953,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/49_MWud7KYg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T08:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 541,
+        "label": "第1試合の準備とスタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 817,
+        "label": "第1試合・最初の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1266,
+        "label": "第1試合・続く議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "第1試合・終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2231,
+        "label": "第2試合の準備とプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2632,
+        "label": "第2試合の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3239,
+        "label": "第3試合の準備とプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3680,
+        "label": "第3試合の議論・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4059,
+        "label": "第4試合のプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4236,
+        "label": "第4試合の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4678,
+        "label": "第4試合の再開とカメラ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4994,
+        "label": "第4試合・終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5603,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5688,
+        "label": "告知・チャンネル案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5835,
+        "label": "参加者あいさつ・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

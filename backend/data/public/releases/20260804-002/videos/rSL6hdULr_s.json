@@ -1,0 +1,105 @@
+{
+  "videoId": "rSL6hdULr_s",
+  "title": "【隙マ】隙 間 を 許 す な【白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-07T15:25:06Z",
+  "duration": "PT1H47M52S",
+  "durationSec": 6472,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rSL6hdULr_s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T03:55:08.447Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 128,
+        "label": "ゲーム紹介・プレイ開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 516,
+        "label": "基本ルール・最初のステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "追加ルールと再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1999,
+        "label": "新たな障害と連続チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2839,
+        "label": "最終ステージ・難所の始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3298,
+        "label": "最終ステージの長期戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3892,
+        "label": "終盤・新たな展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4179,
+        "label": "最後の探索と手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4692,
+        "label": "クライマックス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4873,
+        "label": "プレイ後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5047,
+        "label": "配信予定・告知とゲーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5589,
+        "label": "スーパーチャット・視聴者相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6150,
+        "label": "体調の振り返り・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

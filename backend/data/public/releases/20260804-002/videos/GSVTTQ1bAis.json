@@ -1,0 +1,165 @@
+{
+  "videoId": "GSVTTQ1bAis",
+  "title": "【ポケモン剣盾】女王トレーナーにトモエはなる【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-23T11:34:12Z",
+  "duration": "PT2H54M20S",
+  "durationSec": 10460,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GSVTTQ1bAis/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・パーティー確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1197,
+        "label": "キャンプで料理と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1721,
+        "label": "ポケジョブからスタジアムへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2403,
+        "label": "ユニフォームの背番号を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2968,
+        "label": "ジムチャレンジと英雄伝説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3349,
+        "label": "エール団とのポケモン勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3689,
+        "label": "開会式からジムチャレンジへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4333,
+        "label": "次の街へ向けて道中を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4663,
+        "label": "ホップとのポケモン勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "ポケモンの進化と技整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5433,
+        "label": "道中で新しい仲間を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5764,
+        "label": "キャンプで料理と親密度上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6311,
+        "label": "3番道路の探索とトレーナー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6890,
+        "label": "キャンプでポケモンと交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7104,
+        "label": "鉱山方面の探索と手持ち調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7681,
+        "label": "道中のトレーナー戦と捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8111,
+        "label": "キャンプで回復と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8583,
+        "label": "次の道を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8872,
+        "label": "ビートと遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8952,
+        "label": "ビートとのポケモン勝負",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9359,
+        "label": "勝負後の手持ち整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "野生ポケモンを観察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9719,
+        "label": "キャンプで料理と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9912,
+        "label": "次のジムへ向けて探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10059,
+        "label": "珍しいポケモンとの遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10229,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

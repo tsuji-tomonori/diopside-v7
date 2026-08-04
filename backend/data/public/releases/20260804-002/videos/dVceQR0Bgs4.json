@@ -1,0 +1,125 @@
+{
+  "videoId": "dVceQR0Bgs4",
+  "title": "よ~【#にじさんじDbD大会】宇志海いちご視点【白雪巴/瀬戸美夜子/宇志海いちご/夕陽リリ】~",
+  "publishedAt": "2020-07-29T13:18:18Z",
+  "duration": "PT1H21M9S",
+  "durationSec": 4869,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dVceQR0Bgs4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:36:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会配信・参加者確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 268,
+        "label": "サバイバー準備とチーム方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 358,
+        "label": "1試合目・連携とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1636,
+        "label": "1試合目の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2110,
+        "label": "2試合目・ゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "2試合目・終盤の脱出探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2893,
+        "label": "2試合目・最後のチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2959,
+        "label": "試合後の結果確認と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3280,
+        "label": "大会振り返りと次戦方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3494,
+        "label": "次のマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3602,
+        "label": "3試合目・序盤の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "3試合目・中盤の救助とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4111,
+        "label": "3試合目・終盤の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4345,
+        "label": "3試合目・終盤の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4398,
+        "label": "対戦後の感想とチーム挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4525,
+        "label": "大会参加の感想と今後の意欲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4742,
+        "label": "DbDの練習と今後の課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4832,
+        "label": "大会案内・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "-9qGfDN1hSA",
+  "title": "同時視聴【ダンダダン】完全初見で1～4話を観る！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-02T16:47:59Z",
+  "duration": "PT2H36M3S",
+  "durationSec": 9363,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-9qGfDN1hSA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:30:21.998Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・視聴準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 695,
+        "label": "第1話視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2044,
+        "label": "第1話後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2575,
+        "label": "第2話視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3918,
+        "label": "第2話後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4207,
+        "label": "第3話視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5521,
+        "label": "第3話後の振り返り・第4話準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5960,
+        "label": "第4話視聴開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7060,
+        "label": "第4話視聴・後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7301,
+        "label": "第4話後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7676,
+        "label": "スーパーチャット読み・感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7981,
+        "label": "怖い話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8357,
+        "label": "スーパーチャット読み・作品考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8916,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8983,
+        "label": "スーパーチャット読み・作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9171,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

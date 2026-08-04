@@ -1,0 +1,175 @@
+{
+  "videoId": "uAhjZK2Stco",
+  "title": "＃08【ブルーアーカイブ】エデン条約編 3章前半。これでやっとエデン条約が結ばれる…のよね？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-15T12:33:19Z",
+  "duration": "PT3H21M24S",
+  "durationSec": 12084,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uAhjZK2Stco/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 708,
+        "label": "エデン条約編3章の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1338,
+        "label": "事件後の整理とアズサの動向",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2705,
+        "label": "アズサをめぐる交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "ミカとナギサの面会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "事件の因果関係を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4483,
+        "label": "事件を振り返る考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4752,
+        "label": "調印式へ向かう合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "ゲヘナ首脳との接触",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5483,
+        "label": "調印式当日の会場と緊張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6199,
+        "label": "会場の護衛と小聖堂の背景",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6686,
+        "label": "首脳の到着と襲撃準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7007,
+        "label": "調印式会場の爆発と防衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7294,
+        "label": "調印式で起きた異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7483,
+        "label": "先生救出の地下戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8055,
+        "label": "地下での対話と取引",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8263,
+        "label": "地下からの脱出戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "戦況の急変と敵勢力の主張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "セイアの夢と時間のねじれ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9177,
+        "label": "契約と約束をめぐる考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9540,
+        "label": "アズサとサオリの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9903,
+        "label": "予備部隊とミメシスの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10261,
+        "label": "花子の指揮と負傷者捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10702,
+        "label": "負傷者対応と襲撃の分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11237,
+        "label": "補修授業部とアズサの再会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11600,
+        "label": "物語前半の感想と次回への期待",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11769,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11901,
+        "label": "スパチャ読みと安否についての雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
