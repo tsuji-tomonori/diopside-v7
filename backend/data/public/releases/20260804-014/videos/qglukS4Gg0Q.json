@@ -1,0 +1,135 @@
+{
+  "videoId": "qglukS4Gg0Q",
+  "title": "【オンライン飲み会】サシ飲み10　早瀬走×白雪巴【にじさんじ】",
+  "publishedAt": "2021-06-07T15:56:50Z",
+  "duration": "PT3H26M57S",
+  "durationSec": 12417,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qglukS4Gg0Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T06:16:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・サシ飲みの趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 377,
+        "label": "初対面の印象とコラボの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 995,
+        "label": "初期の苦労とマシュマロへの向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1739,
+        "label": "美容・入浴アイテムの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2708,
+        "label": "スキンケアと美容習慣",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3907,
+        "label": "同期との距離感と活動の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5055,
+        "label": "チューリップ組の関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5430,
+        "label": "グウェルとのコラボ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5753,
+        "label": "歌活動と好きな音楽",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6608,
+        "label": "話題の境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6893,
+        "label": "歌い方と一緒に歌う計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7498,
+        "label": "歌ってみた制作の難しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7803,
+        "label": "音楽遍歴とアニメソング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8109,
+        "label": "アニメ・漫画と好きな作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8898,
+        "label": "ホラー映画の好みとおすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9804,
+        "label": "恋愛観とパートナー像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10736,
+        "label": "浮気の境界線と恋愛の価値観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11598,
+        "label": "恋人の好みと結婚観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11797,
+        "label": "子ども・家族・きょうだいの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12150,
+        "label": "締め・告知・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

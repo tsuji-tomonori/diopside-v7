@@ -1,0 +1,165 @@
+{
+  "videoId": "zPoP351L6IM",
+  "title": "【Mouthwashing】サンタさんからプレゼントされたゲームで遊ぶ✨【白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-18T17:14:16Z",
+  "duration": "PT4H1M25S",
+  "durationSec": 14485,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zPoP351L6IM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T19:44:00.987Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 319,
+        "label": "ニューゲーム・貨物船の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 858,
+        "label": "衝突後・ケーキの材料探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1509,
+        "label": "事故後の船内を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1805,
+        "label": "医務室での処置と会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2398,
+        "label": "作業相談・スキャナー探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2705,
+        "label": "衝突前・乗組員への聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2985,
+        "label": "保守作業と通気口探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3739,
+        "label": "コックピット帰還・幻覚探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4463,
+        "label": "誕生日の準備と会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5308,
+        "label": "事故後の夜・ナイフ探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5924,
+        "label": "暗い船内・医療ロッカー探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6603,
+        "label": "大輔と泡を除去",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6948,
+        "label": "衝突前・医務室の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7526,
+        "label": "審判の場面と暗所探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8330,
+        "label": "消毒用カクテル作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "スウォンジーと大輔の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9002,
+        "label": "船内の危機と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9812,
+        "label": "コックピットの解錠",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10281,
+        "label": "誕生日をめぐる幻覚",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10858,
+        "label": "終盤の対峙とルートパズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11946,
+        "label": "終盤の幻覚移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12501,
+        "label": "終幕へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12917,
+        "label": "エンディング・クレジット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13050,
+        "label": "クリア後の感想と考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14056,
+        "label": "スーパーチャットお礼・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "videoId": "31K7DBoZ0oA",
+  "title": "同時視聴【にじさんじ 4th Anniversary「FANTASIA」DAY1】を観る！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-07T13:29:02Z",
+  "duration": "PT3H25M50S",
+  "durationSec": 12350,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/31K7DBoZ0oA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:19:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機・オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 420,
+        "label": "再生準備・同期",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 710,
+        "label": "本編スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1130,
+        "label": "オープニングMC",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1693,
+        "label": "DAY1ステージ 前半①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2453,
+        "label": "DAY1ステージ 前半②",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2981,
+        "label": "DAY1ステージ 前半③",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3666,
+        "label": "DAY1ステージ 中盤①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4451,
+        "label": "DAY1ステージ 中盤②",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5559,
+        "label": "DAY1ステージ 中盤③",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6089,
+        "label": "DAY1ステージ 中盤④",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6491,
+        "label": "MC・後半ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7264,
+        "label": "DAY1ステージ 後半①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8009,
+        "label": "DAY1ステージ 後半②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8222,
+        "label": "アンコール待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8472,
+        "label": "アンコールステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8744,
+        "label": "アンコールMC",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9421,
+        "label": "フィナーレ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10133,
+        "label": "終演後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10435,
+        "label": "誕生日前のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10656,
+        "label": "FANTASIA思い出トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11092,
+        "label": "誕生日配信・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11407,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12149,
+        "label": "最後のお知らせ・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

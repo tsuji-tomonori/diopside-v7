@@ -1,0 +1,170 @@
+{
+  "videoId": "4PoxAuJyBvI",
+  "title": "【SILENT HILL f #2】クリアまでやる！ 雛子、修の家へゆく。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-17T13:28:03Z",
+  "duration": "PT8H47M15S",
+  "durationSec": 31635,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4PoxAuJyBvI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T01:42:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 428,
+        "label": "裏山の探索を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3559,
+        "label": "修の家を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3816,
+        "label": "異界で儀式の道を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5289,
+        "label": "一つ目の儀式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6780,
+        "label": "二つ目の儀式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8893,
+        "label": "最後の儀式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9902,
+        "label": "異界での対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10410,
+        "label": "町へ戻って探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11433,
+        "label": "休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11762,
+        "label": "町の記録をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12851,
+        "label": "公園の記憶と帰路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14316,
+        "label": "深水家を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15367,
+        "label": "家の記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19453,
+        "label": "隠し部屋と紋章の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21301,
+        "label": "深水家での対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22109,
+        "label": "宝物殿を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24932,
+        "label": "最後の紋章を解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25478,
+        "label": "儀式の最終段階",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26617,
+        "label": "町へ戻り深水家へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 27823,
+        "label": "別視点の異界",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 28837,
+        "label": "終盤の対決",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 29869,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 30031,
+        "label": "エンディング後の考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 30415,
+        "label": "クリア後の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 30788,
+        "label": "一周目の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 31166,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

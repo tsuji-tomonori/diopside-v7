@@ -1,0 +1,100 @@
+{
+  "videoId": "DxqK7enk3Cg",
+  "title": "【スーパーマリオパーティ】仲良しお姉さんズがマリパでガチ対決！？！？【#フルトイ/にじさんじ】",
+  "publishedAt": "2021-09-05T08:50:31Z",
+  "duration": "PT1H35M13S",
+  "durationSec": 5713,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DxqK7enk3Cg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:15:14.098Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・マリパ対決の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 467,
+        "label": "キャラクター選びと参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 649,
+        "label": "『ピンクキャット』紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1018,
+        "label": "ボイス商品の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1074,
+        "label": "マリパ開始・マップと序盤の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1365,
+        "label": "最初のミニゲームと盤面の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "ミニゲームと盤面イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3680,
+        "label": "コインを探すミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3764,
+        "label": "中盤以降の盤面進行とスター争い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "ゲーム終盤・ボーナス確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5160,
+        "label": "ゲーム後の企画相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5482,
+        "label": "楽曲・ボイスなどの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5612,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

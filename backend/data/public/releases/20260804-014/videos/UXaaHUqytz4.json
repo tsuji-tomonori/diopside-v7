@@ -1,0 +1,195 @@
+{
+  "videoId": "UXaaHUqytz4",
+  "title": "【マリオカート8DX】今年最後の配信もフミともとみんなでやっぱりマリカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-31T07:06:53Z",
+  "duration": "PT2H25M53S",
+  "durationSec": 8753,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UXaaHUqytz4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:41:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・年末の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 687,
+        "label": "マリオカートの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1077,
+        "label": "フミさん緊急参戦・参加準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1718,
+        "label": "最初の参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1890,
+        "label": "フミさん合流・音量調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2412,
+        "label": "フミさんと初レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2632,
+        "label": "レース後トーク・休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "フミさんとのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3279,
+        "label": "レース後の参加者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "次のマリオカートレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3937,
+        "label": "レース後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4093,
+        "label": "もう一度レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4250,
+        "label": "ボイス販売・誕生日の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4526,
+        "label": "対戦レース・勝負の約束",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4854,
+        "label": "レース後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5158,
+        "label": "コミュニティレース・次戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5459,
+        "label": "参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5649,
+        "label": "マリオパーティーの計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5994,
+        "label": "1対1レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6154,
+        "label": "レース後の年末トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6322,
+        "label": "短めのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6411,
+        "label": "レース後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6557,
+        "label": "参加型レース・参加者トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6736,
+        "label": "終盤のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6977,
+        "label": "終盤の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7204,
+        "label": "終盤の対戦レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7298,
+        "label": "レース後の今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "長めのマリオカートレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7980,
+        "label": "レース後のコメント読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8110,
+        "label": "最後の1対1レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8397,
+        "label": "レース後のリクエスト企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8619,
+        "label": "締めの挨拶・今後の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

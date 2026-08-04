@@ -1,0 +1,135 @@
+{
+  "videoId": "8bPfHLkROrk",
+  "title": "【お悩み相談】女性限定のお悩み相談マシュマロ#4【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-05-01T15:42:38Z",
+  "duration": "PT2H26M44S",
+  "durationSec": 8804,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8bPfHLkROrk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 727,
+        "label": "一口ちょうだいの断り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1039,
+        "label": "別れと自信の持ち方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "趣味と人間関係の両立",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2266,
+        "label": "職場での好意への向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2744,
+        "label": "人と仲良くなるための伝え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3134,
+        "label": "親密な悩みと相談先",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "交際後に気持ちが変わる理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4045,
+        "label": "セクハラへの対応と距離の取り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5133,
+        "label": "食欲がない時の食事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5294,
+        "label": "好きな服装と周囲の目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "自分らしさと女性扱いへの違和感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6610,
+        "label": "恋愛と将来の選び方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6881,
+        "label": "親への交際報告を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7088,
+        "label": "新しい職場での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7321,
+        "label": "友人との境界線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7806,
+        "label": "好きな作品を否定されたとき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8045,
+        "label": "食事中の表情をめぐる悩み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8396,
+        "label": "自分の選択を大切にする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8680,
+        "label": "次回予告と締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

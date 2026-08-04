@@ -1,0 +1,155 @@
+{
+  "videoId": "hFyue4ciyVM",
+  "title": "【Minecraft】新しくなったロビーと建築の参考に、にじ鯖観光ぶらり旅！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-28T10:48:42Z",
+  "duration": "PT3H33M32S",
+  "durationSec": 12812,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hFyue4ciyVM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:54:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・観光プランの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 454,
+        "label": "新しくなったロビーを観光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1607,
+        "label": "自宅から観光へ出発",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2279,
+        "label": "桜を眺めてトロッコ移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2784,
+        "label": "さんばか城を観光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3111,
+        "label": "線路を進んで次の建築へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "水中の水族館を見学",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4112,
+        "label": "海辺の建築を観光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4752,
+        "label": "海辺の建築とサバイバル移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5254,
+        "label": "アマニュイ村・アルスの森へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5729,
+        "label": "アルスの森を観光",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6292,
+        "label": "1期生ハウス周辺へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6825,
+        "label": "1期生ハウスを見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7137,
+        "label": "神社巡りと願い事",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7932,
+        "label": "夜の線路から天空城へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8541,
+        "label": "天空城の外観を観光",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8902,
+        "label": "天空城の内部を観光",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9736,
+        "label": "天空城から次の観光地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10828,
+        "label": "アマニュイ村を観光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11509,
+        "label": "村の家と図書館を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11812,
+        "label": "帰宅しながら観光を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12395,
+        "label": "観光のまとめ・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12470,
+        "label": "配信後の馬探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12597,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

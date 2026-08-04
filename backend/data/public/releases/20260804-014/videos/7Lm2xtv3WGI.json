@@ -1,0 +1,165 @@
+{
+  "videoId": "7Lm2xtv3WGI",
+  "title": "【スプラトゥーン3】フルトイスプラ！ばしゃーん！【ルイス・キャミー視点/にじさんじ】",
+  "publishedAt": "2022-09-16T14:59:43Z",
+  "duration": "PT1H26M54S",
+  "durationSec": 5214,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7Lm2xtv3WGI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声確認と自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 112,
+        "label": "フルトイ公式グッズの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 195,
+        "label": "スプラトゥーン3協力プレイの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 371,
+        "label": "最初のスプラトゥーン3マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 542,
+        "label": "ゲーム音トラブルの確認・再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 745,
+        "label": "スプラトゥーン3の連戦・ステージ攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1387,
+        "label": "新武器の使用感・遠距離武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1604,
+        "label": "ジャイロ視点とゲームの見方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1801,
+        "label": "高台攻略のマッチ実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1925,
+        "label": "平家物語・源平合戦の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2055,
+        "label": "チーム連携のマッチ実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2231,
+        "label": "レベル・ギアとわかばシューター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2312,
+        "label": "長距離武器を警戒するマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2505,
+        "label": "武器購入とマッチ待ちの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2601,
+        "label": "マッチ再開・ゲーム内移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2733,
+        "label": "スケジュール更新・グッズ告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2829,
+        "label": "飲み物をめぐる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3020,
+        "label": "キーボード・マイク・ケーブル相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3254,
+        "label": "武器性能の話・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3596,
+        "label": "マッチ実況・スペシャル解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "マッチ後の掛け合い・機材の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4181,
+        "label": "寝坊・遅刻の思い出話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4371,
+        "label": "終盤のゲームプレイ・最後の1戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4468,
+        "label": "最後のスプラトゥーン3マッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5007,
+        "label": "メンバー退出・グッズと楽曲の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5122,
+        "label": "配信の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

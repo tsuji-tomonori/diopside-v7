@@ -1,0 +1,100 @@
+{
+  "videoId": "R9hM-dxdYV8",
+  "title": "【#ガチ百合】本当にあったリアル百合エピソード＃４【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-02T14:35:40Z",
+  "duration": "PT1H29M5S",
+  "durationSec": 5345,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R9hM-dxdYV8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:30:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 640,
+        "label": "第1話：寄り添う優しさ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 918,
+        "label": "第2話：付き合う前の距離感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1340,
+        "label": "第3話：大学時代の誕生日",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1790,
+        "label": "第4話：真冬の北海道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2145,
+        "label": "第5話：友達同士の距離感",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2430,
+        "label": "第6話：大学サークルの先輩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2832,
+        "label": "第7話：友達との関係",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3380,
+        "label": "第8話：親友への片思い相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4177,
+        "label": "第9話：年上の後輩とクリスマス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4597,
+        "label": "第10話：カラオケの夜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5029,
+        "label": "10話の総括・エピソード募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5185,
+        "label": "スーパーチャット読み・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

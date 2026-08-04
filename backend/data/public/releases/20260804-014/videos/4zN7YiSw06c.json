@@ -1,0 +1,100 @@
+{
+  "videoId": "4zN7YiSw06c",
+  "title": "七夕なのでみんなの願いを聞きます🎋🌟【白雪巴/にじさんじ】",
+  "publishedAt": "2026-07-07T14:52:59Z",
+  "duration": "PT1H43M7S",
+  "durationSec": 6187,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4zN7YiSw06c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T07:49:34Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・七夕の願い企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 242,
+        "label": "最初の願いを紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 723,
+        "label": "日々の暮らしにまつわる願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1082,
+        "label": "誰かを応援する願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1494,
+        "label": "毎日を支える願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1982,
+        "label": "人とのつながりを願う投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "個性豊かな願いを紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2891,
+        "label": "夢や挑戦にまつわる願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "さまざまな願いと掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4409,
+        "label": "創作や新しい一歩への願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "これからの日々にまつわる願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5935,
+        "label": "投稿紹介のまとめ・自身の願い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6017,
+        "label": "願い企画の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

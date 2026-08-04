@@ -1,0 +1,100 @@
+{
+  "videoId": "9-zxTeu8ec8",
+  "title": "【雑談】5月振り返りキマシタワー裏話なども！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-31T14:23:32Z",
+  "duration": "PT2H17S",
+  "durationSec": 7217,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9-zxTeu8ec8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:39:28.167Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "5月振り返り雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 300,
+        "label": "夜廻シリーズと小説版を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1328,
+        "label": "W白雪コラボとマリオパーティー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1724,
+        "label": "DbDコラボを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2092,
+        "label": "フルトイ「推し恋」コラボと3曲同時リリース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2647,
+        "label": "湘南ベルマーレと現地観戦の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3959,
+        "label": "花モチーフのグッズと季節ボイス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4166,
+        "label": "しんさんとのコラボ・DbD裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4441,
+        "label": "ライバー仲間とのリアル脱出ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5447,
+        "label": "ファンレターへの感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5659,
+        "label": "5月の振り返りと6月の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6137,
+        "label": "終了挨拶・6月の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6177,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "0qxhgUT1rvc",
+  "title": "【AmongUs】#エデンとアソボウ エデン組と初コラボ！バイタル見させてくださいねー！【にじさんじ/愛園愛美】",
+  "publishedAt": "2021-12-11T14:27:55Z",
+  "duration": "PT2H11M34S",
+  "durationSec": 7894,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0qxhgUT1rvc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:29:49.032734+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 500,
+        "label": "第1試合開始・船内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 997,
+        "label": "第1試合・序盤の会議と情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2103,
+        "label": "第1試合・通報をめぐる情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2870,
+        "label": "第1試合・通報後の行動証言",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3708,
+        "label": "第1試合・サボタージュ対応とアリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4806,
+        "label": "第1試合・ボタンをめぐる情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5132,
+        "label": "第1試合終盤・長い投票議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5737,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5965,
+        "label": "第2試合・序盤の探索と通報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6127,
+        "label": "第2試合・ボタン後の会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6552,
+        "label": "第2試合・終盤ラウンドのタスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6908,
+        "label": "第2試合終盤・最後の推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7424,
+        "label": "終盤の議論からゲーム終了へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7555,
+        "label": "ゲーム後の感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

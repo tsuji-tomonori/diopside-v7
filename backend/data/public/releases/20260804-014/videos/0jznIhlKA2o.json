@@ -1,0 +1,120 @@
+{
+  "videoId": "0jznIhlKA2o",
+  "title": "【ホラー体験】あなたが体験したゾッとする話聞かせて第六弾【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-26T15:08:50Z",
+  "duration": "PT1H42M41S",
+  "durationSec": 6161,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0jznIhlKA2o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T18:57:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "冒頭の怪談：北海道の行事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 156,
+        "label": "企画説明・怪談朗読スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 286,
+        "label": "児童館のこっくりさん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 864,
+        "label": "海辺で見かけた怪異",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1265,
+        "label": "信号待ちの女性にまつわる怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1491,
+        "label": "短い体験談・体調の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1645,
+        "label": "テレビにまつわる怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1907,
+        "label": "会社の部屋の隅の異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2171,
+        "label": "スマホ音声の怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2556,
+        "label": "廃墟のパーティー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3192,
+        "label": "隣人にまつわる体験談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3737,
+        "label": "公園の怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4308,
+        "label": "学校のトイレの怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4544,
+        "label": "熊に遭遇した体験談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5069,
+        "label": "学校の肝試しの怪談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5463,
+        "label": "最後の体験談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5913,
+        "label": "総括・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

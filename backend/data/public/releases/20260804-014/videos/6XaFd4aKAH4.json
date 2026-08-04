@@ -1,0 +1,115 @@
+{
+  "videoId": "6XaFd4aKAH4",
+  "title": "【unpacking】GW明けまったりお片付け【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-08T15:46:29Z",
+  "duration": "PT2H31M",
+  "durationSec": 9060,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6XaFd4aKAH4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T08:15:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・実家の片付けを始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 408,
+        "label": "懐かしい品と家族の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 691,
+        "label": "甥っ子と家族のゲーム話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1482,
+        "label": "桃鉄の家族対戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1776,
+        "label": "日用品の収納と家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2375,
+        "label": "別室の収納と甥っ子との通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2653,
+        "label": "父のギターと実家の暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3212,
+        "label": "家族でボウリングに行った話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3473,
+        "label": "玄関から衣類・小物を片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "リビングの小物を配置する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5392,
+        "label": "キッチンを片付ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6458,
+        "label": "ゲーム機・DVD・本を整理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7635,
+        "label": "洗面所の生活用品を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8316,
+        "label": "片付け後の家と今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8557,
+        "label": "スーパーチャット読み・配信を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9012,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

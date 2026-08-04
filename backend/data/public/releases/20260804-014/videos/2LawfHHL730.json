@@ -1,0 +1,115 @@
+{
+  "videoId": "2LawfHHL730",
+  "title": "【呪われたデジカメ】霊を写す特殊カメラを持ってるやつは大体ロクなことにならない【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-01-16T15:18:45Z",
+  "duration": "PT2H39S",
+  "durationSec": 7239,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2LawfHHL730/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T19:46:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・体調とお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 281,
+        "label": "『呪われたデジカメ』紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 366,
+        "label": "ゲーム開始・プロローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 689,
+        "label": "公園で心霊写真探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1865,
+        "label": "怪異が深まる公園探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2595,
+        "label": "写真選びとサイト送信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2932,
+        "label": "自宅で怪異を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3621,
+        "label": "追跡と撮影チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4080,
+        "label": "ギャラリーから物語の終盤へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4931,
+        "label": "クリア後コンテンツを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "公園を再訪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5259,
+        "label": "プレイ後のストーリー考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5561,
+        "label": "チャプター再訪で考察検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6173,
+        "label": "ゲーム感想・ホラートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6346,
+        "label": "お知らせ・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7159,
+        "label": "配信の締め・おやすみ前の声かけ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

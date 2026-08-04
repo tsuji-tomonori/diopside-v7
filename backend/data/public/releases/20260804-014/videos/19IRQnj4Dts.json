@@ -1,0 +1,110 @@
+{
+  "videoId": "19IRQnj4Dts",
+  "title": "【スプラトゥーン2】強そうな目集めました【イブラヒム/メリッサ・キンレンカ/えま★おうがすと/夕陽リリ】",
+  "publishedAt": "2020-06-19T18:35:17Z",
+  "duration": "PT2H24M3S",
+  "durationSec": 8643,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/19IRQnj4Dts/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ大会の紹介・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 740,
+        "label": "1戦目・対戦開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1071,
+        "label": "リーグ戦の実況・立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2932,
+        "label": "試合後の振り返り・次の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3239,
+        "label": "次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3710,
+        "label": "試合後の作戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "対戦実況・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4465,
+        "label": "試合後の振り返り・装備調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4791,
+        "label": "戦術・マップ攻略を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6013,
+        "label": "大会進行・次の対戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6188,
+        "label": "終盤の対戦実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7570,
+        "label": "次の武器・勝ち筋を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7796,
+        "label": "終盤の対戦実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8319,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8459,
+        "label": "参加者への感謝・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

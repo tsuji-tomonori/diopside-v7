@@ -1,0 +1,150 @@
+{
+  "videoId": "eN_i4gvVpnM",
+  "title": "【塊魂】みーんな幸せになれるゲーム♡part2【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-13T16:26:33Z",
+  "duration": "PT2H47M58S",
+  "durationSec": 10078,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eN_i4gvVpnM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:21:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・塊魂の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 103,
+        "label": "牛座ステージの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 216,
+        "label": "牛座ステージを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1130,
+        "label": "町の回収と次ステージ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1278,
+        "label": "白だしとお茶の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1564,
+        "label": "回収を続けながら漫画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1890,
+        "label": "町を進んでサイズアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2434,
+        "label": "次の星座ステージを準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "小物から町まで巻き込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3467,
+        "label": "新しい区域を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3935,
+        "label": "月ステージで街を巻き込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5620,
+        "label": "月ステージ後の追加条件を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5962,
+        "label": "北極星のサイズを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6238,
+        "label": "北極星の課題と追加要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6754,
+        "label": "過去作の話と追加サイズ課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7263,
+        "label": "乙女座ステージの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7339,
+        "label": "乙女座ステージで回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8076,
+        "label": "終盤の条件を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8270,
+        "label": "追加ステージを開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8791,
+        "label": "学校と街を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9307,
+        "label": "プレゼント探しとサイズ調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9900,
+        "label": "追加課題の終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9929,
+        "label": "ゲームの感想・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "L7FunwJJ6Y8",
+  "title": "【SCP：極秘ファイル】ヤバイにおいがプンプンするわ‥‥！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-10T14:49:14Z",
+  "duration": "PT2H28M51S",
+  "durationSec": 8931,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/L7FunwJJ6Y8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "SCP財団への導入とゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "財団のチュートリアルと最初の任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1421,
+        "label": "最初の任務と精神状態の検査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1936,
+        "label": "砂漠でSCPを観察する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2615,
+        "label": "砂漠で異変を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3106,
+        "label": "謎のサイトと脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "研修を終えて次の任務へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4035,
+        "label": "ブラックボックスの記憶と施設探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4581,
+        "label": "研究日誌と施設の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5037,
+        "label": "台本を読みながら上階を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5660,
+        "label": "研究記録と時計の謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6173,
+        "label": "異常空間から逃げる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6495,
+        "label": "SCP701の研究記録を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7013,
+        "label": "劇場でブラックボックスを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7529,
+        "label": "劇場のリハーサル記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7800,
+        "label": "台本の世界を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8151,
+        "label": "ゲームの結論と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8463,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8900,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

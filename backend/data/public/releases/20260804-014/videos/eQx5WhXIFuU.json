@@ -1,0 +1,125 @@
+{
+  "videoId": "eQx5WhXIFuU",
+  "title": "【#白雪巴新衣装】4月からVtuberに転職する白雪巴です（ｷﾘｯ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-30T14:42:05Z",
+  "duration": "PT2H32M34S",
+  "durationSec": 9154,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eQx5WhXIFuU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T17:22:23.287496Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・サムネイル紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 368,
+        "label": "専業VTuberへの転職報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 664,
+        "label": "着替え・足元から新衣装を披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 937,
+        "label": "オフィス衣装と仕事の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1272,
+        "label": "居酒屋シーンから保健室へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1529,
+        "label": "白衣の保健室シーン・ハーネス差分",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2215,
+        "label": "スクショタイム・衣装の組み合わせ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "オフィス演出・衣装アンケート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3270,
+        "label": "スーパーチャット読み・姉雪と活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4081,
+        "label": "専業後の配信方針と活動時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4396,
+        "label": "椅子ロールプレイとスーパーチャット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "衣装反応と差分・制作秘話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6428,
+        "label": "専業化の決断とスーパーチャット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7183,
+        "label": "椅子ロールプレイ・外出と体調の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7853,
+        "label": "衣装差分と最後のスーパーチャット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8297,
+        "label": "最後の組み合わせ確認・締め前の交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8763,
+        "label": "3D表情と先生風シーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8931,
+        "label": "感謝・翌日の告知・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

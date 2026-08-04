@@ -1,0 +1,120 @@
+{
+  "videoId": "itFwHskcYHA",
+  "title": "アプデ＃１【Ghostwire: Tokyo】大型アップデートきた！？！？新モード「蜘蛛の糸」攻略する！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-14T15:56:07Z",
+  "duration": "PT2H35M18S",
+  "durationSec": 9318,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/itFwHskcYHA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:25:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・アップデート紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "本編の続きとSpider's Thread準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1010,
+        "label": "Spider's Threadの基本操作と最初の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1398,
+        "label": "Spider's Threadのチュートリアル攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2681,
+        "label": "敵を避けながら区画を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3126,
+        "label": "強敵戦と猫の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3651,
+        "label": "拠点強化と防衛戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4012,
+        "label": "猫を探して次の区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5217,
+        "label": "ミニミッションと再挑戦の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "ランダム階層の攻略と報酬整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7357,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7540,
+        "label": "ランダム区画で強敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7985,
+        "label": "壺探しと特殊条件の区画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8272,
+        "label": "終盤の区画攻略と装備調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8876,
+        "label": "ゲームの振り返りと次回方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8976,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9278,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

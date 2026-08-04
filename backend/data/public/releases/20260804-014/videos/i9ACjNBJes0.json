@@ -1,0 +1,140 @@
+{
+  "videoId": "i9ACjNBJes0",
+  "title": "＃１【TOKYO DARK】精神状態で左右される！？サイコロジカルホラーゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-08T14:30:01Z",
+  "duration": "PT2H14M44S",
+  "durationSec": 8084,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/i9ACjNBJes0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:04:29Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・TOKYO DARK紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 241,
+        "label": "ゲーム開始・操作説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 499,
+        "label": "新宿の現場へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 745,
+        "label": "新宿の店で聞き込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1523,
+        "label": "証拠探索と目撃者",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1810,
+        "label": "赤いペンキを追って下水溝へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2405,
+        "label": "少女との対面・会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3001,
+        "label": "事件ニュースと資料の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3336,
+        "label": "自宅で会話・次の捜査を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3749,
+        "label": "鎌倉駅と竹林の神社を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4312,
+        "label": "古い家で手掛かり・能面の異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4594,
+        "label": "神社で少女と対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5193,
+        "label": "緊迫する神社の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5539,
+        "label": "病院で記憶とステータスを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6001,
+        "label": "病院後に事件の記録を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6603,
+        "label": "事件後の自宅と署への呼び出し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6854,
+        "label": "警察内部の人事と事件後の処理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7183,
+        "label": "署内の映像調査と面談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7561,
+        "label": "帰宅後の振り返りと次の捜査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7910,
+        "label": "本編の振り返り・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7980,
+        "label": "スーパーチャット読み・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

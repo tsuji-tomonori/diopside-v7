@@ -1,0 +1,95 @@
+{
+  "videoId": "XNI2RlW9Gds",
+  "title": "【Splatoon2】久々のスプラコラボでキャリーしたい！！！！！【弦月藤士郎/にじさんじ】",
+  "publishedAt": "2020-10-13T14:17:52Z",
+  "duration": "PT1H59M22S",
+  "durationSec": 7162,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XNI2RlW9Gds/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:47:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 109,
+        "label": "初戦・ヤグラの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 810,
+        "label": "2試合目・武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1132,
+        "label": "3試合目・前線支援と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2025,
+        "label": "4試合目・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2529,
+        "label": "回線復帰・次の試合準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2573,
+        "label": "5試合目・塗り合いと武器対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "6試合目・ヤグラ周辺の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3908,
+        "label": "7試合目・前線への援護",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4600,
+        "label": "8試合目・敵陣への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5851,
+        "label": "9試合目・味方支援と立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6715,
+        "label": "最後の試合・配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

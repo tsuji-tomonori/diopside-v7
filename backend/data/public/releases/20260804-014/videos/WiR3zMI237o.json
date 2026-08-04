@@ -1,0 +1,155 @@
+{
+  "videoId": "WiR3zMI237o",
+  "title": "後編【夕鬼 零 -Yuoni: ゼロ-】夕暮れ、独り、放課後の教室にて。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-21T14:28:31Z",
+  "duration": "PT2H11M49S",
+  "durationSec": 7909,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WiR3zMI237o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T02:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前編の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 241,
+        "label": "夕鬼の用語を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 439,
+        "label": "前編のあらすじ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 650,
+        "label": "旧校舎探索を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1080,
+        "label": "絵の手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "戦隊ものの話と旧校舎探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "波の胸の内と旧校舎探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1983,
+        "label": "三枚の絵から地図を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2347,
+        "label": "二人の過去と家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2761,
+        "label": "怪異から逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3182,
+        "label": "再会と二人の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3361,
+        "label": "二人の過去をめぐる対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "怪異の襲撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4022,
+        "label": "鏡の異変と奥の部屋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "本音を語り、絵の謎を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5043,
+        "label": "山中の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5462,
+        "label": "目玉の怪異から逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "井戸での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "終業式前夜の再会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "その後の二人",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6972,
+        "label": "作品のテーマを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7321,
+        "label": "作品の感想・配信案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7449,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7861,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

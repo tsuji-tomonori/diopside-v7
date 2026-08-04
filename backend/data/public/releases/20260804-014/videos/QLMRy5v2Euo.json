@@ -1,0 +1,170 @@
+{
+  "videoId": "QLMRy5v2Euo",
+  "title": "【歌枠】ラブライブ！サンシャイン!!Aqours縛り♡合いの手は…わかってるわよね？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-03T08:39:39Z",
+  "duration": "PT2H26M28S",
+  "durationSec": 8788,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QLMRy5v2Euo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:33:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Aqours縛り歌枠の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1172,
+        "label": "青空Jumping Heart",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1463,
+        "label": "1曲目の感想・次曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1622,
+        "label": "決めたよHand in Hand",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1995,
+        "label": "Aqoursの物語とキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2593,
+        "label": "夢で夜空を照らしたい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "3曲目の感想・4曲目の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3376,
+        "label": "Step! ZERO to ONE",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3651,
+        "label": "Step! ZERO to ONE感想・次曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3802,
+        "label": "Aqours☆HEROES",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4064,
+        "label": "Aqours☆HEROES感想・選曲トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4284,
+        "label": "恋になりたいAQUARIUM",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4593,
+        "label": "恋になりたいAQUARIUM感想・中盤トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "待ってて愛のうた",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5163,
+        "label": "待ってて愛のうた感想・次曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5480,
+        "label": "届かない星だとしても",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5741,
+        "label": "届かない星だとしても感想・ユニット曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5943,
+        "label": "トリコリコPLEASE!!",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6160,
+        "label": "AZALEA曲の感想・ユニット曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6362,
+        "label": "ストロベリートラッパー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "Guilty Kiss曲の感想・次曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6798,
+        "label": "夜空は何でも知ってるの",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7097,
+        "label": "11曲目の感想・終盤の選曲トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7304,
+        "label": "君のこころは輝いてるかい？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7610,
+        "label": "12曲目の感想・最終曲の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7875,
+        "label": "夢を語るより夢を歌おう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8158,
+        "label": "終演後の挨拶・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

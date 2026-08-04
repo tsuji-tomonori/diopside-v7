@@ -1,0 +1,135 @@
+{
+  "videoId": "Xt1mCeqLTkw",
+  "title": "【Minecraft】初めての鉱石採掘！！！見たことない鉱石GETできるかな？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-05T16:31:17Z",
+  "duration": "PT3H7M13S",
+  "durationSec": 11233,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Xt1mCeqLTkw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:00:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "拠点紹介と鉱石採掘の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 694,
+        "label": "採掘の準備と修繕ツルハシ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1912,
+        "label": "資材サーバーへ移動、地下採掘開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2037,
+        "label": "地下へ降りて最初の空洞へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2210,
+        "label": "空洞を越えて採掘道を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2636,
+        "label": "空洞を越える橋と採掘ルート作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3521,
+        "label": "ブランチマイニングの拠点作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3895,
+        "label": "枝道を掘って光る苔を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4480,
+        "label": "ラピスやマグマを追う地下探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5107,
+        "label": "地下で鉱石を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5385,
+        "label": "帰還して次の採掘を計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6041,
+        "label": "別の枝道と危険な洞窟を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7018,
+        "label": "危険地帯から帰還",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7569,
+        "label": "ウォーデンの危険性を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7888,
+        "label": "鉱石の加工準備と仕分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8403,
+        "label": "鉱石の砕き祭り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9447,
+        "label": "鉱石を加工して資材を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10298,
+        "label": "成果まとめと次回の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10659,
+        "label": "締めの挨拶とアフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10813,
+        "label": "スーパーチャット読みと最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

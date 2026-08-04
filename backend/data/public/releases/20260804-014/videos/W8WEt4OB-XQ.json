@@ -1,0 +1,120 @@
+{
+  "videoId": "W8WEt4OB-XQ",
+  "title": "【スプラトゥーン2】チームE VS 闇鍋チームで対戦だい🦑【西園チグサ/にじさんじ】",
+  "publishedAt": "2021-11-13T17:39:26Z",
+  "duration": "PT2H28M30S",
+  "durationSec": 8910,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/W8WEt4OB-XQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:48:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介と対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 808,
+        "label": "最初のバトルと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1549,
+        "label": "次のバトルと対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1931,
+        "label": "中盤のバトルと次の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2810,
+        "label": "バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3009,
+        "label": "武器と立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3249,
+        "label": "対戦再開と武器談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "ヤグラで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "バトルとチーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5623,
+        "label": "次のバトルと作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5997,
+        "label": "ローラーで対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6682,
+        "label": "チョコエッグの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6817,
+        "label": "バトル再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7315,
+        "label": "終盤のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7904,
+        "label": "作戦相談とバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8492,
+        "label": "対戦終了・対戦後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8671,
+        "label": "告知・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

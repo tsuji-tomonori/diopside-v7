@@ -1,0 +1,130 @@
+{
+  "videoId": "pNBtI_Eb04s",
+  "title": "【#わらとも】白雪巴さんを徹底調査！甘えたい…！【鬼灯わらべ/白雪巴】",
+  "publishedAt": "2021-06-08T11:04:45Z",
+  "duration": "PT1H16S",
+  "durationSec": 3616,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pNBtI_Eb04s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:58:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "質問コーナー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 599,
+        "label": "しゃぶしゃぶの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 734,
+        "label": "出会いと甘やかしトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 902,
+        "label": "フェチの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1106,
+        "label": "長所・短所と頑張り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1275,
+        "label": "甘えたい気持ちと配信の印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1470,
+        "label": "最近困ったこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1637,
+        "label": "日常の困りごと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1710,
+        "label": "指の長さと変わり種雑学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1963,
+        "label": "これから挑戦したいこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2061,
+        "label": "昔のギャル時代と学生生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2299,
+        "label": "好きな漫画・ホラー作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2516,
+        "label": "ポケモンに例える巴さん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2684,
+        "label": "巴さんへの思いと労い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2818,
+        "label": "デビュー後の印象的な思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3031,
+        "label": "買ってよかったもの・ルンバ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3337,
+        "label": "ギャルファッション談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3515,
+        "label": "感想・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

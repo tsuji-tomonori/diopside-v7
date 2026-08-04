@@ -1,0 +1,120 @@
+{
+  "videoId": "tgWHHizv9xc",
+  "title": "【雑談】一時帰宅。いい子にお留守番ありがと♪【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-07-13T14:43:14Z",
+  "duration": "PT1H31M51S",
+  "durationSec": 5511,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tgWHHizv9xc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ただいま・久しぶりの雑談スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 425,
+        "label": "植物の世話と引っ越し準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 822,
+        "label": "留守中の活動とボイスドラマの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1537,
+        "label": "オーディション音源と演技の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1978,
+        "label": "次のボイスドラマと今後の活動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2162,
+        "label": "ボイスドラマの音源・台詞サンプル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2803,
+        "label": "ボイスドラマの販売案内と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3000,
+        "label": "ホラーゲーム実況と引っ越し後の配信計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3401,
+        "label": "甲子園参加と今後の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3557,
+        "label": "季節ボイス・料理ボイスの案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3796,
+        "label": "スーパーチャット読み・引っ越しの近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4021,
+        "label": "帰宅歓迎のスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4323,
+        "label": "料理の思い出と応援への返答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4819,
+        "label": "ボイス作品と配信での自分について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5128,
+        "label": "視聴者への共感とスーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5255,
+        "label": "コラボ服・関連グッズの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5359,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

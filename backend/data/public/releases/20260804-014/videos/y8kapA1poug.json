@@ -1,0 +1,125 @@
+{
+  "videoId": "y8kapA1poug",
+  "title": "【スプラトゥーン3】かつての手下たちがなにやら献上してくれるらしい【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-18T13:54:30Z",
+  "duration": "PT1H38M8S",
+  "durationSec": 5888,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/y8kapA1poug/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T17:41:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・献上企画の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 300,
+        "label": "コラボメンバー紹介・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 611,
+        "label": "最初の対戦ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "休憩を挟んで次の対戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1640,
+        "label": "次の対戦ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2123,
+        "label": "サーモンランのバイト開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3020,
+        "label": "バイト結果と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3360,
+        "label": "サーモンランの協力プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3609,
+        "label": "大型の敵に挑むバイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4022,
+        "label": "バイト後の武器・難易度トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4145,
+        "label": "サーモンラン再開・役割分担",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4483,
+        "label": "最後のウェーブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4920,
+        "label": "ゲーム後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5227,
+        "label": "ライブ・イベント告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5400,
+        "label": "ゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5481,
+        "label": "今後の予定・イベント案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5640,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5863,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

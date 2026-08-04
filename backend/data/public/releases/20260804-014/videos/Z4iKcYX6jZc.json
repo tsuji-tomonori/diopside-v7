@@ -1,0 +1,120 @@
+{
+  "videoId": "Z4iKcYX6jZc",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#2【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-06T07:32:43Z",
+  "duration": "PT3H15M14S",
+  "durationSec": 11714,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Z4iKcYX6jZc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 555,
+        "label": "朝の病院と遅刻の指導",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1112,
+        "label": "新人紹介と登場人物の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1710,
+        "label": "プリセプター制度と患者ケア準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "オムツ交換と病棟ケアの実習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3232,
+        "label": "登場人物の関係と点滴準備への移行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "薬剤安全と点滴の調製",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "点滴実習と患者対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "体位管理から勤務後の帰り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6923,
+        "label": "帰宅後の会話と登場人物への印象",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7380,
+        "label": "患者対応を振り返り次の勤務へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7879,
+        "label": "ナースコールと患者対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8348,
+        "label": "対応の振り返りと患者ケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9342,
+        "label": "バイタル確認と子どもの点滴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9781,
+        "label": "点滴後の会話と検体搬送",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10577,
+        "label": "入院歴をめぐる会話と検査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11556,
+        "label": "配信終了・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

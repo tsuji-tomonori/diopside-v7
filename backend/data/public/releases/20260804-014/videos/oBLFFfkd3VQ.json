@@ -1,0 +1,115 @@
+{
+  "videoId": "oBLFFfkd3VQ",
+  "title": "【スプラトゥーン3】私達が雪月シスターズよ！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-14T15:29:59Z",
+  "duration": "PT2H14M43S",
+  "durationSec": 8083,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oBLFFfkd3VQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・雪月シスターズ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 374,
+        "label": "ナワバリで試運転",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 816,
+        "label": "チーム結成・合流待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1385,
+        "label": "5ルールの作戦・練習会準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2245,
+        "label": "プライベートマッチ・ナワバリ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2718,
+        "label": "武器選び・立ち回りの試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3413,
+        "label": "ルール確認・ヤグラ前の立ち回り講座",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3751,
+        "label": "ガチヤグラの練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4551,
+        "label": "ガチホコの説明・練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5073,
+        "label": "ガチアサリの練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5827,
+        "label": "休憩・振り返りと作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6336,
+        "label": "再開・次のルール選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6609,
+        "label": "後半のガチヤグラ練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7335,
+        "label": "対戦後の感想・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "ロビー退出・武器とスペシャル相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7873,
+        "label": "コメントへの感謝・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

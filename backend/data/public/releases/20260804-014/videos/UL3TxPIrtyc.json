@@ -1,0 +1,135 @@
+{
+  "videoId": "UL3TxPIrtyc",
+  "title": "【 #グウェル3D 】3Dの身体になれました【 グウェル・オス・ガール/にじさんじ 】",
+  "publishedAt": "2022-07-22T13:09:35Z",
+  "duration": "PT1H4M13S",
+  "durationSec": 3853,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UL3TxPIrtyc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3Dお披露目オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 380,
+        "label": "歌・ダンスパフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 746,
+        "label": "3Dクイズ企画・ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1023,
+        "label": "伸ばしてしりとり本番",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1134,
+        "label": "罰ゲームの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1279,
+        "label": "罰ゲームの演奏・歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1525,
+        "label": "1〜3次元を学ぶ授業",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1765,
+        "label": "4Dを音楽で体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2059,
+        "label": "4D実演の振り返り・歌ネタ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2183,
+        "label": "森と神様の歌芝居",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2367,
+        "label": "歌芝居の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2467,
+        "label": "ポコチンドラムのリズムネタ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2515,
+        "label": "オリジナル曲『3Dの身体になれました』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2703,
+        "label": "オリジナル曲の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2806,
+        "label": "元恋人相談の掛け合いコント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2899,
+        "label": "3Dお披露目の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3123,
+        "label": "最後のVTR・ピアノ企画の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3249,
+        "label": "ピアノ弾き語りレッスン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3408,
+        "label": "『変わらないもの』弾き語り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3695,
+        "label": "弾き語り後の感謝・今後の活動",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

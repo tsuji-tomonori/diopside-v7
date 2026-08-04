@@ -1,0 +1,110 @@
+{
+  "videoId": "UsPeYgD5sTk",
+  "title": "【対決】シェリンvs樋口！その勝負の結果は？探偵とJKの負けられない戦い！【ツキイチ！にじさんじ】【ドッキリ】【罰ゲーム有り】【切り抜き】VTuber",
+  "publishedAt": "2020-11-23T11:00:13Z",
+  "duration": "PT33M52S",
+  "durationSec": 2032,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UsPeYgD5sTk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26,
+        "label": "月間情報コーナー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 44,
+        "label": "グウェルの歌唱カバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 145,
+        "label": "剣持の学園コメディVTR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 251,
+        "label": "にじさんじお茶会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 359,
+        "label": "ニュイの3Dお披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 474,
+        "label": "風紀委員会コーナー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 523,
+        "label": "罰ゲームの歌VTR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "1人目：甲斐田晴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 887,
+        "label": "2人目：白雪巴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1127,
+        "label": "3人目：シェリン・バーガンディ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1441,
+        "label": "今月のかわいい企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1577,
+        "label": "今後のインフォメーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1813,
+        "label": "今月のMVC紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1926,
+        "label": "アフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

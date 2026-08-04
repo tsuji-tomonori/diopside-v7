@@ -1,0 +1,105 @@
+{
+  "videoId": "y7NaEhreWcU",
+  "title": "【Splatoon2】#極肆姉妹WIN 大会本番！！！！極肆姉妹ニュイ視点！！！【ニュイ・ソシエール/にじさんじ】",
+  "publishedAt": "2021-11-20T11:07:47Z",
+  "duration": "PT47M35S",
+  "durationSec": 2855,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/y7NaEhreWcU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・大会配信の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 283,
+        "label": "試合前の立ち回り確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 510,
+        "label": "大会試合の観戦・実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 894,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 973,
+        "label": "音声・ボイスチャンネルの調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1075,
+        "label": "2回戦の準備・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1272,
+        "label": "ホコの試合を観戦・実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1554,
+        "label": "試合後のチーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1743,
+        "label": "大会インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "合流・次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2207,
+        "label": "試合本番の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2523,
+        "label": "次の試合に向けた作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2645,
+        "label": "エリアの試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "試合後の振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

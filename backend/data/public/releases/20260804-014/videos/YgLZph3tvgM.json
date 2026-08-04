@@ -1,0 +1,110 @@
+{
+  "videoId": "YgLZph3tvgM",
+  "title": "【Paranormal Cleanup】事故物件の清掃という裏バイト【#スノーベル/にじさんじ】",
+  "publishedAt": "2023-03-06T12:02:54Z",
+  "duration": "PT55M15S",
+  "durationSec": 3315,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YgLZph3tvgM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:27:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・事故物件清掃の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 533,
+        "label": "ゲーム開始・通話設定を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "最初の事故物件で清掃開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1508,
+        "label": "怪異に遭遇・清掃を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1814,
+        "label": "清掃の進捗と鍵を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1940,
+        "label": "怪異を避けて鍵とゴミを回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2116,
+        "label": "玄関付近で危機に直面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2264,
+        "label": "メディカルキットを探して清掃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2424,
+        "label": "最後のゴミと鍵をめぐる攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2701,
+        "label": "最後の清掃とロビーへの移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2804,
+        "label": "ゲームの感想・追加要素の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2927,
+        "label": "Minecraftでの協力談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "電話ボイス第2弾の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3118,
+        "label": "次回配信の話・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3177,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

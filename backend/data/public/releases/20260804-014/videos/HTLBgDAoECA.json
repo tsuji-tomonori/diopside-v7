@@ -1,0 +1,185 @@
+{
+  "videoId": "HTLBgDAoECA",
+  "title": "【スプラトゥーン3】イチからはじめるスプラ３【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-09T13:32:11Z",
+  "duration": "PT2H15M53S",
+  "durationSec": 8153,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HTLBgDAoECA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T18:06:15.490129+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・キャラメイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "操作チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 874,
+        "label": "広場とゲームモードを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1109,
+        "label": "ヒーローモードの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "ヒーローモードの練習コース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1817,
+        "label": "練習クリア・強化要素を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1913,
+        "label": "パワーエッグ集めとルート探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2232,
+        "label": "装備説明とカギのルート探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2478,
+        "label": "相棒と進むルート探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2766,
+        "label": "ヒーローモードの課題を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3177,
+        "label": "広場・武器屋を見て初戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3423,
+        "label": "初めてのナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3662,
+        "label": "初戦後のプロフィール・解放要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "武器屋とスペシャル練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4197,
+        "label": "サメライドを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4316,
+        "label": "カニタンクを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4562,
+        "label": "スペシャルを続けて試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4792,
+        "label": "ブキを試してエナジースタンドを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5040,
+        "label": "トリプルトルネードでスペシャル確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5220,
+        "label": "サブウェポンとブキの操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5457,
+        "label": "残りのボムと新ブキを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5789,
+        "label": "練習を終えてバトル準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6010,
+        "label": "ナワバリバトルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6237,
+        "label": "ナワバリバトルを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6536,
+        "label": "別のブキでナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6769,
+        "label": "スペシャルを試しながらナワバリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7018,
+        "label": "終盤のナワバリバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7255,
+        "label": "ランク4を目指して追加バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7798,
+        "label": "ゲームを終えて次回の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7861,
+        "label": "告知・スーパーチャット返答・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "qN-0KQVyeAo",
+  "title": "【 #夜王国４周年 】クイズ グウェモネア【 不破湊/白雪巴/グウェル・オスガール 】",
+  "publishedAt": "2023-11-28T11:12:11Z",
+  "duration": "PT1H7M5S",
+  "durationSec": 4025,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qN-0KQVyeAo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:20:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "夜王国4周年の挨拶・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "クイズのルール・ヒント説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 758,
+        "label": "白雪巴・第1問「夜王国」の読み方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 972,
+        "label": "白雪巴・第2問「夜王国」のスペル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1314,
+        "label": "白雪巴・第3問・龍神への第一声",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1430,
+        "label": "白雪巴・第4問・未プレイのゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1587,
+        "label": "白雪巴・第5問・スマブラコラボの一言",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1725,
+        "label": "白雪巴・第6問・歌ってみたの曲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1934,
+        "label": "白雪巴・第7問・3Dお披露目の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2319,
+        "label": "白雪巴・第8問・2周年の企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2501,
+        "label": "白雪巴・第9問・最短の出演動画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2721,
+        "label": "挑戦者交代・不破湊の出番",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2785,
+        "label": "不破湊・第1問・記念雑談の最後の5文字",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3076,
+        "label": "不破湊・第2問・ARKのプテラノドン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3406,
+        "label": "不破湊・第3問・2周年クイズの名前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3767,
+        "label": "クイズ終了・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "4周年の締め・5年目の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

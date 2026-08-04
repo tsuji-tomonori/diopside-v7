@@ -1,0 +1,100 @@
+{
+  "videoId": "CKw7snS7uKo",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆8ステ◆【来栖夏芽/白雪巴/にじさんじ】",
+  "publishedAt": "2020-12-14T13:22:08Z",
+  "duration": "PT2H5M38S",
+  "durationSec": 7538,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CKw7snS7uKo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:13:14Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第一幕「わんにゃん大脱走計画」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 920,
+        "label": "第一幕の感想・番組導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1211,
+        "label": "第二幕「姉はロックを聴かない」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1755,
+        "label": "第二幕の感想・演技トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2044,
+        "label": "第三幕「ナツユキグサ」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3001,
+        "label": "第三幕の感想・配信トラブル確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3269,
+        "label": "第四幕「二人だけの噂話」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3670,
+        "label": "第四幕の感想・脚本トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3909,
+        "label": "第五幕「血迷ってるってことにして」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5222,
+        "label": "第五幕の感想・作品選定トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5365,
+        "label": "第六幕「明声に吠える」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6997,
+        "label": "第六幕の感想・エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7374,
+        "label": "告知・番組終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

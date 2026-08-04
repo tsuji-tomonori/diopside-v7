@@ -1,0 +1,120 @@
+{
+  "videoId": "CwmFH6FlBo4",
+  "title": "【Splatoon2】Crossickでハロウィンしなイカ！？【健屋花那/にじさんじ】",
+  "publishedAt": "2020-11-01T17:28:07Z",
+  "duration": "PT3H59M2S",
+  "durationSec": 14342,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CwmFH6FlBo4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・フェス準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 789,
+        "label": "フェスマッチ序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1800,
+        "label": "マッチング待ち・ハロウィン雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2690,
+        "label": "フェスマッチ継続・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3633,
+        "label": "10倍チャレンジを目指すフェス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4730,
+        "label": "長いマッチング待ち・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6326,
+        "label": "参加型フェスの募集・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6780,
+        "label": "参加型フェスの初戦と交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7498,
+        "label": "参加型フェスの連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8240,
+        "label": "参加者募集と部屋準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9070,
+        "label": "参加型フェスの試合と交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9885,
+        "label": "参加型フェスの試合・次の部屋準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10812,
+        "label": "参加型フェスの連続対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11998,
+        "label": "終盤のフェスマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13299,
+        "label": "最後の参加者を迎える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13861,
+        "label": "最終フェスマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14202,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

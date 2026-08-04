@@ -1,0 +1,115 @@
+{
+  "videoId": "5CJBok6iuaw",
+  "title": "【#エデンとアソボウ/Among US】エデン組に招集されましたｇｋｂｒ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-11T14:42:51Z",
+  "duration": "PT2H16M44S",
+  "durationSec": 8204,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5CJBok6iuaw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 383,
+        "label": "ゲーム開始・タスクとマップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 993,
+        "label": "初回ミーティング・情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1080,
+        "label": "次ゲーム・タスク進行と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1970,
+        "label": "次ゲーム・ルート確認と役割の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "ラウンド進行・報告後の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3135,
+        "label": "電気タスクと投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3515,
+        "label": "タスク進行と動線の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3903,
+        "label": "ゲーム進行と証言の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4807,
+        "label": "次ラウンド・アリバイをめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5628,
+        "label": "ゲーム終盤の判断と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5906,
+        "label": "新ラウンド・目撃情報の整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6501,
+        "label": "タスク進行と行動の検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7023,
+        "label": "終盤のゲーム進行と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7669,
+        "label": "ゲーム後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7851,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
