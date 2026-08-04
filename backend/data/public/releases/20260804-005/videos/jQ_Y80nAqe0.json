@@ -1,0 +1,125 @@
+{
+  "videoId": "jQ_Y80nAqe0",
+  "title": "＃４【NieR:Automata -ニーアオートマタ-】やっぱり機械生命体を殲滅させればいいんじゃないか！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-09-01T12:40:45Z",
+  "duration": "PT4H22M52S",
+  "durationSec": 15772,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jQ_Y80nAqe0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:22:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1053,
+        "label": "動物の縄張りへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2740,
+        "label": "動物の縄張りのクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3691,
+        "label": "レジスタンスで報告・準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4519,
+        "label": "ロボ道場の師匠に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5434,
+        "label": "パレードの行方と谷の主",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6686,
+        "label": "次のロボ道場へ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7718,
+        "label": "ロボ道場・第一戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8507,
+        "label": "ロボ道場・第二戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9470,
+        "label": "クエスト後の確認とサブクエスト探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10490,
+        "label": "月の涙を探して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10939,
+        "label": "月の涙の花畑",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11615,
+        "label": "本編へ戻る準備と地下闘技場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12212,
+        "label": "沿岸防衛部隊を支援",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13450,
+        "label": "戦闘後の確認と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14263,
+        "label": "スキャナー入手・装備準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14882,
+        "label": "配信まとめ・終了後の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15280,
+        "label": "スパチャ読み・感想",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

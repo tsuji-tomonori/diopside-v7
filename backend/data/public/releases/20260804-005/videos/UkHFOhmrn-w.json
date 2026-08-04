@@ -1,0 +1,110 @@
+{
+  "videoId": "UkHFOhmrn-w",
+  "title": "＃１【リングフィットアドベンチャー】朝活でストイックに鍛え上げるモテ美ボディ【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-01T23:13:00Z",
+  "duration": "PT1H5M59S",
+  "durationSec": 3959,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UkHFOhmrn-w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "朝活リングフィット・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 351,
+        "label": "準備と運動方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 465,
+        "label": "ウォームアップ・ストレッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 603,
+        "label": "ゲーム開始・冒険の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 747,
+        "label": "最初の運動ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1088,
+        "label": "計測とプロフィール設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1251,
+        "label": "最初のステージを進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1629,
+        "label": "次のステージで運動を継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1868,
+        "label": "新しい運動メニューと疲労トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2071,
+        "label": "連続バトルと運動チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "休憩を挟んで運動を継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3034,
+        "label": "ステージを区切って運動終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3170,
+        "label": "クールダウン・ストレッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "運動後の感想と今後の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "次回予定・告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

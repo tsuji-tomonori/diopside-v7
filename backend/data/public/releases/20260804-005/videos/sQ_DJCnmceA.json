@@ -1,0 +1,165 @@
+{
+  "videoId": "sQ_DJCnmceA",
+  "title": "【 #にじ女あもあす 】オレは最後まで生きるんだっ！！！！【にじさんじ/獅子堂あかり】",
+  "publishedAt": "2023-06-04T15:31:35Z",
+  "duration": "PT2H41M46S",
+  "durationSec": 9706,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sQ_DJCnmceA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:13:03.661578Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 570,
+        "label": "ルール・役職設定の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 730,
+        "label": "第1試合・初動探索と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1319,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1606,
+        "label": "第2試合・再戦と初回通報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1862,
+        "label": "第2試合後の視点・設定調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2439,
+        "label": "第3試合・エアシップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2852,
+        "label": "第3試合・通報後の情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3708,
+        "label": "第3試合後の振り返り・次試合設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3985,
+        "label": "第4試合・エアシップ再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4291,
+        "label": "第4試合・位置情報とカメラの議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5103,
+        "label": "第4試合後の振り返り・マップ変更",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5413,
+        "label": "第5試合・新マップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5604,
+        "label": "第5試合・バイタル確認と通報",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6004,
+        "label": "第5試合・終盤の投票方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "第5試合後の設定調整・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6411,
+        "label": "第6試合・停電下の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7260,
+        "label": "第6試合・通報後の議論と投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7839,
+        "label": "第6試合後の振り返り・再接続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7994,
+        "label": "第7試合・再接続後の初動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8162,
+        "label": "第7試合・通報後の情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8482,
+        "label": "第7試合・終盤の投票方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8902,
+        "label": "第7試合後の振り返り・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9001,
+        "label": "終了挨拶・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9177,
+        "label": "スーパーチャット読み・配信振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9684,
+        "label": "配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "82c9r10SBu4",
+  "title": "【雑談】フミ＆とも まったりお喋り【にじさんじフミ】",
+  "publishedAt": "2021-11-17T20:01:14Z",
+  "duration": "PT2H56M42S",
+  "durationSec": 10602,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/82c9r10SBu4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・まったり雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 245,
+        "label": "夜の外出とお風呂の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1280,
+        "label": "父なる神と音楽の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1687,
+        "label": "泊まりを重ねて深まる関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1880,
+        "label": "仕事や収録の服装トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2154,
+        "label": "ダンス動画の制作と完成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2768,
+        "label": "制作を支えた深夜の協力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3164,
+        "label": "初期コラボと泊まりの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3463,
+        "label": "ウマ娘の推しキャラと物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4325,
+        "label": "コラボ妄想と褒め言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5235,
+        "label": "好きなタイプと恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "嫉妬と束縛の境界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6556,
+        "label": "距離感を探る企画アイデア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "距離の近さと相性のいい企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8285,
+        "label": "優しさとおせっかいの境界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8669,
+        "label": "朝まで続いた深夜トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8996,
+        "label": "香りや水のこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9341,
+        "label": "眠る時の優しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9550,
+        "label": "合宿免許と終盤の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10083,
+        "label": "配信を振り返る雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10210,
+        "label": "ライブ出演などのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10395,
+        "label": "エンディング・お礼",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

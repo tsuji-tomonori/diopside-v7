@@ -1,0 +1,135 @@
+{
+  "videoId": "vsMIM-dewB8",
+  "title": "【The Outlast Trials】最強のメンバーを連れてリベンジしに来ました＾＾【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-24T14:50:54Z",
+  "duration": "PT2H41M16S",
+  "durationSec": 9676,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vsMIM-dewB8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "4人コラボのメンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 469,
+        "label": "警察署マップと役割を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 716,
+        "label": "警察署を探索してセキュリティルームへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1177,
+        "label": "密告者の処刑へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "地下で発電機を動かす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1921,
+        "label": "手掛かりを集めてゲートを開ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2282,
+        "label": "処刑場から脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2522,
+        "label": "リザルト確認と装備の強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2883,
+        "label": "個人ステージを探索してラジオ室の波形合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3362,
+        "label": "ラジオを探して追跡を切り抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3612,
+        "label": "フィルムを教室で交換する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4203,
+        "label": "教会の仕掛けを進めて脱出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4803,
+        "label": "裁判所プログラムXへ向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5049,
+        "label": "裁判所プログラムXを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5644,
+        "label": "証拠品を解放して暗号に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5881,
+        "label": "3つの材料を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7326,
+        "label": "裁判の対象を探して処理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "プログラムXを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9441,
+        "label": "腕相撲で順位決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9598,
+        "label": "コラボの感想と終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

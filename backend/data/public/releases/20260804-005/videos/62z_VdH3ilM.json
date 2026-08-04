@@ -1,0 +1,185 @@
+{
+  "videoId": "62z_VdH3ilM",
+  "title": "＃６【NieR:Automata -ニーアオートマタ-】すべてを破壊するそれが任務であり使命【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-29T17:22:58Z",
+  "duration": "PT4H10M43S",
+  "durationSec": 15043,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/62z_VdH3ilM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・体調と進行案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 276,
+        "label": "前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 656,
+        "label": "ゲーム再開・装備確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1005,
+        "label": "キャンプ外の調査と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1388,
+        "label": "村からの救援要請",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2033,
+        "label": "村の異変を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2719,
+        "label": "決戦後の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3077,
+        "label": "物語の感想と考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3396,
+        "label": "物語の続きへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3810,
+        "label": "新たな視点の工場作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4620,
+        "label": "2Bと合流・工場探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5122,
+        "label": "工場の大型兵器戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5862,
+        "label": "バンカーでのセットアップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6322,
+        "label": "地上任務の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6814,
+        "label": "地上へ出発・装備確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7670,
+        "label": "レジスタンスキャンプへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8366,
+        "label": "武器強化と記録確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8845,
+        "label": "砂漠の異変調査へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9292,
+        "label": "砂漠での追跡戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9997,
+        "label": "砂漠の遺産探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10528,
+        "label": "砂漠奥で追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11199,
+        "label": "砂漠奥の強敵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11475,
+        "label": "遭遇報告と次の捜索任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11830,
+        "label": "遊園地への地下ルート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12373,
+        "label": "行方不明信号を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12765,
+        "label": "遊園地の歌劇戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13373,
+        "label": "機械生命体の物語を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13739,
+        "label": "パスカルの村へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14138,
+        "label": "ゲーム終了・今回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14420,
+        "label": "アフタートーク・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

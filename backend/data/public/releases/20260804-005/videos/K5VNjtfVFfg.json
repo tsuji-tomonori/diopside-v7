@@ -1,0 +1,230 @@
+{
+  "videoId": "K5VNjtfVFfg",
+  "title": "＃07【崩壊：スターレイル】仙舟「羅浮」編。星核を持ち込んだ真犯人は誰だ！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-19T12:53:03Z",
+  "duration": "PT5H34M45S",
+  "durationSec": 20085,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/K5VNjtfVFfg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1049,
+        "label": "仙舟編のおさらいと調査再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1421,
+        "label": "工造司へ向けた作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1854,
+        "label": "工造司へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2441,
+        "label": "工房で救出依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2824,
+        "label": "工房の敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3041,
+        "label": "剣木の装置を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3571,
+        "label": "剣木から生まれた獣",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3988,
+        "label": "剣木の弱点を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4350,
+        "label": "工房の奥を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "剣木の根を除去する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5669,
+        "label": "戦闘後の情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6130,
+        "label": "占卜司へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6481,
+        "label": "操られた兵士との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7055,
+        "label": "兵士を救出して情報を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7509,
+        "label": "救援キャンプで情報を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8621,
+        "label": "観光区画の捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9198,
+        "label": "手紙と病人をめぐる調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9741,
+        "label": "薬王秘伝への潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10595,
+        "label": "潜入試験の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10762,
+        "label": "潜入結果を報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10984,
+        "label": "手紙を使った潜入任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11443,
+        "label": "薬王秘伝の指導者と対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12109,
+        "label": "帰還して対策を立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12474,
+        "label": "解毒薬を分析する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13045,
+        "label": "子どもへ薬を届ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13419,
+        "label": "長生をめぐる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13912,
+        "label": "医師と薬の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14436,
+        "label": "日記を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15100,
+        "label": "毒と薬の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15336,
+        "label": "医師との対面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15602,
+        "label": "事件の整理と脱出方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15897,
+        "label": "過去の悲劇を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16570,
+        "label": "大規模戦闘に向けた作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17075,
+        "label": "薬王秘伝との大規模戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18062,
+        "label": "決戦の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18522,
+        "label": "事件の背景を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18881,
+        "label": "配信後半の雑談と素材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19467,
+        "label": "スーパーチャット読み・次回予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

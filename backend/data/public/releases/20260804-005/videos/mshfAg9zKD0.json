@@ -1,0 +1,95 @@
+{
+  "videoId": "mshfAg9zKD0",
+  "title": "#4『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-11T15:53:49Z",
+  "duration": "PT2H39M7S",
+  "durationSec": 9547,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mshfAg9zKD0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T20:33:37.146Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 337,
+        "label": "別保海岸・伊勢人魚の伝承調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2039,
+        "label": "草生・八百比丘尼と伊勢物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3366,
+        "label": "二見浦・人魚の記録調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4209,
+        "label": "夜の二見浦・星探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4722,
+        "label": "翌日・朝熊山と九鬼水軍の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5721,
+        "label": "海女文化と海の伝承",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6050,
+        "label": "旅館へ移動・調査の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6250,
+        "label": "朝熊山での回想と情報交換",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7379,
+        "label": "旅館・手掛かりの検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8897,
+        "label": "プレイ終了・次回の見通し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9143,
+        "label": "スーパーチャットお礼・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

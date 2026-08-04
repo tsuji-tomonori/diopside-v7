@@ -1,0 +1,170 @@
+{
+  "videoId": "jjzlsJQjgC8",
+  "title": "＃13【崩壊：スターレイル】ピノコニー編！アベンチュリン…お前…【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-04T10:34:45Z",
+  "duration": "PT3H20M48S",
+  "durationSec": 12048,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jjzlsJQjgC8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:12:50.375Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・前回の整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 214,
+        "label": "パーティ編成と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "トパーズとハウンド家を聞き込む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 699,
+        "label": "ギャラガーとの対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "戦闘後のギャラガー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1409,
+        "label": "ギャラガーと夢の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1642,
+        "label": "黄泉と記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2280,
+        "label": "夢と並行世界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2894,
+        "label": "黄泉をめぐる遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3150,
+        "label": "アベンチュリンの作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3637,
+        "label": "夢の異変を聞き込む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4539,
+        "label": "花火との駆け引き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5115,
+        "label": "アベンチュリンの過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5339,
+        "label": "バーでカクテル作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5771,
+        "label": "シヴォーンの物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6443,
+        "label": "カクテル作りを再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6780,
+        "label": "ギャラガーの証言",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7196,
+        "label": "クロックボーイの歴史",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8125,
+        "label": "屋敷への潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8678,
+        "label": "屋敷の資料を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9776,
+        "label": "ブートヒル来訪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10069,
+        "label": "ニュースとアベンチュリンの回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10438,
+        "label": "アベンチュリンの独白",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10681,
+        "label": "ゲーム終了・次回へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10869,
+        "label": "ゲーム後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11111,
+        "label": "PV視聴・考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11590,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

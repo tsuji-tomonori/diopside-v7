@@ -1,0 +1,85 @@
+{
+  "videoId": "NbJ6QIlkyjg",
+  "title": "【#マリカにじさんじ最弱王決定戦】私が最弱王？寝言は寝て言いなさい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-29T11:31:58Z",
+  "duration": "PT56M2S",
+  "durationSec": 3362,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NbJ6QIlkyjg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会待機・参加者紹介と罰ゲーム案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1445,
+        "label": "大会開始・コースと車を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1524,
+        "label": "1レース目を走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1762,
+        "label": "2レース目・コーナーとアイテムの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1917,
+        "label": "次のコースを選んで再開準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2015,
+        "label": "後半のレースを走る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "公式結果とインタビューを見ながら振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2702,
+        "label": "公式配信を見ながら大会後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2918,
+        "label": "大会後の罰ゲーム企画を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3252,
+        "label": "罰ゲーム内容を決めて締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "videoId": "MaRy5OR-cAM",
+  "title": "【おくだけドリル 小学6年生漢字】27問～間違えたら即終了！！！朝の脳トレ♪120問クリアするまでやるドリル【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-04T00:04:48Z",
+  "duration": "PT58M3S",
+  "durationSec": 3483,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MaRy5OR-cAM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T21:03:51.318Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・待機画面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 234,
+        "label": "挨拶・朝の近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 421,
+        "label": "漢字ドリルのルールと目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 548,
+        "label": "漢字ドリル開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 840,
+        "label": "ヒントのルールを追加",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1796,
+        "label": "新たな問題に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2052,
+        "label": "ヒント使用後のチャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2698,
+        "label": "新たな目標で続行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3058,
+        "label": "終盤の漢字ドリル",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

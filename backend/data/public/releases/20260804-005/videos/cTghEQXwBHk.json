@@ -1,0 +1,170 @@
+{
+  "videoId": "cTghEQXwBHk",
+  "title": "【雑談】今年初配信♥配布用のイラスト描きながら新年ご挨拶【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-05T15:58:02Z",
+  "duration": "PT3H30M",
+  "durationSec": 12600,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cTghEQXwBHk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新年の挨拶・お正月の過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 622,
+        "label": "2022年の活動を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 987,
+        "label": "にじフェス出演の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1270,
+        "label": "ダンス企画と出演曲の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1535,
+        "label": "喉のケア・冬の暮らしと家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2164,
+        "label": "にじフェスのダンス練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3055,
+        "label": "Pink Catの振付と練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3688,
+        "label": "夜はほのかの演出・カメラ・衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4470,
+        "label": "スノボとファンの反応の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4715,
+        "label": "酔いどれ知らずの制作裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5131,
+        "label": "家族で遊んだ桃鉄",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5901,
+        "label": "ふるさと納税のお肉を食べ比べ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6043,
+        "label": "甥っ子からゲームを教わる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6363,
+        "label": "配布用ヘッダーイラストを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6835,
+        "label": "うさぎアイコン①を描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7512,
+        "label": "次のイラストの構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7632,
+        "label": "ヘアピンを題材に描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8036,
+        "label": "うさぎのデザインを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9100,
+        "label": "色とアクセサリーで仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10185,
+        "label": "完成イラストと配布案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10459,
+        "label": "締めの挨拶・配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10526,
+        "label": "スパチャ読み・新年とフェスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11259,
+        "label": "スパチャ読み・イラスト配布と家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11690,
+        "label": "スパチャ読み・今年の抱負とアイコン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12064,
+        "label": "スパチャ読み・健康とうさぎ年の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12346,
+        "label": "スパチャ読み・良い一年にする話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12549,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

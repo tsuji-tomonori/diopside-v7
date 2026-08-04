@@ -1,0 +1,130 @@
+{
+  "videoId": "ZMmkYhfpjvg",
+  "title": "北海道に初めて行ってきたよ🛫💓写真30枚以上あり✨【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-28T16:54:14Z",
+  "duration": "PT3H11M",
+  "durationSec": 11460,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ZMmkYhfpjvg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:38:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・北海道旅行レポ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 508,
+        "label": "初北海道の計画と旅支度",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1448,
+        "label": "新千歳到着と後輩の出迎え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2047,
+        "label": "トリトンで北海道寿司",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2765,
+        "label": "羊ヶ丘展望台と鹿の大群",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3835,
+        "label": "熟成ジンギスカン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4112,
+        "label": "札幌の夜と1日目の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4878,
+        "label": "2日目・四輪バギー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5720,
+        "label": "スープカレー「ラマイ」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5957,
+        "label": "どさんこと乗馬体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6796,
+        "label": "信玄のラーメンと温泉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7422,
+        "label": "3日目・六花亭と時計台",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8096,
+        "label": "ロイズのチョコレートタウン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8582,
+        "label": "小樽で海鮮丼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8871,
+        "label": "オルゴール堂と小樽散策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9198,
+        "label": "北海道旅行のまとめ・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9847,
+        "label": "スーパーチャット読み・旅行Q&A",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10752,
+        "label": "やりたいことと配信の両立",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11041,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

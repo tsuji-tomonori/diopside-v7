@@ -1,0 +1,110 @@
+{
+  "videoId": "jC_NkNESOKk",
+  "title": "【マリオカート】私にぶつかるとケガするぜ【ルイス視点/フルトイ/にじさんじ】",
+  "publishedAt": "2020-12-18T14:38:27Z",
+  "duration": "PT1H25M26S",
+  "durationSec": 5126,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jC_NkNESOKk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:37:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 449,
+        "label": "告知情報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 724,
+        "label": "モデル雑談・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1035,
+        "label": "最初のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1508,
+        "label": "次のコース選び・ピーチサーキット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1683,
+        "label": "アイテムを駆使してレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2007,
+        "label": "ショートカットとアイテム攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2319,
+        "label": "レース後の雑談・次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "次のレースで順位争い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3004,
+        "label": "追い上げとショートカット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3374,
+        "label": "ショートカットに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3576,
+        "label": "通信切断から再接続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "レースと配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4388,
+        "label": "終盤のレース攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5010,
+        "label": "レース結果・コラボ振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

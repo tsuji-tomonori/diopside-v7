@@ -1,0 +1,130 @@
+{
+  "videoId": "uIsRl1rp8kQ",
+  "title": "【雑談】ゲリラですみません。。。新居からテスト配信しながら歌謡祭の裏話など雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-22T20:35:00Z",
+  "duration": "PT2H40M49S",
+  "durationSec": 9649,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uIsRl1rp8kQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:29:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新居から配信テスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1148,
+        "label": "クリスマスの予定と新衣装予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1552,
+        "label": "にじさんじ歌謡祭を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2399,
+        "label": "『フラジール』の選曲とステージ裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3274,
+        "label": "『勇者』のステージ演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3735,
+        "label": "Love Snowのステージ裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4098,
+        "label": "新衣装サムネイル作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4749,
+        "label": "配信復帰と眠れない夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "睡眠と悪夢の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5316,
+        "label": "新居に残った匂い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5610,
+        "label": "睡眠薬と寝る環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6132,
+        "label": "ゲームのデイリーと完璧主義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6504,
+        "label": "冬の体調と雪の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6948,
+        "label": "最強の元素からポケモン談義へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8410,
+        "label": "年末年始の仕事事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8640,
+        "label": "お正月と子どもの頃のクリスマス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9003,
+        "label": "今後の配信予定と締めの挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9212,
+        "label": "スーパーチャットお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9400,
+        "label": "歌謡祭を終えて",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "x9udN7NPpGE",
+  "title": "【ポケモンユナイト】チーム名とんでもないことになりそうなので誰か案を【にじさんじ/愛園愛美】",
+  "publishedAt": "2021-09-05T15:17:54Z",
+  "duration": "PT1H43M53S",
+  "durationSec": 6233,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/x9udN7NPpGE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:14:08.859632Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "試合後の感想と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1493,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2789,
+        "label": "試合後の役割・技構成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2937,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3113,
+        "label": "第4試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3273,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3854,
+        "label": "ジャングル・経験値の解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4068,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4819,
+        "label": "試合後の技振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5027,
+        "label": "第6試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5776,
+        "label": "試合後の感想と終了挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5880,
+        "label": "次回練習とチームの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6006,
+        "label": "チーム名・グッズ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6183,
+        "label": "最後の雑談と終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

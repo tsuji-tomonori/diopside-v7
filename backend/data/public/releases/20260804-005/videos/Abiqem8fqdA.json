@@ -1,0 +1,110 @@
+{
+  "videoId": "Abiqem8fqdA",
+  "title": "一時帰宅！手術についてや今後のお話👠【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-06-22T15:15:42Z",
+  "duration": "PT1H59M37S",
+  "durationSec": 7177,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Abiqem8fqdA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:17:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・一時帰宅の近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 840,
+        "label": "喉の注入治療レポ・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1145,
+        "label": "手術室での処置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2147,
+        "label": "術後の経過",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2612,
+        "label": "診察結果と手術の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3332,
+        "label": "手術と療養の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3663,
+        "label": "今後の活動について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3977,
+        "label": "親知らず抜歯の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4290,
+        "label": "メンバー配信・FCのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4500,
+        "label": "通常配信の再開時期",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5037,
+        "label": "休止中の過ごし方・復帰後の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5363,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "復帰後に遊びたいゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6559,
+        "label": "スーパーチャット読み・続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7072,
+        "label": "次回予定・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

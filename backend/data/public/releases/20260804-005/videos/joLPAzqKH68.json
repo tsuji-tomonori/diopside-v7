@@ -1,0 +1,120 @@
+{
+  "videoId": "joLPAzqKH68",
+  "title": "【DEVOUR】みなさんここは私に任せて下さい！私が生贄になります！【#稲荷いろは/のりプロ所属】",
+  "publishedAt": "2022-12-16T13:03:32Z",
+  "duration": "PT2H47M13S",
+  "durationSec": 10033,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/joLPAzqKH68/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・DEVOURリベンジ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 377,
+        "label": "クリスマス仕様の館へ・序盤探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 842,
+        "label": "館内探索・鍵とアイテム集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1414,
+        "label": "1回目のヤギ集め・救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2665,
+        "label": "初回プレイ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3232,
+        "label": "2回目のプレイ・救助作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4175,
+        "label": "作戦見直し・救助優先の再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "再挑戦準備・館内の鍵と燃料集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4642,
+        "label": "再挑戦・ヤギ集めと仲間の救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6630,
+        "label": "プレイ後の振り返り・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7270,
+        "label": "3回目のプレイ・ヤギ集めと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8469,
+        "label": "プレイ後の振り返り・マップ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "館内再整理・鍵と燃料探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9038,
+        "label": "終盤のヤギ集め・仲間の救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9597,
+        "label": "残りのヤギを探す終盤プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9844,
+        "label": "最終盤のプレイを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9907,
+        "label": "配信終了前の雑談・挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

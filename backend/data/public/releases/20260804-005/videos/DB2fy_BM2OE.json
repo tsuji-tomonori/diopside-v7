@@ -1,0 +1,145 @@
+{
+  "videoId": "DB2fy_BM2OE",
+  "title": "【作業配信】作業するけど一緒いてくれる？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-16T17:58:19Z",
+  "duration": "PT4H45M6S",
+  "durationSec": 17106,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DB2fy_BM2OE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:38:08Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作業内容の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 341,
+        "label": "ペット先輩と日々の作業",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1260,
+        "label": "PC作業と作業BGM",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1821,
+        "label": "対談質問の確認・百合談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2431,
+        "label": "定型質問の設計",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3779,
+        "label": "作品と恋愛観の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5669,
+        "label": "距離感と応援メッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6038,
+        "label": "質問の絞り込み・時間設計",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7002,
+        "label": "質問表をまとめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7737,
+        "label": "対談相手への連絡文作成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8999,
+        "label": "配信画面の設計",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9598,
+        "label": "背景と漫画風レイアウト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10800,
+        "label": "質問パネルを調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12067,
+        "label": "ラベルと背景素材の制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12882,
+        "label": "背景候補を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13781,
+        "label": "質問吹き出しと名札の制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14665,
+        "label": "漫画風タイトルを整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15299,
+        "label": "質問テンプレートと装飾",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16295,
+        "label": "作業完了の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16426,
+        "label": "終了挨拶・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16648,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17009,
+        "label": "最終感謝・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

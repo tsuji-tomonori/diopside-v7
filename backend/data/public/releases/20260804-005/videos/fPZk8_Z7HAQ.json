@@ -1,0 +1,120 @@
+{
+  "videoId": "fPZk8_Z7HAQ",
+  "title": "【コラボ】リベンジ！きっとサクサククリア！？DEVOUR　#ホラゲV女子会 【西園寺メアリ / ハニスト】",
+  "publishedAt": "2022-12-16T13:11:17Z",
+  "duration": "PT2H45M43S",
+  "durationSec": 9943,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fPZk8_Z7HAQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 318,
+        "label": "クリスマス屋敷を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 759,
+        "label": "儀式の手紙と本編準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 970,
+        "label": "最初のヤギ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1477,
+        "label": "最初の儀式と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "発狂モードと屋敷探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3172,
+        "label": "ヤギ集めと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4138,
+        "label": "実績解除後の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "追跡をかわしながら進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5997,
+        "label": "終盤のヤギ救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6745,
+        "label": "鍵と部屋の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7203,
+        "label": "身代わり役を決めて焼却",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7510,
+        "label": "ヤギ探索と救助の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8406,
+        "label": "鍵・部屋配置の再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8980,
+        "label": "終盤の高圧な追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9803,
+        "label": "ゲームの感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9919,
+        "label": "視聴へのお礼・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

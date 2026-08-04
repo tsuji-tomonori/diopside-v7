@@ -1,0 +1,85 @@
+{
+  "videoId": "-jzTRBMq-Mk",
+  "title": "【#おえもりにじさんじ杯】おえもり2回目で1回目の記憶をほとんど失っている【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-04T09:59:40Z",
+  "duration": "PT34M3S",
+  "durationSec": 2043,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-jzTRBMq-Mk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:40:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 87,
+        "label": "序盤ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 616,
+        "label": "中盤ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 999,
+        "label": "後半ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1284,
+        "label": "終盤ラウンド",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1559,
+        "label": "ゲーム終了後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1667,
+        "label": "コメント確認・大会の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1752,
+        "label": "今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1816,
+        "label": "スパチャ・コメント読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1990,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "njOHTT-z0BI",
+  "title": "＃52【崩壊：スターレイル】オンパロス編。ケリュドラ登場👑皇女が下す審判は……。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-05T15:50:51Z",
+  "duration": "PT2H38M35S",
+  "durationSec": 9515,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/njOHTT-z0BI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:22:28+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・オンパロス編を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 212,
+        "label": "これまでの流れを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1451,
+        "label": "準備を整えて次の目的へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2483,
+        "label": "周囲を巡って情報を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3426,
+        "label": "対話を追いながら進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4980,
+        "label": "ケリュドラの審判",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5997,
+        "label": "緊迫する対話の行方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6686,
+        "label": "新たな局面で活路を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7201,
+        "label": "これまでの力を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7695,
+        "label": "導線をたどって先へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8734,
+        "label": "オンパロスの状況を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8956,
+        "label": "中断地点を決めて配信予定へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9128,
+        "label": "今回の振り返り・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9322,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

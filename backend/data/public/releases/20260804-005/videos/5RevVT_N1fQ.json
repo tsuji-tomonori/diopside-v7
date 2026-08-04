@@ -1,0 +1,115 @@
+{
+  "videoId": "5RevVT_N1fQ",
+  "title": "【雑談/ASMR】明日の21時から3Dお披露目です～前日の白雪巴の様子～【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-24T12:47:13Z",
+  "duration": "PT29M51S",
+  "durationSec": 1791,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5RevVT_N1fQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:28:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "音量確認・マイク比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 399,
+        "label": "3Dお披露目前の心境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 461,
+        "label": "本番前の緊張と失敗の想像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 602,
+        "label": "失敗への備えと受け入れてほしい気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 745,
+        "label": "明日の入り時間と初配信との比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 835,
+        "label": "お披露目前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 939,
+        "label": "心音で伝わる本番前の緊張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1107,
+        "label": "3Dお披露目を迎える寂しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1196,
+        "label": "記録に残す意味と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1252,
+        "label": "明日をみんなで盛り上げる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1348,
+        "label": "お披露目の大まかな進行表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1395,
+        "label": "スーパーチャットの演出紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "お披露目前夜の期待と心境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1590,
+        "label": "覚悟を決めて本番へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1660,
+        "label": "応援への感謝とアーカイブ視聴者へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1716,
+        "label": "最後まで見届けてほしい",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

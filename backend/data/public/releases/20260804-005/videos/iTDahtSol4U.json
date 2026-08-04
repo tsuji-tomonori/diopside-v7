@@ -1,0 +1,150 @@
+{
+  "videoId": "iTDahtSol4U",
+  "title": "＃59【崩壊：スターレイル】オンパロス編、最終回。一緒に、最後の終止符を打とう！【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-03-05T19:50:10Z",
+  "duration": "PT6H32M31S",
+  "durationSec": 23551,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iTDahtSol4U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T00:34:59+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 210,
+        "label": "痕跡をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1906,
+        "label": "周辺を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3064,
+        "label": "次の試練へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5203,
+        "label": "仕掛けの先へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6475,
+        "label": "最終地点への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7892,
+        "label": "最終地点を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10039,
+        "label": "局面が切り替わる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10722,
+        "label": "新たな手順を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12301,
+        "label": "力を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12969,
+        "label": "最後の準備を整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13803,
+        "label": "次の局面へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14344,
+        "label": "列車内を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14978,
+        "label": "各地の様子をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16102,
+        "label": "物語を見届ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17497,
+        "label": "次の場面を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18771,
+        "label": "連続する場面をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20162,
+        "label": "長い語りを見届ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21101,
+        "label": "続く場面を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21584,
+        "label": "オンパロス編を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21901,
+        "label": "今後の配信方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22333,
+        "label": "物語全体を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22863,
+        "label": "スーパーチャットお礼・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "jtT_vgg6VMQ",
+  "title": "【８番出口】”異変”を見つけたらすぐに引き返せ――‥って見つけられなかったらどうなｒ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-04T14:36:09Z",
+  "duration": "PT1H28M48S",
+  "durationSec": 5328,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jtT_vgg6VMQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・『8番出口』説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 176,
+        "label": "チュートリアル・異変ルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 409,
+        "label": "最初の異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 733,
+        "label": "通路の基準を覚える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1166,
+        "label": "異変を見抜いて進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1564,
+        "label": "引き返し判断で出口8を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1898,
+        "label": "2回目の探索と各所の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2189,
+        "label": "出口8への最終区間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2328,
+        "label": "全異変回収へ再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2824,
+        "label": "怖い異変を見つけて再点検",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3383,
+        "label": "残りの異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3785,
+        "label": "2周目の見直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4191,
+        "label": "終盤の異変を総点検",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4641,
+        "label": "最終確認とラストラン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4680,
+        "label": "振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

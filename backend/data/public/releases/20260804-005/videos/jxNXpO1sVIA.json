@@ -1,0 +1,125 @@
+{
+  "videoId": "jxNXpO1sVIA",
+  "title": "【スプラトゥーン2】にじスプラ大会チームE。始動。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-07T15:55:39Z",
+  "duration": "PT1H34M12S",
+  "durationSec": 5652,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jxNXpO1sVIA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・メンバー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 474,
+        "label": "大会説明・試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 728,
+        "label": "最初の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1498,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1609,
+        "label": "練習試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "試合後の相談・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2840,
+        "label": "新しい練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3318,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3408,
+        "label": "連携を試す練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3703,
+        "label": "振り返り・ステージ変更の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3940,
+        "label": "エリアの練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4263,
+        "label": "試合後の振り返り・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4476,
+        "label": "ヤグラの練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4677,
+        "label": "試合後の振り返り・チーム名相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4801,
+        "label": "ヤグラ周辺の連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5116,
+        "label": "試合後の総括・最後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5209,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5552,
+        "label": "試合後の会議・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

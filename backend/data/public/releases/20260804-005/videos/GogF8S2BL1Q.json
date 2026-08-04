@@ -1,0 +1,115 @@
+{
+  "videoId": "GogF8S2BL1Q",
+  "title": "【APEX】#APEX部2434キルリレー とにかく回せ！！何度でも死に戻ってやる【#フルートイトイ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-09T08:26:40Z",
+  "duration": "PT2H52M37S",
+  "durationSec": 10357,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GogF8S2BL1Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:01:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・キルリレーの方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 286,
+        "label": "初戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1483,
+        "label": "2試合目へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2233,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2379,
+        "label": "3対1ルールを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2838,
+        "label": "ホットポイントで試合を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "拳でのキルに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5102,
+        "label": "操作を確認して次の試合へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6007,
+        "label": "キルリレー参加を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "新しい試合を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7300,
+        "label": "区切りと次の挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7479,
+        "label": "拳での挑戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8091,
+        "label": "再装備して終盤戦へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9091,
+        "label": "最後の試合に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9474,
+        "label": "終盤の降下と交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10179,
+        "label": "配信の振り返り・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "videoId": "UJEbskShP-Y",
+  "title": "【#103 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-09-26T03:00:09Z",
+  "duration": "PT14M27S",
+  "durationSec": 867,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UJEbskShP-Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:18:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介・夏季担当の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 122,
+        "label": "近況報告・登録者30万人への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 266,
+        "label": "ポケモンユナイト大会とゲームの魅力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 425,
+        "label": "初3Dコラボ・ホラーゲーム体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 499,
+        "label": "30万人記念アイコン配布企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 548,
+        "label": "リスナー投稿①・ゲスト回の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 679,
+        "label": "リスナー投稿②・担当3か月を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 764,
+        "label": "友人との交流・番組エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

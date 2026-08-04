@@ -1,0 +1,120 @@
+{
+  "videoId": "n8fVm99CwWU",
+  "title": "【Among Us コラボ】#Niji_AmongUs 突発参加でぶちかます【シェリン/にじさんじ】",
+  "publishedAt": "2020-11-18T13:51:43Z",
+  "duration": "PT2H26M53S",
+  "durationSec": 8813,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/n8fVm99CwWU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:36:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 803,
+        "label": "第1ゲーム：開始と序盤の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1593,
+        "label": "第1ゲーム：会議とアリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2391,
+        "label": "第1ゲーム：行動経路をめぐる議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3298,
+        "label": "第1ゲーム：終盤・リザルト確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3630,
+        "label": "第2ゲーム：開始と初回会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "第2ゲーム：行動経路と設定確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4350,
+        "label": "第2ゲーム：中盤から終盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5204,
+        "label": "第2ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5395,
+        "label": "第3ゲーム：開始と初回会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6004,
+        "label": "第3ゲーム：探索と長い会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6869,
+        "label": "第3ゲーム：終盤の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7241,
+        "label": "第4ゲーム：開始と序盤の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7644,
+        "label": "第4ゲーム：停電後の議論と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8151,
+        "label": "第4ゲーム：終盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8600,
+        "label": "プレイ後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8683,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

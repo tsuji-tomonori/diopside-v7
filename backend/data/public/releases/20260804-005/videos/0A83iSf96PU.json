@@ -1,0 +1,350 @@
+{
+  "videoId": "0A83iSf96PU",
+  "title": "【#カラオケへいこう】懐かしのボカロ曲をみんなでカラオケ♪♪♪【にじさんじ】",
+  "publishedAt": "2023-10-15T13:18:19Z",
+  "duration": "PT3H56M",
+  "durationSec": 14160,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0A83iSf96PU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:28:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・参加者紹介と選曲ルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 624,
+        "label": "セツナトリップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1134,
+        "label": "如月アテンション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1398,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1535,
+        "label": "からくりピエロ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1894,
+        "label": "歌唱後の感想と指名合戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2052,
+        "label": "え？あぁ、そう。",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2309,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2493,
+        "label": "結ンデ開イテ羅刹ト骸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2755,
+        "label": "歌唱後の感想と終盤選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2868,
+        "label": "曖昧劣情lover",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3091,
+        "label": "歌唱後の感想と2周目の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3273,
+        "label": "Dear",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3529,
+        "label": "歌唱後の感想と連続歌唱の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3821,
+        "label": "裏表ラバーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4013,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4117,
+        "label": "ローリンガール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4322,
+        "label": "歌唱後の感想と次の指名",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4400,
+        "label": "恋愛裁判",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4648,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4781,
+        "label": "聖槍爆裂ボーイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4992,
+        "label": "歌唱後の感想と世代トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5300,
+        "label": "六兆年と一夜物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5471,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5592,
+        "label": "GALLOWS BELL",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5806,
+        "label": "歌唱後の感想と中盤の折り返し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6050,
+        "label": "ハッピーシンセサイザ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6326,
+        "label": "デュエットの感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6437,
+        "label": "神のまにまに",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6689,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6943,
+        "label": "こちら、幸福安心委員会です。",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7240,
+        "label": "歌唱後の感想と休憩相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7353,
+        "label": "星屑ユートピア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7628,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7758,
+        "label": "カンタレラ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7936,
+        "label": "歌唱後の感想と4周目の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8121,
+        "label": "メグメグ☆ファイアーエンドレスナイト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8359,
+        "label": "休憩・ラジオ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8862,
+        "label": "SPiCa -ReACT-",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9164,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9294,
+        "label": "Hope",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9541,
+        "label": "歌唱後の感想と5周目の曲順",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9690,
+        "label": "アイロニ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9974,
+        "label": "歌唱後の感想とデュエット選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10097,
+        "label": "マトリョシカ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10293,
+        "label": "デュエット後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10397,
+        "label": "白い雪のプリンセスは",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10666,
+        "label": "歌唱後の感想と次の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10843,
+        "label": "リンネ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11112,
+        "label": "歌唱後の感想と残り曲の選曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11196,
+        "label": "恋愛疾患",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11440,
+        "label": "歌唱後の感想と残り曲の順序相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11682,
+        "label": "紅一葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11952,
+        "label": "歌唱後の感想と最後の曲の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12014,
+        "label": "ビバハピ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12242,
+        "label": "盛り上がりの感想と最後の2曲の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12334,
+        "label": "Soundless Voice",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12656,
+        "label": "歌唱後の感想と最後のデュエット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12752,
+        "label": "Proof of Life",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13082,
+        "label": "全員の感想・懐かしのボカロ曲を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13755,
+        "label": "最後の全員歌唱に向けた告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13843,
+        "label": "千本桜・全員歌唱",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

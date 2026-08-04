@@ -1,0 +1,125 @@
+{
+  "videoId": "DsEJMR2PxdQ",
+  "title": "【#にじ女あもあす 】インポスターの時の胃痛やばいよね【北小路ヒスイ/にじさんじ】",
+  "publishedAt": "2023-06-04T14:47:26Z",
+  "duration": "PT2H31M43S",
+  "durationSec": 9103,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DsEJMR2PxdQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:40:44Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 514,
+        "label": "役職・マップ設定の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 648,
+        "label": "第1ゲーム開始・初回会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1248,
+        "label": "第1ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1511,
+        "label": "第2ゲームの設定・開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1939,
+        "label": "第2ゲーム後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "第3ゲームの設定・開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2791,
+        "label": "第3ゲームの会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3441,
+        "label": "第3ゲーム後の振り返り・第4ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3920,
+        "label": "第4ゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4237,
+        "label": "第4ゲームの会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5112,
+        "label": "第4ゲーム後の振り返り・第5ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5403,
+        "label": "第5ゲーム開始・会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6034,
+        "label": "第5ゲーム後の振り返り・第6ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6445,
+        "label": "第6ゲームの議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7784,
+        "label": "第6ゲーム後半戦・議論",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8427,
+        "label": "第6ゲーム終盤の議論・投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8918,
+        "label": "ゲーム終了後の告知・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

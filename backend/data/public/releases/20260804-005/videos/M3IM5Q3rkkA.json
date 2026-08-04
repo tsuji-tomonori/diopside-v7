@@ -1,0 +1,120 @@
+{
+  "videoId": "M3IM5Q3rkkA",
+  "title": "【雑談】ワクチン3回目接種明け雑談。近況報告など！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-16T14:56:22Z",
+  "duration": "PT2H39M19S",
+  "durationSec": 9559,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M3IM5Q3rkkA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ワクチン接種後の近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 445,
+        "label": "ワクチン接種の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1220,
+        "label": "幼少期から続く注射への苦手意識",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1889,
+        "label": "ワクチン後の回復とDbDモバイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2361,
+        "label": "雑談サムネイルの作り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2735,
+        "label": "最近見た動画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3422,
+        "label": "Mr.Childrenのライブを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4114,
+        "label": "ライブから考えた仕事観・休みの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4486,
+        "label": "今後の配信予定とスタイル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5602,
+        "label": "Cパート・最近読んだ漫画と体調の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5960,
+        "label": "スーパーチャット読み・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6302,
+        "label": "ワクチンの反応と献血の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6786,
+        "label": "視聴者への感謝と引っ越しの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7430,
+        "label": "ワクチン後の体調を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7711,
+        "label": "ゲーム配信の進め方と自分のスタイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8236,
+        "label": "視聴者への感謝と楽しめる配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9081,
+        "label": "記念商品と無理をしない活動の続け方",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "wMwCMQ_0eWo",
+  "title": "#8『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-17T09:11:14Z",
+  "duration": "PT3H51M32S",
+  "durationSec": 13892,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wMwCMQ_0eWo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T00:24:46.647Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 628,
+        "label": "最初の進行を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1283,
+        "label": "一か月前の場面へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2471,
+        "label": "亀島へ上陸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2625,
+        "label": "別の進行を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3070,
+        "label": "北側の浜で接触",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4117,
+        "label": "大橋周辺を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5072,
+        "label": "亀島で聞き込み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6338,
+        "label": "持ち物をめぐる交渉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6589,
+        "label": "進行を再検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7293,
+        "label": "交渉を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7973,
+        "label": "記憶資料を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8875,
+        "label": "別の選択肢を検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10206,
+        "label": "二つの調査班が合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10933,
+        "label": "情報交換を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12169,
+        "label": "過去の記憶資料を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12647,
+        "label": "背景資料と次の作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13528,
+        "label": "今回の振り返り・次回案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13717,
+        "label": "スーパーチャットお礼・お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "yOslWC1ufZE",
+  "title": "【スプラ３】お姉さんとぬりぬり🧡❤💜スプラ【＃フルトイ】【にじさんじ】",
+  "publishedAt": "2022-09-16T14:57:23Z",
+  "duration": "PT1H27M29S",
+  "durationSec": 5249,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yOslWC1ufZE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "自己紹介と配信導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 185,
+        "label": "公式グッズの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 285,
+        "label": "雑談とスプラ3の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 530,
+        "label": "スプラ3のゲームプレイ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 612,
+        "label": "音声・ゲーム音の調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 824,
+        "label": "音声調整後のゲームプレイと配信環境の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1283,
+        "label": "ゲームプレイと武器・操作談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1818,
+        "label": "ボムを使ったゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2006,
+        "label": "平家物語の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2162,
+        "label": "接戦のゲームプレイと装備談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2810,
+        "label": "グッズと日常の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3109,
+        "label": "機材トラブルと武器調整の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3606,
+        "label": "ゲームプレイとローラー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3844,
+        "label": "マップ確認とゲーム中のやり取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4192,
+        "label": "質問を交えたゲームプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4443,
+        "label": "終盤のゲームプレイと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5111,
+        "label": "告知とエンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "auvxKvXd6SI",
+  "title": "【 30万人記念 】30キャラから声真似凸がくるまでやめられない配信【 竜胆尊 / にじさんじ 】",
+  "publishedAt": "2020-11-13T16:26:49Z",
+  "duration": "PT3H7M11S",
+  "durationSec": 11231,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/auvxKvXd6SI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:24:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・声真似凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 692,
+        "label": "前半の声真似凸・キャラ当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3214,
+        "label": "残り枠の確認と声真似凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3884,
+        "label": "しんちゃん・ポケモンの声真似凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4677,
+        "label": "追加の声真似と次の凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5212,
+        "label": "深夜の凸待ち・キャラ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6339,
+        "label": "30キャラ達成の振り返り・追加凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6906,
+        "label": "追加凸・キャラ声の披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7828,
+        "label": "声のレパートリーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8254,
+        "label": "冨岡義勇の声真似・役柄会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "しんちゃん系の相談・声真似案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9438,
+        "label": "後半の声真似凸・作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10195,
+        "label": "終盤の凸待ち・大蛇丸の声真似",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10474,
+        "label": "凸数の振り返り・ポケモンクイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10627,
+        "label": "終盤の声真似凸・キャラ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11107,
+        "label": "企画終了・感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

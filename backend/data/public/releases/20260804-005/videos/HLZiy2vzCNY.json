@@ -1,0 +1,110 @@
+{
+  "videoId": "HLZiy2vzCNY",
+  "title": "【お悩み相談 #人生編01】生きる意味/苦手への対処/コミュ障etc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-01T14:34:09Z",
+  "duration": "PT1H26M26S",
+  "durationSec": 5186,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HLZiy2vzCNY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:29:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・人生相談の趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 373,
+        "label": "生きる意味を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1055,
+        "label": "必要とされているか不安なとき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1619,
+        "label": "嫌いなものとの向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2377,
+        "label": "頼み事が苦手でイライラするとき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2859,
+        "label": "人見知り・コミュ障への向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3419,
+        "label": "社会人のコミュニケーションと仕事選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3587,
+        "label": "借金を止めて返すために",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4042,
+        "label": "借金の実体験と立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4258,
+        "label": "人生相談を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4382,
+        "label": "次回の学生編と配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4460,
+        "label": "小学6年生漢字とクイズの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4559,
+        "label": "スパチャ読み・お金の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4978,
+        "label": "車を持つかレンタカーか",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "配信の締めくくり・最後のスパチャ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

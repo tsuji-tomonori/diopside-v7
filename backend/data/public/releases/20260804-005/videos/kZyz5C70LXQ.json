@@ -1,0 +1,90 @@
+{
+  "videoId": "kZyz5C70LXQ",
+  "title": "【8/31(木)号】夏休み特別企画『なにヌーン』2023【 #なにヌーン 】",
+  "publishedAt": "2023-08-31T04:23:27Z",
+  "duration": "PT1H17M46S",
+  "durationSec": 4666,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kZyz5C70LXQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:51:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 244,
+        "label": "乾杯後の飲み会トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 637,
+        "label": "トマトの好き嫌い談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1093,
+        "label": "りんご飴・たい焼きの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1412,
+        "label": "りくろーおじさんのチーズケーキ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1834,
+        "label": "神田のおつまみクッキング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2146,
+        "label": "企画初期案と飲み会コールの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2444,
+        "label": "目・肩こりと鍼治療",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3282,
+        "label": "膝・喉と声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3943,
+        "label": "お酒の強さ・飲み方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4439,
+        "label": "締め・出演者トーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

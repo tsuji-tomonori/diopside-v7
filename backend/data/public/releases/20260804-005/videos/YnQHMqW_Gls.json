@@ -1,0 +1,85 @@
+{
+  "videoId": "YnQHMqW_Gls",
+  "title": "【#102 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-09-19T03:00:11Z",
+  "duration": "PT14M31S",
+  "durationSec": 871,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YnQHMqW_Gls/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:36:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・番組紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 148,
+        "label": "ゲスト登場・お便り企画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 197,
+        "label": "最初のお便り・プロフィールの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 252,
+        "label": "趣味・好きな作品のプロフィール談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 320,
+        "label": "誕生日と冬のイメージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 383,
+        "label": "好きな食べ物・苦手な食感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 541,
+        "label": "どんぐりを食べた話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 641,
+        "label": "二通目のお便り・お姉さんトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 692,
+        "label": "お姉さんらしさを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 816,
+        "label": "お姉さん談義のまとめ・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

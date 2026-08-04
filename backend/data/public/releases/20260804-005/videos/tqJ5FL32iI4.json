@@ -1,0 +1,155 @@
+{
+  "videoId": "tqJ5FL32iI4",
+  "title": "＃39【崩壊：スターレイル】オンパロス編。いざ！スティコシアへ！死のタイタンは…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-26T17:52:37Z",
+  "duration": "PT4H34M29S",
+  "durationSec": 16469,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tqJ5FL32iI4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:49:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 428,
+        "label": "スティコシアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 931,
+        "label": "死者の領域を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1575,
+        "label": "追憶のルーンと過去の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2760,
+        "label": "亡霊の願いと次の道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3193,
+        "label": "竜骨の王宮跡を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4226,
+        "label": "錬金術師の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5056,
+        "label": "最高塔への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5281,
+        "label": "旅の記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6213,
+        "label": "召喚の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6914,
+        "label": "記憶の中での対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7711,
+        "label": "召喚と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8386,
+        "label": "花の海での対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9411,
+        "label": "民会へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10010,
+        "label": "民会の演説と投票",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11187,
+        "label": "投票後の論戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12293,
+        "label": "花の海と帰還への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13259,
+        "label": "火種をめぐる対話と儀式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14055,
+        "label": "理性の試練",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14622,
+        "label": "星穹列車での診断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15142,
+        "label": "新たな調査が始まる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15576,
+        "label": "オンパロス入口の対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16055,
+        "label": "本編後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16250,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "aE1e7WjL0Mg",
+  "title": "＃６【Ghostwire: Tokyo】幽霊や妖怪がわんさかいる渋谷の街を浄化します【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-20T14:44:04Z",
+  "duration": "PT1H51M44S",
+  "durationSec": 6704,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aE1e7WjL0Mg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 602,
+        "label": "ゲーム再開・地蔵通りを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1346,
+        "label": "小イベントと音声データ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1741,
+        "label": "音声データを手がかりに駅へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1803,
+        "label": "塗り壁のサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2285,
+        "label": "駅へ向かう探索とサブミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "地下鉄車内を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2944,
+        "label": "列車内の戦闘と脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3387,
+        "label": "列車の一件を終えて駅へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3662,
+        "label": "次の怪異を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "赤い服の女をめぐる探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4210,
+        "label": "手がかり確認と能力強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4381,
+        "label": "目的地へ移動・天狗を活用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4500,
+        "label": "幽霊との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4625,
+        "label": "高所を進みながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4981,
+        "label": "手がかり確認と寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5281,
+        "label": "行方不明事件の手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5462,
+        "label": "駅の手がかりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5701,
+        "label": "主要ミッションと物語の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6061,
+        "label": "ゲーム終了・次回の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6182,
+        "label": "ゲーム本編終了・挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6244,
+        "label": "スーパーチャット読みと配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6666,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

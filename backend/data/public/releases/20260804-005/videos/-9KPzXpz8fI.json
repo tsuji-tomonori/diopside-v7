@@ -1,0 +1,125 @@
+{
+  "videoId": "-9KPzXpz8fI",
+  "title": "【第五人格】脱下手プを目指して一から始めるアイデンティティ【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-30T09:26:46Z",
+  "duration": "PT1H44M47S",
+  "durationSec": 6287,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-9KPzXpz8fI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲームの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 630,
+        "label": "チュートリアルを再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 849,
+        "label": "人格とスキルの基本",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1199,
+        "label": "初めてのサバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1632,
+        "label": "初戦後の振り返り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1754,
+        "label": "2戦目のサバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2505,
+        "label": "実戦後の振り返り・キャラクター選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2702,
+        "label": "3戦目のサバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3152,
+        "label": "試合後の振り返り・トラブル対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3581,
+        "label": "次のキャラクター戦略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3690,
+        "label": "写真家とのサバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4405,
+        "label": "救助タイミング・キャラクター解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4957,
+        "label": "呪術師でサバイバー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5095,
+        "label": "チェイスを練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5443,
+        "label": "合図とゲートの使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5690,
+        "label": "サバイバー編からハンターへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5870,
+        "label": "初めてのハンター戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6187,
+        "label": "配信終了・次回の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "videoId": "cgVj1iaBAFw",
+  "title": "【雑談】温泉旅行へ行かせていただきました【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-15T15:38:10Z",
+  "duration": "PT2H9M",
+  "durationSec": 7740,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cgVj1iaBAFw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・温泉旅行の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 558,
+        "label": "衣装・ボイス関連のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 772,
+        "label": "お土産紹介・旅行の概要",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1016,
+        "label": "出発から蕎麦まで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1333,
+        "label": "家族の話と蕎麦の食事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1820,
+        "label": "温泉宿に到着・周辺散策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2105,
+        "label": "射的で遊ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2390,
+        "label": "貸切風呂をめぐる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2739,
+        "label": "懐石料理を楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3222,
+        "label": "エステとモノマネ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3672,
+        "label": "深夜の温泉と就寝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3826,
+        "label": "挽きたてコーヒーの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4136,
+        "label": "深夜の温泉エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4391,
+        "label": "朝風呂と帰り支度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4718,
+        "label": "豪華な朝ごはん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4966,
+        "label": "旅行の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5056,
+        "label": "帰り道の露天風呂と景色",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5421,
+        "label": "温泉街の食べ歩き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5697,
+        "label": "混浴についての雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5825,
+        "label": "服装とお土産、旅の帰り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6062,
+        "label": "旅行のまとめ・季節の注意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6148,
+        "label": "今後の予定を告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "スパチャ読み・締めの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7668,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

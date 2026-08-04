@@ -1,0 +1,190 @@
+{
+  "videoId": "G37jlv9U54A",
+  "title": "【スマブラSP】2回目スマブラ。大会前日練習【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-23T13:04:28Z",
+  "duration": "PT2H43M20S",
+  "durationSec": 9800,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/G37jlv9U54A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:20:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前日の練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 267,
+        "label": "ピットで最初のCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 401,
+        "label": "音声・OBS設定の調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 487,
+        "label": "アイテムありCPU戦と技の試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1008,
+        "label": "試合後の反省・復帰技の練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1172,
+        "label": "トレーニングモードとリンク系の技",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1508,
+        "label": "リンク系・ロボット系とのCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1791,
+        "label": "アイテム対策と立ち回り相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1878,
+        "label": "ピカチュウの基本操作を練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2250,
+        "label": "空中攻撃・つかみを実戦で確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2412,
+        "label": "CPU戦と挑戦者・キャラ解放の流れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3453,
+        "label": "成長の振り返りと3勝ルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3581,
+        "label": "CPU戦を続けてレベルアップを目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4306,
+        "label": "1時間の成長・必殺技とアイテム確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4517,
+        "label": "ヤングリンクなど挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "ピーチ獲得を目指す方針・キャラ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4886,
+        "label": "CPU戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5158,
+        "label": "高レベルCPU戦・キャラクター集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5573,
+        "label": "遠距離攻撃・アシストと混戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "ドンキー系CPU戦・技の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6499,
+        "label": "キャラクター解放とレベル8への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7128,
+        "label": "プレイ感の振り返り・次のレベルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7289,
+        "label": "カービィ戦とアイテムの挙動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7838,
+        "label": "終盤のCPU戦・レベル7前後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8405,
+        "label": "CPUレベル8への挑戦・ソニック戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8754,
+        "label": "CPU戦と成長実感・ドンキー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9003,
+        "label": "距離を取る作戦で終盤のCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9233,
+        "label": "大会告知・最後の対戦選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9435,
+        "label": "翌日の大会展望と視聴者への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9601,
+        "label": "大会に向けた立ち回り相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9697,
+        "label": "レベル9練習方針・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
