@@ -1,0 +1,100 @@
+{
+  "videoId": "xGHt1kin_Ws",
+  "title": "【#にじさんじスマブラ杯】ゼルダしか勝たんッッッッ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-09T04:36:30Z",
+  "duration": "PT45M21S",
+  "durationSec": 2721,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xGHt1kin_Ws/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T09:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会配信を見ながら準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 436,
+        "label": "ゼルダの操作を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 666,
+        "label": "大会の進行を見ながら出番待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1391,
+        "label": "対戦前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "チグサさんと作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1675,
+        "label": "スマブラ杯の対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1918,
+        "label": "試合後インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2079,
+        "label": "試合を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2157,
+        "label": "配信の締めと大会の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2210,
+        "label": "応援メッセージと今後の配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "試合の詳細な振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2571,
+        "label": "大会への感謝と印象的な場面の回想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2662,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

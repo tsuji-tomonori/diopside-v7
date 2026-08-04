@@ -1,0 +1,120 @@
+{
+  "videoId": "7nAfjaC4nEs",
+  "title": "【DBD】ついにカスタムが開かれる時代が来ました。ボコします【にじさんじ/エクス・アルビオ】",
+  "publishedAt": "2022-05-26T15:15:31Z",
+  "duration": "PT2H47M17S",
+  "durationSec": 10037,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7nAfjaC4nEs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 214,
+        "label": "ルール確認・初回キラー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 604,
+        "label": "初回カスタムマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1797,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2169,
+        "label": "2試合目・発電機と地下の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "試合後の反応・次の構成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3293,
+        "label": "3試合目・能力を試すチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "試合後の振り返り・パークと機能の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4335,
+        "label": "4試合目・ライト能力で挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "試合後の立ち回り確認・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5686,
+        "label": "5試合目・感染能力と発電機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "リベンジラウンド準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6804,
+        "label": "リベンジラウンド・発電機と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "試合後の振り返り・最終ラウンド準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8360,
+        "label": "最終ラウンド・能力を使ったチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9744,
+        "label": "最終ラウンドの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9901,
+        "label": "感想・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

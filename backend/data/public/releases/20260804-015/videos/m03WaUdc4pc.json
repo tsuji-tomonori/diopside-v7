@@ -1,0 +1,120 @@
+{
+  "videoId": "m03WaUdc4pc",
+  "title": "#3【ピクミン3】ダレモシナセタクナイ完全初見ピクミン【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-20T15:40:54Z",
+  "duration": "PT3H10M45S",
+  "durationSec": 11445,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/m03WaUdc4pc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T17:32:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 499,
+        "label": "前回の進行を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 695,
+        "label": "はじまりの森を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1829,
+        "label": "原生生物への対策と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2318,
+        "label": "青ピクミンを目指して水辺へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2706,
+        "label": "砂浜・水辺を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3908,
+        "label": "ステージ終盤を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4210,
+        "label": "一日終了後の結果確認・休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4801,
+        "label": "次のゲーム区間を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "回収結果と次の進行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6319,
+        "label": "部隊と道順を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7196,
+        "label": "複数キャプテンでルートを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8408,
+        "label": "果実と部隊を確認しながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9601,
+        "label": "通信部品を探して先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10518,
+        "label": "終盤の進行を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10803,
+        "label": "スーパーチャット読み・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11409,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

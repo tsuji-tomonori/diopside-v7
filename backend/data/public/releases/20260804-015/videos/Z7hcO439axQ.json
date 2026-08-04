@@ -1,0 +1,170 @@
+{
+  "videoId": "Z7hcO439axQ",
+  "title": "【Among us】にじさんじで宇宙人狼！みんなで脱出しよう、ね…？#Niji_AmongUs【健屋花那/にじさんじ】",
+  "publishedAt": "2020-11-18T13:40:25Z",
+  "duration": "PT2H27M18S",
+  "durationSec": 8838,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Z7hcO439axQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:16:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 516,
+        "label": "ルール説明・設定確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 800,
+        "label": "1戦目のタスク開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 880,
+        "label": "1戦目の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1285,
+        "label": "タスク再開・次の報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1541,
+        "label": "2戦目の会議と投票",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "報告とルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2614,
+        "label": "緊急会議と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3246,
+        "label": "タスクとサボタージュ対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "リアクター中の報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4204,
+        "label": "次のラウンド・タスク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4655,
+        "label": "報告とアリバイ整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4901,
+        "label": "次のラウンド・会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5303,
+        "label": "投票後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5488,
+        "label": "カフェテリアの報告と議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5678,
+        "label": "タスク再開・次の報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "報告とアリバイ比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "ラウンド後の反応・次の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6813,
+        "label": "投票と次の立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7036,
+        "label": "緊急会議・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7261,
+        "label": "次のラウンドと報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "タスクとアリバイ議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7865,
+        "label": "会議後の反応・次戦の動き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8104,
+        "label": "終盤の報告と最終議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8562,
+        "label": "ゲーム後の反応と感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8708,
+        "label": "参加者に関するお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8754,
+        "label": "お礼とエンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

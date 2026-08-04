@@ -1,0 +1,145 @@
+{
+  "videoId": "2POiIGMaAEM",
+  "title": "【オフコラボ】告知あり！フミともオフコラボで初ホラゲ‥♡【Infliction】【#フミとも/にじさんじ】",
+  "publishedAt": "2023-03-18T14:53:24Z",
+  "duration": "PT2H28M14S",
+  "durationSec": 8894,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2POiIGMaAEM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T10:19:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボとゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 476,
+        "label": "ゲーム開始・家へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1121,
+        "label": "家の探索と手がかり集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1902,
+        "label": "暗証番号を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2243,
+        "label": "2階の探索と最初の怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2697,
+        "label": "隠れる場所と子ども部屋",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3297,
+        "label": "書斎の探索・チケット探しの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3632,
+        "label": "チケットを取りに行く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "事件の再現と新たな目的",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4301,
+        "label": "家族の手がかりを読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4756,
+        "label": "歪んだ家を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "地下室で儀式の条件を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5300,
+        "label": "儀式の材料を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5560,
+        "label": "地下で隠れながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6060,
+        "label": "カメラで痕跡を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6486,
+        "label": "放送と家族の事情",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6976,
+        "label": "印のある扉を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7336,
+        "label": "病院のような世界と扉の謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7900,
+        "label": "扉の順番を試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8200,
+        "label": "骨壺への道と探索の区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8497,
+        "label": "次回の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8654,
+        "label": "ゲームの続きについて・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "videoId": "CaC3Jct4ko4",
+  "title": "【#にじさんじ麻雀杯】大掃除して部屋がピカピカだからきっと牌もピカピカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-07T10:28:13Z",
+  "duration": "PT48M57S",
+  "durationSec": 2937,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CaC3Jct4ko4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対局準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 301,
+        "label": "麻雀杯・最初の卓が開幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1938,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2213,
+        "label": "最初の卓のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2509,
+        "label": "次の卓のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2656,
+        "label": "大会を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2743,
+        "label": "締め・応援への感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2805,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

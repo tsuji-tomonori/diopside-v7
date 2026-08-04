@@ -1,0 +1,150 @@
+{
+  "videoId": "DwNupCMs9sE",
+  "title": "【コラボ】フルパでスプラトゥーン３うれしすぎる！！！【西園寺メアリ / ハニスト】",
+  "publishedAt": "2022-09-14T14:56:48Z",
+  "duration": "PT1H44M51S",
+  "durationSec": 6291,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DwNupCMs9sE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ導入・メンバー紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 247,
+        "label": "ナワバリバトル1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 630,
+        "label": "ナワバリバトル2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 827,
+        "label": "ナワバリバトル3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1085,
+        "label": "ナワバリバトル4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1307,
+        "label": "ガチヤグラ開始・1試合目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1615,
+        "label": "ガチヤグラ2・編成調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1925,
+        "label": "ガチエリア準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2302,
+        "label": "ガチエリア1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2479,
+        "label": "ガチエリア2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2570,
+        "label": "ガチマッチのランク・リベンジ相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2619,
+        "label": "ガチエリア3・試合後トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3050,
+        "label": "ガチエリア4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3308,
+        "label": "ガチヤグラ再開・武器と編成の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3740,
+        "label": "ガチヤグラ3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4455,
+        "label": "ガチヤグラ4・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4817,
+        "label": "再接続・ジムワイパー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5149,
+        "label": "ジムワイパーを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5302,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5381,
+        "label": "コラボトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5467,
+        "label": "ガチヤグラ5・試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5723,
+        "label": "ガチヤグラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6096,
+        "label": "試合後の感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

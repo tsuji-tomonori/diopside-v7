@@ -1,0 +1,115 @@
+{
+  "videoId": "1AAXgsOkjrk",
+  "title": "【スプラトゥーン2】意外に強いらしいチームCの本番前日練習【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-28T16:30:57Z",
+  "duration": "PT57M19S",
+  "durationSec": 3439,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1AAXgsOkjrk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・練習試合の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 150,
+        "label": "チームCの強さと武器を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 367,
+        "label": "対戦準備とステージ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 444,
+        "label": "初戦の練習試合と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 638,
+        "label": "ヤグラの練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 867,
+        "label": "エリア戦と試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1260,
+        "label": "ヤグラで乗る役割を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1664,
+        "label": "連続する練習試合で塗りと前線を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1822,
+        "label": "役割変更後のエリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2016,
+        "label": "試合後の振り返りとヤグラの守り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2194,
+        "label": "ヤグラ戦で裏取りと塗りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2403,
+        "label": "コンベアの試合とマップの作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2607,
+        "label": "エリア戦の進行と前線の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2956,
+        "label": "最後の練習試合でヤグラを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3335,
+        "label": "試合後の感想と参加者へのお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3369,
+        "label": "明日の本番を確認して配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

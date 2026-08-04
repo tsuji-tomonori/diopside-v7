@@ -1,0 +1,110 @@
+{
+  "videoId": "SBRVmeQYa00",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」#3【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-07T15:36:40Z",
+  "duration": "PT1H56M51S",
+  "durationSec": 7011,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SBRVmeQYa00/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:46:44.887837+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Cry of Fear攻略確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 524,
+        "label": "地下室を探索して敵に対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 835,
+        "label": "敵への警戒と道探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1195,
+        "label": "ボス戦に備えて再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1655,
+        "label": "ビデオを探しながらホラー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2146,
+        "label": "戦闘と追跡を切り抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2544,
+        "label": "手掛かりを探して先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3197,
+        "label": "ルートを探して敵に警戒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3708,
+        "label": "敵との戦闘から区画を脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4253,
+        "label": "武器を探して部屋を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4717,
+        "label": "仕掛けと暗証番号の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "武器を使い分けて戦闘を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5683,
+        "label": "敵を避けて仕掛けを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6260,
+        "label": "水場の仕掛けを再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6903,
+        "label": "ゲームを区切って終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

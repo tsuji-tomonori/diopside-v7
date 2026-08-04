@@ -1,0 +1,115 @@
+{
+  "videoId": "3sx6jB3sjoc",
+  "title": "【バイオハザード0】強気ビビりお姉さんのバイオハザード実況#3【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-21T16:24:41Z",
+  "duration": "PT2H18M40S",
+  "durationSec": 8320,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3sx6jB3sjoc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:38:16.604Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・探索再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 571,
+        "label": "ヒル研究記録と毒ガス区域",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1013,
+        "label": "地下研究施設の資料と装備整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "ヒルの扉を開く仕掛けを推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2038,
+        "label": "ガス装置突破と鍵・地図の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2718,
+        "label": "飼育室方面の探索と暗証パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3561,
+        "label": "脱出経路とフックショットの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4372,
+        "label": "危険区域へ進む探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5112,
+        "label": "新施設の探索とアイテム回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5977,
+        "label": "次の区域へ向かう道を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "新区域の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6870,
+        "label": "帰還ルートとビリー救出の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7187,
+        "label": "武器回収の計画と配信の区切り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7507,
+        "label": "弾薬整理とセーブ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7698,
+        "label": "次回方針と帰還ルートの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8154,
+        "label": "次回告知・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

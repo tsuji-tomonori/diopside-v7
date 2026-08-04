@@ -1,0 +1,185 @@
+{
+  "videoId": "iWgMVenA2BI",
+  "title": "【人狼RPG×マイクラ】#にじワイテ ～第二夜～【にじさんじ/ニュイ・ソシエール視点】",
+  "publishedAt": "2020-10-18T13:32:53Z",
+  "duration": "PT2H6M27S",
+  "durationSec": 7587,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iWgMVenA2BI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:49:57.008Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 591,
+        "label": "参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 870,
+        "label": "第1ゲーム開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1189,
+        "label": "第1ゲーム・占いと推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1713,
+        "label": "第1ゲーム・判定を巡る議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2066,
+        "label": "第1ゲーム・襲撃後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2201,
+        "label": "第1ゲーム・探索と作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2582,
+        "label": "第1ゲーム後の整理・次ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2761,
+        "label": "第2ゲーム開始・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3126,
+        "label": "第2ゲーム・夜明けと役職推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3498,
+        "label": "第2ゲーム・夜の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3671,
+        "label": "第2ゲーム・判定を巡る議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3961,
+        "label": "第2ゲーム・戦闘後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4066,
+        "label": "休憩・接続調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4204,
+        "label": "第2ゲーム・探索とアイテム集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4577,
+        "label": "第2ゲーム・昼の判定共有",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4816,
+        "label": "第2ゲーム・追跡と作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "第2ゲーム・アイテム効果と役職整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5308,
+        "label": "第2ゲーム・判定発表と次ゲーム告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5510,
+        "label": "最終ゲーム準備・開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "最終ゲーム・最初の朝と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5989,
+        "label": "最終ゲーム・昼の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "最終ゲーム・占いと同行者決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6479,
+        "label": "最終ゲーム・終盤の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6673,
+        "label": "最終ゲーム・最終局面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6958,
+        "label": "最終ゲーム・逃走戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7189,
+        "label": "結果待ち・決勝進出者発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7303,
+        "label": "決勝配信の案内・締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7381,
+        "label": "アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "告知・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

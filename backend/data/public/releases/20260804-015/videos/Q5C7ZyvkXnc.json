@@ -1,0 +1,175 @@
+{
+  "videoId": "Q5C7ZyvkXnc",
+  "title": "【#マリカにじさんじ杯】Cチーム神速RTA団体戦わっしょい【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-18T10:09:17Z",
+  "duration": "PT2H37M22S",
+  "durationSec": 9442,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Q5C7ZyvkXnc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Cチーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 276,
+        "label": "作戦確認・レース準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 780,
+        "label": "ルーム入室トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1045,
+        "label": "再入室・レース開始待ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1210,
+        "label": "第1レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2569,
+        "label": "第2レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "レース後の振り返り・次戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3468,
+        "label": "第3レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4310,
+        "label": "休憩・大会進行の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4816,
+        "label": "次の試合準備・ルーム入室",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5151,
+        "label": "第4レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6125,
+        "label": "次のレース説明・実況役確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6226,
+        "label": "第5レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6413,
+        "label": "レース後の作戦振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6523,
+        "label": "第6レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6795,
+        "label": "走法・グライダー操作の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7162,
+        "label": "第7レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7257,
+        "label": "レース後の作戦確認・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "第8レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7688,
+        "label": "次のコース選択・ロビー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7938,
+        "label": "第9レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8107,
+        "label": "レース後の順位確認・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8250,
+        "label": "第10レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8491,
+        "label": "最終レース前の作戦・第11レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8760,
+        "label": "レース後の参加者トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8875,
+        "label": "大会振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9054,
+        "label": "締めの挨拶・感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9147,
+        "label": "大会案内・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

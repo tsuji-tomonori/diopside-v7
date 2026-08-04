@@ -1,0 +1,180 @@
+{
+  "videoId": "n954L-akMS8",
+  "title": "【SILENT HILL f #4】2周目-後半- 雛子、これ大丈夫そう？※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-25T19:45:33Z",
+  "duration": "PT6H29M52S",
+  "durationSec": 23392,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/n954L-akMS8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T13:20:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面・配信開始前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 92,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 837,
+        "label": "町外れの脇道と地蔵を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "祠を探して周辺を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1816,
+        "label": "持ち物を整えて探索再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2734,
+        "label": "神社にまつわる伝承を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3638,
+        "label": "脇道を巡って探索物を回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4494,
+        "label": "怪異を退けながら奥へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5488,
+        "label": "補給と未探索地点への引き返し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "風鈴と水場の仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "休憩後の準備と物語の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8013,
+        "label": "供物の手がかりと装備整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8911,
+        "label": "古い稲荷を訪ねて周辺探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9904,
+        "label": "新しい目標を確認して移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10737,
+        "label": "霊力を宿す刀と戦い方の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11714,
+        "label": "町を抜けてひなこの家へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12515,
+        "label": "神社と土地に残る研究記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13579,
+        "label": "相棒との対話と選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14454,
+        "label": "両親の部屋で薬の手がかりを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15216,
+        "label": "家族の記憶と姉妹の関係をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16190,
+        "label": "装備を整えて次の区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17102,
+        "label": "白い鳥と黒い鳥の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18015,
+        "label": "連戦区間を突破する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18841,
+        "label": "探索場面を振り返りながら前進",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19731,
+        "label": "終盤の戦いと心象世界",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20690,
+        "label": "対話から選択の意味を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21545,
+        "label": "作品が描く恐怖と家族観を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22410,
+        "label": "資料一覧と未回収項目を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23025,
+        "label": "感想・次回告知・配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

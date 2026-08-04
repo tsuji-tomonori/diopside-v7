@@ -1,0 +1,140 @@
+{
+  "videoId": "wsbhHFRJSkk",
+  "title": "【最恐 -青鬼-】あの青鬼が3Dホラーになったってぇ⁉ ビビらん＾＾【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-14T17:42:27Z",
+  "duration": "PT6H17M35S",
+  "durationSec": 22655,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wsbhHFRJSkk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T15:31:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 478,
+        "label": "屋敷探索と最初のチェイス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1576,
+        "label": "反転部屋とテレビの仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2819,
+        "label": "電話を探して屋敷を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "時計・金庫の謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4889,
+        "label": "手紙と花の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6092,
+        "label": "地下エリアの攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6863,
+        "label": "第一章の記録確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7509,
+        "label": "第二章開始・屋敷探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "テレビの仕掛けと鍵探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9456,
+        "label": "家族の記録と電話の謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10765,
+        "label": "クマを使う仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11966,
+        "label": "救出の手掛かりと研究記録",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12688,
+        "label": "最終章の探索と脱出ギミック",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15142,
+        "label": "研究記録と出口への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16831,
+        "label": "記録映像・二周目開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18486,
+        "label": "二周目の再探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19997,
+        "label": "第二章の再走",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20606,
+        "label": "地下区画の攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21632,
+        "label": "終盤の追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22165,
+        "label": "ゲーム後の反応・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "videoId": "SGb6h-EOuKg",
+  "title": "【#にじさんじ打鍵王】タイピングが速いのは誰だ！？ にじさんじ打鍵王抽選会【黛 灰 / にじさんじ】",
+  "publishedAt": "2020-03-29T13:28:50Z",
+  "duration": "PT55M0S",
+  "durationSec": 3300,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/SGb6h-EOuKg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T03:51:36.614605+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T03:50:40.791699+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 260,
+        "label": "大会について ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 540,
+        "label": "大会参加者発表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1264,
+        "label": "大会参加者発表（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2220,
+        "label": "抽選開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2955,
+        "label": "最終結果",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "bUbPZUQMlSo",
+  "title": "【#白雪巴新衣装】女王の本気、魅せてあげる♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-08-26T13:05:26Z",
+  "duration": "PT53M38S",
+  "durationSec": 3218,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bUbPZUQMlSo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:51:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新衣装の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 624,
+        "label": "新衣装を段階的にお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 903,
+        "label": "ボンデージ衣装の全体紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1066,
+        "label": "髪型差分の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1230,
+        "label": "鞭・メイク・ネイルの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1694,
+        "label": "追加衣装の予告・変身準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1805,
+        "label": "サキュバス姿をお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1922,
+        "label": "サキュバス衣装の差分紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2226,
+        "label": "新衣装の着用方針を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2410,
+        "label": "歌ってみたの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2522,
+        "label": "衣装ができた経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2698,
+        "label": "差分の組み合わせ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2870,
+        "label": "感謝・最後のポーズと告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3046,
+        "label": "締めの演技と終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

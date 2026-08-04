@@ -1,0 +1,110 @@
+{
+  "videoId": "UupLdNmMEFo",
+  "title": "【#白雪新衣装】新衣装・ニューヘアーの秋【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-10-10T14:03:02Z",
+  "duration": "PT1H48M1S",
+  "durationSec": 6481,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UupLdNmMEFo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T16:26:18.479716Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新衣装お披露目の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 437,
+        "label": "秋服の全身と衣装ディテール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 909,
+        "label": "上着とウルフカット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1178,
+        "label": "ショートカットの披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1420,
+        "label": "ボブ系髪型と全身比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1845,
+        "label": "追加差分と小物の組み合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2244,
+        "label": "別衣装の髪型バリエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "メッシュ差分と軍服への切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2815,
+        "label": "軍服ショートと披露のまとめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3244,
+        "label": "スパチャ読み・新衣装の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4023,
+        "label": "スパチャ読み・衣装と髪型の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4704,
+        "label": "後半の髪型・衣装バリエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5487,
+        "label": "軍服姿でスパチャ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6245,
+        "label": "スパチャ読みの締め・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6351,
+        "label": "今後の予定・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

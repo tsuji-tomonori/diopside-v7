@@ -1,0 +1,75 @@
+{
+  "videoId": "ewtbVStzFUc",
+  "title": "マクドナルド新作バーガー「トロ旨タルタル&デミグラコロ」を食べてみる🍔💜【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-22T10:16:49Z",
+  "duration": "PT1H8M22S",
+  "durationSec": 4102,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ewtbVStzFUc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T06:09:40+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今日のメニュー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 260,
+        "label": "ナゲットと限定ソースを実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 449,
+        "label": "トロ旨タルタル＆デミグラコロを実食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1159,
+        "label": "ポテトをつまみながら食の好み談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2237,
+        "label": "クリスマスの予定と理想の過ごし方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3095,
+        "label": "食レポの振り返り・ソースとポテト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3773,
+        "label": "振り返り・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3916,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

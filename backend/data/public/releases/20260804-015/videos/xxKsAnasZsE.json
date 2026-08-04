@@ -1,0 +1,130 @@
+{
+  "videoId": "xxKsAnasZsE",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-04T16:43:05Z",
+  "duration": "PT1H8M2S",
+  "durationSec": 4082,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xxKsAnasZsE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:52:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始と音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 389,
+        "label": "ゲーム開始準備と初期操作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 702,
+        "label": "ゾンビと主人公を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 863,
+        "label": "操作チュートリアルで苦戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "しゃがみとジャンプで障害を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1352,
+        "label": "ナイフを入手して武器操作を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1614,
+        "label": "操作トラブルと音声設定を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1811,
+        "label": "敵への対処を学んで慎重に進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1995,
+        "label": "屋外を探索して進路を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2215,
+        "label": "行き止まりから壁伝いに探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2438,
+        "label": "雑談を挟んでメモと入力手順を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2832,
+        "label": "英字パスワードの順番を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "終了前の確認とゲーム続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3130,
+        "label": "セーブ地点と出口を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "パソコンの部屋で保存を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3606,
+        "label": "鍵付き扉とコードを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3804,
+        "label": "終盤のルートを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3939,
+        "label": "今回の攻略をここで区切る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3986,
+        "label": "終了挨拶と次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "5n7_IiJmY2Q",
+  "title": "【#人狼怪画 】イラストの作者を当てるゲーム！！！【にじさんじ】",
+  "publishedAt": "2020-09-05T06:16:22Z",
+  "duration": "PT1H8M45S",
+  "durationSec": 4125,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5n7_IiJmY2Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:56:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 381,
+        "label": "1戦目：好きなスイーツを議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 748,
+        "label": "1戦目：投票と推理の応酬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1073,
+        "label": "1戦目の判定・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1201,
+        "label": "2戦目：好きなスポーツを議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1563,
+        "label": "2戦目：投票と推理の応酬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "2戦目の判定・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2106,
+        "label": "3戦目：イラストの特徴を議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2506,
+        "label": "3戦目：投票と候補の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2897,
+        "label": "3戦目の判定・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3018,
+        "label": "4戦目：怖いもののイラストを議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3374,
+        "label": "4戦目：投票と候補の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3688,
+        "label": "4戦目の判定・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3848,
+        "label": "5戦目：最後のイラストを推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4025,
+        "label": "企画の感想・締めのトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4075,
+        "label": "告知・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

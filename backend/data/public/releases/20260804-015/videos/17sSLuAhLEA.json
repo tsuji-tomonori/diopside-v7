@@ -1,0 +1,140 @@
+{
+  "videoId": "17sSLuAhLEA",
+  "title": "【マリオカート8DX】ポンも即終了も卒業したの【#フルトイ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-18T14:39:02Z",
+  "duration": "PT1H26M52S",
+  "durationSec": 5212,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/17sSLuAhLEA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:19:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 288,
+        "label": "マリオカート企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 450,
+        "label": "忘年会ボイス・特典の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 744,
+        "label": "2.0と近況の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 983,
+        "label": "視聴者参加レース・1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1303,
+        "label": "視聴者参加レース・2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1648,
+        "label": "視聴者参加レース・3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2129,
+        "label": "視聴者参加レース・4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "視聴者参加レース・5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2881,
+        "label": "視聴者参加レース・6戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3040,
+        "label": "視聴者参加レース・7戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3187,
+        "label": "視聴者参加レース・8戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3378,
+        "label": "視聴者参加レース・9戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "大会部屋への合流・予選準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "大会レース・10戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4117,
+        "label": "大会レース・11戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4383,
+        "label": "大会レース・12戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4523,
+        "label": "大会レース・13戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4598,
+        "label": "大会レース・14戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4725,
+        "label": "大会レース・15戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "終了挨拶・練習の振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

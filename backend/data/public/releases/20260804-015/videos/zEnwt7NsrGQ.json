@@ -1,0 +1,110 @@
+{
+  "videoId": "zEnwt7NsrGQ",
+  "title": "【スプラトゥーン2】ガチマ耐久。Bランクいくまで終わらなイカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-14T07:14:10Z",
+  "duration": "PT2H5M46S",
+  "durationSec": 7546,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zEnwt7NsrGQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T14:08:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Bランク挑戦の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 381,
+        "label": "最初のガチマッチ・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "コメントを拾いながらガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2037,
+        "label": "ザップの立ち回りとランク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2613,
+        "label": "ガチマッチ連戦・塗りと連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3434,
+        "label": "耐久条件の雑談・次のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "音ズレ確認・ガチマッチ再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4296,
+        "label": "ランク進行確認・ガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4830,
+        "label": "ガチマッチ連戦・ガチホコの立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5992,
+        "label": "試合後の振り返り・ランクの仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6171,
+        "label": "終盤のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6710,
+        "label": "感謝・次回のスプラ企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6750,
+        "label": "アサリのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7145,
+        "label": "ガチアサリを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7488,
+        "label": "終了挨拶・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

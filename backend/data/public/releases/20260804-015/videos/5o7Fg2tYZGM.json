@@ -1,0 +1,85 @@
+{
+  "videoId": "5o7Fg2tYZGM",
+  "title": "【#にじさんじ麻雀杯2025】にじさんじの義務教育の１つ",
+  "publishedAt": "2025-01-11T05:58:48Z",
+  "duration": "PT16M11S",
+  "durationSec": 971,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5o7Fg2tYZGM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:38:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・麻雀杯の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 110,
+        "label": "東風戦開始・攻めの方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 204,
+        "label": "最初のロンから続く対局",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 348,
+        "label": "音楽を挟んだ音声トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 390,
+        "label": "対局再開・リーチと打牌実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 548,
+        "label": "点数を戻すための相談とリーチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 620,
+        "label": "試合終了点を確認しながら終盤戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 685,
+        "label": "対局終盤・上がりを目指す流れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 815,
+        "label": "対局終了・インタビューへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 874,
+        "label": "別卓の対局実況・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "VCfTmQHtU6o",
+  "title": "【Dark Deception】だ～る～ま～さんがこ～ろ～ん～だ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-11T17:11:11Z",
+  "duration": "PT3H11M10S",
+  "durationSec": 11470,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VCfTmQHtU6o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:16:38.985Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 171,
+        "label": "ステージ3のクリスタル集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3026,
+        "label": "クリスタル回収ルートを見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4431,
+        "label": "新エリアの敵と仕掛けを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4816,
+        "label": "敵をロビーへ誘導する作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "だるまさんがころんだで敵集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5627,
+        "label": "次のエリアへのルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6158,
+        "label": "マップでルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6680,
+        "label": "攻略情報とマップを照らし合わせる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "敵を集める方法を再確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7754,
+        "label": "決まった手順で敵集めを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8422,
+        "label": "いったん休憩・次回の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8775,
+        "label": "ステージ3攻略を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10943,
+        "label": "配信予定・イベントのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11146,
+        "label": "ステージ3に再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11436,
+        "label": "配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

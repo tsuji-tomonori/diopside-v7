@@ -1,0 +1,80 @@
+{
+  "videoId": "wYDbE7LdXk0",
+  "title": "【世界のアソビ大全51】CPU相手に本気になるお姉さんはこちらです【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-25T15:58:25Z",
+  "duration": "PT1H47M19S",
+  "durationSec": 6439,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wYDbE7LdXk0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:16:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 412,
+        "label": "ドット&ボックスでCPU戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1197,
+        "label": "次の盤面ゲームに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2089,
+        "label": "ナインメンズモリスに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2694,
+        "label": "ナインメンズモリスの盤面攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4580,
+        "label": "ナインメンズモリスを再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5117,
+        "label": "ナインメンズモリスの新たな対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5672,
+        "label": "ナインメンズモリス終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6308,
+        "label": "ゲームの振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

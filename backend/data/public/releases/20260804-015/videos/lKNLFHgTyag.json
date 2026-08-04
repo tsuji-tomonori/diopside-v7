@@ -1,0 +1,180 @@
+{
+  "videoId": "lKNLFHgTyag",
+  "title": "【リトルナイトメア3】深夜のクリア耐久。華麗なる連携プレイをご覧あれ※ネタバレ注意【#スノーベル/にじさんじ】",
+  "publishedAt": "2025-10-24T20:23:51Z",
+  "duration": "PT7H2M26S",
+  "durationSec": 25346,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/lKNLFHgTyag/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:55:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 541,
+        "label": "オープニング・砂漠の旅へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1502,
+        "label": "砂漠遺跡の協力ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2193,
+        "label": "砂漠遺跡の追跡パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3365,
+        "label": "砂漠エリア後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4666,
+        "label": "キャンディ工場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6132,
+        "label": "カートの不具合と再起動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6897,
+        "label": "キャラクター交代で再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7941,
+        "label": "バッテリー探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8870,
+        "label": "工場の脱出パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9775,
+        "label": "次のエリア・下水道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10865,
+        "label": "回転橋と浴場の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12136,
+        "label": "サーカスエリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13270,
+        "label": "遊園地の仕掛けと乗り物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14157,
+        "label": "次のエリア・波止場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14921,
+        "label": "接続トラブルと休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15634,
+        "label": "倉庫探索を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16838,
+        "label": "サーカス上層の潜入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17796,
+        "label": "サーカスの脱出パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18592,
+        "label": "病院エリアへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19505,
+        "label": "過去と現在を行き来する仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20557,
+        "label": "病棟の仕掛けを突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21461,
+        "label": "研究区画と分岐ルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22119,
+        "label": "鏡の先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23105,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23315,
+        "label": "エンドロール・ストーリー考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24023,
+        "label": "プレイ後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24861,
+        "label": "終盤シーンの考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25131,
+        "label": "お知らせ・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

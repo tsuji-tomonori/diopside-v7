@@ -1,0 +1,100 @@
+{
+  "videoId": "6AwBh0Ri8Zc",
+  "title": "2週間ぶりです。謎の風邪に襲われています。【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-05-26T15:22:30Z",
+  "duration": "PT2H14M31S",
+  "durationSec": 8071,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6AwBh0Ri8Zc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T09:10:29Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "2週間ぶりの配信・ただいま",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 149,
+        "label": "療養からの復帰・近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1574,
+        "label": "にじフェスを振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3285,
+        "label": "にじフェスの質問・裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3817,
+        "label": "休養中に遊んだアプリゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4941,
+        "label": "チャンネル近況・コラボのお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5129,
+        "label": "大切な仲間への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5638,
+        "label": "2434日記念について相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5781,
+        "label": "最近のお知らせについて雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6067,
+        "label": "活動と応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6201,
+        "label": "次回配信と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6508,
+        "label": "スーパーチャット読み・質問回答",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7972,
+        "label": "配信の締め・次回案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

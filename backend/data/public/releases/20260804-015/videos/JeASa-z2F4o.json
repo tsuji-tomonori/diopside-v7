@@ -1,0 +1,110 @@
+{
+  "videoId": "JeASa-z2F4o",
+  "title": "【#NNOP2022】亜人生初のポーカーで100万円GET！！【にじさんじ/レヴィ・エリファ】",
+  "publishedAt": "2022-01-02T07:49:08Z",
+  "duration": "PT29M49S",
+  "durationSec": 1789,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JeASa-z2F4o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 153,
+        "label": "参加者とポーカー企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 272,
+        "label": "ゲーム開始・最初の手札",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 382,
+        "label": "序盤の対戦とオールイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 484,
+        "label": "ポーカーの役とカードの強さを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 557,
+        "label": "手札の進行とヘッズアップの難しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 816,
+        "label": "手札を待ちながらカードを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 916,
+        "label": "ベットとレイズの判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1064,
+        "label": "中盤の手札と読み合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1205,
+        "label": "ベット・チェック・カード公開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1414,
+        "label": "強いカードをめぐる終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1520,
+        "label": "手札を読みながら進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1564,
+        "label": "終盤の勝負判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1684,
+        "label": "対戦終了・結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1715,
+        "label": "対戦の振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

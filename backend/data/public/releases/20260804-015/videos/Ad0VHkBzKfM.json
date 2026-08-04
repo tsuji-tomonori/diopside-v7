@@ -1,0 +1,170 @@
+{
+  "videoId": "Ad0VHkBzKfM",
+  "title": "＃３【ポケモンSV】打倒！電気ジム！！そしてあの女王が降臨！？？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-22T17:45:29Z",
+  "duration": "PT4H28M54S",
+  "durationSec": 16134,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ad0VHkBzKfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・電気ジム攻略の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1203,
+        "label": "スターダスト計画の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1436,
+        "label": "電気ジムの街で服装選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1801,
+        "label": "ネモとの練習試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2223,
+        "label": "ナンジャモのジムテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3181,
+        "label": "電気ジムリーダー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3842,
+        "label": "ジム後の進行相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4209,
+        "label": "次の攻略へ向けた探索と手持ち調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "主ポケモンを追って協力バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7327,
+        "label": "スパイスをめぐるイベント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7830,
+        "label": "次の主へ向けた手持ち準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9274,
+        "label": "空の主への到達準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9635,
+        "label": "空の主とのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10440,
+        "label": "スパイスイベント・次の移動準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10801,
+        "label": "水上移動後の探索と次の目的地",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11765,
+        "label": "スターダスト作戦のアジトへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12065,
+        "label": "アジト攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12339,
+        "label": "アジトのボス戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12511,
+        "label": "アジト攻略後の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12960,
+        "label": "水ジムへ向けた手持ち調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13501,
+        "label": "水ジムの財布届けへ向けた砂漠越え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14490,
+        "label": "市場で財布を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14764,
+        "label": "市場の競り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15000,
+        "label": "移動機能の解放と四天王との遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15214,
+        "label": "水ジムのテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15301,
+        "label": "水ジムリーダー戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15664,
+        "label": "ネモとの会話・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

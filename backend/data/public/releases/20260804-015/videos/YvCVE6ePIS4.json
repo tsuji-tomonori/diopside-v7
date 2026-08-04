@@ -1,0 +1,145 @@
+{
+  "videoId": "YvCVE6ePIS4",
+  "title": "【コラボ雑談】フミ×とも初コラボ！白雪宅についに…【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-16T16:45:06Z",
+  "duration": "PT1H42M52S",
+  "durationSec": 6172,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YvCVE6ePIS4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 481,
+        "label": "とも到着・Switch準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 657,
+        "label": "マリオカートと初訪問の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1014,
+        "label": "コラボのきっかけと二人の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1312,
+        "label": "二人の出会いと支え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "距離感を探る雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1633,
+        "label": "心理テストに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "関係性の変化を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2274,
+        "label": "雑談・ゲーム準備の続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2515,
+        "label": "ゲーム経験と家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3126,
+        "label": "お風呂・温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3413,
+        "label": "配信での発信の加減",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3586,
+        "label": "5万人記念と衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3810,
+        "label": "配信での言葉と見られ方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4101,
+        "label": "泊まり・女子会の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4248,
+        "label": "ガンダム以外の配信の軸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4515,
+        "label": "声・朗読の配信アイデア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4667,
+        "label": "収益化後の機材計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4772,
+        "label": "料理と生活の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4946,
+        "label": "コラボの締めと今後の案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5177,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6085,
+        "label": "お知らせ・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

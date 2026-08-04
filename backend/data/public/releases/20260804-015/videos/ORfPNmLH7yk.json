@@ -1,0 +1,165 @@
+{
+  "videoId": "ORfPNmLH7yk",
+  "title": "【スプラトゥーン3】ぜのちゃんと初スプラ！えっ白雪がコーチ！？？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-07T15:28:03Z",
+  "duration": "PT2H10M",
+  "durationSec": 7800,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ORfPNmLH7yk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 470,
+        "label": "スプラ3をコーチング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 832,
+        "label": "初回の練習マッチと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1190,
+        "label": "ローラーで続くマッチ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1866,
+        "label": "武器変更・シャープマーカーに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "シャープマーカーで次のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2306,
+        "label": "マッチ結果と上達相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2530,
+        "label": "続くマッチとコラボトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3050,
+        "label": "マッチと武器の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3378,
+        "label": "クリスマスの過ごし方を話しながらプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3629,
+        "label": "マッチ結果と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3887,
+        "label": "ソロ練習と再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4139,
+        "label": "コラボの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4269,
+        "label": "しゃぶしゃぶ・飲食店の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4648,
+        "label": "マッチ後の振り返りと合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4960,
+        "label": "コラボ相手との関係性トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5419,
+        "label": "服選びの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5653,
+        "label": "ゲームをしながらコラボ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6105,
+        "label": "マッチ結果と次の協力ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6390,
+        "label": "大人の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6614,
+        "label": "ゲームと食の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6790,
+        "label": "料理とお酒の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7158,
+        "label": "最後のマッチと学びの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7300,
+        "label": "感謝と配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "スパチャ読みと武器の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7675,
+        "label": "今後の予定と最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "videoId": "t9yCZMgo7dg",
+  "title": "白雪巴初ソロイベント✨ファンミーティング情報解禁！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-13T13:21:18Z",
+  "duration": "PT1H13M37S",
+  "durationSec": 4417,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/t9yCZMgo7dg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T05:24:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 152,
+        "label": "挨拶・情報解禁への導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 532,
+        "label": "ファンミーティング情報解禁",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 673,
+        "label": "イベント形式・会場の特徴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 795,
+        "label": "昼・夜公演の内容",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1204,
+        "label": "ドレスコード案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1301,
+        "label": "公式グッズ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1714,
+        "label": "チケット・配信・特設サイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2024,
+        "label": "視聴者Q&A・参加案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2773,
+        "label": "イベント実現までの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2941,
+        "label": "イベントの方向性と今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3120,
+        "label": "今後の配信・イベント準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3372,
+        "label": "スーパーチャット読み・追加トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4304,
+        "label": "最終案内・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

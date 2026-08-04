@@ -1,0 +1,110 @@
+{
+  "videoId": "AzjwwfRLsT4",
+  "title": "【ホラー体験】あなたが体験したゾッとする話聞かせて第四弾【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-22T13:57:55Z",
+  "duration": "PT1H36M24S",
+  "durationSec": 5784,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AzjwwfRLsT4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "怪談朗読①：不思議な夢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 639,
+        "label": "怪談朗読②：温泉宿の気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1035,
+        "label": "怪談朗読③：鉄道事故の現場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1307,
+        "label": "怪談朗読④：エレベーターの夢",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1641,
+        "label": "怪談朗読⑤：身近な人からの勧誘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1982,
+        "label": "怪談朗読⑥：駐車場に現れた人影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2421,
+        "label": "怪談朗読⑦：学校での不審な訪問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2674,
+        "label": "怪談朗読⑧：犬にまつわる怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3070,
+        "label": "怪談朗読⑨：プールで感じた視線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3576,
+        "label": "怪談朗読⑩：居眠り運転の体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3831,
+        "label": "怪談朗読⑪：墓地をめぐる体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4228,
+        "label": "怪談朗読⑫：沖縄修学旅行の怪異",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4629,
+        "label": "怪談朗読⑬：山の宿泊学習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5146,
+        "label": "怪談朗読⑭：届き続ける段ボール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5522,
+        "label": "全投稿の振り返り・配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

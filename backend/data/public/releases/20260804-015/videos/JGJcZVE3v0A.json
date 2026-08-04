@@ -1,0 +1,80 @@
+{
+  "videoId": "JGJcZVE3v0A",
+  "title": "【#にじさんじ麻雀杯2026】H卓🌸今年こそは予選突破したい…！【白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-10T09:39:42Z",
+  "duration": "PT1H2M",
+  "durationSec": 3720,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JGJcZVE3v0A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T04:06:10+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・H卓紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 506,
+        "label": "H卓 対局開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 971,
+        "label": "H卓 中盤以降",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1985,
+        "label": "H卓 最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2322,
+        "label": "対局後・結果確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2654,
+        "label": "公式インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2971,
+        "label": "対局を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3206,
+        "label": "スーパーチャットお礼・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3397,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

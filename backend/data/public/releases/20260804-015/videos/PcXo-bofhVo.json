@@ -1,0 +1,80 @@
+{
+  "videoId": "PcXo-bofhVo",
+  "title": "【#マリカにじさんじ杯】魔境でこの先生きのこるには【マリオカート8DX/神田笑一】",
+  "publishedAt": "2020-12-26T07:34:07Z",
+  "duration": "PT56M41S",
+  "durationSec": 3401,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PcXo-bofhVo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T10:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・画面共有の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 580,
+        "label": "配信画面のトラブル対応・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1331,
+        "label": "ゲーム開始・練習走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1638,
+        "label": "大会ルーム合流・開始待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2296,
+        "label": "初戦・ねじれマンション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2640,
+        "label": "2戦目・ウォータースタジアム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2863,
+        "label": "3戦目・コース攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3079,
+        "label": "最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3232,
+        "label": "レース後の振り返り・次戦案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

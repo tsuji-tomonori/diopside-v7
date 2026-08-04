@@ -1,0 +1,115 @@
+{
+  "videoId": "4YpyEhfekSE",
+  "title": "【つぐのひ～昭和からの呼び声～】レビュー1位の媚薬飲んで最恐ホラゲをプレイするとどうなる【愛園愛美/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-20T12:55:37Z",
+  "duration": "PT1H46M26S",
+  "durationSec": 6386,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4YpyEhfekSE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:35:10.124372Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 254,
+        "label": "企画ルールの説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 512,
+        "label": "試飲とゲーム開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 888,
+        "label": "ゲーム開始・祖母の家を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "家の異変と時間の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2168,
+        "label": "驚かしと電話ボックスの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "家族の気配と夕食場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3062,
+        "label": "終盤の恐怖演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3709,
+        "label": "二周目の開始と変化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4222,
+        "label": "手がかりと記憶をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4792,
+        "label": "終盤の演出と考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "ゲーム終盤のプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5701,
+        "label": "ゲームの感想と考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5869,
+        "label": "企画の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6109,
+        "label": "次回・販売情報の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6290,
+        "label": "配信の締めくくり",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

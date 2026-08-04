@@ -1,0 +1,220 @@
+{
+  "videoId": "yXdxMZAOKgs",
+  "title": "＃１【CONTROL】凶悪な敵を超能力で撃退しながら弟を探し出す【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-04T08:05:18Z",
+  "duration": "PT3H52M22S",
+  "durationSec": 13942,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yXdxMZAOKgs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 388,
+        "label": "CONTROLの世界へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 716,
+        "label": "最初の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1286,
+        "label": "弟を探す物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1426,
+        "label": "ディレクター室と最初の異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1632,
+        "label": "最初の戦闘と武器入手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "能力を使って先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2106,
+        "label": "記録から世界の仕組みを知る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "ヒスとの戦闘と施設探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3174,
+        "label": "オフィス探索とボードルームへの道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "アシスタントとの出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4059,
+        "label": "浄化の力と手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4361,
+        "label": "ホットラインの断片を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4722,
+        "label": "腐敗区域を突破する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4973,
+        "label": "レコードと変貌物件の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5426,
+        "label": "難しい遭遇に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6086,
+        "label": "新たな力で敵を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6702,
+        "label": "フロッピーディスクと新エリア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7206,
+        "label": "強敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7475,
+        "label": "戦闘後の記録整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7857,
+        "label": "ホットラインを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8047,
+        "label": "ホットラインと帰路の戦い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8260,
+        "label": "オーシャンビューへの入口",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8448,
+        "label": "危険な閾域を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8822,
+        "label": "局へ戻り、ホットラインの記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9136,
+        "label": "建物とホットラインの謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9838,
+        "label": "能力強化とメンテナンス区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10488,
+        "label": "武器強化と近距離戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10866,
+        "label": "光の謎と新たな物件事件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11290,
+        "label": "オフィスを目指す戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11683,
+        "label": "サイドミッションと物件記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12094,
+        "label": "冷却ポンプを探して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12582,
+        "label": "メンテナンス区画の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12942,
+        "label": "次のルートと難所への準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13210,
+        "label": "新たな任務と配信終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13567,
+        "label": "今回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13713,
+        "label": "コメント返し・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

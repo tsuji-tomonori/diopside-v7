@@ -1,0 +1,160 @@
+{
+  "videoId": "M7AenA_-U0c",
+  "title": "【雑談】愛園お姉さまとマシュマロつつきながら晩酌配信【白雪 巴/愛園愛美/にじさんじ】",
+  "publishedAt": "2020-04-18T05:11:09Z",
+  "duration": "PT6H11M46S",
+  "durationSec": 22306,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M7AenA_-U0c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T02:41:45.515164+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌雑談の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 739,
+        "label": "食べ物とお姉さん像の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1262,
+        "label": "酔い方と呼び名を考える話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1868,
+        "label": "居酒屋メニューの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2518,
+        "label": "マシュマロ相談・学生時代の恋愛話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "配信トラブルを挟んだ相談と体型の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4322,
+        "label": "絵と歌の得意不得意・歌への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5131,
+        "label": "親密さと関係性の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "ネット通販と今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6841,
+        "label": "マシュマロと挑戦企画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7877,
+        "label": "二次会再開・飲み物と配信環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8280,
+        "label": "香りと相性の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8689,
+        "label": "マシュマロ・嫉妬と苦手なこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9677,
+        "label": "衣装の好みと理想のシチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11302,
+        "label": "距離感と主導権の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11928,
+        "label": "心理テストに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13501,
+        "label": "視聴者投稿の性格テスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15437,
+        "label": "特別な存在になりたい気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16381,
+        "label": "雑談の締め・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17235,
+        "label": "旅行と学校生活の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18678,
+        "label": "学校の話から大人数飲み会の想像へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19218,
+        "label": "食欲と家飲みのお酒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20701,
+        "label": "おつまみと身体の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21602,
+        "label": "服装の話と終了の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22051,
+        "label": "お知らせ・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

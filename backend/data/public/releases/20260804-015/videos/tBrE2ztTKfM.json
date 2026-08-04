@@ -1,0 +1,165 @@
+{
+  "videoId": "tBrE2ztTKfM",
+  "title": "#3【バイオハザード】ビビりだけど必ず報復させるバイオプレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-30T17:10:08Z",
+  "duration": "PT3H43M44S",
+  "durationSec": 13424,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tBrE2ztTKfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:00:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 307,
+        "label": "館内探索と装備整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 844,
+        "label": "館内を進み強敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1122,
+        "label": "ハーブ調合と地下への進路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1528,
+        "label": "水路と制御室の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2001,
+        "label": "サメ区画の探索と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2731,
+        "label": "再探索とサメ区画の攻略準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3516,
+        "label": "サメ区画を再攻略する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3960,
+        "label": "研究区画の探索と薬品の謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5357,
+        "label": "V-Joltと殺虫剤で植物区画へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6062,
+        "label": "研究ファイルと身体パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6450,
+        "label": "植物区画の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6749,
+        "label": "植物区画の後片付け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7015,
+        "label": "強敵との戦闘とバリーの援護",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7350,
+        "label": "館へ戻り新たな敵に備える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7807,
+        "label": "ハンター戦と武器回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8432,
+        "label": "館内探索と急襲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8746,
+        "label": "研究区画を進みエレベーターへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9350,
+        "label": "バッテリー確認と二階西側の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10092,
+        "label": "蛇の区画とリチャードの場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10798,
+        "label": "装備整理とメールの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11159,
+        "label": "再探索とハンター戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11743,
+        "label": "宝石と兜の鍵の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12284,
+        "label": "次回に向けた整理と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12734,
+        "label": "セーブと配信終盤の装備整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13298,
+        "label": "配信終了・次回の案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

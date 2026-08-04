@@ -1,0 +1,130 @@
+{
+  "videoId": "NmIcaDAkoZE",
+  "title": "【Splatoon2】Eチーム顔合わせ！！！【ニュイ視点/にじさんじ】",
+  "publishedAt": "2021-11-07T16:49:29Z",
+  "duration": "PT1H34M15S",
+  "durationSec": 5655,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NmIcaDAkoZE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:08:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音量調整と顔合わせ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 301,
+        "label": "参加者紹介・チーム顔合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 511,
+        "label": "企画説明・ルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 662,
+        "label": "武器・ギア選びと対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 831,
+        "label": "第1試合・ヤグラの攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1597,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "第2試合・ヤグラの攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2384,
+        "label": "第2試合後の振り返り・武器相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2511,
+        "label": "第3試合・武器を替えて挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2704,
+        "label": "第3試合後の振り返り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2882,
+        "label": "エリアに向けた作戦準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3029,
+        "label": "第4試合・エリアの攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3699,
+        "label": "メンバーチェンジと次の作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3904,
+        "label": "次の対戦の編成・作戦会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4025,
+        "label": "第5試合・ヤグラの連携",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4661,
+        "label": "チーム名決めと次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4835,
+        "label": "第6試合・ヤグラの攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5551,
+        "label": "第6試合後の感想・手応え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5620,
+        "label": "解散・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
