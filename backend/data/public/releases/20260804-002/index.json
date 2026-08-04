@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "releaseId": "20260804-002",
   "releaseMode": "normal",
-  "generatedAt": "2026-08-04T10:35:00Z",
+  "generatedAt": "2026-08-04T12:30:00Z",
   "layout": "monolithic",
   "normalizationVersion": "unicode-15.1/tokenizer-v1",
   "taxonomyVersion": "20260711-taxonomy-v1",
@@ -18174,6 +18174,34 @@
       "sourceKind": "youtube_api",
       "metadataStatus": "complete",
       "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+      "artifactFlags": {
+        "chat": false,
+        "comments": false,
+        "timestamps": true,
+        "wordcloudChat": false,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
+      },
+      "tagIds": [],
+      "provenance": {
+        "titleSource": "target_manifest_v1",
+        "publishedSource": "target_manifest_v1"
+      }
+    },
+    {
+      "videoId": "KTlnmHVm6AA",
+      "title": "#3『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+      "publishedAt": "2026-04-09T18:25:26.000Z",
+      "duration": "PT4H55M51S",
+      "durationSec": 17751,
+      "thumbnail": {
+        "url": "https://i.ytimg.com/vi/KTlnmHVm6AA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "sourceKind": "youtube_api",
+      "metadataStatus": "complete",
+      "sourceUpdatedAt": "2026-08-04T12:30:00Z",
       "artifactFlags": {
         "chat": false,
         "comments": false,

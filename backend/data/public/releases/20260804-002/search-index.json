@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "releaseId": "20260804-002",
   "releaseMode": "normal",
-  "generatedAt": "2026-08-04T10:35:00Z",
+  "generatedAt": "2026-08-04T12:30:00Z",
   "normalizationVersion": "unicode-15.1/tokenizer-v1",
   "layout": "monolithic",
   "videos": [
@@ -16542,6 +16542,33 @@
       "publishedAt": "2026-02-15T20:13:17Z",
       "publishedDate": "2026-02-15",
       "durationSec": 24628,
+      "artifactFlags": {
+        "chat": false,
+        "comments": false,
+        "timestamps": true,
+        "wordcloudChat": false,
+        "wordcloudComments": false,
+        "wordcloudBoth": false
+      },
+      "tagIds": []
+    },
+    {
+      "videoId": "KTlnmHVm6AA",
+      "titleTokens": [
+        "パラノマサイト",
+        "FILE38",
+        "伊勢人魚物語",
+        "完全初見",
+        "実況プレイ",
+        "ネタバレ注意",
+        "白雪巴",
+        "にじさんじ"
+      ],
+      "sourceKind": "youtube_api",
+      "metadataStatus": "complete",
+      "publishedAt": "2026-04-09T18:25:26.000Z",
+      "publishedDate": "2026-04-09",
+      "durationSec": 17751,
       "artifactFlags": {
         "chat": false,
         "comments": false,
