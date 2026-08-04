@@ -1,0 +1,125 @@
+{
+  "videoId": "MOqSiai8Ohc",
+  "title": "【英語勉強-listening-】Lady Gaga の「Bad Romance」の歌詞を和訳する！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-23T16:42:57Z",
+  "duration": "PT2H24M37S",
+  "durationSec": 8677,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MOqSiai8Ohc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T07:58:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・英語歌詞和訳企画の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 411,
+        "label": "「Bad Romance」冒頭の歌詞を和訳",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1085,
+        "label": "「I want your ugly」のニュアンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1418,
+        "label": "「I want your everything」を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1984,
+        "label": "Bメロの表現を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2577,
+        "label": "サビの「I want you / I need you」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3239,
+        "label": "「revenge」と「bad romance」の関係性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4215,
+        "label": "2番の歌詞を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5027,
+        "label": "映画タイトルを手がかりに訳を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5883,
+        "label": "「I am free」とリフレイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6270,
+        "label": "ブリッジの表現を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6760,
+        "label": "終盤の歌詞を最終訳へ整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7153,
+        "label": "完成した日本語訳を通読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7482,
+        "label": "原曲再生を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7612,
+        "label": "企画を振り返り・スパチャを読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8010,
+        "label": "洋楽の好みと思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8293,
+        "label": "歌詞翻訳の難しさと英語学習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8581,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

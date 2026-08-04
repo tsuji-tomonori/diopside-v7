@@ -1,0 +1,175 @@
+{
+  "videoId": "bUQ37J3m9mU",
+  "title": "クリア耐久【INSIDE】深夜にふさわしい物静かなシリアスゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-08T18:51:21Z",
+  "duration": "PT4H25M13S",
+  "durationSec": 15913,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bUQ37J3m9mU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・INSIDE紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 606,
+        "label": "ゲーム開始・森を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1637,
+        "label": "ひよこたちと仕掛けを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "機械仕掛けの足場と線路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3424,
+        "label": "ヘルメットの人々と工場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3823,
+        "label": "新衣装お披露目告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "工場の仕掛けを進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4512,
+        "label": "水場へ向かう仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4950,
+        "label": "近未来施設と戦車の装置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5404,
+        "label": "犬のいる水路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5762,
+        "label": "施設内の仕掛けと上層への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6306,
+        "label": "潜水艦と水中の追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7202,
+        "label": "街の施設と群衆",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7830,
+        "label": "群衆を使う工場の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8551,
+        "label": "エレベーターと警報施設",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9091,
+        "label": "電気と水路の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9540,
+        "label": "水中の存在と追跡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10620,
+        "label": "魚と進む水路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11437,
+        "label": "水位を切り替える仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12064,
+        "label": "観察施設の水位パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12795,
+        "label": "群衆とエレベーターで上層へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13590,
+        "label": "観察施設の脱出パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14310,
+        "label": "終盤の水路を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14670,
+        "label": "橋と木箱・火の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15126,
+        "label": "終盤の機械仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15481,
+        "label": "ゲーム本編の終幕",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15570,
+        "label": "感想・考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15707,
+        "label": "配信終了・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

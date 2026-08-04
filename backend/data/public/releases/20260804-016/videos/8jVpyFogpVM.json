@@ -1,0 +1,130 @@
+{
+  "videoId": "8jVpyFogpVM",
+  "title": "＃45【崩壊：スターレイル】オンパロス編。ついにヒアンシー覚醒の時が来る…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-16T16:10:58Z",
+  "duration": "PT2H47M48S",
+  "durationSec": 10068,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8jVpyFogpVM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:40:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 180,
+        "label": "あいさつ＆前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 297,
+        "label": "雨の民の聖所へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 771,
+        "label": "黒潮の障壁と仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1205,
+        "label": "聖所の探索を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1639,
+        "label": "壁画に残された記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2375,
+        "label": "隠された歴史をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2816,
+        "label": "頂上を目指して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3091,
+        "label": "頂上での対峙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3773,
+        "label": "封じられた記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5293,
+        "label": "最後の記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6389,
+        "label": "天空への挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7012,
+        "label": "崩れる城から脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7558,
+        "label": "新たな戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8157,
+        "label": "千年前の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8708,
+        "label": "記憶のあとで",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9099,
+        "label": "アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9298,
+        "label": "お知らせ＆ストーリー振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9657,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "Xhd-Uybv1t4",
+  "title": "【JP×EN コラボ配信】最強の方々のおかげで叶った生川家コラボ最終回【Hex Haywire/Kotoka Torahime/オリバー・エバンス/白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-20T14:51:09Z",
+  "duration": "PT2H40M14S",
+  "durationSec": 9614,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Xhd-Uybv1t4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "出演者紹介・本日の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1003,
+        "label": "初対面の印象と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1256,
+        "label": "卒業発表後の気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1695,
+        "label": "最近の悩みとコラボのきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2281,
+        "label": "Hexのイエス・ノークイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2694,
+        "label": "巴のイエス・ノークイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3188,
+        "label": "オリバーのイエス・ノークイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3563,
+        "label": "コトカのイエス・ノークイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3823,
+        "label": "Hexの2問目と好きな作品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4414,
+        "label": "サプライズ企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4889,
+        "label": "3人の共通点とボイスドラマの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5406,
+        "label": "デビュー台詞の交換",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6343,
+        "label": "これからの交流と一緒にしたいこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6651,
+        "label": "3人のスクショタイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7433,
+        "label": "ゲストとの締めくくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7715,
+        "label": "メッセージ企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8045,
+        "label": "気持ちを伝えるメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8630,
+        "label": "感謝とこれからの約束",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8904,
+        "label": "出演者からの締めの言葉",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

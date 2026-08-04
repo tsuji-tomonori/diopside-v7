@@ -1,0 +1,125 @@
+{
+  "videoId": "noZTEJYz8tE",
+  "title": "【誕生日/全身3D配信】し、し、白雪巴さん！？ご、ご本人様ですか！？【にじさんじさん×あおぎり高校】",
+  "publishedAt": "2023-09-25T12:18:17Z",
+  "duration": "PT1H11M52S",
+  "durationSec": 4312,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/noZTEJYz8tE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日配信スタート・ゲストを迎える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 240,
+        "label": "ゲスト登場・初対面トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 499,
+        "label": "誕生日プレゼント紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 594,
+        "label": "欲望すごろくのルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 814,
+        "label": "盤面と欲望マスを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1037,
+        "label": "欲望すごろく開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1249,
+        "label": "最初の欲望マスに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1616,
+        "label": "ケーキと一発ギャグの欲望マス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1878,
+        "label": "白雪巴さんの魅力を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2082,
+        "label": "あかり先輩のターン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2348,
+        "label": "カメラポーズとスクワット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2590,
+        "label": "過去動画と身体を使う欲望マス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2851,
+        "label": "カメラ演出と記念撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3017,
+        "label": "自分の好きなところを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3272,
+        "label": "身体を使う欲望マス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3513,
+        "label": "終盤のゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3805,
+        "label": "景品確認とグッズ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3972,
+        "label": "感想・告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

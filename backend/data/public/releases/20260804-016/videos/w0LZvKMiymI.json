@@ -1,0 +1,125 @@
+{
+  "videoId": "w0LZvKMiymI",
+  "title": "【ASTRONEER】雪月シスターズ、宇宙に行く🌙【にじさんじ/シスター・クレア】",
+  "publishedAt": "2022-11-20T12:19:42Z",
+  "duration": "PT2H49M42S",
+  "durationSec": 10182,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/w0LZvKMiymI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム説明と序盤のミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 561,
+        "label": "基本操作と資源のチュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 808,
+        "label": "酸素とテザーを整えて拠点を作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1460,
+        "label": "テザーを広げて探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2384,
+        "label": "ミッション進行と中型ストレージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2916,
+        "label": "プリンター製作と発電準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3648,
+        "label": "大型プラットフォームとテザーを整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4085,
+        "label": "大型プリンターと電力研究",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5104,
+        "label": "製作設備と拠点拡張",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5849,
+        "label": "資源を回収して拠点を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6307,
+        "label": "地形を整地して設備を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6731,
+        "label": "夜の惑星で研究と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7209,
+        "label": "ダイナマイトと地下探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7525,
+        "label": "地下設備の探索と電力実験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8374,
+        "label": "希少資源を探して研究を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9124,
+        "label": "乗り物を試して拠点を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "イベントアイテムの研究",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9908,
+        "label": "配信の振り返りと次回の話",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

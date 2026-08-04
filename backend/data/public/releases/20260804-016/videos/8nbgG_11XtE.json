@@ -1,0 +1,135 @@
+{
+  "videoId": "8nbgG_11XtE",
+  "title": "【#にじ女あもあす DAY1】ダクト？入ってませんけど。【本間ひまわり/にじさんじ】",
+  "publishedAt": "2023-06-04T14:41:38Z",
+  "duration": "PT2H32M21S",
+  "durationSec": 9141,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8nbgG_11XtE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T13:38:02.907682Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 531,
+        "label": "ルール・役職・マップ設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "第1マッチ・探索と初会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1199,
+        "label": "第2マッチ・タスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1326,
+        "label": "第2マッチ後の振り返り・設定調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "第3マッチ・変身を意識した会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1913,
+        "label": "マッチ後の振り返り・次の設定調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2471,
+        "label": "第4マッチ・探索と長い会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3614,
+        "label": "第4マッチ後の振り返り・次マッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3996,
+        "label": "第5マッチ・探索と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5016,
+        "label": "第5マッチ後の振り返り・次マッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5377,
+        "label": "第6マッチ・探索とタスク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6193,
+        "label": "第6マッチ後の振り返り・設定調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6419,
+        "label": "第7マッチ・序盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6745,
+        "label": "第7マッチ・中盤の会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7250,
+        "label": "第7マッチ・情報整理と推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8000,
+        "label": "第7マッチ・終盤の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8501,
+        "label": "第7マッチ・最終会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8901,
+        "label": "役職の振り返り・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8995,
+        "label": "企画の感想・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

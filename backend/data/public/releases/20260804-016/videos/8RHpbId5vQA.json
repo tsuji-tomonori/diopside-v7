@@ -1,0 +1,110 @@
+{
+  "videoId": "8RHpbId5vQA",
+  "title": "【せどまいり】死神の子から逃げながら藁人形を捕まえるホラゲ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-18T15:33:05Z",
+  "duration": "PT2H56M52S",
+  "durationSec": 10612,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8RHpbId5vQA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "告知・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 594,
+        "label": "初回探索・基本ギミック確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1131,
+        "label": "敵を避けながら人形を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1985,
+        "label": "電力と釘の仕組みを整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2705,
+        "label": "藁人形を追ってマップを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3261,
+        "label": "難易度とマップを見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4203,
+        "label": "終盤の藁人形を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "難易度を下げて再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "敵を誘導しながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6813,
+        "label": "易しい設定で攻略法を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7830,
+        "label": "探索中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8126,
+        "label": "幼少期の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8882,
+        "label": "ゲームに戻って脱出を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10025,
+        "label": "ゲームの振り返り・次回案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10211,
+        "label": "スーパーチャット読み・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

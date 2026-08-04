@@ -1,0 +1,110 @@
+{
+  "videoId": "4NHi_6Wmg-M",
+  "title": "【Apex Legends】#APEX部2434キルリレー 3度目の/雪城眞尋 視点⏰12:00～14:00【にじさんじ】",
+  "publishedAt": "2020-09-09T05:26:38Z",
+  "duration": "PT2H11M54S",
+  "durationSec": 7914,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4NHi_6Wmg-M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:00:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・キルリレー企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 951,
+        "label": "第1マッチ・降下と物資集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2169,
+        "label": "次のマッチ・準備と初動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "設定調整・再接続",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3004,
+        "label": "マッチ再開・終盤の交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "マッチ後の振り返り・参加者交代",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3900,
+        "label": "次のマッチ準備・作戦確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4390,
+        "label": "マッチ開始・探索と安全圏移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "終盤の交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6263,
+        "label": "武器選択・近距離戦の解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6609,
+        "label": "移動テクニックの実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6947,
+        "label": "終盤の位置取り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "最終戦に向けた索敵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7607,
+        "label": "最後の交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7667,
+        "label": "振り返り・次枠への引き継ぎ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "videoId": "KORxFM07r1M",
+  "title": "【スプラトゥーン2】リハビリもそろそろ終わりにしていイカ？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-05T18:19:56Z",
+  "duration": "PT2H50M22S",
+  "durationSec": 10222,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KORxFM07r1M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "スプラ2リハビリと大会ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "コラボ準備の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 786,
+        "label": "ルイの3Dお披露目と動画の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2003,
+        "label": "プライベート部屋とガチホコ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2958,
+        "label": "久々のガチホコ練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3993,
+        "label": "ガチホコ対戦と立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "試合後の振り返りと次の練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6304,
+        "label": "作戦確認から次のガチホコへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7023,
+        "label": "試合後の反省と次のガチホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8036,
+        "label": "試合後の雑談と連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "終盤のガチホコ練習と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "ゲーム終了後の告知とスパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

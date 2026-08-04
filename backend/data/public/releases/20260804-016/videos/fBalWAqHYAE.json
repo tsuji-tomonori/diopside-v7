@@ -1,0 +1,140 @@
+{
+  "videoId": "fBalWAqHYAE",
+  "title": "【体験談】生理痛を放置してたら手術することになりました。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-07T15:00:20Z",
+  "duration": "PT1H41M47S",
+  "durationSec": 6107,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fBalWAqHYAE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・手術報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 473,
+        "label": "生理痛の個人差と受診のすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 688,
+        "label": "中学時代からの重い生理痛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1003,
+        "label": "仕事を休めなかった葛藤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1215,
+        "label": "大学生の頃の婦人科受診",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1383,
+        "label": "低用量ピルと鎮痛剤に戻った経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1687,
+        "label": "活動期の生理痛と不正出血",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1953,
+        "label": "検診をきっかけに症状を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2163,
+        "label": "検査で異常を指摘される",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2463,
+        "label": "病気の仕組みを図解で確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2767,
+        "label": "治療法の説明と手術の決断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3245,
+        "label": "手術に向けた準備とMRI検査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3592,
+        "label": "入院・絶食・手術前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3906,
+        "label": "手術前夜の不安と支え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "手術当日の準備と麻酔",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4442,
+        "label": "手術の方法と経過",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4933,
+        "label": "術後の痛みと歩行の苦労",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5103,
+        "label": "回復の経過と退院後の体調",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5455,
+        "label": "手術費用と入院生活の負担",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5583,
+        "label": "生理痛を放置しないために",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6001,
+        "label": "最後の受診呼びかけと終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

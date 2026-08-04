@@ -1,0 +1,80 @@
+{
+  "videoId": "f2q9j8BoDWQ",
+  "title": "【ブルアカコラボ】視聴者参加型！大海原の覇者になろうぞ…！！ / World of Warships Legends【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-31T14:59:43Z",
+  "duration": "PT1H25M38S",
+  "durationSec": 5138,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/f2q9j8BoDWQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:04:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 511,
+        "label": "視聴者参加の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 913,
+        "label": "第1戦・駆逐艦で出撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1512,
+        "label": "第2戦・シロコと出撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2258,
+        "label": "第3戦・ノノミと出撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3024,
+        "label": "第4戦・セリカと出撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3681,
+        "label": "最終戦の準備・参加者募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4267,
+        "label": "最終戦・ホシノと出撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4955,
+        "label": "振り返り・コラボ案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

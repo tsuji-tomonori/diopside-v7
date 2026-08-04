@@ -1,0 +1,235 @@
+{
+  "videoId": "CVrgvkt_Szw",
+  "title": "【スプラトゥーン3】エイ！((目指せA帯))【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-26T16:17:01Z",
+  "duration": "PT4H38M8S",
+  "durationSec": 16688,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CVrgvkt_Szw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・A帯を目指す準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 363,
+        "label": "ガチエリア1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 962,
+        "label": "1戦目後の結果と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1064,
+        "label": "ガチエリア2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1621,
+        "label": "2戦目後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1741,
+        "label": "ガチエリア3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2145,
+        "label": "ルール変更前の作戦整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2223,
+        "label": "ガチエリア4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2781,
+        "label": "4戦目後の結果とエイム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2854,
+        "label": "ガチエリア5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3152,
+        "label": "ガチヤグラ1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "ヤグラ1戦目後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3946,
+        "label": "ガチヤグラ2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4357,
+        "label": "ガチヤグラ3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4997,
+        "label": "ヤグラ3戦目後の振り返りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5164,
+        "label": "ガチヤグラ4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6009,
+        "label": "ガチヤグラ戦後の振り返りと切り抜き相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6395,
+        "label": "ガチヤグラ5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7201,
+        "label": "ヤグラ戦後の振り返りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7693,
+        "label": "ガチヤグラ6戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8194,
+        "label": "次のヤグラ挑戦と配信復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9367,
+        "label": "復旧後のヤグラ再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10081,
+        "label": "ガチホコのルール確認と散歩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11108,
+        "label": "ガチホコ昇格戦1戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11498,
+        "label": "昇格戦1戦目後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11674,
+        "label": "ガチホコ昇格戦2戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12484,
+        "label": "ガチホコ昇格戦3・4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13268,
+        "label": "昇格戦の結果と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13347,
+        "label": "ガチホコ昇格戦の終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13681,
+        "label": "昇格戦後の振り返りと休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14050,
+        "label": "試合に向けた立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14585,
+        "label": "終盤の昇格戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14851,
+        "label": "終盤戦後の武器相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14915,
+        "label": "ガチホコ再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15331,
+        "label": "オープンでの立て直し方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15479,
+        "label": "ガチホコで再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15675,
+        "label": "ガチホコ戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15839,
+        "label": "ガチホコの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16118,
+        "label": "配信の締めくくりと次回の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16446,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

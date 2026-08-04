@@ -1,0 +1,130 @@
+{
+  "videoId": "RW7B6bqNffE",
+  "title": "【SILENT HILL f #6】3周目-後半- 全員、一旦落ち着かないか？※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-03T19:10:28Z",
+  "duration": "PT5H21M38S",
+  "durationSec": 19298,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RW7B6bqNffE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:10:31+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3周目後半を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 673,
+        "label": "探索を再開して手がかりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2675,
+        "label": "資料を確かめながら探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3409,
+        "label": "周囲を巡って探索を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5207,
+        "label": "大きな戦いへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5679,
+        "label": "手がかりを整理して次へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6990,
+        "label": "新たな局面で手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7491,
+        "label": "周囲を巡って次の目的地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9002,
+        "label": "手がかりを読み解きながら進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10500,
+        "label": "さらに奥へ進み探索を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12106,
+        "label": "大きな対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13112,
+        "label": "新たな局面で道を探る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14691,
+        "label": "情報を集めながら先へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15472,
+        "label": "終盤へ向けて準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16118,
+        "label": "終盤の大きな戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17166,
+        "label": "エンディングへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17929,
+        "label": "今後の方針を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18109,
+        "label": "3周目を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18732,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

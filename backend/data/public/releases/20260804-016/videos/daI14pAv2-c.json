@@ -1,0 +1,110 @@
+{
+  "videoId": "daI14pAv2-c",
+  "title": "【雑談】職場の後輩をお持ち帰りしたら…【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-12T15:18:20Z",
+  "duration": "PT1H39M50S",
+  "durationSec": 5990,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/daI14pAv2-c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:06:41Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・成人式と振袖",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 665,
+        "label": "今週の配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 853,
+        "label": "職場の後輩との飲み会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "後輩と嗜好を語り合う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1633,
+        "label": "タイトル回収後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2044,
+        "label": "お酒の話とコラボ振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2646,
+        "label": "マリオカートと罰ゲーム企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3161,
+        "label": "すこやか放送コラボの余韻",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3489,
+        "label": "終了前の雑談・配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "今後の企画・歌枠告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4159,
+        "label": "誕生日配信・プレゼント案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4709,
+        "label": "誕生日プレゼントの希望",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4914,
+        "label": "プレゼント候補と送り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5062,
+        "label": "配信の締め・誕生日への思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5197,
+        "label": "スパチャ読み・コラボの思い出",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

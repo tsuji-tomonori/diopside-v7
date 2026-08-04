@@ -1,0 +1,120 @@
+{
+  "videoId": "L58IfDA6egc",
+  "title": "#2【Detroit: Become Human】自分の選択を信じて完全初見プレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-21T15:46:46Z",
+  "duration": "PT2H31M31S",
+  "durationSec": 9091,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/L58IfDA6egc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T01:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 393,
+        "label": "マーカス編・廃棄場を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1369,
+        "label": "コナー編開始・警察署へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2102,
+        "label": "コナーとハンク・捜査準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2633,
+        "label": "カーラとアリス・逃走の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3120,
+        "label": "コナーが逃走を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3602,
+        "label": "手掛かりを探して暗所を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4566,
+        "label": "アンドロイドの隠れ家と捜査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "空き家を捜査する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "対象を追跡・ジェリコの手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6005,
+        "label": "隠れ家を探索・仲間を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6613,
+        "label": "部品調達と国境越えの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7214,
+        "label": "危険な隠れ家を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "施設を探索して脱出を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8283,
+        "label": "コナーの報告・次の捜査準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "ハンクの自宅で次の事件を準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

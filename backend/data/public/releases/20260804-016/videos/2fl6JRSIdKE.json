@@ -1,0 +1,120 @@
+{
+  "videoId": "2fl6JRSIdKE",
+  "title": "＃２【パタポン1+2リプレイ】ジゴトンの大軍襲来⚡バチコイ山でバッチコーイ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-20T15:43:16Z",
+  "duration": "PT2H32M55S",
+  "durationSec": 9175,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/2fl6JRSIdKE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:00:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 218,
+        "label": "雨の素材集めと出撃準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 468,
+        "label": "ジゴトン大軍に再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1680,
+        "label": "部隊育成を見直す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1903,
+        "label": "砂漠ステージへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3124,
+        "label": "新部隊を編成してボスへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3744,
+        "label": "オアシスからストーリーを進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4459,
+        "label": "砂漠で素材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "鉱石ミニゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5043,
+        "label": "ジゴトン戦へ進軍",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5578,
+        "label": "輸送隊を護衛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6055,
+        "label": "バチコイ山に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6516,
+        "label": "投石機奪取作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6918,
+        "label": "投石機を備えて再戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7835,
+        "label": "編成を変えて再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8520,
+        "label": "攻略の振り返りと今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8875,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

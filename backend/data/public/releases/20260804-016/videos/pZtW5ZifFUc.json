@@ -1,0 +1,135 @@
+{
+  "videoId": "pZtW5ZifFUc",
+  "title": "【ポケモン剣盾】例え美人が相手でも屍を越えてゆく～トモエVSルリナ～【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-31T10:09:35Z",
+  "duration": "PT2H30M48S",
+  "durationSec": 9048,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pZtW5ZifFUc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:29:17Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ポケモン開始準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 595,
+        "label": "水ジムへ向かいポケモンキャンプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1165,
+        "label": "バウタウン水ジムの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1977,
+        "label": "ルリナとのジム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2307,
+        "label": "ジム戦後の報酬と次の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3008,
+        "label": "野生ポケモンを探して捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3509,
+        "label": "捕獲したポケモンを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3861,
+        "label": "レイドと手持ちの整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4309,
+        "label": "ポケモンキャンプとカレー作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "次の道でポケモンを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5423,
+        "label": "ホップとのポケモン勝負",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5806,
+        "label": "キャンプでポケモンと交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6305,
+        "label": "キャンプ後の道と野生戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6695,
+        "label": "カブ戦に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7199,
+        "label": "進化・捕獲と技選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7702,
+        "label": "スタジアムの町とジムへの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7891,
+        "label": "マリィとのポケモン勝負",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8348,
+        "label": "マリィ戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8522,
+        "label": "ローズとマリィの設定考察・終了挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8702,
+        "label": "配信後のおまけ・最終挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

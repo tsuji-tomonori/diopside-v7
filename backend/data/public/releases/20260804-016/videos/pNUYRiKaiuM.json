@@ -1,0 +1,110 @@
+{
+  "videoId": "pNUYRiKaiuM",
+  "title": "【#白雪巴ファンミーティング】ファンミ直前配信✨みんなの洋服や持っていくもの見せて💓【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-01T16:02:50Z",
+  "duration": "PT2H50M1S",
+  "durationSec": 10201,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pNUYRiKaiuM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:20:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ファンミ直前トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 451,
+        "label": "みんなの服装・持ち物を紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1868,
+        "label": "喉の治療と食欲の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1968,
+        "label": "服装・小物の紹介に戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4738,
+        "label": "ファンメイドのカウントダウン動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4873,
+        "label": "服装・グッズ紹介を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5649,
+        "label": "会場の近さと本番への緊張",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5781,
+        "label": "服装・遠征準備の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6321,
+        "label": "応援方法と安全のお願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6888,
+        "label": "衣装・ネイル・遠征準備を紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "みんなへの感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7576,
+        "label": "新着の服装・小物をチェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8888,
+        "label": "ファンミ直前の最終案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9196,
+        "label": "スパチャ読みと本番トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9976,
+        "label": "最後のコメントとイベントへの決意",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

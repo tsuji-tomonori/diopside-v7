@@ -1,0 +1,140 @@
+{
+  "videoId": "09te0xpcxOA",
+  "title": "【青鬼】初見ではないけど初プレイ。みるのとやるのとはちｶﾞﾀｶﾞﾀｶﾞﾀｶﾞﾀｶﾞﾀｶﾞﾀ【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-23T17:42:51Z",
+  "duration": "PT3H20M45S",
+  "durationSec": 12045,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/09te0xpcxOA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T10:29:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・青鬼初プレイ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 539,
+        "label": "館の探索と青鬼との遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 944,
+        "label": "最初の追跡と寝室への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1507,
+        "label": "ピアノの数字謎と館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2109,
+        "label": "鍵盤の謎を解いて子供部屋へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "館内探索と地下の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3604,
+        "label": "地下の謎と別館への鍵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4552,
+        "label": "別館の探索と仕掛けの再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5406,
+        "label": "暖炉の仕掛けと地下室の鍵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6403,
+        "label": "地下室探索と絵本の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6670,
+        "label": "色の手がかりと赤い鍵",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7136,
+        "label": "円盤を探して隠し扉へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8101,
+        "label": "卓郎とチェイス、別館奥の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "番号の手がかりとボタンの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9607,
+        "label": "ピース集めと金庫の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9975,
+        "label": "金庫の暗号を解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10207,
+        "label": "出口を開けて終盤の追跡へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10788,
+        "label": "別モードを再プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11103,
+        "label": "別モードの館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11272,
+        "label": "別モードの再挑戦とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11671,
+        "label": "感想・告知・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "f-qwPMfRu7k",
+  "title": "マスター編前半【チョコボGP】祝！！本日発売！！！チョコボグランプリ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-10T13:45:48Z",
+  "duration": "PT2H9M37S",
+  "durationSec": 7777,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/f-qwPMfRu7k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:00:23Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チョコボGP紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 567,
+        "label": "プロローグ・最初のレース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 841,
+        "label": "操作チュートリアル・初レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1200,
+        "label": "ストーリー進行・チョコボと仲間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1730,
+        "label": "レースシステム・魔石の使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1913,
+        "label": "チョコボ農場のレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2050,
+        "label": "ストーリー進行・新コース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "レース・能力確認とストーリー進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3435,
+        "label": "予選・決勝形式の確認と召喚獣紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3880,
+        "label": "魔石を使うレース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4140,
+        "label": "レース後のストーリー・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4580,
+        "label": "レース・村のストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5300,
+        "label": "魔石の使い方・キャラクター紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5860,
+        "label": "アイテムを使うレース・ストーリー進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6420,
+        "label": "能力確認からレース・結果振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6842,
+        "label": "次のレースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7189,
+        "label": "キャラクター能力を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7387,
+        "label": "終盤のレース・感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7640,
+        "label": "終了・今後の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

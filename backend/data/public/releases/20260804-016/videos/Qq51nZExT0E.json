@@ -1,0 +1,95 @@
+{
+  "videoId": "Qq51nZExT0E",
+  "title": "【Dead by Daylight】BPを美女たちに貢ぎたい悪魔の保健医のDBD【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2021-07-12T13:41:28Z",
+  "duration": "PT2H30M3S",
+  "durationSec": 9003,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Qq51nZExT0E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 478,
+        "label": "第1試合の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 644,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1529,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1637,
+        "label": "第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2956,
+        "label": "第2試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3840,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5971,
+        "label": "第3試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6477,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7491,
+        "label": "第4試合後の振り返り・最終戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7932,
+        "label": "最終戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8940,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

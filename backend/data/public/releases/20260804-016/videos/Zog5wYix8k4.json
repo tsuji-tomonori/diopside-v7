@@ -1,0 +1,115 @@
+{
+  "videoId": "Zog5wYix8k4",
+  "title": "#4【TOMB RAIDER/トゥーム レイダー】無人島に潜む狂気と謎に挑む【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-18T15:49:13Z",
+  "duration": "PT2H22M18S",
+  "durationSec": 8538,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Zog5wYix8k4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T22:37:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 225,
+        "label": "序盤のステルス戦とガス罠",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "進行確認と爆発戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2088,
+        "label": "閉じ込められた場所からの脱出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2565,
+        "label": "島の儀式をめぐるストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2907,
+        "label": "脱出戦を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3834,
+        "label": "強敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3997,
+        "label": "装備を整えて戦闘を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5162,
+        "label": "残敵を探して進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6133,
+        "label": "次のルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6300,
+        "label": "仲間と合流し脱出の手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6964,
+        "label": "次回に向けた準備と収集探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7148,
+        "label": "ステルスで進路を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7719,
+        "label": "高所を使った終盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8367,
+        "label": "終盤のストーリー演出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8437,
+        "label": "配信終了・次回の準備",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

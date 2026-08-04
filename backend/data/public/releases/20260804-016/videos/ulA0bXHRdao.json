@@ -1,0 +1,145 @@
+{
+  "videoId": "ulA0bXHRdao",
+  "title": "【Dark Deception】アヒルに追いかけられたいお年頃♡【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-21T13:05:16Z",
+  "duration": "PT3H38M10S",
+  "durationSec": 13090,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ulA0bXHRdao/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:40:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始と近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 280,
+        "label": "ライブ中止の報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 483,
+        "label": "ライブ中止を受けた振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 721,
+        "label": "近況とコラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 855,
+        "label": "ゲーム選びとDark Deceptionの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1002,
+        "label": "Dark Deceptionのゲーム設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1334,
+        "label": "操作確認とアヒルステージの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1586,
+        "label": "アヒルステージを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3277,
+        "label": "アヒルステージの仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3989,
+        "label": "ステージ後の物語を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4253,
+        "label": "ピエロステージ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4512,
+        "label": "ピエロステージを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6509,
+        "label": "追跡を避けながらピエロステージを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8454,
+        "label": "新たな仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9351,
+        "label": "ステージ後の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9476,
+        "label": "次の章を準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9615,
+        "label": "新章の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10134,
+        "label": "登場人物を選び新しい部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10543,
+        "label": "新しい仕掛けを確認しながら攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11258,
+        "label": "ゲーム終了・スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12057,
+        "label": "お礼と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12894,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

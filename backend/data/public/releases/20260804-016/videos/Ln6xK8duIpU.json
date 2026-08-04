@@ -1,0 +1,165 @@
+{
+  "videoId": "Ln6xK8duIpU",
+  "title": "＃14【ブルーアーカイブ】時計じかけの花のパヴァーヌ編2章前半。帰ってきたゲーム開発部！！ガチャも引きます！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-27T18:06:41Z",
+  "duration": "PT4H20M49S",
+  "durationSec": 15649,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ln6xK8duIpU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:43:51.235Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・本日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 346,
+        "label": "パヴァーヌ編2章前半の物語開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1269,
+        "label": "ゲーム開発部の日常と対戦ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2289,
+        "label": "ゲーム企画会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2902,
+        "label": "アリスの冒険パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "冒険の続きとミレニアムの交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4234,
+        "label": "ネル先輩とのゲーム対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5065,
+        "label": "物語の異変パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5834,
+        "label": "ロボット戦闘開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6360,
+        "label": "戦闘後の状況整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6519,
+        "label": "アリスをめぐる説明と対立",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7528,
+        "label": "アリスをめぐる作戦開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7741,
+        "label": "C&Cの戦闘パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8461,
+        "label": "物語の大きな転換",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9448,
+        "label": "ストーリーからガチャへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9523,
+        "label": "ミカ狙いのガチャ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9923,
+        "label": "追加募集・新規生徒紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11538,
+        "label": "終盤の募集とロビー確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12316,
+        "label": "ミカの育成と装備強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12616,
+        "label": "追加募集の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13516,
+        "label": "終盤の募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13802,
+        "label": "ガチャ結果の確認と育成方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14142,
+        "label": "生徒育成・固有武器",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14719,
+        "label": "ヒナの育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14972,
+        "label": "配信のまとめ・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15208,
+        "label": "スーパーチャット読み上げ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

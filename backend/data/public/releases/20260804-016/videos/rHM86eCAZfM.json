@@ -1,0 +1,130 @@
+{
+  "videoId": "rHM86eCAZfM",
+  "title": "＃２【30万人記念】残り28個！マウスもペンも変わらんやんなんて言わないで【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-15T21:21:56Z",
+  "duration": "PT2H7M12S",
+  "durationSec": 7632,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rHM86eCAZfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:46:46.238Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "30万人記念の手書きアイコン企画を説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 228,
+        "label": "既存アイコンを確認しポケモン系モチーフを描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 370,
+        "label": "文字中心の汎用アイコンを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 758,
+        "label": "次のモチーフを相談し猫アイコンを描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1508,
+        "label": "メガネの汎用アイコンを仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2168,
+        "label": "文字アイコンを描きながら仕事の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2653,
+        "label": "誕生日ケーキのプレートを描く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3118,
+        "label": "ケーキにフルーツとろうそくを加える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3815,
+        "label": "チョコとフルーツでケーキを飾る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4582,
+        "label": "クリームとレイヤーを調整する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5372,
+        "label": "皿の模様を描いて誕生日ケーキを完成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5605,
+        "label": "次のアイコン候補からイカを描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6315,
+        "label": "イカのアイコン完成・進捗確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6455,
+        "label": "「ゆり」の文字アイコンを描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6888,
+        "label": "作業終了・アイコンの進捗を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6983,
+        "label": "告知と締めの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7073,
+        "label": "スーパーチャット・メッセージ読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7504,
+        "label": "終了前の雑談と就寝の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7588,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

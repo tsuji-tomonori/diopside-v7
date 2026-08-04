@@ -1,0 +1,210 @@
+{
+  "videoId": "rWOToAsjeqk",
+  "title": "【夏芽視点】違う冬のぼくら　巴さんとは見えている世界が違う協力ゲームです！　＃女王と会長【来栖夏芽/にじさんじ】",
+  "publishedAt": "2023-04-16T12:48:18Z",
+  "duration": "PT8H13M12S",
+  "durationSec": 29592,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rWOToAsjeqk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム紹介・異なる世界の協力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1000,
+        "label": "町と像をめぐる少年時代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1292,
+        "label": "花火を目指して山道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "山道の協力アクション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3435,
+        "label": "見え方の違う世界で協力プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3988,
+        "label": "UFOと仕掛けを使う最初の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4893,
+        "label": "顔や記号を伝え合うパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5353,
+        "label": "動物の夫婦と息子をめぐる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7017,
+        "label": "選択後の山道を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "帰り道で見つかる犬",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8734,
+        "label": "犬を追って協力ギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10398,
+        "label": "犬を直して見え方を確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10620,
+        "label": "犬の力を借りて家へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11905,
+        "label": "小さな家とウサギ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12500,
+        "label": "家の中で見えてくる事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13458,
+        "label": "老人をめぐる相談と修理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14212,
+        "label": "修理後の新エリアを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15600,
+        "label": "コピーの仕掛けに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17673,
+        "label": "新エリアの少年と焚き火",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18302,
+        "label": "少年が語る願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19200,
+        "label": "頭と体を分けて進む協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21413,
+        "label": "記号を伝え合う協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21904,
+        "label": "数字ブロックで橋を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22903,
+        "label": "頭と体を再会させて先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24149,
+        "label": "頭を運ぶ2度目のルート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24673,
+        "label": "形を伝える協力パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25055,
+        "label": "UFOと箱で仕掛けを突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25275,
+        "label": "長いステージを終えて頂上へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25650,
+        "label": "場面転換後に物語を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26263,
+        "label": "終盤の選択を前に",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26714,
+        "label": "山での出来事を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27568,
+        "label": "物語の解釈を深掘り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28133,
+        "label": "ゲーム感想・配信終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28330,
+        "label": "配信後の雑談とコメント読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29100,
+        "label": "コラボと物語の余韻",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

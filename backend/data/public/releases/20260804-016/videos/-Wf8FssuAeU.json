@@ -1,0 +1,100 @@
+{
+  "videoId": "-Wf8FssuAeU",
+  "title": "同時視聴【ダンダダン】完全初見で5～7話を観る！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-02-09T15:28:56Z",
+  "duration": "PT1H53M51S",
+  "durationSec": 6831,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-Wf8FssuAeU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・同時視聴の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 300,
+        "label": "第5話 同時視聴スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1633,
+        "label": "第5話終了・第6話への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1830,
+        "label": "第6話 同時視聴スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3217,
+        "label": "第6話終了・第7話の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3453,
+        "label": "第7話 同時視聴スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4802,
+        "label": "第7話終了・感想と考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5595,
+        "label": "怪異の元ネタ・都市伝説を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "次回同時視聴予定・本編終了",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5883,
+        "label": "感想・誕生日の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6133,
+        "label": "スーパーチャット読み・作品の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6302,
+        "label": "同時視聴の振り返り・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6687,
+        "label": "最後の挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

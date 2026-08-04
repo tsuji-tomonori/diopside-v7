@@ -1,0 +1,125 @@
+{
+  "videoId": "4b5WKpvzFoc",
+  "title": "【自撮-Jisatsu-】スクープ映像撮りに廃屋きたらヤバそうな件ｗｗｗｗｗ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-15T14:55:12Z",
+  "duration": "PT1H47M39S",
+  "durationSec": 6459,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4b5WKpvzFoc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 221,
+        "label": "廃屋での撮影準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 641,
+        "label": "廃屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1357,
+        "label": "最初のビデオを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1692,
+        "label": "ビデオ後の廃屋探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2171,
+        "label": "池で手掛かりを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "ボットン便所周辺を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3204,
+        "label": "手掛かりと人形を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3798,
+        "label": "2階でビデオを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "屋根裏と風呂場を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4263,
+        "label": "家の異変を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4891,
+        "label": "映像内の手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5090,
+        "label": "残りの手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5283,
+        "label": "終盤の映像を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5704,
+        "label": "ゲーム後の考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "追加映像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6063,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6152,
+        "label": "スーパーチャット読み・感想",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

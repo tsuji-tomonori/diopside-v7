@@ -1,0 +1,185 @@
+{
+  "videoId": "pX0KzxDFRRA",
+  "title": "＃22【崩壊：スターレイル】風起雲湧、相見える鋒鋩編！不穏な気しかしないが…！？！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-15T17:06:34Z",
+  "duration": "PT3H53M32S",
+  "durationSec": 14012,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pX0KzxDFRRA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の進行説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 650,
+        "label": "ゲーム再開・なのかの修行へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1245,
+        "label": "なのかの実戦訓練と修行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2642,
+        "label": "椒丘と演武典礼の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3295,
+        "label": "演武典礼会場を見学",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3947,
+        "label": "会場の後で起きる不穏な動き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4413,
+        "label": "尾行と証拠集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4999,
+        "label": "不穏な相手との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5334,
+        "label": "将軍たちへの報告と事情聴取",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6008,
+        "label": "演武典礼をめぐる戦略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "歩離人情勢と移送の交渉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6694,
+        "label": "幽囚獄へ・面会の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7193,
+        "label": "面会の規則と狼毒対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7462,
+        "label": "幽囚獄を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8075,
+        "label": "下層への移動パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8306,
+        "label": "収容品の暴走と戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8647,
+        "label": "収容層への道を開く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9008,
+        "label": "収容層で事態が急変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9578,
+        "label": "脱出計画をめぐる会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9957,
+        "label": "幽囚獄の異変を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10452,
+        "label": "救援信号と追跡再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10854,
+        "label": "追跡中の連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11153,
+        "label": "幽囚獄を封鎖する作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11582,
+        "label": "門への急行と防衛戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12046,
+        "label": "椒丘の取引",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12332,
+        "label": "その後の緊迫した展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12450,
+        "label": "将軍たちの緊急対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12616,
+        "label": "本編の振り返り・次回告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13304,
+        "label": "人間ドックの近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13683,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
