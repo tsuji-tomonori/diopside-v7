@@ -1,0 +1,110 @@
+{
+  "videoId": "1n4hlaizmfM",
+  "title": "【#エデンとアソボウ/Among Us】宇宙船を警備させて頂きます。【ローレン・イロアス/にじさんじ】",
+  "publishedAt": "2021-12-11T14:31:17Z",
+  "duration": "PT2H12M28S",
+  "durationSec": 7948,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1n4hlaizmfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T23:35:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 450,
+        "label": "1試合目・序盤のゲームと議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1061,
+        "label": "1試合目・タスクと緊急会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "1試合目・振り返りと設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1988,
+        "label": "2試合目・開始とメインホールの議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2372,
+        "label": "2試合目・議論の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2852,
+        "label": "2試合目・武器庫の議論と設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3534,
+        "label": "3試合目・開始と序盤の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3794,
+        "label": "3試合目・推理と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5013,
+        "label": "最終試合・開始と電気室の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5427,
+        "label": "最終試合・議論の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5893,
+        "label": "追加試合・開始と武器庫の議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6387,
+        "label": "追加試合・タスクとエンジンルームの議論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7041,
+        "label": "追加試合・終盤の推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7628,
+        "label": "終了後の振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

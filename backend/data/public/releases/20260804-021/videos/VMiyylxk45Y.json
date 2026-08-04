@@ -1,0 +1,200 @@
+{
+  "videoId": "VMiyylxk45Y",
+  "title": "【#フミ様24万人記念24時間配信】感謝のぶっ続け２４時間配信🔥 〜真・後編〜【にじさんじフミ】",
+  "publishedAt": "2023-12-29T12:06:13Z",
+  "duration": "PT4H47M5S",
+  "durationSec": 17225,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VMiyylxk45Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:14:43.410887Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "24時間配信の振り返り・最終枠説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 558,
+        "label": "歌枠：最初の歌と声の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1166,
+        "label": "歌枠：パンダヒーロー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1614,
+        "label": "歌枠：タイムマシン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2000,
+        "label": "歌枠：粉雪・声と喉のトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2685,
+        "label": "歌枠：エール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3155,
+        "label": "歌枠：砂の惑星",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3462,
+        "label": "歌枠：曲名不明の歌・歌声トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4166,
+        "label": "歌枠：君じゃなきゃダメみたい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4650,
+        "label": "歌枠：名前を呼ぶよ・アニメ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5353,
+        "label": "歌枠：曲名不明の歌とラスト曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5707,
+        "label": "歌枠：千本桜・終了トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6853,
+        "label": "後半開始・逆凸の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7219,
+        "label": "白雪巴と逆凸トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7674,
+        "label": "はるちゃんと逆凸トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8154,
+        "label": "星川と逆凸トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8590,
+        "label": "なっちと逆凸トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9236,
+        "label": "ポンちゃんとデレステの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10182,
+        "label": "通話後トーク・応援メッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10338,
+        "label": "ロコと逆凸トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11366,
+        "label": "えるとたまごっちトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12440,
+        "label": "長尾景と逆凸トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13164,
+        "label": "先輩と大掃除・食事トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13740,
+        "label": "神田笑一と年末トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14005,
+        "label": "逆凸振り返り・達成後トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14775,
+        "label": "24時間配信を終えての心境",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15608,
+        "label": "感謝・今後の目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15875,
+        "label": "年末予定・終了準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16002,
+        "label": "コメント読み・配信振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16417,
+        "label": "祝福コメント・ショート動画告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16799,
+        "label": "コメント読み・グッズと雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17005,
+        "label": "最後のコメント読み・感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17101,
+        "label": "最終挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

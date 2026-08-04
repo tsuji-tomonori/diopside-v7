@@ -1,0 +1,150 @@
+{
+  "videoId": "8Jt_st4g_l8",
+  "title": "#01【ウマ娘】女好きVtuberの初めてのプリティーダービー【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-12T16:56:24Z",
+  "duration": "PT3H22M30S",
+  "durationSec": 12150,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8Jt_st4g_l8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 647,
+        "label": "ゲーム開始・チュートリアルレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1182,
+        "label": "初回レース後のライブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1323,
+        "label": "トレーナー登録と育成準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1694,
+        "label": "サポートカードと登場キャラクター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1972,
+        "label": "継承システムと育成の流れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2718,
+        "label": "ダイワスカーレット育成とデビュー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3647,
+        "label": "デビュー戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4005,
+        "label": "オープニング視聴とリセマラ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4378,
+        "label": "チーム編成とキャラクターガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4891,
+        "label": "サポートカードガチャとリセマラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5778,
+        "label": "リセマラ結果と育成候補選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6276,
+        "label": "スペシャルウィークのキャラクターストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6789,
+        "label": "サイレンススズカのキャラクターストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7513,
+        "label": "トウカイテイオーの場面と選抜レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7890,
+        "label": "候補選びとマルゼンスキーの選抜レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8563,
+        "label": "オグリキャップのキャラクターストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9166,
+        "label": "タイキシャトルの選抜レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9475,
+        "label": "メジロマックイーンの選抜レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10036,
+        "label": "シンボリルドルフの選抜レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10547,
+        "label": "ライスシャワーのキャラクターストーリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11185,
+        "label": "初回育成候補をリスナーと相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11897,
+        "label": "次回育成を決めて配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

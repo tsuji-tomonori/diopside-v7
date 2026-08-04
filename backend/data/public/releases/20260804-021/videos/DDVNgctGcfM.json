@@ -1,0 +1,155 @@
+{
+  "videoId": "DDVNgctGcfM",
+  "title": "【ポーカーチェイス】大会練習会【にじさんじ/グウェル・オス・ガール】",
+  "publishedAt": "2021-12-30T07:46:42Z",
+  "duration": "PT2H35M20S",
+  "durationSec": 9320,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DDVNgctGcfM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 492,
+        "label": "第1ゲーム開始・序盤のハンド",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1313,
+        "label": "第1ゲームのチップ攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1809,
+        "label": "罰ゲーム案を相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2062,
+        "label": "ハンド振り返り・役の解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2253,
+        "label": "ホールデムのルール談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "第1ゲーム中盤のチップ攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3228,
+        "label": "おすすめ機能・統計を使った判断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3515,
+        "label": "罰ゲームの内容決め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3702,
+        "label": "ゲーム再開・ベットの読み合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3974,
+        "label": "結果振り返りとポーカーマナー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4345,
+        "label": "チップ回復を狙う中盤戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4692,
+        "label": "罰ゲーム相談を挟む終盤戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5092,
+        "label": "確率談義・大会への意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5653,
+        "label": "第1ゲーム終盤の読み合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6244,
+        "label": "第1ゲーム最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7002,
+        "label": "第1ゲーム終了・罰ゲーム相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7188,
+        "label": "第2ゲームのルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7286,
+        "label": "第2ゲーム序盤のチップ攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8011,
+        "label": "第2ゲーム・残り3人の終盤戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8461,
+        "label": "第2ゲーム終盤の攻防",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8760,
+        "label": "ゲーム結果・本番に向けた振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8925,
+        "label": "罰ゲーム・感謝コメント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9041,
+        "label": "年末の感謝・参加者コメント・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

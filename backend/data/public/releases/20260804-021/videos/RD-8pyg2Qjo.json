@@ -1,0 +1,110 @@
+{
+  "videoId": "RD-8pyg2Qjo",
+  "title": "【#おでん会】女たちの欲望だらけのおでん会【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2020-10-23T07:21:40Z",
+  "duration": "PT1H49M18S",
+  "durationSec": 6558,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RD-8pyg2Qjo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:50:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 257,
+        "label": "おでんの準備と具材選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 427,
+        "label": "おでんを食べ始める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 778,
+        "label": "おでんを囲む食卓トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1812,
+        "label": "家庭や人との距離感の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2394,
+        "label": "罰ゲームの準備とやりとり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2707,
+        "label": "ゲーム後のおでんと雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3319,
+        "label": "料理の見た目とレシピの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3711,
+        "label": "紹介された食品を試食",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4497,
+        "label": "料理の写真と食卓の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "食材や色をめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5293,
+        "label": "食べるものを相談して実食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5712,
+        "label": "スポーツ・外出の思い出話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6023,
+        "label": "食事の締めと感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6221,
+        "label": "告知・今後の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

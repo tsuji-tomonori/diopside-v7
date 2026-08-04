@@ -1,0 +1,120 @@
+{
+  "videoId": "xXZP4uqOsRI",
+  "title": "【#フルトイ】シン・エヴァンゲリオン劇場版　同時視聴！【ルイス・キャミー/フミ/白雪巴/にじさんじ】",
+  "publishedAt": "2021-08-14T14:41:28Z",
+  "duration": "PT3H6M31S",
+  "durationSec": 11191,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xXZP4uqOsRI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:20:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "同時視聴開始・本編再生準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 783,
+        "label": "本編視聴・序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2100,
+        "label": "視聴トラブル・本編再同期",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2827,
+        "label": "本編視聴・村の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5102,
+        "label": "本編視聴・戦闘への移行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5735,
+        "label": "本編視聴・戦闘パート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6603,
+        "label": "本編視聴・後半の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7494,
+        "label": "本編視聴・対話と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "本編視聴・終盤の人物描写",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8982,
+        "label": "本編視聴・終盤の対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9281,
+        "label": "本編エンディング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9559,
+        "label": "視聴後トーク・第一印象",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10011,
+        "label": "視聴後トーク・作品の解釈",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10430,
+        "label": "視聴後トーク・作品全体の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10729,
+        "label": "視聴後トーク・キャラクターの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10971,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11035,
+        "label": "お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

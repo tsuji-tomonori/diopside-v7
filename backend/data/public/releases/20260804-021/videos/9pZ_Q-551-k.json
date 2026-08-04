@@ -1,0 +1,130 @@
+{
+  "videoId": "9pZ_Q-551-k",
+  "title": "【#レヴィ誕2020】誕生日だからいいねされた数と同じ金額だけケーキ買って食べる【にじさんじ/レヴィ・エリファ】",
+  "publishedAt": "2020-08-18T13:25:44Z",
+  "duration": "PT3H1M36S",
+  "durationSec": 10896,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9pZ_Q-551-k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:29:50Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 434,
+        "label": "誕生日グッズ・ボイス紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 736,
+        "label": "いいね数連動ケーキ企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1045,
+        "label": "凸待ち：小野町春香との誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1773,
+        "label": "凸待ち：健屋花那とケーキを囲む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2695,
+        "label": "ケーキの演出と実食準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3202,
+        "label": "凸待ち：山神カルタとの誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3426,
+        "label": "凸待ち：轟京子とのゲーム・作品トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4285,
+        "label": "ケーキ実食の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4433,
+        "label": "凸待ち：来栖夏芽との活動トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5083,
+        "label": "凸待ち：飛鳥ひなとの活動・歌の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5847,
+        "label": "ケーキの試食とゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6176,
+        "label": "凸待ち：早瀬走とのゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7608,
+        "label": "凸待ち：舞元啓介との活動・ゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9255,
+        "label": "ケーキを時間内に食べる挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9675,
+        "label": "凸待ち：伏見ガクとのゲーム・音楽トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10281,
+        "label": "ケーキ実食と進捗確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10497,
+        "label": "ゲストとの誕生日企画の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10773,
+        "label": "配信終了・告知・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

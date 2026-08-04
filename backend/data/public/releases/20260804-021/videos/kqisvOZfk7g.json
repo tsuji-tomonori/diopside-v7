@@ -1,0 +1,130 @@
+{
+  "videoId": "kqisvOZfk7g",
+  "title": "【#フミともお泊り雑談】白雪が神社に来てくれたぞ⛩お泊り配信❣【 にじさんじフミ / 白雪巴 】",
+  "publishedAt": "2026-03-21T18:27:36Z",
+  "duration": "PT4H11M17S",
+  "durationSec": 15077,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kqisvOZfk7g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T17:36:02.505Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・乾杯とお泊まりの経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 450,
+        "label": "活動初期と企画の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1077,
+        "label": "百合・友情・恋愛の捉え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1411,
+        "label": "楽曲制作と歌・声の変化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4215,
+        "label": "神社での家族ぐるみの交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4903,
+        "label": "質問コーナー・服と生活習慣",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6580,
+        "label": "一緒に暮らすなら・家事と贈り物",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7197,
+        "label": "連絡の取り方とメッセージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7780,
+        "label": "好きな声と関係性の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8699,
+        "label": "服・水着と見せ方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9300,
+        "label": "VTuber活動と表現の制約",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10045,
+        "label": "ボイス企画とグッズの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11406,
+        "label": "活動を続ける励みとファンとの関係",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12070,
+        "label": "深夜相談ラジオの企画会議",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13142,
+        "label": "扱う話題と配慮を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13989,
+        "label": "投稿方法と番組の進め方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14218,
+        "label": "企画会議まとめ・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14400,
+        "label": "メンバー加入と支援へのお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14994,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

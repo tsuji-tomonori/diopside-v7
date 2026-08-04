@@ -1,0 +1,110 @@
+{
+  "videoId": "bh9V9IICiPU",
+  "title": "【ホラーゲーム】赤ちゃんなので優しくしてくださいAmong the Sleep#1【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-17T15:45:22Z",
+  "duration": "PT1H27M30S",
+  "durationSec": 5250,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bh9V9IICiPU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介と設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 587,
+        "label": "最初の部屋を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 999,
+        "label": "部屋を調べてクマを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1505,
+        "label": "クマを追ってクローゼットへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1861,
+        "label": "夜の部屋とママの気配",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2313,
+        "label": "脅かされる部屋でルート探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "ママへの道と引き出しの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3032,
+        "label": "次の部屋へ進み家具を動かす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3269,
+        "label": "ライト探しとクローゼットの仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3810,
+        "label": "部屋の手がかりと映画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4044,
+        "label": "家の中を探索して次の道具を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4599,
+        "label": "廊下を探して懐中電灯を見つける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4811,
+        "label": "ドアへの道と記憶のアイテム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "シャベルと今回の区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5202,
+        "label": "続きの告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

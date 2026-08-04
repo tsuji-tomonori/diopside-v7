@@ -1,0 +1,115 @@
+{
+  "videoId": "1iPfH484bik",
+  "title": "【雑談】ほろ酔い白雪と夜更かし雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-06T18:04:15Z",
+  "duration": "PT27M19S",
+  "durationSec": 1639,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1iPfH484bik/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・音量確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 224,
+        "label": "ヘッドホンのトラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 322,
+        "label": "機材相談とデビュー1週目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 488,
+        "label": "配信方針・コラボ計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 558,
+        "label": "マイクラと好きなゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 666,
+        "label": "ゲームの好み・夜更かし雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 806,
+        "label": "4万人感謝・新衣装の相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 976,
+        "label": "朝配信と声・衣装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1108,
+        "label": "コメントを拾いながら雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "今後の配信・コラボへの期待",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1254,
+        "label": "企画の反響・ネイルの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1303,
+        "label": "活動理由と理想の関係性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1384,
+        "label": "わんわんコメントとしつけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1460,
+        "label": "締めの準備・翌日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "翌日の予定と視聴者への問いかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1581,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

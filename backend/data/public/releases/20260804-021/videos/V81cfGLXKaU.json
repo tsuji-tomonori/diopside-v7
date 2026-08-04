@@ -1,0 +1,105 @@
+{
+  "videoId": "V81cfGLXKaU",
+  "title": "TRPG『カタシロ』影山シエン",
+  "publishedAt": "2026-07-01T13:58:49Z",
+  "duration": "PT2H46M43S",
+  "durationSec": 10003,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/V81cfGLXKaU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T04:27:50.046Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 617,
+        "label": "第1場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1936,
+        "label": "第2場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2277,
+        "label": "第3場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2913,
+        "label": "第4場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4256,
+        "label": "第5場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4606,
+        "label": "第6場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5469,
+        "label": "第7場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6516,
+        "label": "第8場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6762,
+        "label": "第9場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7441,
+        "label": "第10場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9058,
+        "label": "第11場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9252,
+        "label": "振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9904,
+        "label": "終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

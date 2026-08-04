@@ -1,0 +1,115 @@
+{
+  "videoId": "QHtKK0zc6DM",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」＃6【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-13T16:05:11Z",
+  "duration": "PT2H26M7S",
+  "durationSec": 8767,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/QHtKK0zc6DM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:05:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チャプター4の探索へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 750,
+        "label": "暗所の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1811,
+        "label": "ルートを見直しながら進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2533,
+        "label": "敵との遭遇と不穏な通路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2921,
+        "label": "時間制限のある扉パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3622,
+        "label": "暗所のルート探索と危険地帯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4494,
+        "label": "アスレチック区間と危険地帯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5361,
+        "label": "暗い区域の探索と物語の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5779,
+        "label": "病院周辺の探索と装備確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6559,
+        "label": "弾薬を管理しながらの連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7035,
+        "label": "道具を探してルートを開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7602,
+        "label": "敵との遭遇と近道の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7922,
+        "label": "扉の先を探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8366,
+        "label": "鍵を探してルートを開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8564,
+        "label": "次回に向けた区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8633,
+        "label": "配信終了・次回へ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "videoId": "mdxFV53Cqaw",
+  "title": "【ポケモンユナイト】天才です！白雪さん！ぇあ～【白雪巴／夜見れな／夕陽リリ／にじさんじ】",
+  "publishedAt": "2021-09-04T17:48:42Z",
+  "duration": "PT3H17M59S",
+  "durationSec": 11879,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mdxFV53Cqaw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:48:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 322,
+        "label": "1試合目・レーン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1059,
+        "label": "試合の合間・技の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1215,
+        "label": "2試合目・中盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1514,
+        "label": "2試合目・ロトムとゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1824,
+        "label": "試合の合間・編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1947,
+        "label": "3試合目・レーン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "試合の振り返り・カメックス対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2889,
+        "label": "4試合目・集団戦とオブジェクト戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3337,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "5試合目・序盤からオブジェクト戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4083,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4394,
+        "label": "6試合目・レーン戦と終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5621,
+        "label": "試合後の連携振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5786,
+        "label": "7試合目・序盤のレーン対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6320,
+        "label": "試合後の反省と再戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6407,
+        "label": "8試合目・レーン戦とゴール攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7121,
+        "label": "試合後の反省と学習談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7239,
+        "label": "9試合目・序盤のレーン相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7805,
+        "label": "9試合目・大会アイテム解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8381,
+        "label": "9試合目・終盤のオブジェクト戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8444,
+        "label": "10試合目・編成と序盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9242,
+        "label": "試合後の反省・持ち物相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "11試合目・序盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9944,
+        "label": "試合後の操作設定相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10222,
+        "label": "12試合目・序盤の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10821,
+        "label": "試合後の連携相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11108,
+        "label": "最終試合・レーン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11587,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11701,
+        "label": "配信終了・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

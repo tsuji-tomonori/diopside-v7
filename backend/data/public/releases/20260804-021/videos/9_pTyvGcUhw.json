@@ -1,0 +1,150 @@
+{
+  "videoId": "9_pTyvGcUhw",
+  "title": "＃27【崩壊：スターレイル】八日目の旅立ち編！＆サンデーお迎えガチャ配信！どないこっちゃえらいこっちゃ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-12-09T16:59:28Z",
+  "duration": "PT3H33M29S",
+  "durationSec": 12809,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9_pTyvGcUhw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:39:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 587,
+        "label": "開拓クエスト再開・手土産選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1018,
+        "label": "旅立ちを前にした対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2115,
+        "label": "夢の泡へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "本筋へ戻る・出発前の対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4169,
+        "label": "サンデー視点へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4463,
+        "label": "別れを前にした対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5193,
+        "label": "ドリームメイクパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5601,
+        "label": "場面の締め・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5992,
+        "label": "ヴェルトとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6342,
+        "label": "大劇場での対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7648,
+        "label": "大劇場の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8333,
+        "label": "戦闘後の対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8695,
+        "label": "星穹列車での話し合い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9182,
+        "label": "次の旅への予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9344,
+        "label": "列車内の自由行動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9778,
+        "label": "列車内での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10250,
+        "label": "サンデーお迎えガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10637,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11019,
+        "label": "1凸を目指して",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11513,
+        "label": "編成を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11818,
+        "label": "本編・ガチャの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12021,
+        "label": "お知らせ・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

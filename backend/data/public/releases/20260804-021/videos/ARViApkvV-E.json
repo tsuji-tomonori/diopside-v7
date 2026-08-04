@@ -1,0 +1,185 @@
+{
+  "videoId": "ARViApkvV-E",
+  "title": "【歌枠】新衣装にじ3D解禁♥流行曲など最近のお気に入り曲を歌いまくる！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-13T11:04:05Z",
+  "duration": "PT1H56M13S",
+  "durationSec": 6973,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ARViApkvV-E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T04:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開始・新衣装お披露目の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 296,
+        "label": "新衣装の全身お披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 436,
+        "label": "歌枠の準備・セットリスト紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 633,
+        "label": "可愛くてごめん",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 878,
+        "label": "1曲目後の感想・飲むヨーグルト談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1026,
+        "label": "オーバードーズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1258,
+        "label": "2曲目後の感想・リクエストの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1365,
+        "label": "アイドル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1670,
+        "label": "3曲目後の感想・スタジオ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1826,
+        "label": "ヨワネハキ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2037,
+        "label": "4曲目後の感想・FANTASIAの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2167,
+        "label": "Mela!",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2488,
+        "label": "5曲目後の感想・喉のケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2866,
+        "label": "死神",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3093,
+        "label": "6曲目後の感想・掛け声",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3256,
+        "label": "秒針を噛む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3654,
+        "label": "7曲目後の感想・リクエスト曲の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3893,
+        "label": "アニマ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4256,
+        "label": "8曲目後の感想・後半の案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4481,
+        "label": "ちゅ、多様性。",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4719,
+        "label": "9曲目後の感想・次曲紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4878,
+        "label": "シトラス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5188,
+        "label": "10曲目後の感想・セットリストの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5389,
+        "label": "奇縁ロマンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5735,
+        "label": "11曲目後の感想・ラスト2曲の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5913,
+        "label": "トロイメライ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6213,
+        "label": "歌枠の感想・締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6337,
+        "label": "次回コラボのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6507,
+        "label": "禁断のレジスタンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6857,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

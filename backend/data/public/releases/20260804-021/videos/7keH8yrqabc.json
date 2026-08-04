@@ -1,0 +1,210 @@
+{
+  "videoId": "7keH8yrqabc",
+  "title": "【Detroit: Become Human】クリア耐久。5年ぶりにプレイしたら結末は変わるのか…？【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-08T02:46:17Z",
+  "duration": "PT11H13M5S",
+  "durationSec": 40385,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7keH8yrqabc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T13:30:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・5年ぶりの再プレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 600,
+        "label": "コナー編・最初の人質事件",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1800,
+        "label": "数か月後・アンドロイド社会を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3000,
+        "label": "カーラ編・家事とアリスとの出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4200,
+        "label": "マーカス編・カールとの日常",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5400,
+        "label": "コナー編・事件現場の捜査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6600,
+        "label": "カーラ編・アリスを守る行動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7800,
+        "label": "コナー編・変異体への聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9000,
+        "label": "カーラ編・雨をしのぐ場所探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10200,
+        "label": "マーカス編・廃棄場からの脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11400,
+        "label": "コナー編・警察署で資料を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12600,
+        "label": "コナー編・変異体の手がかりを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13800,
+        "label": "カーラ編・新たな逃走経路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15000,
+        "label": "コナー編・容疑者を追跡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16200,
+        "label": "マーカス編・ジェリコと部品調達",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17400,
+        "label": "カーラ編・屋敷からの脱出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18600,
+        "label": "カーラ編・仲間と新たな居場所へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19800,
+        "label": "マーカス編・倉庫で部品を確保",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21000,
+        "label": "コナー編・クラブでの捜査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22200,
+        "label": "カーラ編・遊園地でひと休み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23400,
+        "label": "マーカス編・放送局への潜入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24600,
+        "label": "マーカス編・メッセージ発信と撤退",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25800,
+        "label": "コナー編・放送局の現場検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 27000,
+        "label": "カーラ編・ローズの家で相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 28200,
+        "label": "マーカス編・仲間を解放する行動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 29400,
+        "label": "コナー編・ハンクとの関係を深める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 30600,
+        "label": "コナー編・捜査継続の手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 31800,
+        "label": "カーラ編・国境へ向かう準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 33000,
+        "label": "ジェリコで合流・脱出を図る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 34200,
+        "label": "それぞれの進路と最終方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 35400,
+        "label": "カーラ編・バスターミナルへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 36600,
+        "label": "マーカス編・人間側との対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 37800,
+        "label": "三人の物語が迎える最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 39000,
+        "label": "エピローグとフローチャート確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 40200,
+        "label": "11時間の振り返り・配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

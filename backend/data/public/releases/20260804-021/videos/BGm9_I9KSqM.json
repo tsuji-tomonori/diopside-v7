@@ -1,0 +1,110 @@
+{
+  "videoId": "BGm9_I9KSqM",
+  "title": "【 夜王国3.5周年 】夜王国共通衣装GP【 不破湊/白雪巴/グウェル・オスガール 】",
+  "publishedAt": "2023-05-30T13:44:10Z",
+  "duration": "PT2H14M5S",
+  "durationSec": 8045,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BGm9_I9KSqM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:35:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・進行確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 265,
+        "label": "季節・ライブ衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1072,
+        "label": "ロック・ストリート系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1594,
+        "label": "アリス・学園系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2099,
+        "label": "和装・ハロウィン系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2703,
+        "label": "王族・ファンタジー系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3441,
+        "label": "軍服・天使悪魔系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4172,
+        "label": "ゴシック・サーカス系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4963,
+        "label": "後半の投稿イラストレビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5799,
+        "label": "動物・日常系衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6633,
+        "label": "カフェ・大人向け衣装案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "最終候補の選定・比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7643,
+        "label": "各賞の決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7836,
+        "label": "企画の締めくくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8003,
+        "label": "3.5周年の挨拶・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

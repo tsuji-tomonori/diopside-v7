@@ -1,0 +1,135 @@
+{
+  "videoId": "RqSyrs4vjMU",
+  "title": "【#百合漫画家様対談コラボ】✨第2回ゲストは樫風先生✨「ロンリーガールに逆らえない」など【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-06-25T13:48:38Z",
+  "duration": "PT1H41M49S",
+  "durationSec": 6109,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RqSyrs4vjMU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:58:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・樫風先生登場",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 307,
+        "label": "百合を好きになったきっかけ・好きな作品",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 763,
+        "label": "キャラクターの作り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1044,
+        "label": "創作の発想と好きな百合シチュエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1408,
+        "label": "『ロンリーガール』のキャラ設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1831,
+        "label": "学生時代の経験と創作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2114,
+        "label": "好きなタイプと理想の告白",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2534,
+        "label": "『ロンリーガール』のテーマが生まれた経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2801,
+        "label": "キャラクターの未来と描かれていない設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3440,
+        "label": "漫画家を目指したきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3853,
+        "label": "百合漫画に男性キャラが登場する理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4151,
+        "label": "好きな百合カプとVTuberの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4488,
+        "label": "新連載と音楽の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "身近な百合カップルについて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5273,
+        "label": "書き下ろしシーンのあらすじ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5536,
+        "label": "書き下ろし台詞の読み上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5614,
+        "label": "台詞全編アフレコ版",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5723,
+        "label": "対談の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5792,
+        "label": "新連載・次回対談のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5972,
+        "label": "ゲスト紹介・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

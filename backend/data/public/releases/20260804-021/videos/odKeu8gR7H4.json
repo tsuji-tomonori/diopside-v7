@@ -1,0 +1,85 @@
+{
+  "videoId": "odKeu8gR7H4",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆14ステ◆【西園寺メアリ/白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-20T12:58:44Z",
+  "duration": "PT1H50M30S",
+  "durationSec": 6630,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/odKeu8gR7H4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1幕「歯医者にて」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 723,
+        "label": "開場挨拶・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1093,
+        "label": "第2幕「私はどこにも行かないからね」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2056,
+        "label": "第3幕「ソウソウタクシー」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2887,
+        "label": "第4幕「愛の拘束」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3603,
+        "label": "第5幕「泡と微熱」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4929,
+        "label": "第6幕「親愛なるあなたに祝福を」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6135,
+        "label": "全6幕の総括・感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "次回公演・配信予定の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6550,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

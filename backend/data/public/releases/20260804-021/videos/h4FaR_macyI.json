@@ -1,0 +1,150 @@
+{
+  "videoId": "h4FaR_macyI",
+  "title": "【GRWM】巴せんぱい！使ってるコスメ教えてください♡【レイン・パターソン/にじさんじ】",
+  "publishedAt": "2022-11-03T23:31:14Z",
+  "duration": "PT1H23M9S",
+  "durationSec": 4989,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/h4FaR_macyI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・ゲスト紹介とGRWM開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 212,
+        "label": "日焼け止め・化粧下地",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 627,
+        "label": "メイク中の朝トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 902,
+        "label": "追加の下地・ファンデ・パウダー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1266,
+        "label": "清楚イメージと趣味のトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1607,
+        "label": "コンシーラーとハイライト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1863,
+        "label": "チークの使い方と順番",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2011,
+        "label": "GRWM・朝活とコラボの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2262,
+        "label": "コンシーラーと肌悩みの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2539,
+        "label": "香り付きアイシャドウと朝配信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2735,
+        "label": "アイシャドウパレット選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "デパコスとプチプラの使い分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3189,
+        "label": "スキンケア選びの試行錯誤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3305,
+        "label": "コスメ談義から広がる金銭感覚トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3708,
+        "label": "シャネルのマスカラとまつ毛ケア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3914,
+        "label": "アイライナー・眉メイク・リップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4037,
+        "label": "人気コスメの品切れとコラボ商品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4138,
+        "label": "自然な血色感を作るチーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4261,
+        "label": "YSLリップの質感比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4467,
+        "label": "ツヤを残すハイライトとパウダー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4750,
+        "label": "グロスで仕上げ・メイク完成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4823,
+        "label": "記念写真タイム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4865,
+        "label": "お礼・ゲスト紹介と締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

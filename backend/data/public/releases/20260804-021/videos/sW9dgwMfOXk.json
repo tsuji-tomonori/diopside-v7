@@ -1,0 +1,135 @@
+{
+  "videoId": "sW9dgwMfOXk",
+  "title": "【#にじイカ祭り2025】✨本番✨勝ったら焼肉いくわよチーム3🔥🔥🔥【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-13T07:54:59Z",
+  "duration": "PT4H37M23S",
+  "durationSec": 16643,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sW9dgwMfOXk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T10:18:04+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・直前練習の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 471,
+        "label": "視聴者参加練習の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 784,
+        "label": "視聴者参加練習・第1ローテーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2621,
+        "label": "視聴者参加練習・第2ローテーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4209,
+        "label": "視聴者参加練習・第3ローテーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5549,
+        "label": "視聴者参加・追加練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7017,
+        "label": "本配信待機・チーム紹介と初戦相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9047,
+        "label": "公式戦・対チーム4戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9579,
+        "label": "初戦振り返り・次戦の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10294,
+        "label": "公式戦・対トラウトチーム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10804,
+        "label": "試合振り返り・ベルチーム戦の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11443,
+        "label": "公式戦・対ベルチーム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12108,
+        "label": "試合振り返り・夢追チーム戦の作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12902,
+        "label": "公式戦・対夢追チーム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13408,
+        "label": "最終戦待機・作戦相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13803,
+        "label": "公式戦・対エリーチーム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14230,
+        "label": "公式戦終了・チーム振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14713,
+        "label": "閉会待機・チームで大会を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15228,
+        "label": "大会後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15988,
+        "label": "スーパーチャットお礼・終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

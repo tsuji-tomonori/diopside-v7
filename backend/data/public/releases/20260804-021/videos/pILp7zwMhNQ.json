@@ -1,0 +1,175 @@
+{
+  "videoId": "pILp7zwMhNQ",
+  "title": "【スプラトゥーン2】ガチマにいます。探さないで下さい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-14T15:44:39Z",
+  "duration": "PT2H10M46S",
+  "durationSec": 7846,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pILp7zwMhNQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:59:12.973Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・15万人達成のお祝い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 359,
+        "label": "スプラトゥーン2の準備と装備雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 636,
+        "label": "最初のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 824,
+        "label": "試合後の振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 977,
+        "label": "ガチマッチ実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1120,
+        "label": "スプラを始めた経緯と上達の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1345,
+        "label": "ガチマッチの接戦を実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1914,
+        "label": "試合後の戦況整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1984,
+        "label": "ガチマッチ実況・エリアとホコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2296,
+        "label": "試合後の振り返りと次の目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2407,
+        "label": "ガチマッチの戦況と反省",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2674,
+        "label": "スプラの思い出と大会経験の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3065,
+        "label": "ガチマッチ実況・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3243,
+        "label": "ガチマッチ実況・マップ攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3538,
+        "label": "試合後の振り返りと次の対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3597,
+        "label": "モンガラキャンプ場のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3679,
+        "label": "ハロウィンフェスの告知と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3968,
+        "label": "ガチマッチ実況・連携を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4412,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4539,
+        "label": "エリアのガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4876,
+        "label": "エリアのガチマッチ・立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5246,
+        "label": "試合のまとめ・相手の動きを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5473,
+        "label": "次のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5597,
+        "label": "マップ相性と射程を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "ガチマッチ・射程とカウンターへの対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6258,
+        "label": "試合後の振り返り・配信予定のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6668,
+        "label": "終盤の連続ガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7694,
+        "label": "配信終了・次回配信のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

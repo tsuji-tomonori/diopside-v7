@@ -1,0 +1,115 @@
+{
+  "videoId": "MdJ-pg73UDQ",
+  "title": "【We Were Here Together】また閉じ込められたんでしょうか……！【#女王と会長/にじさんじ】",
+  "publishedAt": "2021-07-06T15:35:41Z",
+  "duration": "PT3H4M37S",
+  "durationSec": 11077,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MdJ-pg73UDQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回作の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 504,
+        "label": "ゲーム開始・最初の部屋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1019,
+        "label": "雪上装置のハンドルと座標パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1639,
+        "label": "音楽の仕掛け・遭難者の声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2107,
+        "label": "雪上装置の移動ルートを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2813,
+        "label": "雪原の移動と連動エレベーター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3439,
+        "label": "鉱山エレベーターと洞窟への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4540,
+        "label": "洞窟のレバー迷路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5384,
+        "label": "洞窟外の装置・記号の橋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5762,
+        "label": "竜巻エリアの惑星橋",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6445,
+        "label": "分担して記号盤を解読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7099,
+        "label": "本の色・矢印パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8181,
+        "label": "下層の探索と装置パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8913,
+        "label": "顔の接続パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9439,
+        "label": "色付きボトルの配置パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10851,
+        "label": "振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

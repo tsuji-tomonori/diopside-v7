@@ -1,0 +1,135 @@
+{
+  "videoId": "oCZvcy-QhSI",
+  "title": "＃４【こちら、母なる星より】荒廃した池袋で6人の女の子たちがサバイバル生活！？！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-06T14:59:49Z",
+  "duration": "PT3H21M47S",
+  "durationSec": 12107,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oCZvcy-QhSI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:05:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "池袋の廃墟を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1276,
+        "label": "アニメショップを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2166,
+        "label": "図書館へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2404,
+        "label": "図書館でサバイバル知識探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2843,
+        "label": "病院施設と医療ポッドを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3845,
+        "label": "図書館へのルートを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4447,
+        "label": "シェルターに戻って語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4799,
+        "label": "食料不足と竹林の発見",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5308,
+        "label": "最初の食事を作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6005,
+        "label": "夜の語らいと朝の食料不足",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7142,
+        "label": "食料を探しに街へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7484,
+        "label": "食事の準備を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8425,
+        "label": "市場で道具を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9476,
+        "label": "市場のバリケードを開ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10001,
+        "label": "上階で道具を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10317,
+        "label": "食事の下準備を始める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11090,
+        "label": "直火で料理する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11556,
+        "label": "食後のひととき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11790,
+        "label": "配信終了・次回の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11924,
+        "label": "スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

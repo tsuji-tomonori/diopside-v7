@@ -1,0 +1,125 @@
+{
+  "videoId": "1yilnHl_4FM",
+  "title": "【Gartic Phone】絵ウマ勢の夏芽ちゃんと絵ヘタ勢の白雪とあなた達と参加型でやるぞいっ！【#女王と会長/にじさんじ】",
+  "publishedAt": "2024-06-04T13:23:39Z",
+  "duration": "PT2H14M27S",
+  "durationSec": 8067,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/1yilnHl_4FM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T13:36:19.473460Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者募集",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 608,
+        "label": "ゲームルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 697,
+        "label": "第1試合：標準モード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1475,
+        "label": "第1試合の作品を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2358,
+        "label": "第2試合：標準モード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3182,
+        "label": "第2試合の作品を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3956,
+        "label": "コピー品モードの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4076,
+        "label": "コピー品モードで作画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4752,
+        "label": "コピー品モードの結果を再生",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5735,
+        "label": "アニメーションモードの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5763,
+        "label": "アニメーションを共同制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6795,
+        "label": "アニメーション再生・前半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7501,
+        "label": "アニメーション再生・続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7744,
+        "label": "アニメーション再生・最後の作品",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7847,
+        "label": "公開する作品を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7893,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7909,
+        "label": "告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7940,
+        "label": "コラボの感想・次回の話",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

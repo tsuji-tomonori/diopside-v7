@@ -1,0 +1,95 @@
+{
+  "videoId": "AcAniv0ATfg",
+  "title": "【Splatoon2】チームE練習回、夢追視点【にじさんじ/夢追翔/鷹宮リオン/ニュイ・ソシエール/白雪巴】",
+  "publishedAt": "2021-11-13T17:36:06Z",
+  "duration": "PT2H23M22S",
+  "durationSec": 8602,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AcAniv0ATfg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:08:39Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "エリア練習・試合と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "エリア練習・連携調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2487,
+        "label": "やぐら練習開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3593,
+        "label": "やぐら戦と作戦調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4300,
+        "label": "やぐら練習後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5343,
+        "label": "ホコ練習開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "ホコ戦の連携練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6705,
+        "label": "ホコの別練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7152,
+        "label": "追加ホコ練習・最後の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8012,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8387,
+        "label": "試合振り返り・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "ckA197d89Mc",
+  "title": "【ポケモン剣盾】レベリング雑談。絆を深めつつ最強の戦士へ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-01T08:14:42Z",
+  "duration": "PT2H59M10S",
+  "durationSec": 10750,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ckA197d89Mc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T05:24:01.915Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "スプラ大会の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1393,
+        "label": "ポケモン配信の目的とレベリング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1805,
+        "label": "衣装紹介とマイク調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2140,
+        "label": "音声調整後のレベリングとキャンプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "スプラ・コラボ・歌の雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "進化条件と技構成を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3904,
+        "label": "パーティー候補を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4055,
+        "label": "オンバット育成方針と技選び",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4658,
+        "label": "オーラポケモン探しと捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "自転車移動と実戦レベリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5701,
+        "label": "ポケモン寸劇とコラボ妄想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6001,
+        "label": "戦闘・キャンプとパーティー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6739,
+        "label": "料理・レイド・珍しいポケモン探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7429,
+        "label": "配信予定のお知らせと一区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7767,
+        "label": "再探索とレベリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8393,
+        "label": "育成の成果とキャンプ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8898,
+        "label": "技構成を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9304,
+        "label": "キャンプとジム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9510,
+        "label": "終盤の戦闘とパーティー確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10689,
+        "label": "次回予告と終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

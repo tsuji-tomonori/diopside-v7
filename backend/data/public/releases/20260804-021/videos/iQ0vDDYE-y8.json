@@ -1,0 +1,155 @@
+{
+  "videoId": "iQ0vDDYE-y8",
+  "title": "【雑談】今月は色んな人とコラボした気がする…！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-28T16:07:40Z",
+  "duration": "PT2H43M41S",
+  "durationSec": 9821,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iQ0vDDYE-y8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:29:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・PCのカクつき確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 737,
+        "label": "5月のコラボ振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1144,
+        "label": "漫画家コラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1759,
+        "label": "5月のコラボと6月の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2172,
+        "label": "配信のカクつきと容量対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2301,
+        "label": "両親の誕生日とPC・引っ越しの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "防音室の回線と住環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3034,
+        "label": "森中花咲の3Dライブ振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3375,
+        "label": "セルフプロデュース3Dライブ構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3724,
+        "label": "6月のコラボ予定と近況雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4206,
+        "label": "家族のSNS・インスタの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4662,
+        "label": "スマブラ大会とASMRの予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4805,
+        "label": "スマブラ大会の練習と対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5768,
+        "label": "大会前のPC点検・買い替え計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5996,
+        "label": "スーパーチャット読みとPC相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6328,
+        "label": "ライブ振り返りと今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6550,
+        "label": "PC買い替えと旧PCの整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7132,
+        "label": "スパチャ読みとライブ裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7502,
+        "label": "ライブの選曲とコラボの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8005,
+        "label": "配信負荷と障害対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8333,
+        "label": "新PC・配信機材の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9007,
+        "label": "タスクマネージャーで負荷確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9556,
+        "label": "PCの相談先と使い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9693,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

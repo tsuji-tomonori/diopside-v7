@@ -1,0 +1,160 @@
+{
+  "videoId": "gTpG31Wxba4",
+  "title": "【雑談】初めてのふるさと納税！オススメ教えて欲しいな【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-13T16:48:44Z",
+  "duration": "PT3H3M43S",
+  "durationSec": 11023,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gTpG31Wxba4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T18:46:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信スタート・夏バテと肉まんの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 307,
+        "label": "ふるさと納税の相談を始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 618,
+        "label": "ボイス販売のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1143,
+        "label": "肉まんとイラストの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "話題の曲・動画について雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1470,
+        "label": "過去配信の非公開について説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1724,
+        "label": "返礼品探しの方針を決める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2163,
+        "label": "果物とお酒の候補を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2582,
+        "label": "シャインマスカットを比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "果物の感想と季節の品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3603,
+        "label": "夏の返礼品候補を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4204,
+        "label": "メロンの産地・品種を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "メロンの返礼品を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5134,
+        "label": "桃の候補を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5881,
+        "label": "桃の味や食感から選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6585,
+        "label": "マンゴーの返礼品を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6859,
+        "label": "岩牡蠣の返礼品を比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7658,
+        "label": "肉・馬刺しの返礼品を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8407,
+        "label": "選んだ返礼品を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8523,
+        "label": "料理に合うお酒を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9482,
+        "label": "買い物を終えてスパチャへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "スパチャ読み開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9721,
+        "label": "前回3D配信分のスパチャを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10021,
+        "label": "今回の配信のスパチャを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10801,
+        "label": "締めの雑談・次回予告",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

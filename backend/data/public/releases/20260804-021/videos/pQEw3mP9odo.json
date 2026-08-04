@@ -1,0 +1,125 @@
+{
+  "videoId": "pQEw3mP9odo",
+  "title": "【朝雑談】お正月休み明けの出勤・学校キツくないですか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-11T23:29:23Z",
+  "duration": "PT1H19M13S",
+  "durationSec": 4753,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pQEw3mP9odo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・正月休み明けの朝雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 462,
+        "label": "寒い朝の通勤・バス・タクシー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 676,
+        "label": "紅茶と冬の身支度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 912,
+        "label": "モーニングルーティンと朝の習慣",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1288,
+        "label": "実家と一人暮らしの家事分担",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1577,
+        "label": "歯磨き・メイクの朝支度",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1837,
+        "label": "お餅のアレンジレシピ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2403,
+        "label": "最近見た夢と不思議な夢の例",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2721,
+        "label": "夢に表れる不安と夢占い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "悪夢とお金の不安",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3330,
+        "label": "夢に出てくる人と家族の記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3639,
+        "label": "夢と睡眠の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3771,
+        "label": "ストレス発散方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3933,
+        "label": "ペットと癒やし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4102,
+        "label": "自分を大切にするストレス対策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4295,
+        "label": "時計のトラブルと遅刻の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4417,
+        "label": "朝雑談の締め・一日の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4490,
+        "label": "スーパーチャット読み・行ってらっしゃい",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

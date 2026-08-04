@@ -1,0 +1,150 @@
+{
+  "videoId": "Gb8IQKrxWP0",
+  "title": "【#メリクリくろしっく】ファンアートに本人がアテレコ！？【健屋花那・白雪巴/にじさんじ】",
+  "publishedAt": "2020-12-24T13:12:11Z",
+  "duration": "PT1H58M5S",
+  "durationSec": 7085,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Gb8IQKrxWP0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:31:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "クリスマス配信の導入・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 241,
+        "label": "最初のファンアートをアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 692,
+        "label": "カフェを舞台にしたファンアート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 992,
+        "label": "関係性を描くファンアートをアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1712,
+        "label": "職場の昼休みを描くファンアート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2289,
+        "label": "特別な日に一緒にいる二人のアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2522,
+        "label": "バレーボール作品を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2813,
+        "label": "夜のファンアートをアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3121,
+        "label": "表情と声から人物像を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3605,
+        "label": "クリスマスやケーキのファンアート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "帰宅と再会のファンアート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4141,
+        "label": "寄り添って眠る二人のアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4381,
+        "label": "注射をめぐるファンアート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4622,
+        "label": "投げキスや酒造りの場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4754,
+        "label": "待ち合わせとナンパのアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5163,
+        "label": "特別なファンアートをアテレコ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5732,
+        "label": "企画の感想・一年の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5913,
+        "label": "翌日の配信予定・ケーキの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6033,
+        "label": "ケーキを囲んで活動を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6481,
+        "label": "今後の配信予定と作品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "新作ボイスドラマと楽曲の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6845,
+        "label": "関連グッズの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6961,
+        "label": "配信の締め・感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

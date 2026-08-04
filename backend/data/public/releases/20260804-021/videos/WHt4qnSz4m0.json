@@ -1,0 +1,90 @@
+{
+  "videoId": "WHt4qnSz4m0",
+  "title": "【心霊物件】あのホントそういうのいいんで勘弁してください【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-09T15:13:23Z",
+  "duration": "PT2H4M6S",
+  "durationSec": 7446,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WHt4qnSz4m0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-03T17:11:53Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:53:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 170,
+        "label": "物件での新生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "友人との宅飲み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "夜の異変と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1960,
+        "label": "職場での相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2240,
+        "label": "近隣住民の様子を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2680,
+        "label": "管理人への相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3480,
+        "label": "異変の正体を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4280,
+        "label": "脱出を目指す終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5000,
+        "label": "エンディング回収と考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6120,
+        "label": "配信後トーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

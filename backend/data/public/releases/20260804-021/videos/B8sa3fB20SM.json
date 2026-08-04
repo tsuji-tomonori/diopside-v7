@@ -1,0 +1,125 @@
+{
+  "videoId": "B8sa3fB20SM",
+  "title": "＃28【崩壊：スターレイル】オンパロス編。この星は英雄を待っていた…ですって！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-01-18T09:49:08Z",
+  "duration": "PT3H23M35S",
+  "durationSec": 12215,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/B8sa3fB20SM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T20:00:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・育成と編成確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 420,
+        "label": "オンパロス編スタート・列車内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 697,
+        "label": "航路会議と出発準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1657,
+        "label": "オンパロスへの跳躍",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2032,
+        "label": "出発前の確認と地上探索準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3003,
+        "label": "オンパロス到着・遺跡探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3954,
+        "label": "遺跡での初戦闘と出会い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4801,
+        "label": "神殿の避難民と救出へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6030,
+        "label": "創世神話と聖都への旅",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6440,
+        "label": "聖都オクヘイマの防衛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7204,
+        "label": "新たな出会い・市街地を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8417,
+        "label": "水幕の先の戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8818,
+        "label": "聖都での歓迎と探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9380,
+        "label": "オンパロスの歴史",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10083,
+        "label": "バルネアでの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10744,
+        "label": "町の調査方針を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10957,
+        "label": "本編終了・ストーリー振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11734,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "fmSDOuVco5w",
+  "title": "【3DLIVE】#影山シエン生誕祭2024  さぁ、夜の宴を始めよう 【影山シエン/ホロスターズ】",
+  "publishedAt": "2024-02-25T12:20:02Z",
+  "duration": "PT1H4M5S",
+  "durationSec": 3845,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fmSDOuVco5w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T10:50:33.578056Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 149,
+        "label": "歌唱パート①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 378,
+        "label": "SPECIALZ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "誕生日ライブの挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 750,
+        "label": "歌唱パート③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1074,
+        "label": "歌唱パート④",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1257,
+        "label": "ロキ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1492,
+        "label": "ゲストトーク①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1739,
+        "label": "歌唱パート⑥",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1970,
+        "label": "ゲストトーク②",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2240,
+        "label": "歌唱パート⑦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2696,
+        "label": "歌唱パート⑧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2906,
+        "label": "歌唱パート⑨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3073,
+        "label": "革命デュアリズム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3308,
+        "label": "ゲストトーク③",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3637,
+        "label": "ライブ終演の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3686,
+        "label": "誕生日グッズ告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

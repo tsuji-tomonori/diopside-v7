@@ -1,0 +1,165 @@
+{
+  "videoId": "YDT4Yjfw_8o",
+  "title": "【お誕生日】逆凸でお祝いの言葉をもらいたい！【#猫瀬乃しん生誕祭2022/のりプロ所属】",
+  "publishedAt": "2022-07-18T15:21:18Z",
+  "duration": "PT2H6M55S",
+  "durationSec": 7615,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YDT4Yjfw_8o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T20:12:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・逆凸企画説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 258,
+        "label": "逆凸：犬山たまき",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 605,
+        "label": "逆凸：稲荷いろは",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 901,
+        "label": "逆凸：レグルシュ・ライオンハート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1252,
+        "label": "逆凸：鬼灯わらべ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1560,
+        "label": "逆凸：人生つみこ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1810,
+        "label": "逆凸：龍ケ崎リン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2219,
+        "label": "逆凸：神楽めあ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2564,
+        "label": "逆凸：白雪巴",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2857,
+        "label": "逆凸：兎鞠まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3095,
+        "label": "逆凸：Ike Eveland",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3366,
+        "label": "逆凸企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3418,
+        "label": "誕生日ボイス告知動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3473,
+        "label": "誕生日ボイス・グッズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3563,
+        "label": "企画総括・前半締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3634,
+        "label": "後半開始・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4663,
+        "label": "活動初期からの応援を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4945,
+        "label": "スーパーチャット読み・5万人への目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5409,
+        "label": "5万人の目標と活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5666,
+        "label": "スーパーチャット読み再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5885,
+        "label": "支援者への感謝・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6495,
+        "label": "スーパーチャット読み終了後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6704,
+        "label": "誕生日ボイス・グッズ再告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6810,
+        "label": "5万人達成に向けた計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7105,
+        "label": "次回配信・引っ越し準備の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7351,
+        "label": "締め・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

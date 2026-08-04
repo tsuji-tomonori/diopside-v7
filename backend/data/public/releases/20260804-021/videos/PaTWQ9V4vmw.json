@@ -1,0 +1,110 @@
+{
+  "videoId": "PaTWQ9V4vmw",
+  "title": "【#にじ鯖夏祭り】巴さんと浴衣で夏祭りデート！【#Crossick 白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2020-08-22T15:51:03Z",
+  "duration": "PT1H49M50S",
+  "durationSec": 6590,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PaTWQ9V4vmw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・夏祭り会場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 381,
+        "label": "神社にお参り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 615,
+        "label": "屋台と参加者を見て回る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1246,
+        "label": "アトラクションに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2034,
+        "label": "みんなで迷路を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2992,
+        "label": "花火の観覧場所を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3178,
+        "label": "花火に向けて準備する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3662,
+        "label": "花火を楽しむ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3907,
+        "label": "花火の余韻とこれからの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4214,
+        "label": "会場を巡って写真撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4570,
+        "label": "夏祭りの締め・閉会式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4921,
+        "label": "かくれんぼ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5930,
+        "label": "追加チャレンジとアイテム集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6248,
+        "label": "最後の花火と夏の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6412,
+        "label": "告知・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

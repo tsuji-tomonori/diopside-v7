@@ -1,0 +1,80 @@
+{
+  "videoId": "xcOT1WTz--o",
+  "title": "【#にじさんじ麻雀杯2024 】予選U卓 ⋮ 立直！ロン！！ツモ！！！！！【にじさんじ/山神カルタ】",
+  "publishedAt": "2024-01-06T13:36:37Z",
+  "duration": "PT37M",
+  "durationSec": 2220,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xcOT1WTz--o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "麻雀杯予選・対局前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 457,
+        "label": "対局開始・序盤の手牌選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 727,
+        "label": "リーチをめぐる駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 933,
+        "label": "テンポが変わる局面と危険牌の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1074,
+        "label": "鳴きと手牌読みの攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1210,
+        "label": "点差を意識した終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1541,
+        "label": "最終局面・手牌選択の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1799,
+        "label": "対局後の確認・インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2124,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

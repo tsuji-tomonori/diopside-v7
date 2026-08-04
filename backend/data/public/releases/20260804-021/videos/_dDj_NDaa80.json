@@ -1,0 +1,130 @@
+{
+  "videoId": "_dDj_NDaa80",
+  "title": "【SILENT HILL f #8】5周目-最終エンド・前半- 雛子、ウチへ帰ろう。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-15T19:54:04Z",
+  "duration": "PT6H34M28S",
+  "durationSec": 23668,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_dDj_NDaa80/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T09:05:33+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・これまでの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1809,
+        "label": "5周目開始・町の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3184,
+        "label": "町を抜けるルートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4864,
+        "label": "持続戦闘と次の地域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5591,
+        "label": "長い対話と次の目的",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6839,
+        "label": "町を巡って次の地域へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8268,
+        "label": "周辺探索と長い戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9871,
+        "label": "謎解きエリアへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10513,
+        "label": "合流後の探索ルート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11493,
+        "label": "異界の道と連続戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12725,
+        "label": "戦いの後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13091,
+        "label": "学校を目指して山道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15375,
+        "label": "学校を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18180,
+        "label": "学校の異界ルートへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19742,
+        "label": "取り逃した資料を再確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20379,
+        "label": "色扉の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21706,
+        "label": "色扉の先を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22504,
+        "label": "学校ルート終盤の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23072,
+        "label": "探索終了・次回へ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

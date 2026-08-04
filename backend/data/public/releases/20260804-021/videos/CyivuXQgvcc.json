@@ -1,0 +1,125 @@
+{
+  "videoId": "CyivuXQgvcc",
+  "title": "【DbD】大体ホラー映画とかで序盤に死ぬヤツ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-03T14:37:23Z",
+  "duration": "PT1H27M15S",
+  "durationSec": 5235,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CyivuXQgvcc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・告知とゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "育成方針とメグ選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 510,
+        "label": "メグの目標・パーク準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 795,
+        "label": "1戦目：サバイバーで挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1573,
+        "label": "1戦目後の振り返りと育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1832,
+        "label": "見た目と装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "草むらに隠れる衣装選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2462,
+        "label": "ホラー映画の役柄を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3016,
+        "label": "キラー役に挑戦・マッチ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3264,
+        "label": "キラー戦開始・操作に慣れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3541,
+        "label": "キラー戦で追跡と攻撃を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4101,
+        "label": "キラー戦後・サバイバー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4197,
+        "label": "カスタムマッチの話と新しい衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4353,
+        "label": "ホラー映画の配役オーディション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4474,
+        "label": "サバイバー戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4559,
+        "label": "サバイバー戦・終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5125,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5159,
+        "label": "配信の締め・次回のお知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

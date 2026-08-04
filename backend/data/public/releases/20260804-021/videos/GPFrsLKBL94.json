@@ -1,0 +1,150 @@
+{
+  "videoId": "GPFrsLKBL94",
+  "title": "【Minecraft】雪の家⛄玄関とお庭作り～！るんるん♪【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-03-31T07:57:36Z",
+  "duration": "PT6H22M14S",
+  "durationSec": 22934,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GPFrsLKBL94/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T10:43:14.572Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ワールド見回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 669,
+        "label": "雪の家確認・玄関と庭の計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1361,
+        "label": "玄関床の素材比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "地下牢獄の改修・仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4576,
+        "label": "玄関床の仕上げ・照明検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5853,
+        "label": "動物庭づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7334,
+        "label": "玄関の延長・屋根の検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7825,
+        "label": "玄関の高さ・ドアを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "噴水の設計・制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10945,
+        "label": "噴水周辺の庭づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12006,
+        "label": "玄関前の階段・ドア調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13200,
+        "label": "玄関脇の照明装飾",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13919,
+        "label": "玄関上部の仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14937,
+        "label": "玄関外側の塀・フェンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16173,
+        "label": "外庭の花畑づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16651,
+        "label": "外庭の塀づくりと雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18171,
+        "label": "雪の外枠を仕上げ・次回準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18636,
+        "label": "小さな雪小屋の位置決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19238,
+        "label": "雪小屋の土台・壁・屋根づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20130,
+        "label": "雪小屋の入口・屋根を仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20611,
+        "label": "次回計画・庭の拡張",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22293,
+        "label": "成果確認・次回配信の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22762,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

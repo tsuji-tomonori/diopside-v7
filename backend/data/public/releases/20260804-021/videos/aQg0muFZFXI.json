@@ -1,0 +1,100 @@
+{
+  "videoId": "aQg0muFZFXI",
+  "title": "TRPG「カタシロ」を終えて振り返ってみる。※ネタバレあり※【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-01-31T16:09:08Z",
+  "duration": "PT2H28S",
+  "durationSec": 7228,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aQg0muFZFXI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T03:06:29.190Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 142,
+        "label": "振り返り配信スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 376,
+        "label": "出演者とシナリオの魅力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1075,
+        "label": "当日の体験を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1767,
+        "label": "物語で投げかけられた問い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2523,
+        "label": "家族と価値観の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3292,
+        "label": "命と心について考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "コメントから気づいたこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4917,
+        "label": "自分を支えた人たち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5504,
+        "label": "一週間考えて見えたこと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6411,
+        "label": "これから遊びたいTRPG",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6672,
+        "label": "体調と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6878,
+        "label": "スーパーチャット読み・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

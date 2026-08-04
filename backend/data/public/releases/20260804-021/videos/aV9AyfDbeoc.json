@@ -1,0 +1,105 @@
+{
+  "videoId": "aV9AyfDbeoc",
+  "title": "【声劇】脚本家はあなた！バーチャル3分劇場◆6ステ◆【エリー・コニファー/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-07T13:01:55Z",
+  "duration": "PT1H49M51S",
+  "durationSec": 6591,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aV9AyfDbeoc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T08:22:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "第1幕「新たな冒険」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 752,
+        "label": "第1幕後の感想・第2幕準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1125,
+        "label": "第2幕「ご注文はアンドロイドですか」紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1235,
+        "label": "第2幕の声劇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1732,
+        "label": "第2幕後の感想・第3幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "第3幕「輪花-わっか-」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2705,
+        "label": "第3幕後の感想・第4幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3261,
+        "label": "第4幕「愛の形」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3742,
+        "label": "第4幕後の感想・第5幕紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4258,
+        "label": "第5幕「変わらないもの」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4782,
+        "label": "第5幕後の感想・設定解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5432,
+        "label": "第6幕の紹介・開演準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5665,
+        "label": "第6幕の声劇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6029,
+        "label": "全6幕の感想・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

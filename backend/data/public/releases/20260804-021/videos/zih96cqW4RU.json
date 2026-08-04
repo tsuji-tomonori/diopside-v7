@@ -1,0 +1,120 @@
+{
+  "videoId": "zih96cqW4RU",
+  "title": "【ストプレ】『魔法使いの愛した子』を体験するぞ。※ネタバレ注意【来栖夏芽/白雪巴/にじさんじ】",
+  "publishedAt": "2026-01-08T15:18:51Z",
+  "duration": "PT2H53M44S",
+  "durationSec": 10424,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/zih96cqW4RU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T01:55:45.756Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 272,
+        "label": "作品と遊び方の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 837,
+        "label": "注意事項・配役と進行準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1391,
+        "label": "第一場面・個別準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2162,
+        "label": "第一場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2589,
+        "label": "第二場面・個別準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3060,
+        "label": "第二場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3715,
+        "label": "第三場面・個別準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4075,
+        "label": "第三場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4772,
+        "label": "第四場面・個別準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5178,
+        "label": "第四場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5910,
+        "label": "第五場面・個別準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6723,
+        "label": "第五場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8258,
+        "label": "終幕",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8555,
+        "label": "アフタートーク・全体振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9973,
+        "label": "作品の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10210,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "videoId": "xLQNHKtERDU",
+  "title": "【雑談】新しい環境になった私とあなた。【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-02T15:13:14Z",
+  "duration": "PT2H4M56S",
+  "durationSec": 7496,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xLQNHKtERDU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新衣装・近況と体調",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 710,
+        "label": "リハビリと新生活の不安",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1123,
+        "label": "専業配信の活動方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1653,
+        "label": "配信スタイルの葛藤と新衣装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2113,
+        "label": "友人との交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2639,
+        "label": "懐かしのアニメ・作品談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3399,
+        "label": "新衣装の補足と歌ってみた裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3734,
+        "label": "3月の活動振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4324,
+        "label": "4月はマイペースに",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4775,
+        "label": "骨折と自分をいたわる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "外出と生活を広げる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5466,
+        "label": "配信と休養のバランス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5880,
+        "label": "新生活への応援とゲーム配信の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6138,
+        "label": "スーパーチャット読みとゲーム談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6406,
+        "label": "推しと新社会人へのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6553,
+        "label": "雑談テーマと生活リズム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6898,
+        "label": "シーズン2と今後の活動ペース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7143,
+        "label": "4月の方針とゲーム進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7340,
+        "label": "締めのメッセージと挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
