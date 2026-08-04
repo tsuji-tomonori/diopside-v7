@@ -1,0 +1,165 @@
+{
+  "videoId": "s3ISkFWESQw",
+  "title": "【Seven Nights Ghost】ホラー？それとも‥？可愛い幽霊なら大歓迎です【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-25T18:05:28Z",
+  "duration": "PT3H54M59S",
+  "durationSec": 14099,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/s3ISkFWESQw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:52:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 365,
+        "label": "ゲーム紹介・プレイ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 518,
+        "label": "社宅の設備を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 842,
+        "label": "社宅の噂と初日の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1121,
+        "label": "最初の夜、幽霊との遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1908,
+        "label": "二日目の探索と幽霊への対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2654,
+        "label": "ドーナツを隠す課題",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3165,
+        "label": "三日目のカップ麺準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3828,
+        "label": "猫の置き物を修理する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5772,
+        "label": "最後の夜の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6886,
+        "label": "鍵と付箋の手がかり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "付箋記号と算数パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8385,
+        "label": "最後の夜の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "最後の札を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9167,
+        "label": "幽霊から逃げるチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10106,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10444,
+        "label": "別ルートを確認・チェックアウト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11107,
+        "label": "エンディング後の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11667,
+        "label": "感想と追加探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12000,
+        "label": "再挑戦でドーナツを隠す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12499,
+        "label": "再挑戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12860,
+        "label": "もう一つのエンディング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13223,
+        "label": "別ルートの展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13477,
+        "label": "ゲームの感想・配信終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13552,
+        "label": "次回配信・記念配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13640,
+        "label": "スーパーチャット読み・雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

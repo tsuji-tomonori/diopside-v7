@@ -1,0 +1,100 @@
+{
+  "videoId": "6Y1VOIHxvmU",
+  "title": "【 #フルトイキャッチョコ 】キャット＆チョコレート【 にじさんじ】",
+  "publishedAt": "2021-01-30T08:53:54Z",
+  "duration": "PT38M45S",
+  "durationSec": 2325,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/6Y1VOIHxvmU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:27:21.477265Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム開始・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 225,
+        "label": "バスジャックのピンチに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 432,
+        "label": "鍵のない帰宅に対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 612,
+        "label": "芸人志望の友人へのピンチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 799,
+        "label": "トイレットペーパーがないピンチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1060,
+        "label": "宇宙人との遭遇に対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1310,
+        "label": "久しぶりの相手との会話に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1620,
+        "label": "靴下のピンチに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1813,
+        "label": "騒がしい隣人への対処",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1995,
+        "label": "最後のピンチに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2141,
+        "label": "ゲーム終了・結果発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2179,
+        "label": "印象に残った回答を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2221,
+        "label": "配信終了・コラボ告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

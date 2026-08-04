@@ -1,0 +1,115 @@
+{
+  "videoId": "3hJL2AGsuZE",
+  "title": "【看病がかり】鬱ゲー？グロホラー？病に隠された悲しい過去とは【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-20T12:42:17Z",
+  "duration": "PT1H31M34S",
+  "durationSec": 5494,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3hJL2AGsuZE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T15:59:22Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 264,
+        "label": "ゲーム開始・病室の見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 857,
+        "label": "患者への声かけと看病",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1517,
+        "label": "看病日誌と患者の変化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1752,
+        "label": "患者の会話と看病の選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2258,
+        "label": "患者たちの内面を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2495,
+        "label": "病気の説明を読み直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2843,
+        "label": "病気の進行と患者への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3408,
+        "label": "ゲームの仕組みと看病の意味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3664,
+        "label": "看病日誌・次の展開の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3971,
+        "label": "ゲームの展開と感情を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4314,
+        "label": "空気を読むこととゲームのテーマ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4644,
+        "label": "別ルートの準備と内面の考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4922,
+        "label": "ゲーム総括・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5154,
+        "label": "スーパーチャット読み・ゲーム感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5434,
+        "label": "終了挨拶・お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

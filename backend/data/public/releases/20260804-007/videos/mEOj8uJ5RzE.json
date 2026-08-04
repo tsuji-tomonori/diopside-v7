@@ -1,0 +1,175 @@
+{
+  "videoId": "mEOj8uJ5RzE",
+  "title": "＃２【CONTROL】多勢に無勢で●にまくり！？火炉にゴミを捨てたいンダ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-06T17:09:59Z",
+  "duration": "PT3H58M56S",
+  "durationSec": 14336,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mEOj8uJ5RzE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:40:12.457307Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 321,
+        "label": "ゲーム開始・発電所周辺の防衛",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 578,
+        "label": "トラス室の探索と操作室への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 890,
+        "label": "ミッション確認と操作室への進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1191,
+        "label": "電源投入後の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1837,
+        "label": "自爆型の敵が出る区画の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2217,
+        "label": "戦闘後の資料探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2717,
+        "label": "ゴミ燃焼と能力ポイント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2944,
+        "label": "冷却ポンプの任務とポンプ区画の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "ロックダウン解除のミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4225,
+        "label": "サブミッション探索と新エリアの解放",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4704,
+        "label": "資料確認と変貌アイテムの考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5138,
+        "label": "敵戦とグレネードキャッチの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5900,
+        "label": "武器強化とホロウ救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6703,
+        "label": "ストーリー整理と次の目的",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7211,
+        "label": "時計のパワーオブジェクトを解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7515,
+        "label": "ウェルズとの会話と共闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8103,
+        "label": "記録を読みながらルートと装備を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9036,
+        "label": "強敵との長時間戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9910,
+        "label": "新ミッションと研究セクター探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10725,
+        "label": "新エリアと迷路の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11110,
+        "label": "迷路の手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11683,
+        "label": "研究資料の確認と考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12252,
+        "label": "博士の研究室を探す探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12966,
+        "label": "研究資料と教示性の考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13152,
+        "label": "研究セクターの戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13528,
+        "label": "終盤の資料確認・強化・次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13857,
+        "label": "スーパーチャット読み上げ・感想雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

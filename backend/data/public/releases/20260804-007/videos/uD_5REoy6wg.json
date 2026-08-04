@@ -1,0 +1,105 @@
+{
+  "videoId": "uD_5REoy6wg",
+  "title": "【ポケモンユナイト】顔合わせ―【夜見れな／にじさんじ】",
+  "publishedAt": "2021-09-08T15:31:21Z",
+  "duration": "PT1H55M54S",
+  "durationSec": 6954,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uD_5REoy6wg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:35:16.631862+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "顔合わせ・編成と対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1590,
+        "label": "1戦目・チーム練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2329,
+        "label": "1戦目後の振り返り・次の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2572,
+        "label": "2戦目・プレイと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3116,
+        "label": "試合後の振り返り・次戦編成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3795,
+        "label": "3戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4197,
+        "label": "カメックスの動き・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4750,
+        "label": "4戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5109,
+        "label": "フレンドマッチ設定・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5492,
+        "label": "5戦目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6109,
+        "label": "5戦目後・ラスト準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6422,
+        "label": "最終戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6862,
+        "label": "最終戦・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6937,
+        "label": "終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

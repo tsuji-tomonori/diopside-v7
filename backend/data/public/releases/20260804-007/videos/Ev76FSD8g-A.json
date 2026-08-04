@@ -1,0 +1,115 @@
+{
+  "videoId": "Ev76FSD8g-A",
+  "title": "【 #マリカにじさんじ杯 】つまり前を走ってるやつが速いってこと【夕陽リリ/にじさんじ】",
+  "publishedAt": "2020-12-19T05:09:53Z",
+  "duration": "PT1H57S",
+  "durationSec": 3657,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ev76FSD8g-A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:15:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・予選の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 202,
+        "label": "本会場配信の視聴準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 432,
+        "label": "ライバーとの距離感を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 657,
+        "label": "大会待機・参加者の観察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 952,
+        "label": "ハッシュタグ案内・表示確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1114,
+        "label": "ルーム参加の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1274,
+        "label": "予選レースの実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1997,
+        "label": "レース間の待機・大会観察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2239,
+        "label": "レース後の結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "予選後の振り返り・インタビュー待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2793,
+        "label": "インタビュー接続・レース談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2956,
+        "label": "大会インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3125,
+        "label": "インタビュー後の大会案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3229,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3485,
+        "label": "スパチャ後の雑談・終了準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3606,
+        "label": "終盤の告知・関連配信案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

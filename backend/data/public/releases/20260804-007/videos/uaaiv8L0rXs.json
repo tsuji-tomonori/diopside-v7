@@ -1,0 +1,115 @@
+{
+  "videoId": "uaaiv8L0rXs",
+  "title": "【#にじARK】夜王国ARK【にじさんじ/グウェル・オス・ガール】",
+  "publishedAt": "2021-09-28T14:50:11Z",
+  "duration": "PT2H4M4S",
+  "durationSec": 7444,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uaaiv8L0rXs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T02:06:33Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ARKコラボ導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 453,
+        "label": "ARK初心者の操作・サバイバル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1271,
+        "label": "恐竜との交流とステータス説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1820,
+        "label": "仲間の拠点探しとクラフト入門",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2431,
+        "label": "寝袋・採取・収納の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2946,
+        "label": "拠点作り・リスポーンの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3394,
+        "label": "水中探索・帰還と再クラフト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4040,
+        "label": "恐竜の名前付けと拠点探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4406,
+        "label": "テイム目標を決めて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4796,
+        "label": "パチンコで恐竜テイムに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5333,
+        "label": "恐竜の世話と成長",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5894,
+        "label": "次のテイム準備と初回ARKの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "帰還・次の目標決め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6554,
+        "label": "新たな恐竜のテイムに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6901,
+        "label": "恐竜の世話と拠点準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7279,
+        "label": "終了挨拶・次回の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

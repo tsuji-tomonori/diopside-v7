@@ -1,0 +1,125 @@
+{
+  "videoId": "l3fZk9TOBHw",
+  "title": "【バイオRE:2】女好き強気お姉さんのビビりバイオプレイ～クレア裏～#３【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-04T15:38:08Z",
+  "duration": "PT2H19M15S",
+  "durationSec": 8355,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l3fZk9TOBHw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T15:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回から再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 509,
+        "label": "駐車場方面へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 767,
+        "label": "地下ルート・ゾンビ犬区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1107,
+        "label": "シェリーと合流・状況を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1795,
+        "label": "アンブレラ記録を読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1935,
+        "label": "プラグ謎解きとアイテム回収",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2209,
+        "label": "脱出メッセージから下水道を突破",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3678,
+        "label": "警察署へ戻りフィルム・装備を回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4018,
+        "label": "STARS周辺を探索して装備補強",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4491,
+        "label": "下水道の難所に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5045,
+        "label": "プラグ配置の謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5365,
+        "label": "大型の敵に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5897,
+        "label": "ビデオテープ確認・アイテム整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6467,
+        "label": "プラグ謎解きに再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6716,
+        "label": "装備を整えて難所の戦闘へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7498,
+        "label": "シェリーと次の目的地へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7940,
+        "label": "研究所へ向けて情報整理・準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8228,
+        "label": "配信終了・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

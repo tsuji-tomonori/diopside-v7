@@ -1,0 +1,115 @@
+{
+  "videoId": "YEb7oYPQbRI",
+  "title": "【ポケモンユナイト】チームH練習・VSチームD・オリバー枠【オリバー・エバンス/にじさんじ】",
+  "publishedAt": "2021-09-08T15:58:27Z",
+  "duration": "PT1H57M27S",
+  "durationSec": 7047,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YEb7oYPQbRI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ロビー設定・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "1試合目のチームH練習対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1047,
+        "label": "1試合目の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1348,
+        "label": "2試合目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2110,
+        "label": "次戦の編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2395,
+        "label": "3試合目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2958,
+        "label": "試合後の構成・練習相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "4試合目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3845,
+        "label": "4試合目の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4134,
+        "label": "カビゴンの技・役割確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4278,
+        "label": "5試合目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4597,
+        "label": "6試合目の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4824,
+        "label": "練習方針・初動タイムライン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5199,
+        "label": "最後の練習対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5807,
+        "label": "最後の試合の振り返り・練習計画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6839,
+        "label": "配信終了の挨拶・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

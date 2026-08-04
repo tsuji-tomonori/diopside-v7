@@ -1,0 +1,85 @@
+{
+  "videoId": "RMPYfoizaNY",
+  "title": "【お悩み相談 #学生編01】友達付き合い/学校が合わない/楽しく過ごすにはetc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-08T14:42:01Z",
+  "duration": "PT1H32M24S",
+  "durationSec": 5544,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RMPYfoizaNY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:03:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・学生編のお悩み相談室",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 463,
+        "label": "友人関係の悩みと距離の取り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1122,
+        "label": "専門学校と進路を考える相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1984,
+        "label": "担任が苦手で学校に行きづらい相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2721,
+        "label": "友人との距離感を考える相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3250,
+        "label": "3人グループで浮いてしまう悩み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3855,
+        "label": "高校受験と内申点の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4375,
+        "label": "体調を優先した学校生活と新しい趣味",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4911,
+        "label": "学生編の振り返り・次回告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5039,
+        "label": "スーパーチャット読み・配信後の雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

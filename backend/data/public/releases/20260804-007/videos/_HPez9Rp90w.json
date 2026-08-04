@@ -1,0 +1,180 @@
+{
+  "videoId": "_HPez9Rp90w",
+  "title": "【#北小路爆誕2023】多分もうやらない誕生日凸待ち2023【北小路ヒスイ/にじさんじ】",
+  "publishedAt": "2023-04-13T16:10:34Z",
+  "duration": "PT4H19M23S",
+  "durationSec": 15563,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_HPez9Rp90w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T14:39:45Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "誕生日凸待ちの準備とビデオメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 530,
+        "label": "最初の凸者と誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 776,
+        "label": "テーマパークへのデート案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1132,
+        "label": "歌とカラオケの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1452,
+        "label": "漫画同人誌時代と人生観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1954,
+        "label": "活動の振り返りとキャンプの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2418,
+        "label": "カラオケ企画とドラマのおすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2836,
+        "label": "海外からの凸者と料理の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3120,
+        "label": "韓国旅行と写真撮影の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3489,
+        "label": "人生のゴールと京都デート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4024,
+        "label": "機材トラブルの思い出と映画の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4431,
+        "label": "デート先と配信活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5234,
+        "label": "富士急の思い出とゲーム企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5494,
+        "label": "食べたい料理と横浜の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6371,
+        "label": "日付変更までの凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6619,
+        "label": "歌ってみた制作と凸待ちの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7089,
+        "label": "凸待ちの構想と続ける気持ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7569,
+        "label": "TRPGと一緒に遊ぶ話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8323,
+        "label": "ミュージカル・演劇活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9523,
+        "label": "GeoGuessr動画と参加者の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10229,
+        "label": "参加者コミュニティと活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11344,
+        "label": "凸待ちの待機と会話デッキ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12107,
+        "label": "参加者の印象とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12321,
+        "label": "0時までの延長と日常の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13065,
+        "label": "アフタヌーンティーのデート案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13645,
+        "label": "紅茶の余韻と最後の凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14442,
+        "label": "最後の凸者とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15124,
+        "label": "凸待ちを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15439,
+        "label": "誕生日への感謝と配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

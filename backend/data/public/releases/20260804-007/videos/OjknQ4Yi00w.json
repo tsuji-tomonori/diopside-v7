@@ -1,0 +1,105 @@
+{
+  "videoId": "OjknQ4Yi00w",
+  "title": "【エスカレーター】ホラー間違い探し？異変を見つけて脱出しよ…！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-23T14:56:22Z",
+  "duration": "PT1H49M49S",
+  "durationSec": 6589,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OjknQ4Yi00w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T22:20:00.823211Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム説明・エスカレーター探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 478,
+        "label": "初回プレイで異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1681,
+        "label": "分担して異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2323,
+        "label": "追加異変モードへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2880,
+        "label": "環境の異変を確認する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3602,
+        "label": "追加異変の周回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "残りの異変を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4862,
+        "label": "ゲーム終了・配信案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "教習所と運転の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5520,
+        "label": "教官の教え方を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5881,
+        "label": "厳しい教官と安全運転",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6121,
+        "label": "スパチャ読み・ゲーム振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "視聴者返信・教習所雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6540,
+        "label": "最後の感謝・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

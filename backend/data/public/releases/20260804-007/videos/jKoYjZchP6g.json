@@ -1,0 +1,155 @@
+{
+  "videoId": "jKoYjZchP6g",
+  "title": "【雑談】全身医療脱毛とホワイトニング体験レポ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-16T15:51:17Z",
+  "duration": "PT2H39M48S",
+  "durationSec": 9588,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jKoYjZchP6g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T02:59:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 542,
+        "label": "にじさんじ甲子園を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1401,
+        "label": "Outlast耐久を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1632,
+        "label": "30万人目前・ホラーゲームの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "3分劇場の台本募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2699,
+        "label": "3人の温泉ボイスを告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2802,
+        "label": "エヴァンゲリオンを語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3101,
+        "label": "今週の配信予定と夜王国の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3558,
+        "label": "みなとさんのASMR・3D収録話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3922,
+        "label": "30万人到達への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4300,
+        "label": "30万人記念アイコン案を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4648,
+        "label": "ホワイトニングの初回検査・マウスピース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "歯科清掃とホワイトニング後の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5539,
+        "label": "ホワイトニング当日の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5850,
+        "label": "レーザー照射と一回目のホワイトニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6625,
+        "label": "二回目のホワイトニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7040,
+        "label": "白さ・知覚過敏・食事について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7446,
+        "label": "医療脱毛を選んだ理由・体験レポ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7689,
+        "label": "医療脱毛の条件と施術前の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7984,
+        "label": "麻酔と施術中の痛み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8307,
+        "label": "全身脱毛の施術",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "施術後の痛み・費用・効果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9150,
+        "label": "施術後のケアと残す範囲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9340,
+        "label": "体験レポの締め・今後の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

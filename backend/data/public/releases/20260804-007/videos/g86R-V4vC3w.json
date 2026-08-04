@@ -1,0 +1,110 @@
+{
+  "videoId": "g86R-V4vC3w",
+  "title": "【雑談】9月はてんてこ舞い【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-09-11T14:40:22Z",
+  "duration": "PT1H29M42S",
+  "durationSec": 5382,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/g86R-V4vC3w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T07:47:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前夜祭",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 327,
+        "label": "にじさんじスクラッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 763,
+        "label": "もっとミラクル2時3時出演告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1048,
+        "label": "3分劇場・エリーさん回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1887,
+        "label": "ハッピーアワー・黒シック振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2443,
+        "label": "ファンアートと応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "スクラッチ景品のキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3016,
+        "label": "歌ってみた10万再生と配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3152,
+        "label": "Apex 2434キルリレー振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4025,
+        "label": "歌枠振り返りと今後の企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4255,
+        "label": "ホラーゲーム再開とお月見ボイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4408,
+        "label": "ホラーコラボと9月の企画予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4604,
+        "label": "3Dお披露目を待つ後語り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4910,
+        "label": "スーパーチャット読み・9月の活動総括",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5318,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

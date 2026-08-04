@@ -1,0 +1,120 @@
+{
+  "videoId": "MZ-OUHL6YK0",
+  "title": "【縦型配信】ホワイトデースクショ祭りのリベンジ猫雪【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-23T14:49:53Z",
+  "duration": "PT1H42M12S",
+  "durationSec": 6132,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MZ-OUHL6YK0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開幕・猫雪リベンジ説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 232,
+        "label": "猫耳衣装とスクショ候補を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1105,
+        "label": "ヘッドドレスやスーツを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1666,
+        "label": "猫雪リベンジ振り返り・近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1987,
+        "label": "最後のスクショ候補",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2517,
+        "label": "今後の配信予定と雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2615,
+        "label": "親知らず・歯の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3129,
+        "label": "百合漫画と理想の顔",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3414,
+        "label": "自分磨きと体型維持",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3896,
+        "label": "食事制限の経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4191,
+        "label": "運動方法と筋トレ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4496,
+        "label": "体型との向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4741,
+        "label": "歯のケアと配信終了案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4922,
+        "label": "スーパーチャット読み・衣装の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5202,
+        "label": "ゲームの話題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5446,
+        "label": "スパチャ読み・歯と健康の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6049,
+        "label": "最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

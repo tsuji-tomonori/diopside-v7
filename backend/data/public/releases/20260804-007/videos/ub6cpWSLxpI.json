@@ -1,0 +1,135 @@
+{
+  "videoId": "ub6cpWSLxpI",
+  "title": "【夜間警備】眠気もブッ飛ばしてくれる恐怖体験‥って本当ですか？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-06-19T15:16:48Z",
+  "duration": "PT2H9M16S",
+  "durationSec": 7756,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ub6cpWSLxpI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:37:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 210,
+        "label": "ゲーム開始・夜勤の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 920,
+        "label": "警備業務のルール確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1015,
+        "label": "1・2階の通常巡回",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2040,
+        "label": "最初の異変・蛍光灯の点検",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2496,
+        "label": "怪異に遭遇・備品室を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3195,
+        "label": "ヒューズ交換と照明復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3748,
+        "label": "警備室の異変と6階巡回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4455,
+        "label": "7階探索とスイッチ集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4948,
+        "label": "怪異の再来と暗闇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5219,
+        "label": "非常階段から出口を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5897,
+        "label": "扉の手掛かりを探すパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6295,
+        "label": "チェイスと脱出パズル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6482,
+        "label": "帰宅を目指す終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6670,
+        "label": "本編終了・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6821,
+        "label": "ゲームの感想・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6983,
+        "label": "スーパーチャット読み・ゲーム考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7309,
+        "label": "スパチャ読み・配信感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "カラオケコラボの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7719,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

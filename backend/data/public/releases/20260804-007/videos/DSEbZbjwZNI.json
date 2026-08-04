@@ -1,0 +1,180 @@
+{
+  "videoId": "DSEbZbjwZNI",
+  "title": "【誕生日凸待ち】ひとりでもケーキ食べれますけど！🍰【天宮こころ/にじさんじ】#あまみゃHBD",
+  "publishedAt": "2020-07-01T12:32:47Z",
+  "duration": "PT3H44M58S",
+  "durationSec": 13498,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DSEbZbjwZNI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:18:50.839602Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1683,
+        "label": "お祝い動画・音声メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2286,
+        "label": "ケーキを食べながら誕生日トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2760,
+        "label": "最初の凸通話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "機材確認とゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3481,
+        "label": "誕生日祝いと企画相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4323,
+        "label": "複数人で誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "香り・身だしなみの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5401,
+        "label": "ゲーム仲間と次の凸待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5643,
+        "label": "誕生日祝いと作品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6003,
+        "label": "来訪者との誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "習慣と努力の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6842,
+        "label": "漫画・マリオの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "ゲームの得意不得意・遊びの予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7684,
+        "label": "ゲームの難易度とMinecraft",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8041,
+        "label": "Minecraft・Apexの参加計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8409,
+        "label": "誕生日プレゼントと理想の女性像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8642,
+        "label": "ゲームの話と次の来訪者待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9244,
+        "label": "服装・好きな色の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9361,
+        "label": "体調とケーキの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9606,
+        "label": "ゲーム計画と配信中の出来事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9960,
+        "label": "今後のゲーム予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10202,
+        "label": "贈り物と誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10803,
+        "label": "ゲーム・Apexの誕生日トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11648,
+        "label": "スーパーチャット読み上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12000,
+        "label": "年齢・衣装・配信活動の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12485,
+        "label": "企画の締め・誕生日関連案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12721,
+        "label": "スーパーチャット読み上げ・感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13441,
+        "label": "配信の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

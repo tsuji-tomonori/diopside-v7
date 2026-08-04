@@ -1,0 +1,145 @@
+{
+  "videoId": "67QzNyc-4OQ",
+  "title": "＃33【崩壊：スターレイル】オンパロス編。フラグをへし折って進もうそうしよう。【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-17T16:21:23Z",
+  "duration": "PT3H3M12S",
+  "durationSec": 10992,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/67QzNyc-4OQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:20:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 317,
+        "label": "配信開始・ファンミのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 573,
+        "label": "ゲーム再開・記憶の残像",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1264,
+        "label": "記憶の残像と救出へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2133,
+        "label": "次の試練へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3181,
+        "label": "玉座へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "オクヘイマで次の任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4452,
+        "label": "学者たちの家族を訪ねる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5046,
+        "label": "巴さんの夢の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5285,
+        "label": "帰還後の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5732,
+        "label": "夢の話・続き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5882,
+        "label": "拠点での情報整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6211,
+        "label": "浴場の異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7114,
+        "label": "貸切浴場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7505,
+        "label": "試練を語る二人",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8452,
+        "label": "緊急の知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9009,
+        "label": "モディスの記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9526,
+        "label": "トリスビアスの記憶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9934,
+        "label": "ゲーム終了・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10232,
+        "label": "次回配信と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10396,
+        "label": "ガチャ・キャラクター雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10653,
+        "label": "スパチャ読み・感想拾い",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

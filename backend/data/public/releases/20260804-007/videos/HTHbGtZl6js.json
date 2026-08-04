@@ -1,0 +1,150 @@
+{
+  "videoId": "HTHbGtZl6js",
+  "title": "【Minecraft】寝起きまったり雑談しながら街づくり続行【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-06T14:46:23Z",
+  "duration": "PT4H27M23S",
+  "durationSec": 16043,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HTHbGtZl6js/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・まったり街づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "猫の建物とホテルを見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1109,
+        "label": "ホテル開業・動物めぐり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1676,
+        "label": "参加者の建築と仕掛けを見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2081,
+        "label": "動物アイテムと猫のお世話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3137,
+        "label": "新しい家探しと猫部屋見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3912,
+        "label": "家の購入交渉と動物の世話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4910,
+        "label": "動物園と花の迷路を設計",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5774,
+        "label": "学力テスト配信の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "バラの迷路づくりと雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "池とベンチをつくる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8161,
+        "label": "周辺建築を見学",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8440,
+        "label": "ホテル外観の調整と装飾",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9760,
+        "label": "駐車場・待合室とホテル内装",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10501,
+        "label": "バラ園に戻って操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10856,
+        "label": "ホテルのメニューとオプションづくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11979,
+        "label": "メニュー追加・再作成・案内文",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12662,
+        "label": "参加者を迎えて庭園を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13589,
+        "label": "池まわりで参加者と交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14038,
+        "label": "ベンチ・手洗い場・休憩所づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14700,
+        "label": "庭園と休憩所を仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15599,
+        "label": "バラ園を案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15938,
+        "label": "食事と配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

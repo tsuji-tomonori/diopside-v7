@@ -1,0 +1,180 @@
+{
+  "videoId": "PnDQXQjOuuM",
+  "title": "＃最終回【TOKYO DARK】精神状態で左右される！？サイコロジカルホラーゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-29T17:39:50Z",
+  "duration": "PT4H8M12S",
+  "durationSec": 14892,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PnDQXQjOuuM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:38:38.630943Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・これまでのあらすじ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 515,
+        "label": "過去の調査と新たな手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1109,
+        "label": "写真からたどる仮面の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1526,
+        "label": "仮面にまつわる歴史と警告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2060,
+        "label": "捜査再開・警察への協力",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2709,
+        "label": "剣道場で聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3312,
+        "label": "過去の記録を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3883,
+        "label": "歌舞伎町で手がかり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4482,
+        "label": "カスミとの交渉と猫カフェの依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5276,
+        "label": "猫カフェをめぐる騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "次の手がかりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7134,
+        "label": "写真から浮かぶ過去",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8055,
+        "label": "祖母から聞く過去の事件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8692,
+        "label": "仮面の手がかりと森への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9537,
+        "label": "青木ヶ原を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10004,
+        "label": "森の中での対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10554,
+        "label": "施設で進む儀式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11229,
+        "label": "儀式の中で手がかりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11848,
+        "label": "選択後の会話と不穏な場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12399,
+        "label": "日常に戻り新たな手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12658,
+        "label": "森を再び探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13009,
+        "label": "レイナとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13461,
+        "label": "最後の選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13744,
+        "label": "結末へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14029,
+        "label": "エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14197,
+        "label": "ゲームを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14448,
+        "label": "エンディング後の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14521,
+        "label": "配信の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14616,
+        "label": "スーパーチャット読み・お礼",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

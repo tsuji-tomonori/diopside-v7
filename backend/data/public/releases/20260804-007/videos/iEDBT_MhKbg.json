@@ -1,0 +1,110 @@
+{
+  "videoId": "iEDBT_MhKbg",
+  "title": "＃36【崩壊：スターレイル】オンパロス編。アナイクス…そっちはダメだ…戻れ…！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-08T14:52:33Z",
+  "duration": "PT1H42M41S",
+  "durationSec": 6161,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iEDBT_MhKbg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:09:55Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 248,
+        "label": "霊命の崖へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 603,
+        "label": "会談を待ちながら探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1316,
+        "label": "壁画に残る記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2074,
+        "label": "原老院で会談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2528,
+        "label": "場所を移して交渉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3616,
+        "label": "霊命の崖を登る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3912,
+        "label": "巡礼路で過去をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4618,
+        "label": "山頂に残る記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4803,
+        "label": "記憶を手がかりに推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5104,
+        "label": "エーグルと次の目的",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5479,
+        "label": "ゲーム終了・次回案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5532,
+        "label": "今回の振り返り・考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5875,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6050,
+        "label": "翌日の案内・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

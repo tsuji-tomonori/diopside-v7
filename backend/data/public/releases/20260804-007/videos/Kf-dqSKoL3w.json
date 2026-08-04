@@ -1,0 +1,115 @@
+{
+  "videoId": "Kf-dqSKoL3w",
+  "title": "【バイオRE:2】やられたらやり返すビビりお姉さんのバイオプレイ#3【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-08-13T16:05:46Z",
+  "duration": "PT1H53M44S",
+  "durationSec": 6824,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kf-dqSKoL3w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T09:06:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・施設の記録を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 470,
+        "label": "地下施設を進みシェリーを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1196,
+        "label": "暗い通路の戦闘と施設の記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1583,
+        "label": "探索再開・ゾンビを倒して先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2261,
+        "label": "エリアを探索して警察署へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3191,
+        "label": "地下通路の戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3694,
+        "label": "ルートを探して弾薬を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4046,
+        "label": "下層施設を進み次のエリアを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4970,
+        "label": "物資を整えて武器を入手",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "強敵を越えてパズルへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5433,
+        "label": "チェス駒パズルを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5687,
+        "label": "強敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6127,
+        "label": "ストーリーシーン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6362,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6454,
+        "label": "次のエリアへ向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6747,
+        "label": "配信終了・次回告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

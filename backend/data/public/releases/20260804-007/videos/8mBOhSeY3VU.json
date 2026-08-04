@@ -1,0 +1,100 @@
+{
+  "videoId": "8mBOhSeY3VU",
+  "title": "【ホラー体験】あなたが体験したゾッとする話聞かせて第七弾【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-09-02T15:46:58Z",
+  "duration": "PT1H38M55S",
+  "durationSec": 5935,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8mBOhSeY3VU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T05:01:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 430,
+        "label": "巴のカラオケ怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 912,
+        "label": "第1話：修学旅行の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1355,
+        "label": "第2話：繰り返す夢の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1772,
+        "label": "第3話：ヘッドホンの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1977,
+        "label": "第4話：ホテルのエレベーター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2572,
+        "label": "第5話：心霊トンネルの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2914,
+        "label": "第6話：ぬいぐるみの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3504,
+        "label": "第7話：山道の車の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4103,
+        "label": "第8話：音楽に入ったノイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4413,
+        "label": "第9話：廃墟探索の怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5223,
+        "label": "第10話：祭りの怪談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5513,
+        "label": "全話振り返り・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

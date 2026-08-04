@@ -1,0 +1,100 @@
+{
+  "videoId": "AtsWhg8p8cc",
+  "title": "にじさんじの奇怪な物語ー秋の彼岸の特別編ー",
+  "publishedAt": "2024-09-23T12:01:45Z",
+  "duration": "PT58M6S",
+  "durationSec": 3486,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/AtsWhg8p8cc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入・除霊バイトの始まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 369,
+        "label": "除霊バイトの実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 782,
+        "label": "本職の霊能者との対立",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1184,
+        "label": "有人タクシー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1731,
+        "label": "あの子の足音",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2246,
+        "label": "異世界転生の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2495,
+        "label": "異世界の事情を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2676,
+        "label": "勇者の訓練と旅の決断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2832,
+        "label": "サポート存在との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2966,
+        "label": "異世界での対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3076,
+        "label": "一行との会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3254,
+        "label": "エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3385,
+        "label": "エンディング・エンドロール",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

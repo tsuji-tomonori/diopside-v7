@@ -1,0 +1,150 @@
+{
+  "videoId": "FgEaU4gX45E",
+  "title": "＃最終回【星のカービィ ディスカバリー】四面コンプ済み！ラスボスまでいくぽよ！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-10T15:57:02Z",
+  "duration": "PT4H15M59S",
+  "durationSec": 15359,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FgEaU4gX45E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T23:45:38.091019Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 604,
+        "label": "最初のエリアを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1502,
+        "label": "砂漠・遺跡のエリアを探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2410,
+        "label": "雪景色のエリアを攻略",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3013,
+        "label": "クリア後の能力進化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3603,
+        "label": "進化能力でエリア攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4501,
+        "label": "トレジャーに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6003,
+        "label": "次のエリアの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6303,
+        "label": "雪・氷から熱地形へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7206,
+        "label": "マグマ・ボムのギミック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8105,
+        "label": "クリア後のほおばり変形",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8404,
+        "label": "ほおばり変形で走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "時間制限チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9023,
+        "label": "終盤区画を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9604,
+        "label": "ボス連戦に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10801,
+        "label": "大ボス戦に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11704,
+        "label": "大ボス戦の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12301,
+        "label": "大ボス戦のクライマックス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12902,
+        "label": "エンディング演出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13504,
+        "label": "追加要素・音楽区画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13801,
+        "label": "追加区画を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14106,
+        "label": "追加区画のチャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15003,
+        "label": "感想・配信終了案内",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

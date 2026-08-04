@@ -1,0 +1,125 @@
+{
+  "videoId": "jQPTjlQw07Y",
+  "title": "【雑談】たまにはほろ酔いで雑談と思ったけどやっぱり禁酒続行で【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-30T15:57:49Z",
+  "duration": "PT2H42M30S",
+  "durationSec": 9750,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/jQPTjlQw07Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:42:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・禁酒継続と4月の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 390,
+        "label": "春・桜・出会いと別れの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 485,
+        "label": "バイオハザード6コラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1343,
+        "label": "ゴールデンウィークの配信予定とコラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1616,
+        "label": "ウマ娘を始めたきっかけと育成の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2065,
+        "label": "最近の配信・凸・連絡の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2527,
+        "label": "謎解きコラボの準備と掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3001,
+        "label": "3分劇場の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3695,
+        "label": "『さくらの夜』歌ってみたの制作裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4210,
+        "label": "『さくらの夜』に込めた思い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4401,
+        "label": "これからの配信方針と人との向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4860,
+        "label": "5月の配信予定・企画のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5322,
+        "label": "配信を振り返りながら感謝を伝える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5489,
+        "label": "スーパーチャットを読みながら4月を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6553,
+        "label": "ウマ娘の育成と配信化の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "スーパーチャット読みと視聴者へのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8995,
+        "label": "自愛と今後の予定を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9337,
+        "label": "終盤のスーパーチャット・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

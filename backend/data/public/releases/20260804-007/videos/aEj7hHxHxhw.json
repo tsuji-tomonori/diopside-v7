@@ -1,0 +1,145 @@
+{
+  "videoId": "aEj7hHxHxhw",
+  "title": "＃１【パタポン1+2リプレイ】大好きな神ゲーが帰ってきた💓パタパタパタポン🎶【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-10T11:46:11Z",
+  "duration": "PT2H34M3S",
+  "durationSec": 9243,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aEj7hHxHxhw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T15:33:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 163,
+        "label": "オープニング",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 332,
+        "label": "ニューゲーム開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 799,
+        "label": "パタポリスへ帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1024,
+        "label": "初めての狩り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1383,
+        "label": "石の壁を破れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1624,
+        "label": "部隊づくりと素材集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2163,
+        "label": "ジゴトンの反撃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2457,
+        "label": "部隊強化と砦攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3023,
+        "label": "弓ポン加入とゴーン戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3492,
+        "label": "遺跡の守護者に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4150,
+        "label": "狩りで戦力強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5081,
+        "label": "遺跡の守護者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5646,
+        "label": "雨の奇跡を探して",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6028,
+        "label": "雨の奇跡への準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6448,
+        "label": "隠し遺跡の守護者",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6759,
+        "label": "砂漠横断に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7469,
+        "label": "雨を呼ぶ砂漠横断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8147,
+        "label": "ジゴトン大軍を迎え撃つ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8682,
+        "label": "ゲームプレイ終了と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8802,
+        "label": "スーパーチャットお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9123,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

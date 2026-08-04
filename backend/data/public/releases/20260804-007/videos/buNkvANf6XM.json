@@ -1,0 +1,185 @@
+{
+  "videoId": "buNkvANf6XM",
+  "title": "【Splatoon3】無人島行ってもスプラで暇つぶしできんじゃん！！【にじさんじ/愛園愛美/白雪巴】",
+  "publishedAt": "2022-09-25T13:58:52Z",
+  "duration": "PT3H49M14S",
+  "durationSec": 13754,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/buNkvANf6XM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T18:09:44.046143Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・フェス企画の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 601,
+        "label": "最初の通常バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "初トリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1518,
+        "label": "2回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2077,
+        "label": "3回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2400,
+        "label": "4回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2772,
+        "label": "5回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3354,
+        "label": "6回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3990,
+        "label": "7回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "8回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4831,
+        "label": "9回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5233,
+        "label": "10回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5444,
+        "label": "11回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6031,
+        "label": "12回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6555,
+        "label": "ギア調整・新武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7128,
+        "label": "音声調整・コラボ合流待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7491,
+        "label": "白雪巴さんとコラボ開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8192,
+        "label": "コラボ1回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8422,
+        "label": "コラボ2回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8997,
+        "label": "コラボ3回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9519,
+        "label": "コラボ4回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10200,
+        "label": "コラボ5回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10560,
+        "label": "雑談・次のバトル準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10800,
+        "label": "コラボ6回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10954,
+        "label": "コラボ7回目のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11630,
+        "label": "コラボ8回目のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12030,
+        "label": "終盤のトリカラバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12878,
+        "label": "コラボ最後のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13198,
+        "label": "最後の通常バトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13366,
+        "label": "コラボ終了・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
