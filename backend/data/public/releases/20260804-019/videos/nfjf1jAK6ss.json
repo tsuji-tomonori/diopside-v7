@@ -1,0 +1,120 @@
+{
+  "videoId": "nfjf1jAK6ss",
+  "title": "【Ib】リメイク版がリリースされたので初プレイしてみる【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-12T17:03:57Z",
+  "duration": "PT4H2M53S",
+  "durationSec": 14573,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nfjf1jAK6ss/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 481,
+        "label": "美術館の展示を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1081,
+        "label": "展示室の異変と赤いバラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2279,
+        "label": "展示室の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "青い花びらとギャリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4142,
+        "label": "ギャリーと進む展示室の謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5942,
+        "label": "数字の扉とマネキン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7022,
+        "label": "分岐を試しながら先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8100,
+        "label": "三人で出口を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9002,
+        "label": "ギャリーを探して色彩の謎へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9900,
+        "label": "作品集と絵の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10981,
+        "label": "追跡と鍵探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11880,
+        "label": "作品世界の出口とおもちゃ箱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12420,
+        "label": "おもちゃ箱の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12960,
+        "label": "物語終盤を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13681,
+        "label": "エンディング後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13860,
+        "label": "感想・アフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

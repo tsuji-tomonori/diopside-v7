@@ -1,0 +1,85 @@
+{
+  "videoId": "pUnRwHBmtGE",
+  "title": "【お悩み相談 #恋愛編01】既読無視/告白する勇気/距離の縮め方etc...周りにも言えない悩み事、白雪が聞きますっ！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-05T14:45:09Z",
+  "duration": "PT1H34M22S",
+  "durationSec": 5662,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pUnRwHBmtGE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:29:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・恋愛相談室の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 538,
+        "label": "遠距離恋愛と連絡頻度の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1430,
+        "label": "好きな人との出会い・恋愛のタイミング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2293,
+        "label": "長年の片思いと告白の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2678,
+        "label": "好きな人との距離の縮め方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3235,
+        "label": "社会人の出会い方を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4120,
+        "label": "関係の作り方と好意の伝え方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4582,
+        "label": "合コン後のアプローチ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5204,
+        "label": "相談本編の締め・相談募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5363,
+        "label": "スーパーチャット読み・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

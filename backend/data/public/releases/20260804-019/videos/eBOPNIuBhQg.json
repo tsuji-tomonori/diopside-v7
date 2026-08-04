@@ -1,0 +1,140 @@
+{
+  "videoId": "eBOPNIuBhQg",
+  "title": "＃06【崩壊：スターレイル】仙舟「羅浮」編。囮ってコト…！？これって利用されてる！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-04-03T10:43:10Z",
+  "duration": "PT3H32M24S",
+  "durationSec": 12744,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eBOPNIuBhQg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 468,
+        "label": "羅浮の開拓クエストを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1207,
+        "label": "港でカフカの手がかり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2094,
+        "label": "敵戦とルートパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2632,
+        "label": "カフカを追う戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3741,
+        "label": "カフカとのボス戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4221,
+        "label": "戦闘後の会話と尋問準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4821,
+        "label": "羅浮を探索して診療へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5317,
+        "label": "次の目的地へ向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "謎の商人と羅浮の状況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6462,
+        "label": "スシャンと仙舟を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6825,
+        "label": "青雀を訪ねて太卜司へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7426,
+        "label": "緊急ゲートのパズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7686,
+        "label": "太卜司で尋問の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8640,
+        "label": "三つの矩陣を再起動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9784,
+        "label": "カフカへの尋問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10478,
+        "label": "星核ハンターの話を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10799,
+        "label": "棺をめぐる会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11053,
+        "label": "負傷者を救助する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11673,
+        "label": "仙舟と星神の歴史",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12097,
+        "label": "本編終了・感想とスパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

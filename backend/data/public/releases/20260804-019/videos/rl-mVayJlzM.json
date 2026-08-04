@@ -1,0 +1,230 @@
+{
+  "videoId": "rl-mVayJlzM",
+  "title": "＃04【崩壊：スターレイル】ヤリ―ロⅥ編。ついにラスト！全面対決⁉明かされる真実とは…【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-23T07:13:04Z",
+  "duration": "PT5H53M56S",
+  "durationSec": 21236,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rl-mVayJlzM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までのあらすじ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 552,
+        "label": "ベロブルグの物語再開・旅立ちへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1983,
+        "label": "真実をめぐる対話・調査の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2703,
+        "label": "星核の調査計画・ゲパードとの遭遇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3599,
+        "label": "軍事区画への潜入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4243,
+        "label": "端末パズルとエネルギーコア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4804,
+        "label": "ダンとの対決・施設を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5801,
+        "label": "ゲパードとの対話と戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6735,
+        "label": "戦いの後、それぞれの決断",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7139,
+        "label": "前線を越えてフラグメントゥムへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7806,
+        "label": "フラグメントゥムの仕掛けを解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9067,
+        "label": "遺跡を進み、敵と戦う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9953,
+        "label": "コア周辺の探索・パーティー編成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10260,
+        "label": "コアでの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10831,
+        "label": "コアでの戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11313,
+        "label": "崩落後の対話と回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11953,
+        "label": "コアでの大きな戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12468,
+        "label": "街での後日談と次の進行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13629,
+        "label": "フックとモグラ団のサブクエスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14296,
+        "label": "システムとエコーの確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14611,
+        "label": "クラーラたちのその後・地上への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15097,
+        "label": "不思議な箱のサブイベント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15368,
+        "label": "ケーブルカーで地上へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15655,
+        "label": "ブローニャの演説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15907,
+        "label": "演説後の街トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16118,
+        "label": "列車への帰還と街の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16379,
+        "label": "セルヴァたちとの別れ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16693,
+        "label": "夢の続き・出発準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17101,
+        "label": "列車に戻り、旅を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17353,
+        "label": "ベロブルグ編の振り返りと出発準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18315,
+        "label": "配信終了へ・列車の旅立ち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19034,
+        "label": "新たな依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19404,
+        "label": "次の行き先を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19825,
+        "label": "次の星への到着",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20035,
+        "label": "配信終了・次回のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20204,
+        "label": "終了後の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20404,
+        "label": "スパチャ読み・ビルド談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20703,
+        "label": "視聴者へのお礼・物語の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21071,
+        "label": "次回に向けた雑談",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

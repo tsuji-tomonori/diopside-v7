@@ -1,0 +1,105 @@
+{
+  "videoId": "fK6ngaZ6aMg",
+  "title": "【スプラトゥーン2】チーム練習3日目！黒ZAPに愛されたイカ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-19T15:07:35Z",
+  "duration": "PT1H33M28S",
+  "durationSec": 5608,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fK6ngaZ6aMg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T12:44:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム練習の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 411,
+        "label": "初戦の実戦練習・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1282,
+        "label": "2戦目の実戦練習・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1963,
+        "label": "3戦目の実戦練習・編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2723,
+        "label": "短い実戦と次ステージ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2869,
+        "label": "次のステージで実戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3444,
+        "label": "チーム連携を確認して実戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3909,
+        "label": "チームの上達と作戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4176,
+        "label": "左右からの攻めと武器の使い分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4612,
+        "label": "実戦練習・間合いとカバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "終盤の実戦練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5112,
+        "label": "練習の感想・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5245,
+        "label": "最後の対抗戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5516,
+        "label": "対抗戦の振り返り・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

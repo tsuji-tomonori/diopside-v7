@@ -1,0 +1,140 @@
+{
+  "videoId": "c9TnpjK3ZZE",
+  "title": "＃55【崩壊：スターレイル】オンパロス編。Ver3.6突入！長夜月の正体迫る…！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-02-04T12:56:14Z",
+  "duration": "PT3H38M40S",
+  "durationSec": 13120,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/c9TnpjK3ZZE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T18:25:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 221,
+        "label": "ラジオ企画のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1638,
+        "label": "配信本編へ・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1864,
+        "label": "サブコンテンツの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2281,
+        "label": "メインストーリーの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2462,
+        "label": "物語パート・序盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4670,
+        "label": "列車内から記憶領域へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6455,
+        "label": "別視点の物語パート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6821,
+        "label": "列車内の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7344,
+        "label": "記憶領域・前半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8344,
+        "label": "別視点・記憶領域",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9184,
+        "label": "記憶領域を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10269,
+        "label": "記憶領域・次の場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10937,
+        "label": "幕間の対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11178,
+        "label": "記憶領域・深部",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11887,
+        "label": "記憶領域の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12332,
+        "label": "ゲーム終了・アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12430,
+        "label": "今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12767,
+        "label": "ゲームの感想・近況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12886,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13052,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "7Wq_yM30_ls",
+  "title": "＃2【We Were Here Together】また閉じ込められたんでしょうか……！【#女王と会長/にじさんじ】",
+  "publishedAt": "2021-07-08T13:40:15Z",
+  "duration": "PT2H23M4S",
+  "durationSec": 8584,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/7Wq_yM30_ls/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T05:19:19Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "前回の続きとゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 486,
+        "label": "修道院の部屋と最初の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1212,
+        "label": "パイプをつないで色ガスを送る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1647,
+        "label": "歯車の装置と配合表を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2394,
+        "label": "追加のパイプで経路を広げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3428,
+        "label": "ガス漏れを防いで謎を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4127,
+        "label": "次の部屋へ進み奇妙な存在を発見",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4830,
+        "label": "水の部屋と歯車の橋を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5202,
+        "label": "植物を育てる配合表を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5597,
+        "label": "水を流して上へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "水やりと植物の材料集め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6555,
+        "label": "材料を混ぜて瓶を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7159,
+        "label": "瓶を作って薬の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7692,
+        "label": "薬の使い道を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8106,
+        "label": "開いた道の先を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8272,
+        "label": "次回へ持ち越し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8329,
+        "label": "告知・感想・次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "videoId": "gQI826yGQeY",
+  "title": "クリア耐久【深夜廻】クリアが先か、睡魔が先か～二夜目～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-14T21:10:29Z",
+  "duration": "PT8H21M33S",
+  "durationSec": 30093,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gQI826yGQeY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・作品紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 270,
+        "label": "ゲーム開始・最初の夜道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 631,
+        "label": "最初の操作と山道の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 979,
+        "label": "花火の場面と帰路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1205,
+        "label": "二人で夜道を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1711,
+        "label": "町と神社を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2404,
+        "label": "夜の切り替わり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2625,
+        "label": "見知らぬ町で手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3701,
+        "label": "怪異を避けて先へ進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4777,
+        "label": "建物・図書館への移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5211,
+        "label": "線路と図書館を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6942,
+        "label": "図書館の怪異を抜ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7860,
+        "label": "駅と町を巡る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9600,
+        "label": "屋敷を探索する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11025,
+        "label": "屋敷のループを攻略する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12002,
+        "label": "日記から次の目的地へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13197,
+        "label": "山道の手がかりを読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14400,
+        "label": "手紙を追って山へ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15390,
+        "label": "山の怪異を越えて手紙を運ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17046,
+        "label": "山の記憶をたどって駅へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18372,
+        "label": "駅から町へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20235,
+        "label": "チャコと山を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21900,
+        "label": "神社と花火の場所を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22924,
+        "label": "終盤の山道を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23702,
+        "label": "手紙を読み物語を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25753,
+        "label": "ゲーム後の記録と後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27629,
+        "label": "神社巡りと寄り道探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 29435,
+        "label": "ゲーム終了・感想と次回予告",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

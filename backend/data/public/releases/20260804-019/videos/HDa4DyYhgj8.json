@@ -1,0 +1,105 @@
+{
+  "videoId": "HDa4DyYhgj8",
+  "title": "【ポケモンユナイト】初めてのフルパぇあ～【白雪巴／夜見れな／エクス・アルビオ／フミ／夕陽リリ／にじさんじ】",
+  "publishedAt": "2021-09-05T15:16:53Z",
+  "duration": "PT2H35M50S",
+  "durationSec": 9350,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HDa4DyYhgj8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者集合・チーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 468,
+        "label": "初回の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1059,
+        "label": "ロビー再調整・次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2150,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2323,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2960,
+        "label": "第2試合後の反省・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3276,
+        "label": "第3試合・序盤から中盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5100,
+        "label": "第3試合・終盤の集団戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "第3試合後の振り返り・編成調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6600,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7198,
+        "label": "試合後のマップ解説・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7569,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8964,
+        "label": "試合終了後の感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

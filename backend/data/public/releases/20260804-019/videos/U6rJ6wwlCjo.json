@@ -1,0 +1,135 @@
+{
+  "videoId": "U6rJ6wwlCjo",
+  "title": "【禁断の質問!?】今まで聞けなかったこと！【＃フルトイ】【にじさんじ】",
+  "publishedAt": "2022-08-24T15:04:02Z",
+  "duration": "PT1H48M42S",
+  "durationSec": 6522,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/U6rJ6wwlCjo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:16:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 456,
+        "label": "フルトイ公式グッズ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 648,
+        "label": "グッズ制作の裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 869,
+        "label": "禁断の質問企画スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1093,
+        "label": "ときめいた仕草や言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1661,
+        "label": "トイレットペーパーと不思議な体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1833,
+        "label": "下着の好みと着心地",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "服装や見た目についての質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3184,
+        "label": "身につけるものの悩み相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3558,
+        "label": "生理用品についての相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3786,
+        "label": "恋愛についての相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4017,
+        "label": "幸せの形を考える相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4416,
+        "label": "学生向けの下着選び相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4895,
+        "label": "車内メイクの質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "質問コーナーの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5167,
+        "label": "嫉妬についての質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5351,
+        "label": "活動者とリスナーの距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5623,
+        "label": "3人の交流をめぐる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5859,
+        "label": "フルトイの関係性トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6395,
+        "label": "終了・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

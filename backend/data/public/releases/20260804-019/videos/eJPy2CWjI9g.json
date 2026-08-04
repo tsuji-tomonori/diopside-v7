@@ -1,0 +1,95 @@
+{
+  "videoId": "eJPy2CWjI9g",
+  "title": "【 #あくまじカフェ喫茶3D 】Happy halloween あくまじカフェ喫茶sp 【 夜見れな / でびでび・でびる / にじさんじ 】",
+  "publishedAt": "2025-10-31T13:18:19Z",
+  "duration": "PT3H4M57S",
+  "durationSec": 11097,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eJPy2CWjI9g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:31:36Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ハロウィン特別回・メニュー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 564,
+        "label": "料理の仕込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1192,
+        "label": "調理中の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1577,
+        "label": "お菓子作りと仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3002,
+        "label": "完成料理のお披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3608,
+        "label": "新しいバイトと開店準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4924,
+        "label": "1組目のお客様",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "2組目のお客様",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7755,
+        "label": "3組目のお客様",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "ラストオーダーと最後の接客",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10445,
+        "label": "閉店後の試食・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10801,
+        "label": "告知・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

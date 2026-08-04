@@ -1,0 +1,85 @@
+{
+  "videoId": "gDI08jZOrK0",
+  "title": "【#にじさんじ麻雀杯2024】予選U卓！かぜっぴき白雪の新年運試し麻雀【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-01-06T13:44:00Z",
+  "duration": "PT42M14S",
+  "durationSec": 2534,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/gDI08jZOrK0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T22:11:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "麻雀杯予選の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 453,
+        "label": "予選対局スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 935,
+        "label": "中盤戦の駆け引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1074,
+        "label": "鳴きと手牌読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1249,
+        "label": "終盤の手牌づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "対局後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1603,
+        "label": "公式配信を観戦・分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1830,
+        "label": "参加者インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2168,
+        "label": "試合の振り返りと近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2341,
+        "label": "スーパーチャット・締めのトーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

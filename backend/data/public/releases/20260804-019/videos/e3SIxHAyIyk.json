@@ -1,0 +1,95 @@
+{
+  "videoId": "e3SIxHAyIyk",
+  "title": "【#にじテトグランプリ】予選Dブロック！テトリス様は頑張った分だけ報われる神ゲーです【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-05-04T09:23:09Z",
+  "duration": "PT51M41S",
+  "durationSec": 3101,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/e3SIxHAyIyk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音量と画面の調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 711,
+        "label": "ゲーム準備・参加手順の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1233,
+        "label": "マッチング待ち・予選前の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "予選マッチ開始・序盤のプレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1686,
+        "label": "バッジ集めからカウンターへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1964,
+        "label": "中盤のピンチとコントローラーの反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2194,
+        "label": "終盤に向けた攻撃と耐久",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "終盤の作戦を組み替える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2593,
+        "label": "ゆっくり進める終盤のプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2818,
+        "label": "試合後の振り返り・次回案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2938,
+        "label": "Cパート・終了前のやりとり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3034,
+        "label": "終了挨拶・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

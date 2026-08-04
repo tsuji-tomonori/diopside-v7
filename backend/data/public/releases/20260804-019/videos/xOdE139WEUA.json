@@ -1,0 +1,155 @@
+{
+  "videoId": "xOdE139WEUA",
+  "title": "【スプラトゥーン2】敵？味方？緊急集合！！フルートイトイで初心者スプラ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-27T15:33:59Z",
+  "duration": "PT2H36M21S",
+  "durationSec": 9381,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xOdE139WEUA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:45:07.915570Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ紹介と配信準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 589,
+        "label": "フレンド部屋作成とウォームアップ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 949,
+        "label": "最初のレギュラーマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1502,
+        "label": "試合後の振り返りと次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1869,
+        "label": "接続トラブルと再合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2379,
+        "label": "次のレギュラーマッチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2704,
+        "label": "スペシャルの使い方を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3061,
+        "label": "参加者を待ってコラボ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3900,
+        "label": "3人目を迎えて配信画面を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4501,
+        "label": "Live2Dと画面レイアウト調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4923,
+        "label": "接続エラーから再合流を待つ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5400,
+        "label": "コラボトークとモデル調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5947,
+        "label": "コラボメンバーとマッチへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6123,
+        "label": "スタジオモードとコメント表示を調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "チーム戦とキャラクター談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6722,
+        "label": "スプラトゥーンの由来とアニメ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6900,
+        "label": "試合実況とランク談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "マッチングとプレイヤー談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7806,
+        "label": "対戦の立ち回りを実況",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8106,
+        "label": "視聴者マッチと試合実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8405,
+        "label": "試合後の雑談と料理の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8702,
+        "label": "配信を締める準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9002,
+        "label": "誕生日とケーキの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9181,
+        "label": "エンディングと今後の予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

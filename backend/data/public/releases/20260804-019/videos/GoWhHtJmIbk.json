@@ -1,0 +1,160 @@
+{
+  "videoId": "GoWhHtJmIbk",
+  "title": "【#白雪巴誕生日2026】ケーキを食べてパーッとお祝いしちゃおうかしら🎉🎉🎉【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-08T17:18:16Z",
+  "duration": "PT4H6M11S",
+  "durationSec": 14771,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GoWhHtJmIbk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T13:15:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新作オープニング・配信開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 221,
+        "label": "誕生日の挨拶と手作りケーキ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 578,
+        "label": "誕生日企画とベルモンドとの交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 781,
+        "label": "長時間ゲーム配信を選んだ理由",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1138,
+        "label": "誕生日グッズ・ボイスのお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1351,
+        "label": "ワインで乾杯・誕生日雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1947,
+        "label": "手作りバスクチーズケーキを紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2143,
+        "label": "ゲーム配信を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2852,
+        "label": "ChatGPTとの付き合い方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3864,
+        "label": "外出先での睡眠と誘い方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4575,
+        "label": "人との距離感・友人関係を語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5694,
+        "label": "活動を支える仲間と幸せを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6000,
+        "label": "百合作品と好みを語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6261,
+        "label": "格好いい白雪巴と3Dライブの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7127,
+        "label": "日付が変わって誕生日を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7374,
+        "label": "ライブのアナウンスと共演者の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8034,
+        "label": "先輩後輩・姉妹のような関係",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "休憩・今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8637,
+        "label": "幼少期と家族の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9504,
+        "label": "誕生日スーパーチャット読み・前半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10800,
+        "label": "応援への感謝と活動への思い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12000,
+        "label": "スーパーチャット読み・後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13200,
+        "label": "年齢・成長・これからを語る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14038,
+        "label": "受験生への応援と勉強の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14653,
+        "label": "次回配信のお知らせ・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

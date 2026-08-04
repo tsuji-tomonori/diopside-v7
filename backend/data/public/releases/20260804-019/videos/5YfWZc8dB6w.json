@@ -1,0 +1,120 @@
+{
+  "videoId": "5YfWZc8dB6w",
+  "title": "【逆凸】深夜のロリちょこおねだり企画【ホロライブ/癒月ちょこ】",
+  "publishedAt": "2021-10-31T16:42:22Z",
+  "duration": "PT1H43M11S",
+  "durationSec": 6191,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5YfWZc8dB6w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:31:24Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・ハロウィン準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 321,
+        "label": "るしあとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 582,
+        "label": "犬山たまきとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 997,
+        "label": "レイン・パターソンとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1197,
+        "label": "響木アオとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1503,
+        "label": "ロボ子さんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1789,
+        "label": "鷹宮リオンとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2085,
+        "label": "白雪巴との逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2587,
+        "label": "メリッサ・キンレンカとの逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2923,
+        "label": "天神子兎音との逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3543,
+        "label": "夜空メルとの逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3947,
+        "label": "大空スバルとの逆凸",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4356,
+        "label": "宗谷いちかとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4975,
+        "label": "因幡はねるとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5184,
+        "label": "夏色まつりとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5590,
+        "label": "でびでび・でびるとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5891,
+        "label": "企画振り返り・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

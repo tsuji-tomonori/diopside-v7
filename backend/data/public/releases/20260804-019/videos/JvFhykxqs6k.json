@@ -1,0 +1,140 @@
+{
+  "videoId": "JvFhykxqs6k",
+  "title": "【バイオRE:2】女好き強気お姉さんのビビりバイオプレイ～クレア裏～#最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-16T16:36:04Z",
+  "duration": "PT2H21M",
+  "durationSec": 8460,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/JvFhykxqs6k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T13:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "最終回の導入と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 588,
+        "label": "探索を再開して施設を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1207,
+        "label": "武器と弾薬を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1537,
+        "label": "次のエリアを探索する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2114,
+        "label": "プラント43のルートを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2321,
+        "label": "治療エリアを探索する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3006,
+        "label": "弾薬を作って次へ備える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3202,
+        "label": "仕掛けを解いて先へ進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3500,
+        "label": "リッカー戦を切り抜ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3887,
+        "label": "薬品パズルに挑戦する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4404,
+        "label": "研究区画を静かに進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4811,
+        "label": "終盤に向けて装備を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5126,
+        "label": "地下研究施設を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5689,
+        "label": "施設内の大きな戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6153,
+        "label": "施設の先へ進み脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6884,
+        "label": "列車へ向けて進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7206,
+        "label": "終盤のストーリー場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "ゲーム内の整理と余韻",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7806,
+        "label": "今後のバイオ作品とコラボの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8284,
+        "label": "追加ゲームモードを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8371,
+        "label": "次回予定と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

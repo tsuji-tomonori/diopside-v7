@@ -1,0 +1,190 @@
+{
+  "videoId": "0NMnJS8_Flw",
+  "title": "クリア耐久【LITTLE NIGHTMARES Ⅱ-リトルナイトメア２-】真実はいつも暗闇のなか【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-03-07T12:28:37Z",
+  "duration": "PT6H59M8S",
+  "durationSec": 25148,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0NMnJS8_Flw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T03:51:36.614605+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T14:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 973,
+        "label": "配信待機・オープニング（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1715,
+        "label": "話題：だからじゃあ一緒行こう行こ行こう えっといいね心細いじゃ…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2608,
+        "label": "話題：も戻なかったのか なこっちからじゃあえで戻れたよねあじゃ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3381,
+        "label": "話題：さっきの水の間に流してやろうトイレの ごとくなよし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4083,
+        "label": "話題：シックスちゃんだったんですねじゃあね 前回ねシックスちゃ…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5047,
+        "label": "話題：ちょっと一旦保留しようかもう1個の とこ行こう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5786,
+        "label": "話題：よいしょじゃあの子が連れて行かれた方向 行ってみるかああ…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6499,
+        "label": "話題：やはりはなかったん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7389,
+        "label": "話題：です目玉の絵がヒント本当にとりあえず 一旦これこれは何こ…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8204,
+        "label": "話題：これあこれなんか別の場所来たってこと んいやこれ降りてき…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9302,
+        "label": "2:35:15",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9662,
+        "label": "2:41:22",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10373,
+        "label": "2:41:22（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11103,
+        "label": "話題：はあああじゃあより分かるかもねこのこの 子たちのことをな…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11997,
+        "label": "話題：かこんなもんっすねないっすねうんも穴 あるな行けないあま…",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13019,
+        "label": "3:37:27 Errr.....",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13649,
+        "label": "3:37:27 Errr.....（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14353,
+        "label": "話題：ねなるほどねあやっぱあいつ重かったんだ なよし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15316,
+        "label": "話題：かオッケオケオケオ オケあっち行けあっち行けよし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16282,
+        "label": "話題：帰ろうよし オああオッケー終わっ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17003,
+        "label": "話題：この辺で降りていいとこと えい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17785,
+        "label": "話題：オシックスバレてねシックス シックス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18795,
+        "label": "5:13:29",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18895,
+        "label": "5:15:03",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19933,
+        "label": "5:15:03（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20595,
+        "label": "話題：お待たせしましたライトが使えなく なっちゃってんだよ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21400,
+        "label": "話題：ぞあれこいつ雑い ぞさてはいやてかのむくんが",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 22323,
+        "label": "6:12:14 No Mercy",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23330,
+        "label": "You Are King",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 24125,
+        "label": "You Are King（続き）",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

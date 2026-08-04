@@ -1,0 +1,95 @@
+{
+  "videoId": "yFqq3R8wTws",
+  "title": "【スプラトゥーン２】大会当日。俺たちは4人で勝つ！！【#にじスプラ大会 / にじさんじ】",
+  "publishedAt": "2020-06-20T12:21:03Z",
+  "duration": "PT38M58S",
+  "durationSec": 2338,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yFqq3R8wTws/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会当日の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 194,
+        "label": "試合前の武器・チーム作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 653,
+        "label": "試合実況・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 875,
+        "label": "通信トラブルと再接続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1202,
+        "label": "再始動・チーム戦術の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1339,
+        "label": "マップ選択と試合前の最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1392,
+        "label": "試合実況・中央と終盤の塗り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1601,
+        "label": "試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1708,
+        "label": "次の試合・連携と終盤の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1896,
+        "label": "試合後の感想と展開の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2036,
+        "label": "練習の振り返りと応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2222,
+        "label": "締めの挨拶・チームと視聴者へのお礼",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

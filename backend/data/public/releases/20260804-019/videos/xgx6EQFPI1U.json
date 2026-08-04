@@ -1,0 +1,135 @@
+{
+  "videoId": "xgx6EQFPI1U",
+  "title": "【Sharks and Minnows】人喰いサメのいるプールで泳ぐ＾＾ｖ【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-19T16:26:10Z",
+  "duration": "PT3H14M36S",
+  "durationSec": 11676,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xgx6EQFPI1U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:57:06Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 511,
+        "label": "操作確認と最初の周回",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1531,
+        "label": "女子ロッカールームの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "暗い洞窟とバルブ探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3241,
+        "label": "プール周回を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4158,
+        "label": "停電後の地下探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4712,
+        "label": "配管パズル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5432,
+        "label": "水中の装置を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6062,
+        "label": "ヒューズを持って帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6665,
+        "label": "高速ウォータースライダー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7232,
+        "label": "プール周回・後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7952,
+        "label": "終盤のプール周回",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8881,
+        "label": "ゲームを振り返って",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9212,
+        "label": "次回配信の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9502,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10307,
+        "label": "子どもの頃の海の体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10615,
+        "label": "数年後の家族での海水浴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10892,
+        "label": "スーパーチャットと子どもの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11345,
+        "label": "海の危険と安全の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11581,
+        "label": "次回案内・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

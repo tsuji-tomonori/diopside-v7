@@ -1,0 +1,130 @@
+{
+  "videoId": "BlgvHAeCzBU",
+  "title": "【雑談】年越しカウントダウン♡12月のこと、にじフェス、2023年を振り返る！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-31T16:48:27Z",
+  "duration": "PT2H35M45S",
+  "durationSec": 9345,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BlgvHAeCzBU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "導入と初めての年越し配信",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 509,
+        "label": "年末年始の過ごし方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 590,
+        "label": "体調不良と療養の経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1326,
+        "label": "実家のクリスマスとプレゼント",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2167,
+        "label": "子どもたちとのゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2573,
+        "label": "にじフェス前日入りと会場の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3266,
+        "label": "カウントダウンと年賀イラスト紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3558,
+        "label": "年賀イラストの制作・配布",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4019,
+        "label": "にじフェス振り返り・出演者の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5010,
+        "label": "にじフェス裏話と共通衣装ライブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5398,
+        "label": "視聴覚室と1対1トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6255,
+        "label": "パペットをめぐる交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6659,
+        "label": "リバースライアーズのステージ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7386,
+        "label": "にじフェスまとめ・衣装展示",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7728,
+        "label": "2023年の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8094,
+        "label": "2024年への期待と人とのつながり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8471,
+        "label": "体調不良と療養生活",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8900,
+        "label": "新しい配信機能を試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9072,
+        "label": "2024年の目標と配信の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "BA4ogNEPNAA",
+  "title": "#04【ウマ娘】マルゼンスキー育成、完了。【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-04-17T18:09:40Z",
+  "duration": "PT2H55M55S",
+  "durationSec": 10555,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BA4ogNEPNAA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T21:29:53Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "マルゼンスキー育成スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1001,
+        "label": "安田記念に向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1191,
+        "label": "安田記念とレース後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1833,
+        "label": "夏合宿の育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2155,
+        "label": "勝負服インタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2344,
+        "label": "学園イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2729,
+        "label": "URAファイナルズ開催の危機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3599,
+        "label": "休養とスキル選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "天皇賞（秋）に向けて",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4161,
+        "label": "天皇賞（秋）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4381,
+        "label": "レース後のライブと反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4708,
+        "label": "食堂イベント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4965,
+        "label": "ジャパンカップに向けて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5454,
+        "label": "ジャパンカップとレース後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6035,
+        "label": "クリスマスパーティーと後輩たちとの交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6306,
+        "label": "URAファイナルズ出走決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6971,
+        "label": "URAファイナルズ予選と準決勝前の育成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7553,
+        "label": "URAファイナルズ準決勝と決勝前調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8496,
+        "label": "URAファイナルズ決勝と余韻",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9259,
+        "label": "育成後のストーリーと祝賀会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9739,
+        "label": "レース場での後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10034,
+        "label": "育成後の評価と振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

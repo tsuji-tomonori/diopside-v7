@@ -1,0 +1,105 @@
+{
+  "videoId": "fr2bBqRR6t4",
+  "title": "【お悩み相談】男性限定のお悩み相談マシュマロ#1【癒月ちょこ/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-12-15T15:06:40Z",
+  "duration": "PT1H49M9S",
+  "durationSec": 6549,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fr2bBqRR6t4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T02:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲスト合流・オープニングトーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 903,
+        "label": "男性限定のお悩み相談・趣旨説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1084,
+        "label": "誕生日プレゼントの選び方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1807,
+        "label": "女性の友人作りと会話の注意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2809,
+        "label": "幼なじみへのアプローチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3182,
+        "label": "初デートの誘い方と場所",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3815,
+        "label": "好きになる瞬間と恋愛観",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4563,
+        "label": "青髭・男性の脱毛について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4860,
+        "label": "低身長への悩み相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5101,
+        "label": "センシティブな悩み相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "年上の女性へのアプローチ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6035,
+        "label": "相談の振り返りとゲストへの感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6241,
+        "label": "ゲスト告知・ライブ案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6420,
+        "label": "告知と配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

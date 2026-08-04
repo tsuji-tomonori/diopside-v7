@@ -1,0 +1,130 @@
+{
+  "videoId": "G3tXUT9xC-U",
+  "title": "【都市伝説解体センター #2】第二話-前半-「鏡像から迫る死」初見プレイ！※ネタバレ注意【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-10T15:52:04Z",
+  "duration": "PT2H36M11S",
+  "durationSec": 9371,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/G3tXUT9xC-U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T13:41:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 182,
+        "label": "本日の予定と体調について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 307,
+        "label": "第二話スタート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 608,
+        "label": "依頼映像の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 830,
+        "label": "SNS調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1934,
+        "label": "梅木コーポで聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2596,
+        "label": "104号室の現場調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3275,
+        "label": "調査情報の整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3994,
+        "label": "都市伝説の特定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4452,
+        "label": "再び心霊配信へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4710,
+        "label": "翌日のSNS調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5183,
+        "label": "召喚系都市伝説を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6444,
+        "label": "調査2日目・現地へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7441,
+        "label": "公園で聞き込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8232,
+        "label": "公園で新たな手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8715,
+        "label": "公園で異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8924,
+        "label": "前半終了・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8978,
+        "label": "アフタートーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9145,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

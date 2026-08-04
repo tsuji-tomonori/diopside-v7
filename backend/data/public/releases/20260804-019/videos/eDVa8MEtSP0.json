@@ -1,0 +1,110 @@
+{
+  "videoId": "eDVa8MEtSP0",
+  "title": "【9万人記念】白雪は色んな国の言葉で感謝を伝えたい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-03-31T16:11:06Z",
+  "duration": "PT1H41M37S",
+  "durationSec": 6097,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/eDVa8MEtSP0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:10:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "9万人記念・オープニング雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1006,
+        "label": "多言語で感謝を伝える企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1186,
+        "label": "英語で自己紹介と感謝に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1598,
+        "label": "中国語で自己紹介と感謝に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1970,
+        "label": "フィリピン語に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2646,
+        "label": "最後の言語を選び、多言語で感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3167,
+        "label": "歌のサプライズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3192,
+        "label": "4月前半の配信予定を告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3505,
+        "label": "歌う前の感謝と活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3769,
+        "label": "歌：妖精（シェリル・ノーム）",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4106,
+        "label": "歌後の感想・10万人への意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4262,
+        "label": "スーパーチャット読み・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5424,
+        "label": "見守る視聴者への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5771,
+        "label": "ASMR機材での還元について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5956,
+        "label": "最終挨拶・おやすみ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

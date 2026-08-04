@@ -1,0 +1,105 @@
+{
+  "videoId": "mr38jSAWXKY",
+  "title": "【 #夜王国桃鉄 】夜王国VS最強CPUさくま【にじさんじ】",
+  "publishedAt": "2021-01-27T14:05:25Z",
+  "duration": "PT1H43M",
+  "durationSec": 6180,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mr38jSAWXKY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画紹介・桃鉄のルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 221,
+        "label": "ゲーム開始・序盤の進路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 588,
+        "label": "協力プレイと佐久間対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1238,
+        "label": "リベンジをかけたカード運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "最初の目的地を目指す展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2363,
+        "label": "1年目の盤面と次の目的地",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2709,
+        "label": "時限爆弾カードで対抗策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3292,
+        "label": "年進行後のカード戦略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3925,
+        "label": "目的地への進行と資金管理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4533,
+        "label": "終盤のカード・借金対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5122,
+        "label": "ヘリポートを使った終盤の移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5576,
+        "label": "最後のターンに向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5853,
+        "label": "最終ターン・結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6006,
+        "label": "振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

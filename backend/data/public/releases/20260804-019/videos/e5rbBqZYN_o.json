@@ -1,0 +1,110 @@
+{
+  "videoId": "e5rbBqZYN_o",
+  "title": "【#にじさんじDBD大会】女の子オンリーチームなので救済しかないです【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-29T13:17:26Z",
+  "duration": "PT1H19M35S",
+  "durationSec": 4775,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/e5rbBqZYN_o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 401,
+        "label": "サバイバーの作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 943,
+        "label": "本番前の最終準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1267,
+        "label": "マッチ接続・ロビー確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1514,
+        "label": "1戦目・マイケルとの対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1766,
+        "label": "マッチ再設定・ロビー準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2237,
+        "label": "1戦目・救助と発電機の連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2702,
+        "label": "1戦目終盤・ハッチを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3076,
+        "label": "1戦目後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "2戦目の準備・キラー選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3658,
+        "label": "2戦目序盤・発電機をめぐる攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4030,
+        "label": "2戦目中盤・回復と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4219,
+        "label": "2戦目終盤・ポイント重視の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4596,
+        "label": "試合終了後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4647,
+        "label": "大会の振り返り・今後の予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

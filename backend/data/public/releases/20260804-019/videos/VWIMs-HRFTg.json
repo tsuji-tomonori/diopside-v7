@@ -1,0 +1,115 @@
+{
+  "videoId": "VWIMs-HRFTg",
+  "title": "＃47【崩壊：スターレイル】オンパロス編。Ver3.4突入！ファイノン…？そしてあなたはまさか【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-10-20T16:18:08Z",
+  "duration": "PT3H6M24S",
+  "durationSec": 11184,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/VWIMs-HRFTg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T14:22:18Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・近況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 519,
+        "label": "ファイノン編成相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1161,
+        "label": "前回までのおさらい",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1912,
+        "label": "Ver.3.4 メインストーリー開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3039,
+        "label": "なのかの記憶世界",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3683,
+        "label": "キュレネとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4341,
+        "label": "再びオンパロスへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4685,
+        "label": "ライコスとの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5913,
+        "label": "オンパロスの謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6626,
+        "label": "エリュシオンへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7037,
+        "label": "光円錐ガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7667,
+        "label": "丹恒の育成と編成相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8555,
+        "label": "ファイノンの遺物見直し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9654,
+        "label": "高難度チャレンジ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10107,
+        "label": "高難度チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10883,
+        "label": "振り返り・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

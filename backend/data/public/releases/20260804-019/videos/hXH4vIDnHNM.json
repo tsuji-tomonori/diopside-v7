@@ -1,0 +1,120 @@
+{
+  "videoId": "hXH4vIDnHNM",
+  "title": "✨超絶重大発表あり‼✨#なつめぇ誕生日2025　Polaris　【お誕生日ありがとう】",
+  "publishedAt": "2025-09-07T10:54:57Z",
+  "duration": "PT51M54S",
+  "durationSec": 3114,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hXH4vIDnHNM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:52:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング歌唱「Booo!」",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 327,
+        "label": "「スイートマジック」歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 533,
+        "label": "白雪巴との歌唱後トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 697,
+        "label": "「1000年生きてる」歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 941,
+        "label": "「ひつじがいっぴき」歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1134,
+        "label": "きこちゃんとの共演トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1282,
+        "label": "「メロウ」歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1560,
+        "label": "山神カルタとの共演トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1733,
+        "label": "「星座になれたら」歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1999,
+        "label": "重大発表・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2096,
+        "label": "『人外教室の人間教師』アニメPV",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2178,
+        "label": "テレビアニメ化の詳細発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2349,
+        "label": "関連イベント・公式情報",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2487,
+        "label": "キャラクターのフィギュア化発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2528,
+        "label": "作家活動への思い・告知の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2606,
+        "label": "初オリジナル曲のプレミア公開告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2736,
+        "label": "最後の歌唱「ファンサ」",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

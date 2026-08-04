@@ -1,0 +1,110 @@
+{
+  "videoId": "fyd80MZXFTo",
+  "title": "#9『パラノマサイト FILE38 伊勢人魚物語』完全初見で実況プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-04-23T16:14:18Z",
+  "duration": "PT1H50M56S",
+  "durationSec": 6656,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fyd80MZXFTo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T08:10:54.924Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 156,
+        "label": "オープニング・配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 425,
+        "label": "前回の振り返り・ゲーム再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 677,
+        "label": "島内探索・協力者と合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 970,
+        "label": "一行の合流・調査会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2173,
+        "label": "調査・推理と選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2948,
+        "label": "個別会話・情報整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4526,
+        "label": "海中探索・前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4734,
+        "label": "海中探索・後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5246,
+        "label": "選択後の展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5518,
+        "label": "終盤探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5604,
+        "label": "プレイ区切り・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5870,
+        "label": "振り返り・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6136,
+        "label": "スーパーチャットお礼・延長トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6494,
+        "label": "Cパート・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "videoId": "TfrSNKCnVWA",
+  "title": "【We Were Here Too】巴さんと！協力謎解き脱出ゲーム！その１ #女王と会長 【 白雪巴/来栖夏芽/にじさんじ】",
+  "publishedAt": "2020-10-26T12:56:45Z",
+  "duration": "PT1H44M52S",
+  "durationSec": 6292,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/TfrSNKCnVWA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:39:03.522497Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 708,
+        "label": "ゲーム開始・最初の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "最初の部屋で手掛かり探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "記号を組み合わせて扉を開く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2041,
+        "label": "ろうそくの仕掛けを調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2394,
+        "label": "ろうそくの点火順を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "模様パズルを完成させる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3351,
+        "label": "レバーとマグマの時間制限",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3599,
+        "label": "再挑戦・仕組みの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3913,
+        "label": "次の部屋で手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4104,
+        "label": "九つのブロックの仕組みを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4388,
+        "label": "図形の対応を確認してドアを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4694,
+        "label": "マグマと足場の危険を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4832,
+        "label": "表示設定を確認して照合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "バグを挟んで役割交代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5608,
+        "label": "最後の部屋を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5793,
+        "label": "最終試行で図形を照合する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6196,
+        "label": "次回の続き・告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

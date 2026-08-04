@@ -1,0 +1,130 @@
+{
+  "videoId": "M7jrJ7XKbQ4",
+  "title": "【スプラトゥーン2】初めてのリグマ！この４人で参る【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-10-13T14:27:01Z",
+  "duration": "PT2H7M16S",
+  "durationSec": 7636,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/M7jrJ7XKbQ4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T06:18:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・4人の自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 380,
+        "label": "第1試合・リグマ開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 518,
+        "label": "チーム「雪月花」紹介と試合前トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1078,
+        "label": "リグマ試合・櫓の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1331,
+        "label": "次の武器と立ち回りを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1452,
+        "label": "連続リグマ試合・櫓の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2397,
+        "label": "編成を確認して次の試合へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3005,
+        "label": "リグマ試合・ハロウィン雑談を挟んで櫓へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3853,
+        "label": "リグマ試合・長射程への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4203,
+        "label": "リグマ試合・再戦の実況",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4562,
+        "label": "武器の役割と立ち位置を見直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4681,
+        "label": "リグマ試合・味方の乗りと長射程対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5282,
+        "label": "リグマ試合・高低差を活かして前線へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "リグマ試合・ローラーで櫓を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5998,
+        "label": "試合の合間・終了時刻とサーモンランの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6122,
+        "label": "リグマ試合・長射程と味方の位置を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6605,
+        "label": "リグマ試合・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7048,
+        "label": "最後のリグマ試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7422,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

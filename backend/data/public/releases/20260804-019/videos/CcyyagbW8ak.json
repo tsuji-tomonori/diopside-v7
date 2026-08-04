@@ -1,0 +1,130 @@
+{
+  "videoId": "CcyyagbW8ak",
+  "title": "【雑談】完全にオフモード白雪のマイペース雑談【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-23T16:10:51Z",
+  "duration": "PT1H38M15S",
+  "durationSec": 5895,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CcyyagbW8ak/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:23:10.124013Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・3Dお披露目の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 415,
+        "label": "オフモード雑談・炊飯器の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 617,
+        "label": "翌日の予定・クリスマスの過ごし方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 996,
+        "label": "イブの恋愛観",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1102,
+        "label": "朗読配信・クリスマスの予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1591,
+        "label": "クリスマスの過ごし方・カウントダウン案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1867,
+        "label": "寂しさ・結婚観と素の一面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2400,
+        "label": "メガネ披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2504,
+        "label": "マリカ大会の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2822,
+        "label": "朗読配信・クリスマスのゲーム候補",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3102,
+        "label": "翌日のマリカ配信案",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3282,
+        "label": "イブのゲーム候補・百合ゲーム相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3765,
+        "label": "配信予定の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3872,
+        "label": "本編終了・スパチャ読み開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4072,
+        "label": "スパチャ読み・マリカ大会の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4929,
+        "label": "メガネ雑談・スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5072,
+        "label": "収益化・翌日の配信案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5573,
+        "label": "終盤のスパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5832,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

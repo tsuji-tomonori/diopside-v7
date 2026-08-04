@@ -1,0 +1,125 @@
+{
+  "videoId": "bJjLiYTLMgE",
+  "title": "【未解決事件は終わらせないといけないから】あってはならないこと【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-07-22T17:28:57Z",
+  "duration": "PT4H6M52S",
+  "durationSec": 14812,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bJjLiYTLMgE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T10:41:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 499,
+        "label": "ゲーム開始・事件の導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1290,
+        "label": "記憶の整理を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2641,
+        "label": "周辺の証言をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4205,
+        "label": "食い違う証言を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6023,
+        "label": "記録と時系列を再検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7201,
+        "label": "新たな検証目標",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8701,
+        "label": "残る証言を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9303,
+        "label": "家族の記録と手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10349,
+        "label": "証言から経緯をたどる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "別の記録を検証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12266,
+        "label": "終盤の証言整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13272,
+        "label": "事件の結末へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13441,
+        "label": "物語の最終章",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13747,
+        "label": "エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13833,
+        "label": "作品の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14198,
+        "label": "スーパーチャット・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14739,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

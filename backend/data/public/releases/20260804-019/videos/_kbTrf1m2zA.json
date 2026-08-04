@@ -1,0 +1,210 @@
+{
+  "videoId": "_kbTrf1m2zA",
+  "title": "【マリオカート8DX】#らぶスノ 世界を見据えた合同練習【にじさんじ/愛園愛美/白雪巴】",
+  "publishedAt": "2022-12-15T14:52:11Z",
+  "duration": "PT3H33M54S",
+  "durationSec": 12834,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_kbTrf1m2zA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加型の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 409,
+        "label": "最初の参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 743,
+        "label": "参加型レース序盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1340,
+        "label": "コース練習と参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1827,
+        "label": "参加型レース連戦・コース談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2304,
+        "label": "コース練習・連続レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3281,
+        "label": "参加者談義・運転免許クイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3944,
+        "label": "参加型レースとコース選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4568,
+        "label": "ピーチガーデンなどのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5067,
+        "label": "パリコースのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5368,
+        "label": "大会ルール・参加者準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "ビッグブルーのレースと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6109,
+        "label": "参加型レース・コース選択",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6612,
+        "label": "参加型レース連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7006,
+        "label": "参加者交代・ミュージックパーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7507,
+        "label": "参加型レース連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7809,
+        "label": "レース連戦・アイテム談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8286,
+        "label": "レース後の雑談・次の参加者準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8513,
+        "label": "どうぶつの森コースと参加者募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8836,
+        "label": "後半の参加型レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9254,
+        "label": "キャラクター選び・チーズコース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9604,
+        "label": "参加型レースと疲労トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9812,
+        "label": "最後の参加型レース・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10100,
+        "label": "アイテム戦術を話すレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10409,
+        "label": "ピンボールコースのレース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10723,
+        "label": "回線トラブル・再合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10794,
+        "label": "単独レースとお別れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10992,
+        "label": "締めの大会説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11251,
+        "label": "締めの大会・レース1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11441,
+        "label": "締めの大会・レース2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11664,
+        "label": "締めの大会・中盤レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11913,
+        "label": "締めの大会・終盤レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12255,
+        "label": "締めの大会・第5レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12427,
+        "label": "締めの大会・最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12631,
+        "label": "締めの振り返り・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

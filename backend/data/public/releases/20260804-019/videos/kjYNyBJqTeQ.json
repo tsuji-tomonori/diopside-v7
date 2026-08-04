@@ -1,0 +1,100 @@
+{
+  "videoId": "kjYNyBJqTeQ",
+  "title": "【#にじさんじアイラブ歌リレー】異次元フェスありがとう‥ありがとう‥！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-15T14:20:12Z",
+  "duration": "PT40M48S",
+  "durationSec": 2448,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kjYNyBJqTeQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T22:55:51.903487+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・歌リレー紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 321,
+        "label": "Dancing stars on me!",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 592,
+        "label": "1曲目後の感想・2曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 709,
+        "label": "?←HEARTBEAT",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 903,
+        "label": "μ'sからAqoursへ・3曲目紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1013,
+        "label": "未熟DREAMER",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1355,
+        "label": "3曲目後の感想・ユニット曲紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "トリコリコPLEASE!!",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1713,
+        "label": "4曲目後の感想・Guilty Kiss紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1783,
+        "label": "Guilty Kissの歌",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2015,
+        "label": "5曲目後の感想・ラスト曲紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2127,
+        "label": "僕たちはひとつの光",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2387,
+        "label": "異次元フェスへの感謝・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

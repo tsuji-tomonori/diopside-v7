@@ -1,0 +1,150 @@
+{
+  "videoId": "BnvcdI7_IiQ",
+  "title": "＃01【ブルーアーカイブ】初見ですがブルアカ気になる子たちが多すぎる問題【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-09T04:39:20Z",
+  "duration": "PT3H26M53S",
+  "durationSec": 12413,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BnvcdI7_IiQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T18:55:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "初見ブルアカの配信開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 480,
+        "label": "ゲーム序章とキヴォトスの導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1086,
+        "label": "失踪した会長とシャーレの任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1497,
+        "label": "初戦闘とバトルチュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2280,
+        "label": "システムボックスと認証",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2504,
+        "label": "アロナ登場とタワー復旧",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3042,
+        "label": "シャーレの拠点と生徒募集へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3600,
+        "label": "初回募集とリセマラの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3988,
+        "label": "リセマラと最初の編成を決定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5377,
+        "label": "初期 roster と任務準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5504,
+        "label": "戦略マップの初戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5978,
+        "label": "ロビーとユウカの経費相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6622,
+        "label": "事務作業とデイリー要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7150,
+        "label": "生徒の育成システム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7757,
+        "label": "続く任務チュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8037,
+        "label": "カフェ解放",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8128,
+        "label": "募集と選択チケットの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9181,
+        "label": "購入パッケージの相談と募集再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9842,
+        "label": "ピックアップ募集を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10255,
+        "label": "天井を目指す募集と後半の結果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11174,
+        "label": "生徒選択とロビーの交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11731,
+        "label": "プレイ終了とプロフィール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12017,
+        "label": "まとめ・次回予告・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

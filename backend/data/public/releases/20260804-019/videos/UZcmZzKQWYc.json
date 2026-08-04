@@ -1,0 +1,95 @@
+{
+  "videoId": "UZcmZzKQWYc",
+  "title": "【#白雪巴の水着衣装】ちょっと刺激が強すぎるかもしれない水着お披露目👙💕【白雪巴/にじさんじ】",
+  "publishedAt": "2026-07-26T13:32:16Z",
+  "duration": "PT1H26M15S",
+  "durationSec": 5175,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UZcmZzKQWYc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-03T17:11:53Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-03T17:11:04Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・水着トークへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 643,
+        "label": "水着衣装お披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1034,
+        "label": "ビキニ全身とギャルメイク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1808,
+        "label": "髪型・メイク・アクセサリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2212,
+        "label": "写真・質問・全身振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3011,
+        "label": "お着替え・次の衣装へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3253,
+        "label": "白いワンピースお披露目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3501,
+        "label": "ワンピースのこだわり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4192,
+        "label": "デビュー2434日記念",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4379,
+        "label": "7年目と今後のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4588,
+        "label": "ポージング・スクショタイム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5011,
+        "label": "エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

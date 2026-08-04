@@ -1,0 +1,120 @@
+{
+  "videoId": "q_oVV0LPTvs",
+  "title": "【寿司打】仕事出来るお姉さんのつよつよタイピング【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-11-06T15:49:29Z",
+  "duration": "PT2H39M19S",
+  "durationSec": 9559,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/q_oVV0LPTvs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・寿司打の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 248,
+        "label": "タイピング経験・プレイ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 557,
+        "label": "通常・おすすめコースを初プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 963,
+        "label": "高額コースに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1249,
+        "label": "再挑戦・集中力と苦手キー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1703,
+        "label": "普通コースで記録更新を狙う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2185,
+        "label": "一発勝負・速度と正確性の比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2804,
+        "label": "通常・高額コースを連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3967,
+        "label": "高級コース挑戦・速度重視",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4938,
+        "label": "スコア確認・次のコースを検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6009,
+        "label": "高級コース・連続メーター攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7001,
+        "label": "一発勝負・自己ベスト挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7477,
+        "label": "おすすめ・高級コースを連続プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8684,
+        "label": "高級から普通へ・最後の腕試し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9299,
+        "label": "ゲーム終了・結果振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9378,
+        "label": "次回予定・配信終了の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9455,
+        "label": "配信後雑談・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

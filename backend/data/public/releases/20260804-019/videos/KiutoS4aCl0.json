@@ -1,0 +1,105 @@
+{
+  "videoId": "KiutoS4aCl0",
+  "title": "【ポケモンユナイト】練習でなぜか全敗したチームDvsチームE【にじさんじ/エクス・アルビオ/白雪巴/不破湊/夕陽リリ/夜見れな】",
+  "publishedAt": "2021-09-05T15:06:54Z",
+  "duration": "PT2H35M1S",
+  "durationSec": 9301,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KiutoS4aCl0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 478,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 980,
+        "label": "第1試合後の振り返り・第2試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1504,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2707,
+        "label": "第2試合後の反省・第3試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3316,
+        "label": "第3試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "第3試合後の振り返り・第4試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4645,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5149,
+        "label": "第4試合後のコーチング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5581,
+        "label": "第5試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7058,
+        "label": "第5試合後の振り返り・戦術解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7503,
+        "label": "第6試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8943,
+        "label": "第6試合後の感想・配信終了の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9112,
+        "label": "配信後の振り返り",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

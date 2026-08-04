@@ -1,0 +1,180 @@
+{
+  "videoId": "iA1G4ZsomUo",
+  "title": "【#姫咲ゆずる生誕祭2021】初めての逆凸！いっぱいお喋りするぞ～！【姫咲ゆずる／のりプロ所属】",
+  "publishedAt": "2021-09-25T13:54:41Z",
+  "duration": "PT2H31M37S",
+  "durationSec": 9097,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iA1G4ZsomUo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:29:46Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 215,
+        "label": "初の歌ってみた紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 366,
+        "label": "乾杯・誕生日祝い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 572,
+        "label": "逆凸企画の説明・トークテーマ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1222,
+        "label": "白雪巴さんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1579,
+        "label": "小野町春香さんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1857,
+        "label": "愛園愛美さんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2178,
+        "label": "癒月ちょこさんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2563,
+        "label": "白雪みしろさんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2864,
+        "label": "犬山たまきさんとの逆凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3169,
+        "label": "逆凸終了・メッセージ動画準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3217,
+        "label": "誕生日メッセージ動画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3383,
+        "label": "メッセージへの反応・記念グッズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3539,
+        "label": "最後の逆凸・ゲストトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4033,
+        "label": "逆凸の振り返り・記念グッズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4151,
+        "label": "アフタートーク・歌ってみた紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4268,
+        "label": "スパチャ読み・誕生日メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "活動振り返り・創作の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "お仕事の告知・誕生日メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6126,
+        "label": "リボンの火事騒ぎ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6228,
+        "label": "スパチャ読み・コラボの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6594,
+        "label": "誕生日メッセージ・お出かけの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7233,
+        "label": "スパチャ読み・企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7680,
+        "label": "企画準備・ボイスとグッズの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7809,
+        "label": "歌ってみた動画の反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7979,
+        "label": "終盤のスパチャ読み・活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8703,
+        "label": "サプライズメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8832,
+        "label": "最後のスパチャ読み・グッズ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9017,
+        "label": "締めの告知・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

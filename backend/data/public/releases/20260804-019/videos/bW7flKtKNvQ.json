@@ -1,0 +1,80 @@
+{
+  "videoId": "bW7flKtKNvQ",
+  "title": "【雀魂】本番前日の一夜漬けが至高なんですの【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-01-06T13:46:01Z",
+  "duration": "PT1H25M54S",
+  "durationSec": 5154,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/bW7flKtKNvQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:50:17Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・対局準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 660,
+        "label": "最初の視聴者参加対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2476,
+        "label": "対局終了・次の参加者へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2525,
+        "label": "2戦目・視聴者参加対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3568,
+        "label": "対局終了・次の対局へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3591,
+        "label": "3戦目・視聴者参加対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4709,
+        "label": "対局終了・運と攻守の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4763,
+        "label": "4戦目・視聴者参加対局",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5139,
+        "label": "配信終了・締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "videoId": "DeXSw7iHb2s",
+  "title": "＃４【ポケモンSV】中堅どころ倒したら待ち受けるは最強組‥ってコト！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-25T17:59:24Z",
+  "duration": "PT5H20M16S",
+  "durationSec": 19216,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DeXSw7iHb2s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T14:48:28Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 277,
+        "label": "ピクニックで仲間紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1182,
+        "label": "サンドイッチ作り・出発準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1310,
+        "label": "ノーマルジムへ向けて移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1797,
+        "label": "砂漠でレベリング・捕獲・対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2915,
+        "label": "砂漠のトレーナー戦・テラレイド情報",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3583,
+        "label": "ボカロイントロクイズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4513,
+        "label": "3周年告知と休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4622,
+        "label": "ポケポータル説明・レベリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5375,
+        "label": "ノーマルジムへ向かう道中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6896,
+        "label": "チャンプルジムのテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8196,
+        "label": "ノーマルジム戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8810,
+        "label": "チャンピオンとのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9362,
+        "label": "ジム後の振り返りと進行相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9524,
+        "label": "次の攻略に向けたレベリング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11266,
+        "label": "ヌシとのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11806,
+        "label": "ヌシ戦後の移動と次の拠点",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12475,
+        "label": "スター団の事情と炎組への導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12979,
+        "label": "炎組アジトの攻略開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13205,
+        "label": "炎組ボスとのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13899,
+        "label": "炎組戦後のストーリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14153,
+        "label": "毒組アジトへ向かう道中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14675,
+        "label": "毒組前の手持ち相談・育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16027,
+        "label": "スター団の事情を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16410,
+        "label": "毒組アジト前の会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16726,
+        "label": "毒組アジトの攻略開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17397,
+        "label": "毒組ボスとのバトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17698,
+        "label": "毒組アジト後のストーリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18151,
+        "label": "次回の進行と手持ち相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18820,
+        "label": "締めの挨拶とスパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

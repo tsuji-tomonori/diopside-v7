@@ -1,0 +1,125 @@
+{
+  "videoId": "BZkCPMIsz1k",
+  "title": "女性限定の💋仮面舞踏会💋に参戦したら撃沈したって話。【白雪巴/にじさんじ】",
+  "publishedAt": "2026-07-06T15:11:29Z",
+  "duration": "PT1H59M47S",
+  "durationSec": 7187,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/BZkCPMIsz1k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:28:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・体験談の予告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 132,
+        "label": "体験談の注意事項",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 414,
+        "label": "参加を決めたきっかけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 824,
+        "label": "衣装選びと当日の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1162,
+        "label": "受付と会場のルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1495,
+        "label": "会場での立ち回り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1828,
+        "label": "ステージパフォーマンス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2202,
+        "label": "仮面のまま交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2564,
+        "label": "終盤の予想外な展開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3013,
+        "label": "本編のまとめ・終盤の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3487,
+        "label": "イベント後の追加エピソード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3807,
+        "label": "視聴者の反応と補足",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4059,
+        "label": "反省会と交流イベントの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4921,
+        "label": "体験談を振り返って",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5286,
+        "label": "次回に向けた作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5929,
+        "label": "配信の感想・次回相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6281,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7071,
+        "label": "次回予告と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

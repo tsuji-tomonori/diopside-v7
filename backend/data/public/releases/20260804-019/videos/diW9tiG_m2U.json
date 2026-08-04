@@ -1,0 +1,120 @@
+{
+  "videoId": "diW9tiG_m2U",
+  "title": "＃１０【NieR:Automata -ニーアオートマタ-】3周目突入。この先に待ち受けるものとは…【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-27T15:36:22Z",
+  "duration": "PT2H24M45S",
+  "durationSec": 8685,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/diW9tiG_m2U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:01:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 248,
+        "label": "前回の振り返りと準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 789,
+        "label": "寄り道と武器物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1176,
+        "label": "倉庫の救出依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1696,
+        "label": "魂の箱・ハッキング前半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2650,
+        "label": "塔システムの資料とハッキング後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3666,
+        "label": "重要資料を読み解く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3997,
+        "label": "記憶空間へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4251,
+        "label": "新たな操作パートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4939,
+        "label": "キャンプでの出会いと衣装チェンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5278,
+        "label": "レジスタンスキャンプの依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5879,
+        "label": "森林地帯で素材集め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6864,
+        "label": "村のお手伝いと追加依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7405,
+        "label": "次の目的と村での会話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7701,
+        "label": "エンディングトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7952,
+        "label": "ストーリー振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8100,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
