@@ -1,0 +1,165 @@
+{
+  "videoId": "m-4M-xVxY0c",
+  "title": "【スプラトゥーン2】大会を見守りたイカで同時視聴！負けてもやめられない【#にじスプラ大会/エリー・コニファー/甲斐田晴/白雪 巴/にじさんじ】",
+  "publishedAt": "2020-06-21T11:58:47Z",
+  "duration": "PT3H19M23S",
+  "durationSec": 11963,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/m-4M-xVxY0c/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T12:45:20Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会同時視聴の趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "大会スケジュールとトーナメント表",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 565,
+        "label": "前日の練習とチームへの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 842,
+        "label": "トーナメントの見どころを予習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1991,
+        "label": "参加型プレイの準備と武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2420,
+        "label": "参加型プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3114,
+        "label": "大会中継へ切り替え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "公式配信のオープニングとルール紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3676,
+        "label": "マッチ1を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5106,
+        "label": "マッチ1後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5712,
+        "label": "マッチ2を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6306,
+        "label": "マッチ2後の振り返りと次の対戦カード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6879,
+        "label": "マッチ3を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7191,
+        "label": "マッチ4を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7503,
+        "label": "マッチ4後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7625,
+        "label": "マッチ5を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7794,
+        "label": "マッチ5後のチーム分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8097,
+        "label": "マッチ6を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8400,
+        "label": "マッチ6後の振り返りと次の試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8825,
+        "label": "マッチ7を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9237,
+        "label": "マッチ7後の雑談と感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10104,
+        "label": "マッチ8を観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10796,
+        "label": "最終マッチ前の休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11142,
+        "label": "最終マッチを観戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11349,
+        "label": "大会後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11624,
+        "label": "公式配信終了後の締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

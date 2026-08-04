@@ -1,0 +1,120 @@
+{
+  "videoId": "305P7krKwq0",
+  "title": "【雑談】GW前半お休みいただきます【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-04-28T12:31:10Z",
+  "duration": "PT1H19M53S",
+  "durationSec": 4793,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/305P7krKwq0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T23:07:55.342910Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・GW休暇前の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 196,
+        "label": "休暇前の掃除と洗濯トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 382,
+        "label": "乾杯とレモンドリンク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 445,
+        "label": "バイノーラルマイクの購入とトラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 803,
+        "label": "最近観た映画の話（ネタバレなし）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1790,
+        "label": "36万人記念とチャンネル登録について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2333,
+        "label": "自分を見失わないための話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2542,
+        "label": "幸せ・不公平と自分を大切にする話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3245,
+        "label": "大人になることと経験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3374,
+        "label": "GWの帰省準備と実家の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3584,
+        "label": "身長と服装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "好きなアニメ・ゲームキャラの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4144,
+        "label": "雑談の締めとGW休暇のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4228,
+        "label": "販売中ボイスの告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4260,
+        "label": "スパチャ読みと36万人への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4290,
+        "label": "J1コラボと湘南ベルマーレの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4368,
+        "label": "スパチャ読み・視聴者へのメッセージ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

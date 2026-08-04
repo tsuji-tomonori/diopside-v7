@@ -1,0 +1,145 @@
+{
+  "videoId": "mWEGljNoIyk",
+  "title": "【ASMR】イイ子におねだり出来たら欲しいものあげる【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-04-09T00:56:11Z",
+  "duration": "PT1H26M39S",
+  "durationSec": 5199,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mWEGljNoIyk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T04:51:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・ヘアケア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 598,
+        "label": "9万人記念・セリフ企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 802,
+        "label": "セリフリクエストを読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1057,
+        "label": "少し強めのセリフに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1174,
+        "label": "甘やかし・からかい系のセリフ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1501,
+        "label": "食事シチュエーションとオムライス雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1612,
+        "label": "セリフリクエストを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1945,
+        "label": "吸血鬼シチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2249,
+        "label": "秘密を共有するシチュエーション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2431,
+        "label": "耳元の演出と就寝前の慰め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2580,
+        "label": "後半のリクエストと雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2883,
+        "label": "S系シチュエーションの方向性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3124,
+        "label": "ペットを叱って甘やかす",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3285,
+        "label": "赤ちゃんになりたい気持ちと育児シチュ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3404,
+        "label": "最後のリクエストと企画の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3654,
+        "label": "3分芝居・ボイス販売・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4001,
+        "label": "配信へのお礼とスパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4109,
+        "label": "過去の音声企画と寝る前のリラックス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4260,
+        "label": "スパチャ読みと視聴者へのお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4809,
+        "label": "10万人目標と購入ボイスの感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4902,
+        "label": "ゲーム・歌・今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4987,
+        "label": "マイク環境の改善と最後のお礼",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

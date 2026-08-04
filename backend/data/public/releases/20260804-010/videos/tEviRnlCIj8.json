@@ -1,0 +1,125 @@
+{
+  "videoId": "tEviRnlCIj8",
+  "title": "【Splatoon2】チーム対抗模擬戦！助っ人白雪巴さん参戦！【弦月藤士郎/にじさんじ】",
+  "publishedAt": "2020-06-19T17:57:46Z",
+  "duration": "PT2H20M30S",
+  "durationSec": 8430,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/tEviRnlCIj8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介とルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 578,
+        "label": "初戦の模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 971,
+        "label": "機材トラブルの復旧対応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1450,
+        "label": "画面復旧後の模擬戦とチーム分析",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1941,
+        "label": "模擬戦と次戦の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "ローラー・ZAP対策と模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2822,
+        "label": "連携と塗りを確認する模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "模擬戦の振り返り・武器とステージの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4053,
+        "label": "中央の攻防と武器の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4566,
+        "label": "ダイナモ・バケツの模擬戦とステージ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5241,
+        "label": "模擬戦・中央の攻防とスペシャル運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5773,
+        "label": "装備構成の確認と模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6008,
+        "label": "配信音声のずれを復旧して模擬戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6405,
+        "label": "ギア調整と前線の押し引き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6801,
+        "label": "連戦の振り返りと模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7396,
+        "label": "戦績データ確認・終盤の模擬戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7896,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8269,
+        "label": "感謝・告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

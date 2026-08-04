@@ -1,0 +1,125 @@
+{
+  "videoId": "_DwZfvYMF60",
+  "title": "【雑談】寝る前に晩酌しながら少しだけ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-09T18:09:15Z",
+  "duration": "PT1H40M59S",
+  "durationSec": 6059,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_DwZfvYMF60/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:40:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日とボイスへの感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 636,
+        "label": "誕生日配信とエクストラボイスの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 766,
+        "label": "誕生日プレゼント・しゃぶしゃぶ・晩酌の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1135,
+        "label": "バイノーラルマイクの準備とサプライズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1241,
+        "label": "ライブの余韻と翌朝配信の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1678,
+        "label": "誕生日凸待ちと同期クイズの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2195,
+        "label": "同期との関係性と誕生日配信の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2430,
+        "label": "相沢さんとの共演とオープニングサプライズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2616,
+        "label": "次回SM配信の募集と予想外の凸",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2871,
+        "label": "誕生日凸待ちの共演者を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3766,
+        "label": "夏芽さんとの凸と凸待ち全体の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4494,
+        "label": "励まし・今後の予定・スパチャ読みへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4807,
+        "label": "スパチャ読み・ボイスと誕生日への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5293,
+        "label": "しゃぶしゃぶ・鍋の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5407,
+        "label": "深夜のスパチャ読み・ボイスとライブの余韻",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5699,
+        "label": "夢の話とASMRの道具",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5770,
+        "label": "最後のスパチャ読みと就寝前の挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6038,
+        "label": "終了挨拶・白雪生誕祭への感謝",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

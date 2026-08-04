@@ -1,0 +1,135 @@
+{
+  "videoId": "qxS5Utu4VKg",
+  "title": "後編【The Medium】霊能力VS悪霊かかってきなさい！！！ビビりですが【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-21T09:20:00Z",
+  "duration": "PT3H52M25S",
+  "durationSec": 13945,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qxS5Utu4VKg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-15T17:07:37+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前編の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 514,
+        "label": "森と廃屋の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1230,
+        "label": "追跡・逃走区間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1981,
+        "label": "発電設備を復旧する",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2632,
+        "label": "物語進行・過去をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2950,
+        "label": "家屋の探索と仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "別視点の精神世界を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5301,
+        "label": "録音と機密記録を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5672,
+        "label": "記憶の中を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6555,
+        "label": "家屋の仕掛けを進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7585,
+        "label": "集めた記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8021,
+        "label": "地下への道を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8604,
+        "label": "地下設備の探索と排水操作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10065,
+        "label": "地下通路の追跡区間",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10904,
+        "label": "地下研究施設を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11874,
+        "label": "物語進行・過去をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12295,
+        "label": "湖へ向かう",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12596,
+        "label": "物語の最終局面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13001,
+        "label": "エンディング後の感想・考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13830,
+        "label": "配信告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

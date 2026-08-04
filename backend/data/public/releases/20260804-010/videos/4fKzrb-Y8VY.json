@@ -1,0 +1,95 @@
+{
+  "videoId": "4fKzrb-Y8VY",
+  "title": "【DbD】カスタム激アツDBD（一部回線の問題できれています・・・）【にじさんじ / 伏見ガク】",
+  "publishedAt": "2022-06-21T13:43:24Z",
+  "duration": "PT2H28M47S",
+  "durationSec": 8927,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4fKzrb-Y8VY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T19:47:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・最初の対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 603,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "第1試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3008,
+        "label": "第2試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "第2試合後の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4297,
+        "label": "第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4798,
+        "label": "第3試合後の振り返り・第4試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5655,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6778,
+        "label": "第4試合後の振り返り・最終試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7592,
+        "label": "最終試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8445,
+        "label": "最終試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8706,
+        "label": "配信締め・次回の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

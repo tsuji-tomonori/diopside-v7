@@ -1,0 +1,120 @@
+{
+  "videoId": "oPCk_V59z6k",
+  "title": "【Dark Deception】鬼畜ステージをクリアした私が通ります【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-21T14:57:37Z",
+  "duration": "PT1H29M6S",
+  "durationSec": 5346,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oPCk_V59z6k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T17:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 376,
+        "label": "前回の振り返りとゲーム設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 673,
+        "label": "ステージ探索と寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1188,
+        "label": "物語の振り返りと能力確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "アヒルのステージを開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1695,
+        "label": "水路を進み攻略法を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2026,
+        "label": "能力構成を考えて再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2453,
+        "label": "壁とテレポートの仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2671,
+        "label": "ステージ4序盤の仕組みを探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3040,
+        "label": "新たな危険を避けて進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3417,
+        "label": "危険区画のルートを組み立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3905,
+        "label": "再挑戦で仕掛けを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4222,
+        "label": "終盤区画をワープで進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4793,
+        "label": "ステージ4終盤を攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5018,
+        "label": "ゲームを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5067,
+        "label": "今週のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5125,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

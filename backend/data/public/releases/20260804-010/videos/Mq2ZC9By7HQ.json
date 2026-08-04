@@ -1,0 +1,145 @@
+{
+  "videoId": "Mq2ZC9By7HQ",
+  "title": "【#マリカにじさんじ杯】Fリーグ予選。マリカ予選も3年目ってワケ【マリオカート8DX】【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-12-11T12:59:52Z",
+  "duration": "PT1H51M11S",
+  "durationSec": 6671,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Mq2ZC9By7HQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T13:52:37Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・予選に向けた練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 385,
+        "label": "新コースをゴーストで練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 922,
+        "label": "被弾を想定した走り方・コース確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1559,
+        "label": "追加コースの練習・参加者予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2070,
+        "label": "ショートカットのルートを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2392,
+        "label": "過去の出場経験と大会前の心境",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3069,
+        "label": "大会ロビーで開始を待つ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3267,
+        "label": "アピールタイムを準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3444,
+        "label": "アピール音声の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3555,
+        "label": "参加者を見ながら本番を待つ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4306,
+        "label": "最後のアピール素材を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4697,
+        "label": "予選コースを確認して第1レースへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4931,
+        "label": "予選第2レースへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5222,
+        "label": "予選第3レースを走る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5472,
+        "label": "予選最終レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5626,
+        "label": "レース後の確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5720,
+        "label": "レース後の振り返り・次の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6009,
+        "label": "ショートカット振り返り・次週の特訓",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6132,
+        "label": "締めの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "スーパーチャットにお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6527,
+        "label": "練習の成果を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6595,
+        "label": "次回大会の告知・最終挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

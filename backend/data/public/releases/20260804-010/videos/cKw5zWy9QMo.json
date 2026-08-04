@@ -1,0 +1,120 @@
+{
+  "videoId": "cKw5zWy9QMo",
+  "title": "【オフコラボ】目隠しながらポーズを当てる健全なアソビ【#Crossick/にじさんじ】",
+  "publishedAt": "2020-10-17T16:24:01Z",
+  "duration": "PT2H31M51S",
+  "durationSec": 9111,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cKw5zWy9QMo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T05:41:21Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 553,
+        "label": "企画ルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 808,
+        "label": "第1問：目隠しポーズ当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "第2問：交代してポーズ当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2207,
+        "label": "第3問：難しいポーズに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2911,
+        "label": "第4問：次のポーズを推測",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3645,
+        "label": "第5問：椅子を使うポーズ当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4320,
+        "label": "第6問：難しいポーズの答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5184,
+        "label": "第7問：ポーズを触って推測",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5743,
+        "label": "第8問：ポーズ当てと答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6435,
+        "label": "得点を振り返り最後の問題へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6610,
+        "label": "第9問：終盤のポーズ当て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7216,
+        "label": "第10問：最終問題に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7698,
+        "label": "結果発表・企画の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8118,
+        "label": "マッサージと企画の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8512,
+        "label": "終了前の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8886,
+        "label": "関連作品・今後の活動と締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

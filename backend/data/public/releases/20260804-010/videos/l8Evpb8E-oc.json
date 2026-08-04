@@ -1,0 +1,130 @@
+{
+  "videoId": "l8Evpb8E-oc",
+  "title": "𓊆 Project Winter 𓊇 雪山で遊べるらしい！たのしみ！！ 𓊆 雲母たまこ/にじさんじ 𓊇",
+  "publishedAt": "2025-01-17T14:37:36Z",
+  "duration": "PT2H36S",
+  "durationSec": 7236,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/l8Evpb8E-oc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T08:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 431,
+        "label": "初戦：修理と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1380,
+        "label": "初戦：次の施設を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1882,
+        "label": "初戦：狼の襲撃",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2364,
+        "label": "初戦後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2425,
+        "label": "二戦目：修理と資材探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3451,
+        "label": "二戦目：異変を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "二戦目：武器を手に進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4178,
+        "label": "二戦目：雷雨下の修理と戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4461,
+        "label": "二戦目後の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4698,
+        "label": "最終戦：開始と発電",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4984,
+        "label": "最終戦：物資と施設を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5458,
+        "label": "最終戦：吹雪からの帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5760,
+        "label": "最終戦：脱出準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6108,
+        "label": "最終戦：救出へ向かう",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6328,
+        "label": "最終戦：救出作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6513,
+        "label": "最終戦：終盤サバイバル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6845,
+        "label": "ゲーム終了後の挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6884,
+        "label": "告知・振り返り・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

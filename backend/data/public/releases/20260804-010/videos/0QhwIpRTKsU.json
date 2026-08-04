@@ -1,0 +1,110 @@
+{
+  "videoId": "0QhwIpRTKsU",
+  "title": "【#にじさんじDbD大会】初戦　夕陽リリ視点【白雪巴/瀬戸美夜子/宇志海いちご/夕陽リリ】",
+  "publishedAt": "2020-07-29T13:26:06Z",
+  "duration": "PT1H17M30S",
+  "durationSec": 4650,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/0QhwIpRTKsU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:37:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音量確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 273,
+        "label": "DbD大会準備・作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 536,
+        "label": "画面確認・パーク説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 605,
+        "label": "キラー対策・チェイス方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 822,
+        "label": "初戦準備・ロビー待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1226,
+        "label": "初戦・サバイバー視点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "次戦のキラー確認・作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2203,
+        "label": "サバイバー戦・救助と発電機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3007,
+        "label": "試合後のポイント確認・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3302,
+        "label": "最終戦前の作戦・パーク確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "最終マッチ・追跡と立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4119,
+        "label": "最終マッチ終盤・状況確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4381,
+        "label": "試合後のポイント・大会振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4550,
+        "label": "大会後の感想・応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4625,
+        "label": "締めの挨拶・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

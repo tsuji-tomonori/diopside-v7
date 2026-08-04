@@ -1,0 +1,155 @@
+{
+  "videoId": "IrOpqc8USxc",
+  "title": "【#メリクリくろしっく】デュエット解禁！！！Crossick初めての歌枠【Crossick/にじさんじ】",
+  "publishedAt": "2020-12-24T09:46:27Z",
+  "duration": "PT1H37M37S",
+  "durationSec": 5857,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IrOpqc8USxc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:20:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "トライアングラー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 385,
+        "label": "オープニングMC・歌枠の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 633,
+        "label": "オオカミは赤ずきんに恋をした",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 856,
+        "label": "MC・配信画面と進行調整",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1102,
+        "label": "アイのシナリオ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1369,
+        "label": "シザーハンズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1656,
+        "label": "MC・歌唱と選曲トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1848,
+        "label": "アカツキアライヴァル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2190,
+        "label": "秘蜜〜黒の誓い〜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2468,
+        "label": "ロメオ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2647,
+        "label": "MC・3曲ブロックの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2984,
+        "label": "Scarlet Knight",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3245,
+        "label": "ミカヅキ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3532,
+        "label": "マトリョシカ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3735,
+        "label": "MC・歌唱と衣装トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3937,
+        "label": "翌日の投稿と配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4180,
+        "label": "MC・最終ブロックの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4303,
+        "label": "硝子の花園",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4605,
+        "label": "六等星の夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4967,
+        "label": "炎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5258,
+        "label": "東京サマーセッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5496,
+        "label": "MC・次の曲へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5559,
+        "label": "ライオン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5825,
+        "label": "次回案内・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

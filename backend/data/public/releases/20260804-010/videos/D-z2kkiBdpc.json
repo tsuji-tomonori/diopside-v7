@@ -1,0 +1,180 @@
+{
+  "videoId": "D-z2kkiBdpc",
+  "title": "【#にじスプラ祭り 本番| #雪月姉妹WIN】雪月シスターズ最終回「集結-assemble-」【弦月藤士郎/にじさんじ】",
+  "publishedAt": "2022-10-16T13:25:37Z",
+  "duration": "PT4H7M2S",
+  "durationSec": 14822,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/D-z2kkiBdpc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "開会・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 426,
+        "label": "序盤の試合準備・エリア戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 848,
+        "label": "序盤戦の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1278,
+        "label": "エリア戦・連携プレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1606,
+        "label": "試合後の振り返り・次のエリア戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2142,
+        "label": "エリア戦・次の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2386,
+        "label": "エリア戦後の解説・アサリ戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3011,
+        "label": "アサリ戦・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3435,
+        "label": "アサリ戦の振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3949,
+        "label": "アサリ戦・攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4350,
+        "label": "アサリ戦後の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4872,
+        "label": "アサリ戦・マップコントロール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5225,
+        "label": "アサリ戦後の振り返り・ヤグラ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5698,
+        "label": "ヤグラ戦・進行と守備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6123,
+        "label": "ヤグラ戦後の振り返り・中盤戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6685,
+        "label": "ヤグラ戦・中盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6823,
+        "label": "休憩・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7498,
+        "label": "ヤグラ戦・中央ルートの守備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7889,
+        "label": "休憩・戦術相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9057,
+        "label": "エリア戦・長丁場の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11265,
+        "label": "試合後の振り返り・終盤戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11696,
+        "label": "終盤の試合・中央の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11983,
+        "label": "終盤戦の振り返り・作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12344,
+        "label": "終盤の試合・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12580,
+        "label": "試合後の歓談・チームトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12965,
+        "label": "締めの試合・チーム連携",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13201,
+        "label": "イベント後半のチームトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14417,
+        "label": "最後の記録ゲーム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14717,
+        "label": "お知らせ・締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

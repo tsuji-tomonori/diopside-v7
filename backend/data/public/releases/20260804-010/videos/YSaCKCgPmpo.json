@@ -1,0 +1,130 @@
+{
+  "videoId": "YSaCKCgPmpo",
+  "title": "【DbD】おはようそしておやすみなさい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-23T10:09:24Z",
+  "duration": "PT2H52M23S",
+  "durationSec": 10343,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YSaCKCgPmpo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T11:07:40Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・Dead by Daylight",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 530,
+        "label": "第1試合：発電機と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1220,
+        "label": "第2試合：チェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1901,
+        "label": "第3試合：発電機と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2440,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2592,
+        "label": "第4試合：室内マップでのチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3495,
+        "label": "第4試合後：パークとチーム編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "第5試合：キラーの能力を見ながらプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4928,
+        "label": "第6試合：チェイスと仲間の救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5296,
+        "label": "第7試合：地図アイテムとゴーストフェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6295,
+        "label": "第7試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6532,
+        "label": "第8試合：三角頭との初対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7295,
+        "label": "三角頭の能力と演出を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7594,
+        "label": "第9試合：救助とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8176,
+        "label": "第10試合：ドクターの能力を体験",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8721,
+        "label": "第11試合：救助とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9526,
+        "label": "試合後の振り返り・配信予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9662,
+        "label": "第12試合：プレイグの感染と泉",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10233,
+        "label": "試合後の感想・お知らせ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

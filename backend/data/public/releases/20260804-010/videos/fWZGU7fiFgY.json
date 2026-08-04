@@ -1,0 +1,160 @@
+{
+  "videoId": "fWZGU7fiFgY",
+  "title": "【#ふるとな】夜更かし上等！ほろ酔リモート飲み会🌒🍶【にじさんじフミ/ルイス・キャミー/白雪巴/来栖夏芽】",
+  "publishedAt": "2023-07-30T16:54:36Z",
+  "duration": "PT2H40M55S",
+  "durationSec": 9655,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fWZGU7fiFgY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:47:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・乾杯・飲み会スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 596,
+        "label": "好きな人がかぶったら？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1565,
+        "label": "恋人がいても合コンに行く？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2118,
+        "label": "友情・恋愛・仕事との付き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2688,
+        "label": "友達と喧嘩したときの向き合い方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3156,
+        "label": "作品と俳優、どちらを重視する？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3523,
+        "label": "友達から告白されたら？",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4117,
+        "label": "理想のクリスマスの過ごし方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4527,
+        "label": "かっこいい女性と自立の価値観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5207,
+        "label": "理想のデートとクリスマス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5517,
+        "label": "家族・旅行・夏の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5918,
+        "label": "夏の予定と水着選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6340,
+        "label": "夏コミの思い出と現地トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6704,
+        "label": "匂い・食べ物・ASMRの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7148,
+        "label": "マサルをめぐる掛け合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7278,
+        "label": "キャラクターの魅力と好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "包容力のあるキャラクター談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7799,
+        "label": "フィクションの関係性をどう楽しむか",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8069,
+        "label": "作品に触れる時間と物語の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8397,
+        "label": "人形系作品と性別表現",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8590,
+        "label": "ゾンビ題材と倫理観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "深い話になった夜の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9054,
+        "label": "今後の予定とコラボ告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9298,
+        "label": "ライブ映像商品と新機能の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9458,
+        "label": "振り返りと締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

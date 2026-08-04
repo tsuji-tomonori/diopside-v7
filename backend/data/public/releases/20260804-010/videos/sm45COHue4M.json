@@ -1,0 +1,155 @@
+{
+  "videoId": "sm45COHue4M",
+  "title": "【おしゃべりキング！】コミュ力診断ゲーム！？白雪のコミュ力見してやんよ……(震え声)【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-23T17:07:04Z",
+  "duration": "PT3H23M10S",
+  "durationSec": 12190,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sm45COHue4M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T12:53:14.498Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 262,
+        "label": "初級・発音チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 468,
+        "label": "初級・アナウンス課題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 946,
+        "label": "初級・即興リポート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1780,
+        "label": "連想チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1982,
+        "label": "初級・長編ロールプレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3277,
+        "label": "初級・願いを伝える課題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3732,
+        "label": "初級・説得ロールプレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4886,
+        "label": "中級・発音チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5242,
+        "label": "中級・即興リポート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5461,
+        "label": "中級・相談へのアドバイス",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5701,
+        "label": "中級・わかりやすく説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6120,
+        "label": "中級・安心させる声かけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6899,
+        "label": "中級・スピーチ課題",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7250,
+        "label": "中級・長編対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8272,
+        "label": "連想チャレンジ・後半",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8428,
+        "label": "即興バトル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9003,
+        "label": "上級・即興リポート",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9432,
+        "label": "上級・お願いの伝え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9841,
+        "label": "上級・実況チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10298,
+        "label": "上級・言葉を説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10938,
+        "label": "最終・面接ロールプレイ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11731,
+        "label": "ゲームの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11848,
+        "label": "スーパーチャット・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

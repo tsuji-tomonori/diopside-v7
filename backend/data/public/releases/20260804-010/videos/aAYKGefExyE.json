@@ -1,0 +1,115 @@
+{
+  "videoId": "aAYKGefExyE",
+  "title": "＃３【ボク姫PROJECT】女装少年が学園一の美少女を目指す！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-08T15:09:11Z",
+  "duration": "PT1H40M51S",
+  "durationSec": 6051,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/aAYKGefExyE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:36:44.963Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までのあらすじ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 284,
+        "label": "女子部の入学式と姫候補の騒動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 544,
+        "label": "男子部で大賀と出会う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 936,
+        "label": "男子部の入学式",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1274,
+        "label": "男子部の校舎と新生活",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2040,
+        "label": "入学式の評判と姫候補たち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2639,
+        "label": "アキラの部屋と入学への迷い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2988,
+        "label": "女子部へ通う作戦と姫プロジェクト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3470,
+        "label": "女装修行を始める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3902,
+        "label": "ゲームショップで精神力を鍛える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4195,
+        "label": "女装修行のトラブルと学園への帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4623,
+        "label": "学園での初登校",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4890,
+        "label": "クラスの歓迎と騎士制度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5258,
+        "label": "保健室への付き添いと学級新聞",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5449,
+        "label": "本編終了・次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5602,
+        "label": "スーパーチャット読みと雑談",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

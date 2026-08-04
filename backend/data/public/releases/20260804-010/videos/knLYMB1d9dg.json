@@ -1,0 +1,105 @@
+{
+  "videoId": "knLYMB1d9dg",
+  "title": "【#レバガチャ爆ヶ原】漁夫の利！漁夫の利！漁夫の利！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-06-02T11:25:46Z",
+  "duration": "PT1H14M33S",
+  "durationSec": 4473,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/knLYMB1d9dg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T19:27:31Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 592,
+        "label": "第1試合・アイテム集めと交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1019,
+        "label": "第2試合・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1456,
+        "label": "第3試合・連携と終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2031,
+        "label": "第4試合・逃走と交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2443,
+        "label": "第5試合・作戦からゲーム展開へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2949,
+        "label": "チーム戦の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3075,
+        "label": "個人戦エキシビション・ルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3161,
+        "label": "個人戦エキシビション・漁夫の利を狙う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3506,
+        "label": "全試合の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "参加者との感想・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3836,
+        "label": "配信の締め・次回の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4002,
+        "label": "スーパーチャット読み・応援への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4406,
+        "label": "終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

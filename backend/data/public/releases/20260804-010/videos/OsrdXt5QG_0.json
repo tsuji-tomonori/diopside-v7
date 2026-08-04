@@ -1,0 +1,145 @@
+{
+  "videoId": "OsrdXt5QG_0",
+  "title": "＃５【ポケモンSV】はがね！あく！ゴースト！かくとう！こうかはばつぐんだ！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-11-26T15:48:32Z",
+  "duration": "PT4H30M",
+  "durationSec": 16200,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OsrdXt5QG_0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T15:30:07Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・攻略方針と手持ち紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 520,
+        "label": "ピクニックで手持ちを整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1218,
+        "label": "移動しながら捕獲と探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1604,
+        "label": "手持ちの進化とフェアリー組への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1853,
+        "label": "フェアリー組アジトへ向けて探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3241,
+        "label": "フェアリー組のレイドと対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "対戦後の会話と次の目的地",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4517,
+        "label": "エスパー方面の探索と捕獲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6414,
+        "label": "エスパージム到着・エクササイズテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "リップ戦前の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8401,
+        "label": "エスパージム・リップ戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8841,
+        "label": "対戦後の攻略方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9426,
+        "label": "ゴースト方面の探索と捕獲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10817,
+        "label": "街で道具と手持ちを準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11456,
+        "label": "ゴーストジムへ・ジムテスト",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12449,
+        "label": "ゴーストジムのステージと対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13368,
+        "label": "対戦後の攻略準備と移動",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14050,
+        "label": "難所の戦闘と周辺探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14696,
+        "label": "難所の攻略戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15341,
+        "label": "タイプ相性と次の攻略方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15653,
+        "label": "記念配信と今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15941,
+        "label": "締めの挨拶・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

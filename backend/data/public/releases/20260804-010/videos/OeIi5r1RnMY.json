@@ -1,0 +1,100 @@
+{
+  "videoId": "OeIi5r1RnMY",
+  "title": "【生誕祭】プレゼント開封つづき【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-12T10:09:32Z",
+  "duration": "PT2H54M49S",
+  "durationSec": 10489,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/OeIi5r1RnMY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・プレゼント開封スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 524,
+        "label": "ブランケットや小物を開封",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1757,
+        "label": "百合漫画とお箸のプレゼント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2661,
+        "label": "タオル・名入れ箸・ネックレス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3448,
+        "label": "手帳やブラシに添えられた手紙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4633,
+        "label": "タンブラー・絵・ストール・グラス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5955,
+        "label": "加湿器や身の回り品を開封",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6722,
+        "label": "手紙を読みながら海外からの贈り物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7773,
+        "label": "残りのプレゼントと長いバースデーレター",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8711,
+        "label": "手紙の余韻と大きなフィギュア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9286,
+        "label": "最後の手紙とプレゼント開封の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10008,
+        "label": "スパチャ読み・記念企画の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10405,
+        "label": "エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

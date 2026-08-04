@@ -1,0 +1,125 @@
+{
+  "videoId": "3nPTPo9iKGI",
+  "title": "【ママにゲーム隠された1,2】昔はママ雪から隠れてゲームしていました【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-21T08:11:09Z",
+  "duration": "PT2H55M49S",
+  "durationSec": 10549,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3nPTPo9iKGI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 392,
+        "label": "ゲーム紹介・操作説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 606,
+        "label": "第1作・序盤の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1671,
+        "label": "第1作・動物と部屋の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "第1作・ヒントを手掛かりに攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3709,
+        "label": "第1作・家族シーンと間違い探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4115,
+        "label": "第1作・ミニゲームと後半攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5217,
+        "label": "第1作・終盤の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5519,
+        "label": "第1作・コレクション確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6009,
+        "label": "第1作・追加ステージ攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7500,
+        "label": "第1作・追加ステージ後半から次作へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8275,
+        "label": "第2作・序盤の仕掛け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8700,
+        "label": "第2作・爆弾の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8881,
+        "label": "第2作・間違い探しと仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9403,
+        "label": "第2作・後半の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9594,
+        "label": "コレクション確認・ゲームの締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10315,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10416,
+        "label": "次回告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

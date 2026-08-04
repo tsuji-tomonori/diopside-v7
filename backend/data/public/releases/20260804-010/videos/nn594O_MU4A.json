@@ -1,0 +1,105 @@
+{
+  "videoId": "nn594O_MU4A",
+  "title": "声真似凸 #にじさんじ声真似主さんと繋がりたい  セリフリクエスト歓迎！",
+  "publishedAt": "2023-12-02T14:25:42Z",
+  "duration": "PT1H18M57S",
+  "durationSec": 4737,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nn594O_MU4A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T12:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・声真似の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 346,
+        "label": "声真似凸待ちの説明・配信準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 682,
+        "label": "竜胆尊系声真似凸者との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1100,
+        "label": "フミ系声真似凸者との活動談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1481,
+        "label": "小野町春香系声真似凸者との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1880,
+        "label": "月ノ美兎系声真似・ピカチュウ披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2261,
+        "label": "男性声真似凸者との活動・コラボ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2687,
+        "label": "石神のぞみ系声真似・活動のきっかけ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3068,
+        "label": "白雪巴系声真似のなりきり会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3477,
+        "label": "ベルモンド系声真似・コラボとレパートリー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3965,
+        "label": "レヴィ系声真似・歌の披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4345,
+        "label": "樋口楓系声真似凸者との自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4465,
+        "label": "なりきり会話・VCへの移動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4675,
+        "label": "凸待ちの振り返り・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

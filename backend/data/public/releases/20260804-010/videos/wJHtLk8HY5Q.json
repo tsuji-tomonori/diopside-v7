@@ -1,0 +1,115 @@
+{
+  "videoId": "wJHtLk8HY5Q",
+  "title": "【3Dコラボ】#ふるとな3D運動会 スポーツでガチ対決！？敗者は罰ゲーム‥【フミ/ルイス・キャミー/来栖夏芽/白雪巴】",
+  "publishedAt": "2023-06-12T11:24:49Z",
+  "duration": "PT1H19M31S",
+  "durationSec": 4771,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wJHtLk8HY5Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T06:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 420,
+        "label": "企画説明・罰ゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 552,
+        "label": "チャンバラのルール・チーム分け",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 778,
+        "label": "チャンバラ対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1431,
+        "label": "チャンバラ決勝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1923,
+        "label": "テニスのチーム分け・試合準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2246,
+        "label": "テニス対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2955,
+        "label": "罰ゲーム決定・こちょこちょ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3158,
+        "label": "休憩・バレーボール練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3340,
+        "label": "バレーボール最終戦の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3493,
+        "label": "バレーボール対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3829,
+        "label": "罰ゲーム案・ものまね",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3976,
+        "label": "罰ゲーム実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4092,
+        "label": "企画振り返り・参加者の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4390,
+        "label": "告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4690,
+        "label": "活動案内・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

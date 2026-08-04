@@ -1,0 +1,140 @@
+{
+  "videoId": "u_T1D6Xev8s",
+  "title": "【スプラトゥーン2】憧れの練習試合！！！！！！！【健屋花那/にじさんじ】",
+  "publishedAt": "2020-06-20T04:32:07Z",
+  "duration": "PT2H20M58S",
+  "durationSec": 8458,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/u_T1D6Xev8s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T14:30:35.523568Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 712,
+        "label": "第1試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1045,
+        "label": "第1試合後の設定・次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1398,
+        "label": "第2試合・連携の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1788,
+        "label": "第3試合・次の作戦確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2119,
+        "label": "第4試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "第5試合・連携と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2797,
+        "label": "第6試合・役割相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3308,
+        "label": "第7試合・練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3645,
+        "label": "第8試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3916,
+        "label": "第9試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4105,
+        "label": "第10試合・試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4548,
+        "label": "第11試合・武器とステージの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5172,
+        "label": "第12試合・反省と次の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5758,
+        "label": "第13試合・操作感の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6064,
+        "label": "第14試合・装備とマップの相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6460,
+        "label": "第15試合・練習の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6795,
+        "label": "第16試合・戦績の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7403,
+        "label": "第17試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7831,
+        "label": "最後の試合後の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8272,
+        "label": "締めの挨拶・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

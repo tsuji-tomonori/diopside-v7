@@ -1,0 +1,120 @@
+{
+  "videoId": "uYXPEsHQS8E",
+  "title": "＃58【崩壊：スターレイル】オンパロス編。Ver3.7突入！これがキュレネの”記憶”―――。【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-03-03T17:15:51.000Z",
+  "duration": "PT4H3M19S",
+  "durationSec": 14599,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uYXPEsHQS8E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T12:50:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T12:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・体調と前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 900,
+        "label": "Ver.3.7本編開始・新たな世界へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1800,
+        "label": "平穏な町を巡って人々と交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "各勢力の連絡会議を見届ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "銀河規模の危機と協力方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4500,
+        "label": "静まり返った新世界を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5400,
+        "label": "システム内部の解析を開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "複数端末を連携して探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7200,
+        "label": "移動する目標と仕掛けを追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8100,
+        "label": "記憶に残された物語をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9000,
+        "label": "記憶の変化と成長を見届ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9900,
+        "label": "妖精の物語と心の芽生え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10800,
+        "label": "受け継がれる記憶と未来への旅",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11700,
+        "label": "天才たちの仮説と次の作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12600,
+        "label": "会合で立場と協力条件を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13500,
+        "label": "本編の感想と今後の配信予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14400,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

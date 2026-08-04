@@ -1,0 +1,180 @@
+{
+  "videoId": "HI0aqEDN420",
+  "title": "【スプラトゥーン2】今宵アサシンに俺はなる【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-11-11T19:14:33Z",
+  "duration": "PT4H49M42S",
+  "durationSec": 17382,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HI0aqEDN420/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:08:03Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "最初のガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 933,
+        "label": "ガチマッチを継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1414,
+        "label": "ガチマッチと合間の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2169,
+        "label": "ガチマッチと配信状態の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2565,
+        "label": "ガチマッチを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3195,
+        "label": "立ち回り相談と武器選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4009,
+        "label": "武器候補を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4827,
+        "label": "デュアルカスタムから別武器へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5407,
+        "label": "52ガロンなどを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6301,
+        "label": "ボム連携を練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6547,
+        "label": "ハイドラントカスタムを試す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7770,
+        "label": "プライムシューターへ乗り換え",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8081,
+        "label": "プライム系でガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9002,
+        "label": "エリアのガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10012,
+        "label": "武器候補を実戦で比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10744,
+        "label": "武器選びを見直して実戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11891,
+        "label": "デュアルカスタムを再検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13343,
+        "label": "デュアルカスタムの方針を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13507,
+        "label": "デュアルカスタムで再戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13841,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14329,
+        "label": "ヤグラのガチマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14725,
+        "label": "ヤグラ戦を継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15416,
+        "label": "ヤグラの立ち回り相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15921,
+        "label": "終盤のヤグラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16505,
+        "label": "さらにヤグラ戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16861,
+        "label": "試合後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16962,
+        "label": "最後のヤグラ戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17297,
+        "label": "終了挨拶・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

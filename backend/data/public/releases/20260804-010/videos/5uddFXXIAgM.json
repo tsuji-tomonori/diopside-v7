@@ -1,0 +1,140 @@
+{
+  "videoId": "5uddFXXIAgM",
+  "title": "【スゴイツヨイトウフ】お前はまだトウフを知らない【白雪巴/にじさんじ】",
+  "publishedAt": "2026-03-20T14:58:15Z",
+  "duration": "PT1H48M47S",
+  "durationSec": 6527,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/5uddFXXIAgM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T09:03:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 399,
+        "label": "ゲーム開始・豆腐を選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 538,
+        "label": "ゲーム導入映像",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 651,
+        "label": "木綿豆腐 ステージ1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1153,
+        "label": "豆腐づくり映像 1",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1221,
+        "label": "木綿豆腐 ステージ2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1678,
+        "label": "豆腐づくり映像 2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1763,
+        "label": "木綿豆腐 ステージ3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2661,
+        "label": "豆腐づくり映像 3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2725,
+        "label": "木綿豆腐 ステージ4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3230,
+        "label": "豆腐づくり映像 4",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3306,
+        "label": "木綿豆腐 ステージ5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4172,
+        "label": "木綿豆腐 最終ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4696,
+        "label": "豆腐づくり映像 5・一区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4894,
+        "label": "高野豆腐チャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5273,
+        "label": "絹豆腐チャレンジ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5734,
+        "label": "ゲームを振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5789,
+        "label": "今後の配信予定・お知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5997,
+        "label": "ゲームの感想・季節の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6106,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6463,
+        "label": "配信の締め・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

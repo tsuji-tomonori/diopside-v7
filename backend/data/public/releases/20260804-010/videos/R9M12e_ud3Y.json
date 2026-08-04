@@ -1,0 +1,170 @@
+{
+  "videoId": "R9M12e_ud3Y",
+  "title": "【晩酌】今夜はヒトコワ集！？お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 04【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-05-20T16:39:42Z",
+  "duration": "PT3H27M4S",
+  "durationSec": 12424,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/R9M12e_ud3Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T14:25:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・晩酌スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 313,
+        "label": "明日のコラボと予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 418,
+        "label": "お酒の失敗談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 735,
+        "label": "おつまみと食欲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 925,
+        "label": "苦手な食べ物とお酒の好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1065,
+        "label": "九州旅行とお酒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1352,
+        "label": "2杯目のおつまみ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1666,
+        "label": "苦手だった食べ物の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2036,
+        "label": "トマト・酸味・ポン酢の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "家族の食卓エピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2808,
+        "label": "強い兄のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "きょうだい喧嘩と長子論",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3897,
+        "label": "家事分担と一人暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4352,
+        "label": "東京と田舎の暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4763,
+        "label": "虫が苦手な話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5494,
+        "label": "現実に欲しいポケモン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5844,
+        "label": "モノマネ候補探しと披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7379,
+        "label": "健康診断と内視鏡",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7765,
+        "label": "痛かった体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8202,
+        "label": "骨折とリハビリ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8977,
+        "label": "お手洗い休憩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9145,
+        "label": "お会計とお財布の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9635,
+        "label": "迷惑行為と電車のマナー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10293,
+        "label": "コメント欄と人の優しさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10797,
+        "label": "優先席とヘルプマーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11574,
+        "label": "締めのメッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11796,
+        "label": "スパチャ読み・次回のお知らせ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

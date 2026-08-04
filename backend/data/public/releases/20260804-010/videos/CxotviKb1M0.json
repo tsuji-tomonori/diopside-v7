@@ -1,0 +1,165 @@
+{
+  "videoId": "CxotviKb1M0",
+  "title": "【ホラーFPS】殺戮白雪の「Cry of Fear」#7【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-24T16:17:11Z",
+  "duration": "PT2H28M40S",
+  "durationSec": 8920,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CxotviKb1M0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T07:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲームの説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 321,
+        "label": "暗闇の探索と敵の警戒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 652,
+        "label": "セーブ確認と電気・水場の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 942,
+        "label": "暗い部屋の敵を避ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1180,
+        "label": "入口へ戻り、敵への対処を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1506,
+        "label": "敵の特徴を確かめて区画を再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2040,
+        "label": "危険区画の攻略手順を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "ヒューズを使う地下ルートへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2581,
+        "label": "複数の敵との戦い方を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3268,
+        "label": "暗闇から扉へ逃げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3470,
+        "label": "作中記録を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3723,
+        "label": "暗闇の逃走を再試行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "はしごとヒューズのルートを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4559,
+        "label": "水場を通る探索とルート確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5379,
+        "label": "雑談と翌日の配信告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5746,
+        "label": "ゲーム再開・セーブ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5828,
+        "label": "セーブ後の締め雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6031,
+        "label": "延長戦・ゲームとグッズの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6641,
+        "label": "敵を避けてナイフを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7017,
+        "label": "追加のヒューズを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "ヒューズの場所を探して引き返す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7505,
+        "label": "公園から先のルートを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7793,
+        "label": "配信者のきっかけと縁の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8207,
+        "label": "ヒューズの使用場所を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8396,
+        "label": "アイテム回収後の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8704,
+        "label": "配信終了・次回告知",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

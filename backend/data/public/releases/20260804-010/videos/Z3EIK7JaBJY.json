@@ -1,0 +1,130 @@
+{
+  "videoId": "Z3EIK7JaBJY",
+  "title": "【Dead by Daylight】🔴てぃーむれんすう【夕陽リリ/にじさんじ】",
+  "publishedAt": "2020-07-27T17:09:07Z",
+  "duration": "PT2H48M22S",
+  "durationSec": 10102,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Z3EIK7JaBJY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T12:51:29.322279Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・チーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 279,
+        "label": "第1試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 386,
+        "label": "第1試合・発電機と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1417,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1631,
+        "label": "第2試合・チェイスと救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2402,
+        "label": "第2試合後の解説と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2771,
+        "label": "第3試合・チェーンソー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3410,
+        "label": "第3試合後の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3968,
+        "label": "第4試合・ポータル対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4570,
+        "label": "第4試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5032,
+        "label": "第5試合・隠密対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6461,
+        "label": "第5試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6752,
+        "label": "第6試合・発電と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7728,
+        "label": "第6試合後の談義と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8004,
+        "label": "第7試合・発電とゲート進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8705,
+        "label": "第8試合の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8943,
+        "label": "第8試合・電撃対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9933,
+        "label": "第8試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10030,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

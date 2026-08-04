@@ -1,0 +1,155 @@
+{
+  "videoId": "nge_JOqs4tA",
+  "title": "【誕生日配信】いい夫婦の日だからフラれてみた【聖女れりあ・概要読んでね】",
+  "publishedAt": "2020-11-22T15:41:35Z",
+  "duration": "PT2H25M34S",
+  "durationSec": 8734,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/nge_JOqs4tA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T10:28:57Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・誕生日雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 489,
+        "label": "記念企画の告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 728,
+        "label": "台詞企画の進行と注意事項",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 936,
+        "label": "隣の席のクラスメイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1400,
+        "label": "みんなの前では優しい教師",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1939,
+        "label": "陽気なクラスメイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2445,
+        "label": "学校の生徒と先生",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2980,
+        "label": "保健室の先生",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3420,
+        "label": "会社の先輩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3916,
+        "label": "好意の噂を聞く同級生",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4328,
+        "label": "大学サークルの先輩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4702,
+        "label": "図書館にいる気になるあの子",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5152,
+        "label": "バイト先の後輩",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5634,
+        "label": "付き合っていた相手との台詞",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6055,
+        "label": "幼なじみのお兄さん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6500,
+        "label": "年下の幼なじみ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6868,
+        "label": "喫茶店で働くお姉さん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7366,
+        "label": "喫茶店の台詞・別テイク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7535,
+        "label": "喫茶店で働くお兄さん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7778,
+        "label": "喫茶店への思いを語る独白",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7897,
+        "label": "夜遊び好きな大学生",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8174,
+        "label": "最後の台詞の感想・制作意図",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8398,
+        "label": "出演者・ゲストの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8584,
+        "label": "感謝・配信終了の案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

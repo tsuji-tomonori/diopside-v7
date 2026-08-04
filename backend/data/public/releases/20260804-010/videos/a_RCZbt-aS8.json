@@ -1,0 +1,125 @@
+{
+  "videoId": "a_RCZbt-aS8",
+  "title": "【#マリカにじさんじ杯】Aリーグ フレン視点：勝つぞ！！【フレン・E・ルスタリオ/にじさんじ】",
+  "publishedAt": "2020-12-19T05:05:33Z",
+  "duration": "PT58M18S",
+  "durationSec": 3498,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/a_RCZbt-aS8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・Aリーグ開始待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 129,
+        "label": "マシン選び・開会式待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 352,
+        "label": "コース方針・選手紹介と順位予想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 963,
+        "label": "設定確認・レース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1192,
+        "label": "Big Blue攻略・スタート準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1536,
+        "label": "第1レース・Big Blue",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1744,
+        "label": "第1レース振り返り・次のコース選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1807,
+        "label": "第2レース・落ちない走り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1951,
+        "label": "第2レース振り返り・第3レース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2003,
+        "label": "第3レース・終盤の競り合い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2390,
+        "label": "第3レース後・練習方針とインタビュー待ち",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2567,
+        "label": "集計待ち・結果確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2705,
+        "label": "Big Blueの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2872,
+        "label": "コース適性・準決勝の練習方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3046,
+        "label": "大会インタビュー待ち・出場者雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3228,
+        "label": "大会インタビュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3339,
+        "label": "締め・次戦への意気込み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3376,
+        "label": "スパチャ読み・次のリーグ応援案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "videoId": "FGL8mqTOIyk",
+  "title": "＃20【崩壊：スターレイル】ピノコニー編エピローグ。今度こそ本当にさよならピノコニー【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-02T19:21:45Z",
+  "duration": "PT5H58M54S",
+  "durationSec": 21534,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FGL8mqTOIyk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:31:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ピノコニー編エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1623,
+        "label": "貴重石号の探索とカンパニー側の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2763,
+        "label": "ジェイド・トパーズとオーディの交渉開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "列車組の振り返りとシボーンのバー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5162,
+        "label": "ジェイドとオーディの交渉を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7206,
+        "label": "貴重石号の探索と願いの物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8580,
+        "label": "ホタルとジェイドの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9361,
+        "label": "開会式前の船内交流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10803,
+        "label": "ホタルとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11280,
+        "label": "調和セレモニー開会と花火の騒動",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11880,
+        "label": "貴重石号で船内を捜索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12962,
+        "label": "人形を調べながら捜索を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14046,
+        "label": "花火の仕掛けと危機への対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15120,
+        "label": "追悼とミカの物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16204,
+        "label": "列車組が旅を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16803,
+        "label": "黄泉との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17646,
+        "label": "パムの涙と次の目的地",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18243,
+        "label": "ブラックスワンとサンデーの提案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 18720,
+        "label": "ピノコニー後の新たな知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19201,
+        "label": "本編の感想・印象に残った場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20281,
+        "label": "スーパーチャット読み・終盤雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21369,
+        "label": "最後の挨拶・さよならピノコニー",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

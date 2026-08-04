@@ -1,0 +1,130 @@
+{
+  "videoId": "qFQ_YbQ4xAE",
+  "title": "＃１１【NieR:Automata -ニーアオートマタ-】3周目。真実は残酷でしかない【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-30T06:47:08Z",
+  "duration": "PT2H21M5S",
+  "durationSec": 8465,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/qFQ_YbQ4xAE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:41:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 432,
+        "label": "メインストーリー再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 858,
+        "label": "パスカル村からの緊急連絡",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1084,
+        "label": "寄り道から再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1496,
+        "label": "パスカル村へ到着・探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1911,
+        "label": "廃工場の避難先へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2319,
+        "label": "廃工場の防衛戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2802,
+        "label": "戦いのあと、廃工場へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3037,
+        "label": "パスカルとの対話と選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3345,
+        "label": "9Sルート再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3788,
+        "label": "『神の箱』攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4844,
+        "label": "資源回収ユニット最深部",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5398,
+        "label": "ポッド同士の通信",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5611,
+        "label": "本編の区切りと振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "寄り道・武器強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6647,
+        "label": "森のサブクエスト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7085,
+        "label": "武器受け取りと試し切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7751,
+        "label": "ゲーム終了・振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7831,
+        "label": "スーパーチャット読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

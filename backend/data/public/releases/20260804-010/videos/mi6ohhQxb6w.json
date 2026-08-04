@@ -1,0 +1,120 @@
+{
+  "videoId": "mi6ohhQxb6w",
+  "title": "【雑談】夢だったかもしれないライブのお話。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-01-24T16:12:25Z",
+  "duration": "PT3H48M9S",
+  "durationSec": 13689,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mi6ohhQxb6w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ライブ中止の経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 599,
+        "label": "ライブ中止への思いと今日の内容",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1714,
+        "label": "Day1コラボの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2198,
+        "label": "ライブ練習とリハーサルの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2943,
+        "label": "出演者の印象と練習の裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4145,
+        "label": "先輩への感謝と一区切り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4621,
+        "label": "ファンの参戦コーデ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "手作りの応援準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "紫を基調にしたコーデ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "痛バッグ・応援グッズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8402,
+        "label": "個性的な応援準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9602,
+        "label": "ユーモアのある応援グッズ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10802,
+        "label": "自作グッズ・衣装紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11729,
+        "label": "花・ファンアート・メッセージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12679,
+        "label": "ライブを振り返って今後の展望",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12871,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13500,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "videoId": "UKhmVNUJAK0",
+  "title": "＃ラスト【30万人記念】残り6個！羽ばたけ30手描きアイコン【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-18T14:03:29Z",
+  "duration": "PT2H41M52S",
+  "durationSec": 9712,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/UKhmVNUJAK0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:44:30Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・企画説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 302,
+        "label": "ボイス紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 630,
+        "label": "手描きアイコン制作スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1079,
+        "label": "ジム・温泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1500,
+        "label": "スマブラ大会参加の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1835,
+        "label": "花モチーフのアイコン制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2307,
+        "label": "温泉アイコン制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "掛け声アイコン制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2767,
+        "label": "次週のお披露目と次のアイコン相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3021,
+        "label": "泣き顔アイコン制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3598,
+        "label": "哺乳瓶アイコン案を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3901,
+        "label": "哺乳瓶アイコンを描く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4508,
+        "label": "哺乳瓶アイコンの仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4945,
+        "label": "30個目のアイコン完成",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5107,
+        "label": "完成アイコンの披露と利用条件",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5401,
+        "label": "30万人記念を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "活動方針を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "30万人後の目標と質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6512,
+        "label": "ランジと歩行の運動方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6902,
+        "label": "食生活と運動継続",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7206,
+        "label": "ジムの頻度と体づくり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7501,
+        "label": "次回予定と配布準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7805,
+        "label": "アイコン配布ファイルの確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8395,
+        "label": "配布確認と次回スマブラの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8702,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9604,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

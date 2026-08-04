@@ -1,0 +1,130 @@
+{
+  "videoId": "wNcyHAjZxCw",
+  "title": "【エモクロアTRPG】アンデッド・デット・デビルズ #女王と会長TRPG【DL：ぱぱびっぷ PL：来栖夏芽 白雪巴】",
+  "publishedAt": "2025-03-22T15:04:31Z",
+  "duration": "PT4H44M4S",
+  "durationSec": 17044,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wNcyHAjZxCw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:38:10Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・ご挨拶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 334,
+        "label": "エモクロアとシナリオ紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 535,
+        "label": "PC紹介・セッション準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1369,
+        "label": "本編シーン1",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2992,
+        "label": "本編シーン2",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3991,
+        "label": "本編シーン3",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5055,
+        "label": "休憩①",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5467,
+        "label": "本編シーン4",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6966,
+        "label": "本編シーン5",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8006,
+        "label": "本編シーン6",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9343,
+        "label": "本編シーン7",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11005,
+        "label": "本編シーン8",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12482,
+        "label": "本編シーン9",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13198,
+        "label": "休憩②",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13569,
+        "label": "本編シーン10",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14316,
+        "label": "本編シーン11",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15077,
+        "label": "本編シーン12",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16235,
+        "label": "エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16690,
+        "label": "アフタートーク",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

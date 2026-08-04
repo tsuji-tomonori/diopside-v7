@@ -1,0 +1,145 @@
+{
+  "videoId": "KshkKmUBrPE",
+  "title": "【都市伝説解体センター #1】都市伝説の真相を解体していく！？こわくないぞ！※ネタバレ注意【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-14T18:27:25Z",
+  "duration": "PT5H5M31S",
+  "durationSec": 18331,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/KshkKmUBrPE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:22:15Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 238,
+        "label": "配信開始・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 453,
+        "label": "ゲーム開始・プロローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 756,
+        "label": "解体センターでチュートリアル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2414,
+        "label": "最初の調査へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3685,
+        "label": "依頼人の部屋を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4811,
+        "label": "念視の手掛かりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6000,
+        "label": "都市伝説の特定へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6882,
+        "label": "新たな手掛かりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7993,
+        "label": "現場を再調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9000,
+        "label": "対策を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9590,
+        "label": "別の場所で調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10897,
+        "label": "現場に戻って再調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12000,
+        "label": "夜の単独調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12245,
+        "label": "SNS調査を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13381,
+        "label": "別の現場を調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14400,
+        "label": "侵入経路を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15259,
+        "label": "都市伝説の解体へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16327,
+        "label": "事件の終盤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17063,
+        "label": "エピローグ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17433,
+        "label": "ゲームの感想・次回予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17897,
+        "label": "スーパーチャット・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

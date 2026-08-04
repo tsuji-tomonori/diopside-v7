@@ -1,0 +1,110 @@
+{
+  "videoId": "FznsDAwxg78",
+  "title": "【#にじ利き酒】チームで選べ！にじさんじ利き酒選手権",
+  "publishedAt": "2023-11-15T13:38:51Z",
+  "duration": "PT1H24M8S",
+  "durationSec": 5048,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FznsDAwxg78/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T11:49:13.589415Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画紹介・参加者あいさつ・ルール説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 453,
+        "label": "第1回戦：レモンサワーの飲み比べ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 927,
+        "label": "第1回戦の回答・結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1267,
+        "label": "第2回戦：ウイスキーの飲み比べ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1726,
+        "label": "第2回戦の回答・結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2055,
+        "label": "第3回戦：日本酒4種の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2391,
+        "label": "第3回戦：日本酒を試飲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2678,
+        "label": "第3回戦：回答を決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3045,
+        "label": "第3回戦の回答・結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3345,
+        "label": "エキシビション：ビールとノンアルの飲み比べ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3795,
+        "label": "エキシビションの回答・結果",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4288,
+        "label": "企画の結果発表",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4444,
+        "label": "参加者の感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4752,
+        "label": "日本酒セット・商品の紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4873,
+        "label": "締めのあいさつ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

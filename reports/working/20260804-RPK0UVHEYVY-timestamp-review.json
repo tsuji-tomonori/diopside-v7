@@ -1,0 +1,36 @@
+{
+  "videoId": "RPK0UVHEYVY",
+  "sheetRow": 64,
+  "subtitle": {
+    "bytes": 1211682,
+    "cueCount": 5261,
+    "sha256": "260fb540cf689bc06f2f05a81a0787974be2938906da65b76ced0f278d000c96",
+    "firstCueSec": 148.35,
+    "durationSec": 8490
+  },
+  "comments": {
+    "status": "acquired",
+    "count": 20,
+    "fullTimelineOutlineAvailable": false
+  },
+  "chapterCount": 18,
+  "factReview": {
+    "decision": "pass",
+    "method": "章境界ごとの最近傍字幕cueと章名の意味対応を確認"
+  },
+  "editorialReview": {
+    "decision": "pass",
+    "method": "粒度、明瞭性、重複、全編カバレッジを作成観点と分離して確認"
+  },
+  "validation": {
+    "startsAtZero": true,
+    "ascending": true,
+    "integerSeconds": true,
+    "withinDuration": true,
+    "fullTimelineCovered": true,
+    "duplicateVideoIds": 0,
+    "releaseId": "20260804-010",
+    "releaseVideoCount": 1216,
+    "seedReleaseId": "20260804-005"
+  }
+}

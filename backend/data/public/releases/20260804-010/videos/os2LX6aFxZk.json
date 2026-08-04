@@ -1,0 +1,130 @@
+{
+  "videoId": "os2LX6aFxZk",
+  "title": "【朗読】魔王さま参戦！みんなと過ごす初めてのクリスマス～歌・朗読・雑談～【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-25T15:28:01Z",
+  "duration": "PT1H56M39S",
+  "durationSec": 6999,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/os2LX6aFxZk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T05:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 902,
+        "label": "ゲスト登場・音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1602,
+        "label": "仕切り直し・オープニング歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1905,
+        "label": "歌唱後トーク・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2132,
+        "label": "朗読2作品の紹介・番組説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2295,
+        "label": "1作目『手袋を買いに』朗読準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2550,
+        "label": "『手袋を買いに』朗読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3503,
+        "label": "朗読後トーク・2作目の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3684,
+        "label": "『葉桜』朗読・母娘の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4253,
+        "label": "『葉桜』朗読・母の思い出話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4548,
+        "label": "『葉桜』朗読・縁談をめぐる相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4804,
+        "label": "『葉桜』朗読・相手の気持ちを確かめる母",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5352,
+        "label": "『葉桜』朗読・母娘のこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5618,
+        "label": "朗読後の感想・作品解説",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5846,
+        "label": "クリスマスパーティー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6032,
+        "label": "クリスマスパーティー・食事と質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6389,
+        "label": "クリスマスの過ごし方・ライブカメラ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6596,
+        "label": "次回コラボの告知・計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6845,
+        "label": "締めのトーク・次回案内",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

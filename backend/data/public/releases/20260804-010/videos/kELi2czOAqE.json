@@ -1,0 +1,125 @@
+{
+  "videoId": "kELi2czOAqE",
+  "title": "【雑談/スプラトゥーン2】引っ越したら●●●●だった件【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-11-06T15:27:49Z",
+  "duration": "PT1H43M47S",
+  "durationSec": 6227,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kELi2czOAqE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T04:39:12Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・引っ越し報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 427,
+        "label": "新居での表示トラブル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "配信再開と姿の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1641,
+        "label": "この姿で遊ぶかを相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2137,
+        "label": "新居と配信環境の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2642,
+        "label": "スプラトゥーン開始・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2847,
+        "label": "最初の試合と振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3168,
+        "label": "声を試しながらスプラトゥーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3733,
+        "label": "今後の配信方針を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3814,
+        "label": "スプラ再開と新居の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4163,
+        "label": "スプラトゥーンの試合を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4294,
+        "label": "新居のインテリアと怖い話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4574,
+        "label": "スプラトゥーンで試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4800,
+        "label": "試合中の表示トラブルに対処",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5023,
+        "label": "表示トラブル後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5206,
+        "label": "終盤のスプラトゥーン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5708,
+        "label": "配信終了を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6039,
+        "label": "終了挨拶・次回予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

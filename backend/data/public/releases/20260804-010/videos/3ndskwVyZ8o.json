@@ -1,0 +1,145 @@
+{
+  "videoId": "3ndskwVyZ8o",
+  "title": "＃53【崩壊：スターレイル】オンパロス編。未来を「開拓」しにいく……！【白雪 巴/にじさんじ】",
+  "publishedAt": "2026-01-16T15:30:03Z",
+  "duration": "PT2H20M29S",
+  "durationSec": 8429,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3ndskwVyZ8o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T07:09:50.725710Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 161,
+        "label": "配信開始・前回の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 408,
+        "label": "開拓クエスト再開・記憶へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 918,
+        "label": "長い時をたどる記憶・前編",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1650,
+        "label": "長い時をたどる記憶・中編",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2433,
+        "label": "長い時をたどる記憶・後編",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3184,
+        "label": "長い物語の振り返り・次の目的",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3656,
+        "label": "現在地点へ・次の舞台",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4184,
+        "label": "海底都市の記憶",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4883,
+        "label": "時を止める仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5097,
+        "label": "深海の探索・戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5413,
+        "label": "一人の旅路と出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5934,
+        "label": "宴の記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6317,
+        "label": "宴の奥へ・探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6924,
+        "label": "進行相談・次回のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7032,
+        "label": "記憶劇を再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7147,
+        "label": "記憶劇の終盤",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7405,
+        "label": "問いかけ・次の目的",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7607,
+        "label": "次の場所への道を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7743,
+        "label": "本編の振り返り・次回のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7997,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8355,
+        "label": "最後の挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
