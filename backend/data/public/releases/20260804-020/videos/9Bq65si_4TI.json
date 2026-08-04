@@ -1,0 +1,145 @@
+{
+  "videoId": "9Bq65si_4TI",
+  "title": "【しずかなおそうじ】一人暮らし歴●年のお姉さんによるガチおそうじホラーゲーム【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-08-22T13:50:30Z",
+  "duration": "PT2H40M6S",
+  "durationSec": 9606,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9Bq65si_4TI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T13:45:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:45:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "待機画面・配信開始前",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 115,
+        "label": "配信開始・掃除ホラーゲームを紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 367,
+        "label": "掃除ゲーム開始・家の中へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 720,
+        "label": "家の見取り図と掃除手順を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1033,
+        "label": "洗剤を探しながら妖精から隠れる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1620,
+        "label": "物音で誘導して追跡をかわす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2258,
+        "label": "扉とメモを手がかりに探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2942,
+        "label": "台所用洗剤と新ルートを確保",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3541,
+        "label": "浴室を掃除して怪異を回避",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4143,
+        "label": "実験室を発見して奥の区画へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4742,
+        "label": "玄関の鍵と金庫の手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5334,
+        "label": "図形の数字を照合して暗証番号を解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6018,
+        "label": "1周目クリア・掃除結果を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6257,
+        "label": "全掃除を目指すタイムアタック開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6755,
+        "label": "失敗から立て直して再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "各部屋の残った汚れを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7800,
+        "label": "床掃除の取りこぼしを回収",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "制限時間内に最終チェック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8888,
+        "label": "タイムアタック完走・家を退出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8942,
+        "label": "査定結果とエンディングの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9298,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9561,
+        "label": "締めの挨拶・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

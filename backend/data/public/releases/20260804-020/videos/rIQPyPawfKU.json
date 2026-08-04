@@ -1,0 +1,160 @@
+{
+  "videoId": "rIQPyPawfKU",
+  "title": "【SILENT HILL f #1】完全初見！女の子を傷つけるヤツは許さない―――。※ネタバレあり【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-11-15T14:57:17Z",
+  "duration": "PT8H54M45S",
+  "durationSec": 32085,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/rIQPyPawfKU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T00:54:58Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 417,
+        "label": "物語開始・町を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1800,
+        "label": "仲間たちとの合流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2205,
+        "label": "霧に包まれた町",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3903,
+        "label": "初めての戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4790,
+        "label": "神社の異界へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5415,
+        "label": "狐面の男を追って",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7599,
+        "label": "霧の町へ戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8702,
+        "label": "病院と町の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10758,
+        "label": "凛子のもとへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12003,
+        "label": "かかしの迷路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13834,
+        "label": "凛子宅から再び異界へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15539,
+        "label": "声の主を追って",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17301,
+        "label": "休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17486,
+        "label": "中学校を目指して",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19930,
+        "label": "中学校を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21558,
+        "label": "思い出の品を探して",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22491,
+        "label": "二階の鍵とロッカー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23943,
+        "label": "再び異界へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24566,
+        "label": "色扉と記憶の部屋",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26949,
+        "label": "友人の記憶をたどる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 29219,
+        "label": "異界の最深部へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 30478,
+        "label": "ゲーム終了・セーブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 30939,
+        "label": "感想・考察と次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 31719,
+        "label": "スパチャ読み・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

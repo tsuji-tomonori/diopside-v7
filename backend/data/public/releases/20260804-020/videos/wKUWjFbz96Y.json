@@ -1,0 +1,90 @@
+{
+  "videoId": "wKUWjFbz96Y",
+  "title": "【#W白雪】W白雪のマシュマロトーク！【白雪巴/白雪みしろ】",
+  "publishedAt": "2021-10-11T14:08:04Z",
+  "duration": "PT1H1M31S",
+  "durationSec": 3691,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wKUWjFbz96Y/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "挨拶・久々のW白雪コラボ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 400,
+        "label": "ダブル白雪のタグ・写真・衣装談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 711,
+        "label": "マシュマロ読み・やりたいコラボ企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1125,
+        "label": "掃除・家事の習慣と音声クリップ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1321,
+        "label": "3Dコラボ・しっぽ取りの話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1678,
+        "label": "お互いの長所・W白雪の関係性",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2387,
+        "label": "筋トレ事情・ダンスの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2700,
+        "label": "S・Mと呼ばれるようになった経緯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3040,
+        "label": "好きなキャラクター・ゲームの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3268,
+        "label": "歌ってみた動画の告知・制作裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3555,
+        "label": "次回コラボ・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

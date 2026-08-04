@@ -1,0 +1,185 @@
+{
+  "videoId": "hoOANxTyUxw",
+  "title": "【スプラトゥーン3】初見ガチヒーローモード攻略(表)前編【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-09-20T17:43:39Z",
+  "duration": "PT5H55M43S",
+  "durationSec": 21343,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hoOANxTyUxw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T17:37:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ヒーローモード導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1020,
+        "label": "オルタナ到着・探索の基本",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1651,
+        "label": "最初のミッションで基本操作を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2401,
+        "label": "次のミッションで武器とギミックを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2670,
+        "label": "木漏れびのプロムナードを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4419,
+        "label": "的を壊すミッションに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4820,
+        "label": "モニュメントを塗るミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5550,
+        "label": "時間いっぱい生き延びるミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6031,
+        "label": "相棒と進む連携ミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6669,
+        "label": "回転ギミックのミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7192,
+        "label": "複合ギミックの長いミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8640,
+        "label": "報酬確認と次のステージ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9306,
+        "label": "ローリング系タイムアタックと次の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9720,
+        "label": "重いブロックのギミックを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10680,
+        "label": "的をすべて壊すミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12121,
+        "label": "風船とスイッチのミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12843,
+        "label": "風香との対決",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13409,
+        "label": "強化・サイト探索と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14495,
+        "label": "反射で風船を壊すタイムアタック",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15065,
+        "label": "イクラを集めるカーリングミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15331,
+        "label": "クリア後の探索・すり身連合との会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15843,
+        "label": "応用ミッションとサイト探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16290,
+        "label": "スマホを取り戻した体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17166,
+        "label": "的を壊してゴールする長いミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19589,
+        "label": "報酬確認・ステージ6へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20025,
+        "label": "高所での大型戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20738,
+        "label": "通信を確認してロケットへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20929,
+        "label": "長編ミッションを次回へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21106,
+        "label": "告知・感謝・配信終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 21143,
+        "label": "スパチャ読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

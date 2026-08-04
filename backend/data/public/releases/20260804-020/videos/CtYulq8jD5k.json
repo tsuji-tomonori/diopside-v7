@@ -1,0 +1,115 @@
+{
+  "videoId": "CtYulq8jD5k",
+  "title": "【Friday the 13th】13日の金曜日は生死をかけたサバイバル日和【白雪 巴/にじさんじ】",
+  "publishedAt": "2019-12-13T15:22:10Z",
+  "duration": "PT1H39M38S",
+  "durationSec": 5978,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/CtYulq8jD5k/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T10:39:35Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信準備・音声確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 215,
+        "label": "参加者紹介・ゲーム準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 535,
+        "label": "第1試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1107,
+        "label": "第1試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1173,
+        "label": "第2試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1647,
+        "label": "第2試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1763,
+        "label": "第3試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2906,
+        "label": "第3試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2982,
+        "label": "第4試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3759,
+        "label": "第4試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3811,
+        "label": "第5試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4667,
+        "label": "第5試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4751,
+        "label": "第6試合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5770,
+        "label": "全6試合の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5862,
+        "label": "お知らせ・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5947,
+        "label": "終了挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

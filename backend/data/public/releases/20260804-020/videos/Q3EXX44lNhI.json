@@ -1,0 +1,135 @@
+{
+  "videoId": "Q3EXX44lNhI",
+  "title": "【Minecraft】初心者まったりマイクラ～地下に監獄を作りたいの回その２～【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-02-21T16:31:27Z",
+  "duration": "PT3H13M47S",
+  "durationSec": 11627,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Q3EXX44lNhI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T12:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・監獄建築を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 375,
+        "label": "地下階段と低い天井を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1179,
+        "label": "階段入口を整え、牢獄の住人を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1997,
+        "label": "地下から聞こえる音を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2862,
+        "label": "家の外装を雪とランタンで整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3679,
+        "label": "地下監獄の逆階段を組み立てる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4908,
+        "label": "小清水透と挨拶・階段入口を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5184,
+        "label": "監獄入口のドアとレバーを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5997,
+        "label": "鎖と鉄格子で牢屋を囲う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6578,
+        "label": "牢屋の内装に水場と簡易トイレを作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7094,
+        "label": "最初の牢屋を完成させ、区画を増やす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8215,
+        "label": "牢屋中央の共有空間を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9013,
+        "label": "中央の小道具をデザインする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9599,
+        "label": "赤いカーペットで中央通路を整える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9842,
+        "label": "木材と石で中央の装飾を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10293,
+        "label": "鎖の形と高さを調整して仕上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10962,
+        "label": "今回の建築を一区切りにする",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11034,
+        "label": "配信終了・次回とライブの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11142,
+        "label": "スーパーチャット読み・視聴者への返答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11575,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "videoId": "ET4Zgcj4QnM",
+  "title": "【晩酌】やっぱつれーわ…過去の恋愛トーク暴露回！？お姉さんの一杯飲み終わるまでホロ酔いトーク #いっ杯晩酌 07【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-03-23T15:25:53Z",
+  "duration": "PT2H15M9S",
+  "durationSec": 8109,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ET4Zgcj4QnM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T18:33:47Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・梅サワーで乾杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 333,
+        "label": "喉とイベント準備・おつまみ談義",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1034,
+        "label": "居酒屋会計と気配り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1534,
+        "label": "誘い方と人付き合いの距離感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2591,
+        "label": "中学時代の恋愛と部活の思い出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3440,
+        "label": "TRPG・マーダーミステリー談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3825,
+        "label": "同性への偏見と自分らしさ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4266,
+        "label": "好きに気づいた頃の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "酔った勢いのモテ話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5207,
+        "label": "恋愛と結婚観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5657,
+        "label": "出会いと別れに乾杯・お知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6232,
+        "label": "スーパーチャット読み・アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7994,
+        "label": "エンディング・自由に生きよう",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

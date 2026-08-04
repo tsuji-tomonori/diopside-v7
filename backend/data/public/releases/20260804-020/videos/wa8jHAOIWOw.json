@@ -1,0 +1,120 @@
+{
+  "videoId": "wa8jHAOIWOw",
+  "title": "【ポケモンユナイト】初見ユナイト！大会に向けて猛特訓！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-01T14:26:07Z",
+  "duration": "PT1H55M22S",
+  "durationSec": 6922,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wa8jHAOIWOw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・トレーナー作成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 920,
+        "label": "ピカチュウで基本を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1572,
+        "label": "チームバトルのルール確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1762,
+        "label": "初めてのチームバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2149,
+        "label": "試合後の振り返り・カビゴン選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2530,
+        "label": "カビゴンで次のバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3151,
+        "label": "試合後の振り返り・イベント確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3346,
+        "label": "追加チュートリアル・操作設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3860,
+        "label": "練習バトルで戦い方を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4204,
+        "label": "ショップ・ライセンス・衣装選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4806,
+        "label": "オンラインでチームバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5392,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5784,
+        "label": "次の対戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5874,
+        "label": "カビゴンで次のチームバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6489,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6560,
+        "label": "締めの挨拶・大会に向けた告知",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6663,
+        "label": "スパチャ読み・あとがたり",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

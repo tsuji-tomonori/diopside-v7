@@ -1,0 +1,130 @@
+{
+  "videoId": "_OGPFAe_4EY",
+  "title": "【階段怪談】ねぇ、怪談聞きたくない？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-02T14:21:39Z",
+  "duration": "PT1H16M14S",
+  "durationSec": 4574,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_OGPFAe_4EY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T19:10:59Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 160,
+        "label": "ゲーム開始・最初の階段",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 320,
+        "label": "1段目：雨が降っている",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 588,
+        "label": "2段目：億の男",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 788,
+        "label": "3段目：猫の手",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1092,
+        "label": "4段目：世界を変えるコマンド",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1335,
+        "label": "5段目：大きな手",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1500,
+        "label": "6段目：カンカンノン",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1771,
+        "label": "7段目：かおのないおばけ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2334,
+        "label": "8段目：光と分岐",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2489,
+        "label": "やり直し・別ルートの探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2566,
+        "label": "8段目：ハカセ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2722,
+        "label": "9段目：あまんじゃく",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3160,
+        "label": "10段目：流れる夢",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3340,
+        "label": "11段目：億の男・その後",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3560,
+        "label": "12段目：階段と人生",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3828,
+        "label": "ゲーム後日談・怪談の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4063,
+        "label": "配信終了・次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4153,
+        "label": "スパチャ読み・感想",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

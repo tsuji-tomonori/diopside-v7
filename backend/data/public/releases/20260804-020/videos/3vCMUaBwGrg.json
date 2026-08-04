@@ -1,0 +1,130 @@
+{
+  "videoId": "3vCMUaBwGrg",
+  "title": "【#マリカにじさんじ杯】追加コース出たら凶！？今年も予選抜けちゃいます！【にじさんじ/愛園愛美】",
+  "publishedAt": "2022-12-11T12:57:18Z",
+  "duration": "PT1H18M54S",
+  "durationSec": 4734,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/3vCMUaBwGrg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・予選観戦の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "追加コース・操作の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 544,
+        "label": "予選レースを見ながら観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 842,
+        "label": "出走待ちと予選観戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1193,
+        "label": "予選後の振り返り・出走準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1518,
+        "label": "出走待ちの雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1987,
+        "label": "ロビー準備・予選前の作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2332,
+        "label": "参加者と昨年大会の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2519,
+        "label": "ゲーム音声確認・出走準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2710,
+        "label": "初戦コース選択とレース準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2945,
+        "label": "第1レース・ドラゴンロード",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3189,
+        "label": "第2レースのコース選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3270,
+        "label": "第2レース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3433,
+        "label": "第3レース・東京スクランブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3667,
+        "label": "最終レース・コース選択から走行まで",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3902,
+        "label": "移動と音声確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4092,
+        "label": "レース後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4429,
+        "label": "レース後の感想と目標",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4532,
+        "label": "終盤の振り返りと練習の話",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

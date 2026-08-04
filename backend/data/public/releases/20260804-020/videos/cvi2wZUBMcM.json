@@ -1,0 +1,120 @@
+{
+  "videoId": "cvi2wZUBMcM",
+  "title": "【作業/ASMR】寝落ち枠。寝る前に終わらせたい【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-07-17T21:07:48Z",
+  "duration": "PT1H52M12S",
+  "durationSec": 6732,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/cvi2wZUBMcM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T10:58:38Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ASMR準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 267,
+        "label": "声の聞き分け企画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 575,
+        "label": "作業配信の準備と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1068,
+        "label": "食べ物の雑談と共同作業",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1371,
+        "label": "眠気と添い寝のASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1572,
+        "label": "歌動画の編集と食事の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2033,
+        "label": "タイトル決めと音声調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2592,
+        "label": "完成動画の確認とメンバーシップ案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3383,
+        "label": "動画の仕上げと書き出し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4071,
+        "label": "書き出し確認とプレミア公開の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4498,
+        "label": "明日の壺大会の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4708,
+        "label": "配信画面とBGMの調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5395,
+        "label": "作業終了と翌日の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5470,
+        "label": "スパチャ読みと甘やかしASMR",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6174,
+        "label": "おやすみ前のメンバーシップ雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6507,
+        "label": "励ましと料理の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6719,
+        "label": "最後のおやすみ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

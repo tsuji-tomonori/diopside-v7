@@ -1,0 +1,110 @@
+{
+  "videoId": "THPZBbCjaiU",
+  "title": "【コラボ】下ネタ禁止ってマジですかｯ!???!! #vtuber  #あおぎり高校 迷宮校舎 | School Labyrinth",
+  "publishedAt": "2024-04-28T14:51:07Z",
+  "duration": "PT2H39M46S",
+  "durationSec": 9586,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/THPZBbCjaiU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T09:52:15.934Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "コラボ挨拶・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 348,
+        "label": "迷宮校舎のルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 545,
+        "label": "ゲーム内導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 651,
+        "label": "操作確認と最初の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1006,
+        "label": "ノーマルでローソクを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2394,
+        "label": "武器を分担して探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3601,
+        "label": "敵が増える迷宮を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4398,
+        "label": "出口を目指す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6125,
+        "label": "ノーマル攻略を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6219,
+        "label": "イージーの探索開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7005,
+        "label": "ローソクと鍵を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7502,
+        "label": "コンパスで出口を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8399,
+        "label": "ケミカルライトで道を作る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9111,
+        "label": "エンディング朗読",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9271,
+        "label": "感想・出演者トーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

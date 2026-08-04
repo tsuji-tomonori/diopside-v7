@@ -1,0 +1,100 @@
+{
+  "videoId": "Tt8tWOYy5qw",
+  "title": "【#エデンとアソボウ】全員幼稚園【神田笑一/にじさんじ】",
+  "publishedAt": "2021-12-11T14:42:43Z",
+  "duration": "PT2H11M24S",
+  "durationSec": 7884,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Tt8tWOYy5qw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加者紹介とAmong Us企画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 481,
+        "label": "第1戦：Among Usを開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1987,
+        "label": "第2戦：タスクと会議を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3449,
+        "label": "第2戦後の振り返りと次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3552,
+        "label": "第3戦：通信妨害下でプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3834,
+        "label": "第3戦後の振り返りと第4戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4167,
+        "label": "第4戦：タスクと会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4935,
+        "label": "第4戦後の調整と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5040,
+        "label": "第5戦：初動から会議へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5798,
+        "label": "第5戦後の感想と第6戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5917,
+        "label": "第6戦：サボタージュ対応と会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6470,
+        "label": "第7戦：サボタージュと推理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7574,
+        "label": "全試合後の振り返りと終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

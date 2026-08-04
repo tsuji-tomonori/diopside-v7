@@ -1,0 +1,95 @@
+{
+  "videoId": "mrBX1wB82-0",
+  "title": "【作業配信】明日のにじ3D撮影会用の素材作り【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-07-24T16:29:28Z",
+  "duration": "PT3H3M37S",
+  "durationSec": 11017,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mrBX1wB82-0/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T16:49:25Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "明日のにじ3D向け素材作りを開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1052,
+        "label": "吹き出し・文字素材を試作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2148,
+        "label": "ニュース風素材のレイアウト設計",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3915,
+        "label": "ニュース風素材を仕上げて保存",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4509,
+        "label": "提供素材と追加アイデアを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5526,
+        "label": "吹き出し素材の見た目を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7887,
+        "label": "車・ドライブ背景の使い道を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8700,
+        "label": "明日の3D撮影用ポーズと素材を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9613,
+        "label": "素材の投稿・配布方法を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10100,
+        "label": "作業後の雑談と今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10785,
+        "label": "視聴者の夢の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10933,
+        "label": "明日の3Dを楽しみに締める",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

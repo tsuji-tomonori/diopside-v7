@@ -1,0 +1,135 @@
+{
+  "videoId": "mmVfGaDeEnA",
+  "title": "【晩酌】今夜は相席💓お姉さん達の一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 09【愛園愛美/白雪巴/にじさんじ】",
+  "publishedAt": "2025-11-19T16:46:54Z",
+  "duration": "PT3H36M24S",
+  "durationSec": 12984,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/mmVfGaDeEnA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T00:49:43Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・愛園愛美さん登場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 397,
+        "label": "乾杯・お酒と食べ物トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 995,
+        "label": "飲み歩きと酔った時の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1908,
+        "label": "ホラーゲームと怖いもの談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2706,
+        "label": "世界が明日終わるなら",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3223,
+        "label": "衣装トークと企画アイデア",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3587,
+        "label": "ローション組でディズニーへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4107,
+        "label": "らぶスノ最初のコラボを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4353,
+        "label": "YouTube規制と作品の好み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5019,
+        "label": "ASMRと耳の好み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6061,
+        "label": "木魚とおりんでバンド構想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6542,
+        "label": "にじさんじ運動会を妄想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7225,
+        "label": "学生時代・子どもの頃の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7873,
+        "label": "質問タイム・お酒と二人のキャラ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8604,
+        "label": "過去ボイスと台本づくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9980,
+        "label": "過去ボイスを聴く準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10908,
+        "label": "『あめもようボイス2020』を聴く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11152,
+        "label": "ボイス後半を聴く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11958,
+        "label": "ボイス制作と演技を振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12533,
+        "label": "告知・エンディング",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "videoId": "dEjQLCHo-MI",
+  "title": "【スマブラSP】操作方法を全て忘れた女のスマブラ再放送【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-07T17:02:15Z",
+  "duration": "PT3H37M17S",
+  "durationSec": 13037,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/dEjQLCHo-MI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T10:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会前の特訓説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 365,
+        "label": "ゲーム起動・トレーニング準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 465,
+        "label": "ゼルダの基本操作を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 969,
+        "label": "必殺技とファントムの練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1498,
+        "label": "攻撃入力とジャンプ設定を調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1665,
+        "label": "設定変更後にゼルダ対CPUで練習",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2407,
+        "label": "レベル9 CPUに挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "大会ルールと対戦設定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2939,
+        "label": "CPUレベル3の連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4075,
+        "label": "CPUレベル4の連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4798,
+        "label": "CPUレベル5の連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6108,
+        "label": "CPUレベル5で挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6592,
+        "label": "CPUレベル6の連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7868,
+        "label": "レベル7へ進む対戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8100,
+        "label": "挑戦者戦を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8409,
+        "label": "CPUレベル7の連戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8766,
+        "label": "CPUレベル7の3連勝を目指す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9501,
+        "label": "短い休憩",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9560,
+        "label": "CPUレベル7から8へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10210,
+        "label": "CPUレベル8の対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10402,
+        "label": "挑戦者戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10660,
+        "label": "CPUレベル8の対戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10877,
+        "label": "CPUレベル9への再挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11103,
+        "label": "挑戦者解放を進める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11399,
+        "label": "挑戦者戦を続ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11846,
+        "label": "CPUレベル7を再戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12030,
+        "label": "挑戦者戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12298,
+        "label": "対戦を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12483,
+        "label": "練習終了・大会告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12575,
+        "label": "配信後の感想・お礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12773,
+        "label": "ゼルダの操作を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12938,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

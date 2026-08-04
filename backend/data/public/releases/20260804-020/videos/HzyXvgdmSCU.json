@@ -1,0 +1,135 @@
+{
+  "videoId": "HzyXvgdmSCU",
+  "title": "＃24【崩壊：スターレイル】バナ悪非道・忍義なき戦い編！アンバナシアのサルって何バナ……？【白雪 巴/にじさんじ",
+  "publishedAt": "2024-12-01T07:19:36Z",
+  "duration": "PT2H53M46S",
+  "durationSec": 10426,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HzyXvgdmSCU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T11:21:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・近況とスタレ準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1154,
+        "label": "本編開始・列車から折紙大学へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2068,
+        "label": "ホテル到着・夢入りの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2801,
+        "label": "不思議な夢境を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3419,
+        "label": "乱破登場と夢境での戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4020,
+        "label": "乱破の回想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4238,
+        "label": "折紙大学を散策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5365,
+        "label": "学園祭の開会式",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5646,
+        "label": "学部分け試験の準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6556,
+        "label": "学部分けオーディション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7250,
+        "label": "学園祭のブース巡り・バナナパイ作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7801,
+        "label": "乱破と再会・学園祭散策",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8339,
+        "label": "演劇部の撮影企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8523,
+        "label": "乱破の事情を聞く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8855,
+        "label": "ゲーム終了・今回の進行を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9057,
+        "label": "配信後トーク・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9459,
+        "label": "スパチャ読み・今回のクエスト振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9800,
+        "label": "復帰準備と過去アーカイブの思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10162,
+        "label": "人との交流と回復の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10340,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

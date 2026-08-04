@@ -1,0 +1,80 @@
+{
+  "videoId": "FNLVmiwXECs",
+  "title": "1ミリも伝わらない地獄のお絵かき伝言ゲーム【白雪巴 / 朝ノ瑠璃 / 夕刻ロベル / 花咲みやび / 柚原いづみ】",
+  "publishedAt": "2021-07-21T09:00:19Z",
+  "duration": "PT16M43S",
+  "durationSec": 1003,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FNLVmiwXECs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T04:16:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画説明・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 136,
+        "label": "ゲーム開始・お題の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 188,
+        "label": "最初の回答を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 257,
+        "label": "「日常」の回答を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 404,
+        "label": "続く回答の表示",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 506,
+        "label": "絵描き伝言ゲーム後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 704,
+        "label": "最後のお題の回答",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 897,
+        "label": "結果発表・企画の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 961,
+        "label": "締めの挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

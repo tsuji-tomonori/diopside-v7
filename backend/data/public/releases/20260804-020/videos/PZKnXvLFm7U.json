@@ -1,0 +1,110 @@
+{
+  "videoId": "PZKnXvLFm7U",
+  "title": "【#にじさんじポケユナ大会】タリキホンガンジムの氷ポケモン使い【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-12T10:47:47Z",
+  "duration": "PT1H57M41S",
+  "durationSec": 7061,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/PZKnXvLFm7U/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:40:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "大会開始・チーム合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 303,
+        "label": "第1試合・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 901,
+        "label": "第1試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1263,
+        "label": "第2試合に向けた作戦会議",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1623,
+        "label": "第2試合・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1998,
+        "label": "第2試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2329,
+        "label": "次の試合に向けた対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2480,
+        "label": "第3試合・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3022,
+        "label": "第3試合後のインタビュー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3519,
+        "label": "準決勝・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4297,
+        "label": "準決勝後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4792,
+        "label": "次の試合・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5132,
+        "label": "試合後の振り返り・チームトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5402,
+        "label": "最終試合・試合開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6604,
+        "label": "試合後の感想・大会振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

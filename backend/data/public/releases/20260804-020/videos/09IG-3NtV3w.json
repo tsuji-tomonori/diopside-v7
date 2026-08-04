@@ -1,0 +1,115 @@
+{
+  "videoId": "09IG-3NtV3w",
+  "title": "【#フルートイトイ】大人のお泊り女子会♡今夜は寝かせません【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-02T20:14:18Z",
+  "duration": "PT4H17S",
+  "durationSec": 14417,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/09IG-3NtV3w/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:20:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・お泊まり会導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 489,
+        "label": "下着予想と答え合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1760,
+        "label": "離席中の雑談と質問準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2403,
+        "label": "立ち絵遊びと電車の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3002,
+        "label": "ドライヤー実演と髪型トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3786,
+        "label": "お酒の話と質問整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "リスナー質問：お菓子・本・髪",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5499,
+        "label": "恋愛質問と寸劇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7375,
+        "label": "要望コーナー：励まし・起こし方・同居人シチュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9149,
+        "label": "膝枕の実演と振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9852,
+        "label": "お風呂設定の実演",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10506,
+        "label": "家族設定の寸劇",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10913,
+        "label": "要望実演：罵倒と甘い台詞",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12003,
+        "label": "締めとスパチャ読み開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12302,
+        "label": "スパチャ読み・配信の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13802,
+        "label": "スパチャ読み後半・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

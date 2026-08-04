@@ -1,0 +1,115 @@
+{
+  "videoId": "FavnO7WJw8Q",
+  "title": "【縦型配信】ガチ恋距離でお姉さんとおしゃべりしよ？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-12-11T16:06:16Z",
+  "duration": "PT1H56M32S",
+  "durationSec": 6992,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FavnO7WJw8Q/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T23:09:01Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・縦型画面の設定と視聴環境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 601,
+        "label": "縦型配信の近距離感と向いている企画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1203,
+        "label": "ガチ恋距離のお姉さん・先生トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1701,
+        "label": "携帯電話の思い出と縦型画面の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2348,
+        "label": "英語のチキンなぞなぞ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2801,
+        "label": "海外での英語体験と後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3302,
+        "label": "英語の話・初見歓迎と縦型配信の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3730,
+        "label": "手術・麻酔・術後の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4201,
+        "label": "薬と飲酒の体験談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4503,
+        "label": "初の縦型配信を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4802,
+        "label": "スーパーチャットと縦型配信の可能性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5403,
+        "label": "ワイン・料理・好きなお酒",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6002,
+        "label": "初心者向けのお酒と飲み過ぎへの注意",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6302,
+        "label": "黒ビール・韓国酒・ホッピー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6602,
+        "label": "飲み屋と飲酒習慣の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6902,
+        "label": "最後のスーパーチャット読み・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

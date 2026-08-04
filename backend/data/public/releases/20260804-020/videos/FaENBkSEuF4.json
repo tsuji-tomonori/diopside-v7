@@ -1,0 +1,120 @@
+{
+  "videoId": "FaENBkSEuF4",
+  "title": "＃１【30万人記念】画伯白雪が手描きアイコン30個を描いて配布します【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-13T15:55:38Z",
+  "duration": "PT1H27M39S",
+  "durationSec": 5259,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/FaENBkSEuF4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:11:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 603,
+        "label": "30万人記念アイコン企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 685,
+        "label": "描画ソフトの導入・設定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1656,
+        "label": "アイコン制作の進め方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1783,
+        "label": "ヒールのアイコン制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2845,
+        "label": "ヒール完成・保存",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2998,
+        "label": "次の題材を選ぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3068,
+        "label": "猫のアイコン制作",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3855,
+        "label": "猫アイコンの完成確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4047,
+        "label": "制作の締め・今後の予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4197,
+        "label": "視聴者の心配に答える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4373,
+        "label": "描いたアイコンの答え合わせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4661,
+        "label": "アイコンの利用ルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4863,
+        "label": "今後の予定とお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5028,
+        "label": "配布アイコンの利用補足",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5067,
+        "label": "今後の活動・最後のお礼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5188,
+        "label": "最終挨拶・配信終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "videoId": "GZPvjLyDyAg",
+  "title": "【DbD】さんきゅーライジング貞子【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-03-09T16:57:43Z",
+  "duration": "PT3H2M43S",
+  "durationSec": 10963,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/GZPvjLyDyAg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T01:32:09Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・貞子紹介と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 905,
+        "label": "貞子で最初のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1615,
+        "label": "生存者準備と貞子の能力説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2284,
+        "label": "生存者で貞子と対戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2758,
+        "label": "貞子の能力・呪いを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3240,
+        "label": "生存者マッチ・テープと呪い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3721,
+        "label": "マッチ後の貞子の能力整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4140,
+        "label": "生存者マッチ・チェイスと呪い対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "マッチ後のパーク・アドオン整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5642,
+        "label": "生存者マッチ・呪いとテープの判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7440,
+        "label": "次のマッチに向けた準備と雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7926,
+        "label": "生存者マッチ・救助とチェイス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8520,
+        "label": "設定変更と最終マッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8942,
+        "label": "終盤の生存者マッチ・修理と救助",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10682,
+        "label": "配信の感想・告知・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

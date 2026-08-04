@@ -1,0 +1,120 @@
+{
+  "videoId": "hz14Nzc1CNc",
+  "title": "【#APEX部2434キルリレー】フルートイトイ参上！【にじさんじ/フミ/ルイス・キャミー/白雪巴】",
+  "publishedAt": "2020-09-09T08:50:11Z",
+  "duration": "PT2H57M32S",
+  "durationSec": 10652,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/hz14Nzc1CNc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:42:53.753Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "企画導入・参加者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 389,
+        "label": "チーム交代・リレー準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 654,
+        "label": "初回マッチ・立ち回り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1654,
+        "label": "初回マッチの振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1987,
+        "label": "次のマッチ・探索と交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2399,
+        "label": "マッチ振り返り・次の作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2587,
+        "label": "マッチ・リング移動と終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4345,
+        "label": "マッチ振り返り・連携作戦の相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4425,
+        "label": "マッチ・連携作戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4833,
+        "label": "マッチ後の分析・次の降下準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4973,
+        "label": "マッチ・物資調整と終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6572,
+        "label": "マッチ振り返り・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7062,
+        "label": "マッチ・移動と終盤の判断",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8384,
+        "label": "マッチ振り返り・最終盤の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8441,
+        "label": "マッチ・生存と物資調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9462,
+        "label": "最終マッチ・ラストチャレンジ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10465,
+        "label": "企画振り返り・エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

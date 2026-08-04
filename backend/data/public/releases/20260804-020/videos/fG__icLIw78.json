@@ -1,0 +1,190 @@
+{
+  "videoId": "fG__icLIw78",
+  "title": "＃13【ブルーアーカイブ】エデン条約編4章後半。瞳のハイライトは消さないで【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-21T15:37:39Z",
+  "duration": "PT3H25M28S",
+  "durationSec": 12328,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/fG__icLIw78/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:47:30.029535Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 687,
+        "label": "4章後半の物語再開",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1042,
+        "label": "ベアトリーチェとの対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1638,
+        "label": "ユスティナ生徒会との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1764,
+        "label": "ミカとサオリの対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2292,
+        "label": "地下通路での対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2912,
+        "label": "儀式をめぐる対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3390,
+        "label": "アリウスの過去と和解の経緯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4261,
+        "label": "サオリの告白",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4799,
+        "label": "ミカとサオリ、先生との対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5437,
+        "label": "儀式の前倒しと戦闘へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5673,
+        "label": "ユスティナ生徒会との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5971,
+        "label": "ベアトリーチェと再対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6371,
+        "label": "ベアトリーチェとの戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6649,
+        "label": "ミカの祈り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7122,
+        "label": "ミカの歌",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7371,
+        "label": "戦闘の続き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7646,
+        "label": "戦いの後の対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8240,
+        "label": "サオリと先生の対話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8504,
+        "label": "ミカのもとへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8701,
+        "label": "ミカをめぐる追加戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9240,
+        "label": "救援作戦へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9624,
+        "label": "アリウス修復作戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9839,
+        "label": "遺跡で手がかりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10043,
+        "label": "それぞれの新しい道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10492,
+        "label": "未来を探すアリウスの生徒たち",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10789,
+        "label": "終盤の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11103,
+        "label": "公式配信と今後の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11330,
+        "label": "スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11897,
+        "label": "ガチャとネタバレの雑談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12142,
+        "label": "告知・次回予定・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

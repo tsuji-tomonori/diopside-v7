@@ -1,0 +1,155 @@
+{
+  "videoId": "-5DG5CkFSdY",
+  "title": "【都市伝説解体センター #最終回】第六話(最終話)「誰がためにあざみは語る」初見プレイ！※ネタバレ注意【白雪巴/にじさんじ】",
+  "publishedAt": "2026-02-26T15:25:03.000Z",
+  "duration": "PT5H34M10S",
+  "durationSec": 20050,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/-5DG5CkFSdY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T13:10:00Z",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T13:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・最終話前の予想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 919,
+        "label": "第六話開始・状況確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1351,
+        "label": "SNS調査で情報を集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2245,
+        "label": "配信者とチャンネルの手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3190,
+        "label": "情報を照合するテストへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3631,
+        "label": "都市伝説の候補を検討",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4563,
+        "label": "これまでの事件との共通点",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5237,
+        "label": "参加者と交流経路を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6692,
+        "label": "資料室で予言のカードを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7118,
+        "label": "ゼロ枚目の謎を考える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8238,
+        "label": "立ち止まって推理を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9444,
+        "label": "家族と過去の記録を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10391,
+        "label": "古いノートから経緯を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11557,
+        "label": "励ましの言葉と次の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12365,
+        "label": "カードの仕掛けを再検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13552,
+        "label": "管理人の所在を推理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14194,
+        "label": "センター長と終盤の調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14980,
+        "label": "過去の現場映像を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15760,
+        "label": "最後の解体に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16524,
+        "label": "物語の答え合わせと振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17342,
+        "label": "エンドロールと楽曲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18225,
+        "label": "クリア後の感想とシリーズ総括",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18834,
+        "label": "今後の予定・スーパーチャット読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19958,
+        "label": "視聴者への感謝・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

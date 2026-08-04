@@ -1,0 +1,80 @@
+{
+  "videoId": "thtTIbsoLbg",
+  "title": "【#100 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-09-05T03:00:33Z",
+  "duration": "PT12M6S",
+  "durationSec": 726,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/thtTIbsoLbg/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T03:06:48Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組100回記念・ゲスト紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 200,
+        "label": "配信の印象とゲームの腕前",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 333,
+        "label": "配信で意識すること・独自の言葉",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 396,
+        "label": "セリフ読みと物語作りの質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 485,
+        "label": "音声だけで伝わる台本の作り方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 544,
+        "label": "聞き手に伝えるための客観視",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 577,
+        "label": "キャラクターの背景と視点",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 642,
+        "label": "TRPGと今後の共演の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 704,
+        "label": "お便り募集・番組エンディング",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

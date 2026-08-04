@@ -1,0 +1,145 @@
+{
+  "videoId": "95-_Va08Mcw",
+  "title": "＃05【ブルーアーカイブ】エデン条約編 1章。一体どんな条約なんですか…？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-30T04:34:49Z",
+  "duration": "PT3H7M29S",
+  "durationSec": 11249,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/95-_Va08Mcw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-13T08:12:38Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ストーリー選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 430,
+        "label": "第1章・プロローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 894,
+        "label": "教室から始まる物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1346,
+        "label": "依頼を受ける会談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2274,
+        "label": "部員探しを進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3597,
+        "label": "新たな課題の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4116,
+        "label": "試験に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4384,
+        "label": "第1次試験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4835,
+        "label": "試験後の会談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5601,
+        "label": "合宿スタート",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6098,
+        "label": "合宿所の大掃除",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6649,
+        "label": "プール掃除・夜のひととき",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7199,
+        "label": "合宿初日の夜",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7804,
+        "label": "模擬試験と勉強計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8583,
+        "label": "勉強の合間の用事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8972,
+        "label": "別行動での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9363,
+        "label": "夜の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9843,
+        "label": "試験結果を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10087,
+        "label": "終盤の密談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10640,
+        "label": "第1章の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10816,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10916,
+        "label": "スーパーチャット読み・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

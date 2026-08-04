@@ -1,0 +1,135 @@
+{
+  "videoId": "89_MpF_JSv8",
+  "title": "＃15【崩壊：スターレイル】ピノコニー編！誰を信じればいい！？真犯人出てこいッッ【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-07-15T11:36:20Z",
+  "duration": "PT4H21M1S",
+  "durationSec": 15661,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/89_MpF_JSv8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T12:27:20.891673Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 229,
+        "label": "ピノコニーの物語を再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1070,
+        "label": "ホタルとの会話・夢境の仕組み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2089,
+        "label": "ジェイドのガチャ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2228,
+        "label": "ホタルの話を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2558,
+        "label": "ドリームフラックスを探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3999,
+        "label": "ロビンの歌声",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4450,
+        "label": "夢境の住人と記憶の怪物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5110,
+        "label": "仲間と合流・ロビンのもとへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5519,
+        "label": "ロビンと子供たちの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6571,
+        "label": "ギャラガーとサンデーの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7144,
+        "label": "ギャラガーの説明と夢境の歴史",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8070,
+        "label": "対決に向けた準備と手がかり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9399,
+        "label": "ホテルに戻り仲間を探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9904,
+        "label": "ホテルで情報を集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11103,
+        "label": "ブラックスワンと黄泉の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11797,
+        "label": "サンデーとの対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12469,
+        "label": "ジェイドの試用とガチャ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14543,
+        "label": "ガチャ後の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15585,
+        "label": "次回のお知らせ・最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "videoId": "pXJ4Zbmnm_s",
+  "title": "【#104 前半】にじさんじアワー だいたいにじさんじのらじお【文化放送超!A&G＋】",
+  "publishedAt": "2021-10-03T03:00:15Z",
+  "duration": "PT15M5S",
+  "durationSec": 905,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/pXJ4Zbmnm_s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T01:15:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "番組紹介・パーソナリティ自己紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 109,
+        "label": "3か月の活動を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 340,
+        "label": "石原夏織さんへのプレゼントと共演の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 405,
+        "label": "珊瑚ちゃんとのコラボ・芝居の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 485,
+        "label": "10月からのパーソナリティ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 585,
+        "label": "お便り① 就任への祝福と活動の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 725,
+        "label": "お便り② 3か月の放送を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 881,
+        "label": "番組の締め・次期パーソナリティへのメッセージ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

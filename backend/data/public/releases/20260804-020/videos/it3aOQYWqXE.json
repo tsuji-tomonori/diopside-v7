@@ -1,0 +1,135 @@
+{
+  "videoId": "it3aOQYWqXE",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#8【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-10-17T08:14:26Z",
+  "duration": "PT2H48M54S",
+  "durationSec": 10134,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/it3aOQYWqXE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:45:58Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1033,
+        "label": "ゲームの続きとセーブ確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1641,
+        "label": "看護師同士の衝突と患者対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2198,
+        "label": "医療略語の勉強",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2701,
+        "label": "ピザを囲んで語る病院の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3363,
+        "label": "子ども病棟で見える患者の一面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3994,
+        "label": "看護師の仕事と役割を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4334,
+        "label": "患者の意思と家族の願い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4798,
+        "label": "病室で語られる家族の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5371,
+        "label": "患者と看護師の過去を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5600,
+        "label": "病棟の日常と気になる視線",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "術後の患者を迎える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6405,
+        "label": "急変する病棟での対応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6955,
+        "label": "看護の意味を見つめ直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7332,
+        "label": "子ども病棟の休憩時間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7807,
+        "label": "子どもへの寄り添いと看護",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8587,
+        "label": "ゲームを中断して夜の漫画作業へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9095,
+        "label": "朝の病棟と先輩同士の会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9258,
+        "label": "物語のルートを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9757,
+        "label": "先輩の漫画を手伝う・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

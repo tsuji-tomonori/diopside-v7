@@ -1,0 +1,190 @@
+{
+  "videoId": "sHDy9__fMbM",
+  "title": "＃２【NieR:Automata -ニーアオートマタ-】美しきアンドロイドは終わった夢の世界で狂った機械生命体の叫び声を聞いた【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-08-17T12:39:49Z",
+  "duration": "PT8H12M21S",
+  "durationSec": 29541,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/sHDy9__fMbM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回振り返りと準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 605,
+        "label": "遊園地でオルゴール探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1670,
+        "label": "発明家への投資とロボ道場",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2835,
+        "label": "砂漠で迷子の妹を捜索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4209,
+        "label": "依頼の報告と水辺の寄り道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5059,
+        "label": "村で買い物とパスカルの依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6370,
+        "label": "大型兵器を迎撃・地下信号を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7117,
+        "label": "ロボ道場の再戦とルート整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7628,
+        "label": "失踪者の捜索と帰路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8894,
+        "label": "村で依頼を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10189,
+        "label": "平和パレードと子どもの救出",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11937,
+        "label": "スピードスターに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13261,
+        "label": "機密チップ回収と都市探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15357,
+        "label": "ヨルハ部隊との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16141,
+        "label": "写真の場所と任務の報告",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16875,
+        "label": "倉庫の荷物と次の依頼を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17853,
+        "label": "遊園地のパレードとスタンプラリー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19849,
+        "label": "機密チップを回収して次の任務へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 20749,
+        "label": "戦闘データ収集と新しいポッド",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21363,
+        "label": "砂漠の闘技場と帰路",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22036,
+        "label": "オアシスとサルトルの依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23428,
+        "label": "ジャッカスの薬を試して道場へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 23685,
+        "label": "強敵とのロボ道場戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24513,
+        "label": "道場後の依頼と村への帰還",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 25521,
+        "label": "武器強化と依頼の報告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 26302,
+        "label": "砂漠への道と無限湧きポイント",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 27037,
+        "label": "砂漠の奥を探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 27576,
+        "label": "サルトルへの報告と帰路",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28365,
+        "label": "帰路で依頼と次回方針を整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 28604,
+        "label": "配信の締めと次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 28973,
+        "label": "スーパーチャット読み・感想戦",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

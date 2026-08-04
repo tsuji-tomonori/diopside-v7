@@ -1,0 +1,135 @@
+{
+  "videoId": "RXxidZcRF8g",
+  "title": "【雑談】罵倒マシュマロ読み上げ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-16T16:47:05Z",
+  "duration": "PT1H50M42S",
+  "durationSec": 6642,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/RXxidZcRF8g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T01:50:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 625,
+        "label": "罵倒マシュマロ企画の説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1131,
+        "label": "最初の投稿を読み上げる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1345,
+        "label": "続く投稿の読み上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1737,
+        "label": "投稿ごとの罵倒と反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2101,
+        "label": "罵倒の裏側を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2398,
+        "label": "長文シチュエーションを読む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2569,
+        "label": "次回企画の話・音声確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2680,
+        "label": "学生向けの強い言葉と励まし",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2959,
+        "label": "自分磨きにまつわる投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3213,
+        "label": "甘く意地悪な会話の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3527,
+        "label": "次の投稿を選ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3779,
+        "label": "強めの読み上げと演技",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4000,
+        "label": "年上のお姉さんに甘やかされたい投稿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4537,
+        "label": "特別な声での罵倒コーナー",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4737,
+        "label": "最後の投稿を読む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5101,
+        "label": "企画の振り返り・スパチャ読み準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5296,
+        "label": "次回配信の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5431,
+        "label": "スーパーチャット読み・雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6545,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

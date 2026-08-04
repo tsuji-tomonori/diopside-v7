@@ -1,0 +1,105 @@
+{
+  "videoId": "llUjYFrQhsY",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#9【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-06-29T13:44:19Z",
+  "duration": "PT1H28M13S",
+  "durationSec": 5293,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/llUjYFrQhsY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T21:01:59.106711+00:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・第9話の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 371,
+        "label": "ゲーム再開・はつみと勉強",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 623,
+        "label": "糖尿病について学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1037,
+        "label": "部屋の片付けと泊まり支度",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1379,
+        "label": "夜の会話と過去の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1981,
+        "label": "朝の出発と病院への急行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2469,
+        "label": "帰宅中に続く不穏な電話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2903,
+        "label": "夜の出来事と残る違和感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3365,
+        "label": "悪夢のあと、はつみが寄り添う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3652,
+        "label": "はつみとの会話に感じる違和感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4077,
+        "label": "病棟での会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4648,
+        "label": "ゲームを一旦ここまで・次回の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4824,
+        "label": "コラボ商品のサイズ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5002,
+        "label": "コメント読み・配信予定",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

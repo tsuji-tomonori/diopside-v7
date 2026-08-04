@@ -1,0 +1,105 @@
+{
+  "videoId": "DXtSSLL7wnI",
+  "title": "【APEX】巴の姐さんとあぺコラボ！【白雪巴/影山シエン】",
+  "publishedAt": "2020-10-09T17:17:47Z",
+  "duration": "PT2H58M13S",
+  "durationSec": 10693,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DXtSSLL7wnI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T11:41:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 529,
+        "label": "最初のApexマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1608,
+        "label": "2戦目・物資集めと交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2670,
+        "label": "試合後の雑談・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3596,
+        "label": "Apexマッチ・移動と終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4712,
+        "label": "試合後の振り返り・短い次戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5192,
+        "label": "Apexマッチ・リング移動と交戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5990,
+        "label": "回線落ちを挟むApexマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6842,
+        "label": "近距離戦・立ち回りの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7198,
+        "label": "ホットポイント降下・終盤戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7970,
+        "label": "Apexマッチ・雑談と次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8399,
+        "label": "Apexマッチ・物資集めから接敵へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9048,
+        "label": "最後のApexマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10456,
+        "label": "配信後の感想・告知",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

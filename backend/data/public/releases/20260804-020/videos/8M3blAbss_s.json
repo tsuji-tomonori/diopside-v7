@@ -1,0 +1,125 @@
+{
+  "videoId": "8M3blAbss_s",
+  "title": "【#フルトイの迷宮】『後悔の迷宮』をわいわい初プレイ✨【にじさんじ/フルトイ】",
+  "publishedAt": "2022-02-19T03:15:12Z",
+  "duration": "PT1H13M41S",
+  "durationSec": 4421,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/8M3blAbss_s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T22:11:31.021836Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "ゲーム開始・学校の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 332,
+        "label": "「後悔の迷宮」の仕組み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 479,
+        "label": "最初の住人との対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 609,
+        "label": "最初の謎に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1132,
+        "label": "最初の謎を解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1401,
+        "label": "住人の後悔を聞く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1530,
+        "label": "次の住人・音楽の謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1709,
+        "label": "音楽の謎を解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2046,
+        "label": "色と図形の謎に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2348,
+        "label": "住人の後悔に向き合う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2520,
+        "label": "新たな住人の謎解き",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2987,
+        "label": "次の住人と新たな謎",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3175,
+        "label": "住人の後悔と対話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3333,
+        "label": "卒業試験のルール",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3483,
+        "label": "卒業試験に挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3955,
+        "label": "試験後の手掛かり確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4052,
+        "label": "終盤の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4170,
+        "label": "振り返り・作品紹介",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

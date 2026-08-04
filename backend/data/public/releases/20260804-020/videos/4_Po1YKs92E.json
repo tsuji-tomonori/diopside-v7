@@ -1,0 +1,110 @@
+{
+  "videoId": "4_Po1YKs92E",
+  "title": "【Pineapple on pizza】人気すぎて怖いです‥‥‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-05-10T15:02:51Z",
+  "duration": "PT1H48M52S",
+  "durationSec": 6532,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4_Po1YKs92E/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T08:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 362,
+        "label": "島を探索して仕組みを探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1751,
+        "label": "火山の異変と最初の展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2173,
+        "label": "別ルートを探して島を再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2521,
+        "label": "新たな候補ルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2952,
+        "label": "住民の行動とルートを見比べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3811,
+        "label": "生存者候補を探して再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4150,
+        "label": "鳥と住民のルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4713,
+        "label": "再挑戦で条件を確かめる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4886,
+        "label": "ゲームの感想と次回予定",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5142,
+        "label": "ゲームの意味を考察",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5633,
+        "label": "石碑の図像を読み解く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5958,
+        "label": "終盤の追加ルートを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6299,
+        "label": "終盤の演出を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6392,
+        "label": "配信の締めとスーパーチャット",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

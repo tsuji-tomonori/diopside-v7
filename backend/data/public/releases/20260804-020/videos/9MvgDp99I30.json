@@ -1,0 +1,120 @@
+{
+  "videoId": "9MvgDp99I30",
+  "title": "【スプラトゥーン2】ルイスさんと突発コラボ！ランク10いくまで寝るもんですか【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-17T19:31:09Z",
+  "duration": "PT3H35M26S",
+  "durationSec": 12926,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/9MvgDp99I30/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T04:01:26Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・コラボ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1502,
+        "label": "最初のレギュラーマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2560,
+        "label": "レギュラーマッチを続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3523,
+        "label": "新ステージのレギュラーマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3900,
+        "label": "コラボマッチ連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5130,
+        "label": "試合後の感想と次のマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "対戦継続・立ち回り談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7058,
+        "label": "連続対戦・ローラー対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7849,
+        "label": "深夜のマッチとランク進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8400,
+        "label": "武器選びと新武器の試用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9170,
+        "label": "新しい武器でマッチ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10319,
+        "label": "チャージャーの使い方を学ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10629,
+        "label": "終盤のマッチとランク相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11036,
+        "label": "空腹と最後のマッチ準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11294,
+        "label": "終盤のマッチを続行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12586,
+        "label": "コラボの締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12658,
+        "label": "エンディング・スーパーチャット読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}
