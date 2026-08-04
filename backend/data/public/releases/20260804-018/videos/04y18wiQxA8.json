@@ -1,0 +1,135 @@
+{
+  "videoId": "04y18wiQxA8",
+  "title": "【凸待ち】お誕生日なのでお友達にお祝いしてもらいたい！【#響木アオ生誕祭2021】",
+  "publishedAt": "2021-01-07T15:30:40Z",
+  "duration": "PT3H8M49S",
+  "durationSec": 11329,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/04y18wiQxA8/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-08-04T03:51:36.614605+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-08-04T14:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信待機・オープニング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 644,
+        "label": "燈舞りん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1115,
+        "label": "音葉なほ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1413,
+        "label": "兎鞠まり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1849,
+        "label": "桜月花音",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2290,
+        "label": "アメノセイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2884,
+        "label": "夜乃ネオン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3294,
+        "label": "ユキミお姉ちゃん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3849,
+        "label": "朝ノ瑠璃",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4414,
+        "label": "えりママ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "かしこまり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5535,
+        "label": "虹乃まほろ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6382,
+        "label": "ときのそら",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7097,
+        "label": "緑仙",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7865,
+        "label": "白雪巴",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8089,
+        "label": "恭平",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8723,
+        "label": "星月せい・天城てん",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9385,
+        "label": "小森めと",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10117,
+        "label": "小森めと（続き）",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10697,
+        "label": "話題：ということでねえ本日は皆様長らくの 放送お付き合いいただ…",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

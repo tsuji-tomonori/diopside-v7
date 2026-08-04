@@ -1,0 +1,110 @@
+{
+  "videoId": "37R4N3H1Ji4",
+  "title": "【晩酌】きっと誰もが幸せを望んでいる。お姉さんの一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 09【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-12-19T15:45:51Z",
+  "duration": "PT2H27M49S",
+  "durationSec": 8869,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/37R4N3H1Ji4/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T06:39:42+09:00",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今後の予定と乾杯",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 624,
+        "label": "最近読んでいる本と映画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 850,
+        "label": "最近のコラボ・動画を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1845,
+        "label": "ガールズバンドから高校時代の思い出",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2951,
+        "label": "両親の出会いと学生時代",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3351,
+        "label": "年末年始の配信予定を相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4127,
+        "label": "来年のテーマと今の心境",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4760,
+        "label": "リスナーの近況から広がる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5687,
+        "label": "職場で見抜かれた恋愛観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6161,
+        "label": "ペット先輩との暮らし",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6416,
+        "label": "踊ってみたの裏話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6655,
+        "label": "部活・頑張ることと親の教え",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7590,
+        "label": "晩酌のまとめ・次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8082,
+        "label": "スーパーチャットお礼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8340,
+        "label": "家族への感謝と最後の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

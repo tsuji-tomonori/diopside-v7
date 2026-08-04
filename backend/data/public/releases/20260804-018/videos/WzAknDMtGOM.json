@@ -1,0 +1,165 @@
+{
+  "videoId": "WzAknDMtGOM",
+  "title": "【ガチレポ！】今まで使ったことのある化粧水・乳液・美容液をレポる！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-17T13:42:10Z",
+  "duration": "PT1H31M41S",
+  "durationSec": 5501,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/WzAknDMtGOM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T19:19:13Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ガチレポの趣旨",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 209,
+        "label": "SUQQU アクフォンスの使用感",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 554,
+        "label": "Dior スノー＆ドリームスキン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 986,
+        "label": "ロクシタン レーヌブランシュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1197,
+        "label": "ロクシタン イモーテル美容液",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1482,
+        "label": "SKINFOOD ロイヤルハニー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1776,
+        "label": "雪肌精 アルティメイト",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2049,
+        "label": "THREE バランシング ローション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2223,
+        "label": "イヴ・サンローラン ピュアショット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2481,
+        "label": "プロアクティブ・草花木果",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2585,
+        "label": "プチプラ系・シラクル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2921,
+        "label": "なめらか本舗 豆乳イソフラボン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3069,
+        "label": "MINON エイジングケアオイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3457,
+        "label": "ハトムギ・無印良品の大容量保湿",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3682,
+        "label": "天使の美肌水 しっとりタイプ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3814,
+        "label": "肌ラボ 極潤",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3964,
+        "label": "菊正宗 日本酒の化粧水",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4104,
+        "label": "オードムーゲ・アクネス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4281,
+        "label": "タカミ・Obagiの美容液",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4660,
+        "label": "質問コーナー・肌質とおすすめ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4774,
+        "label": "Dior乳液を化粧下地として使う話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4866,
+        "label": "オールインワンと使い分け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4982,
+        "label": "ニキビ跡のケアと皮膚科の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5246,
+        "label": "化粧水の塗り方と肌の敏感さ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5347,
+        "label": "次回のメイク品レビュー予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5381,
+        "label": "最後に・肌に合うものを選ぶ注意",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

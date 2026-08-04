@@ -1,0 +1,135 @@
+{
+  "videoId": "MiwGUpT6GvU",
+  "title": "【雑談】8月もありがとう♡久々に晩酌配信【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-31T13:07:31Z",
+  "duration": "PT1H56M27S",
+  "durationSec": 6987,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MiwGUpT6GvU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T19:08:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・晩酌雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 531,
+        "label": "前日の女子会コラボを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1098,
+        "label": "9月の配信予定・8月の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1502,
+        "label": "スプラトゥーン3の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1848,
+        "label": "ホラーゲームコラボの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2183,
+        "label": "香水・香りの好み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2680,
+        "label": "シャンプー・ヘアケア用品の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3099,
+        "label": "旅行のケア用品と疲れ対策",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3244,
+        "label": "9月のライブ・イベント告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3600,
+        "label": "初ライブへの緊張と準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3829,
+        "label": "恋愛で距離を縮める方法",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4053,
+        "label": "映画・漫画・アニメの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4449,
+        "label": "漫画を読むタイミングと集中",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4636,
+        "label": "作品の好みと苦手な展開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5397,
+        "label": "秋の行き先とコンビニスイーツ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5540,
+        "label": "謎解き配信・公式グッズ・9月の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5741,
+        "label": "スーパーチャット読み・配信やイベントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6544,
+        "label": "配信方針・8月ボイスの告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6642,
+        "label": "ホラー体験談を紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6882,
+        "label": "企画の総括・次回予告と終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "XVekes8Jq3o",
+  "title": "【ポケモン剣盾】初めてのジム戦～トモエVSヤロー～【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-01-26T19:01:57Z",
+  "duration": "PT2H21M41S",
+  "durationSec": 8501,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XVekes8Jq3o/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:59:27Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・手持ち紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 360,
+        "label": "タイプ相性と手持ちの攻略準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 820,
+        "label": "ワイルドエリアで育成と進行準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1181,
+        "label": "地上絵とブラックナイトの伝承",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1451,
+        "label": "初ジム戦に向けた準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1919,
+        "label": "ヤローのジムミッション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2725,
+        "label": "ヤローとのジムリーダー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3062,
+        "label": "ジム戦後の技・報酬確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3223,
+        "label": "次のエリアへ進みダブルバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3582,
+        "label": "道中の捕獲と新しい手持ち候補",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3919,
+        "label": "エレズンの育成と編成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4453,
+        "label": "応援団との道中トレーナー戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4613,
+        "label": "自転車を手に入れて道中探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5100,
+        "label": "道中の捕獲探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5354,
+        "label": "キャンプと料理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5661,
+        "label": "捕獲とキャンプ後の手持ち確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5871,
+        "label": "次の進行に向けた育成と道中戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6382,
+        "label": "キャンプで手持ちと料理を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6806,
+        "label": "道中戦闘と育成・進化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7463,
+        "label": "次の町でジム挑戦の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8005,
+        "label": "ジム前の案内とカード確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8155,
+        "label": "ルリナと水ジムの紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8402,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

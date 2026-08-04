@@ -1,0 +1,130 @@
+{
+  "videoId": "Goco9N0eRAs",
+  "title": "【#白雪巴ファンミーティング】お疲れ様でした✨振り返り配信！！！みんなBIG LOVE―――💓【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-05-05T17:04:28Z",
+  "duration": "PT3H51M16S",
+  "durationSec": 13876,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Goco9N0eRAs/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T17:07:54Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・写真で振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 619,
+        "label": "昼公演の会場と企画づくり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1614,
+        "label": "セリフ読み・掛け合い企画",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2518,
+        "label": "白雪巴パーソナルクイズ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4193,
+        "label": "昼ミニライブ『ラヴィ』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4618,
+        "label": "昼ミニライブ『晩餐歌』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4954,
+        "label": "新曲『Believe in Yourself』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5842,
+        "label": "ディナーショーを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6197,
+        "label": "プロポーズのボードゲーム",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6936,
+        "label": "夜ミニライブ『シザーハンズ』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7173,
+        "label": "『Departures ～あなたにおくるアイの歌～』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7337,
+        "label": "夜ミニライブ『STAR ROAD』",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7551,
+        "label": "昼夜2公演を終えて",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7979,
+        "label": "振り返り後の感想・ファンへの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8351,
+        "label": "スーパーチャット読み開始",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9259,
+        "label": "新曲と活動の節目・スパチャ読み",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10069,
+        "label": "開催までの道のりとファンへの思い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11444,
+        "label": "会場を作ったみんなへ・スパチャ後半",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13623,
+        "label": "次回予告・感謝の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

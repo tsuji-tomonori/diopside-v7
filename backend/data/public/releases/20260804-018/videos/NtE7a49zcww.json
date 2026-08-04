@@ -1,0 +1,200 @@
+{
+  "videoId": "NtE7a49zcww",
+  "title": "＃02【崩壊：スターレイル】ヤリ―ロⅥ編。初めての惑星は寂しく雪で真っ白だった――‥‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-03-14T04:25:22Z",
+  "duration": "PT4H7M12S",
+  "durationSec": 14832,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/NtE7a49zcww/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信導入・前回振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 627,
+        "label": "雪の惑星とサンポ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1004,
+        "label": "ベロブルグを目指す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1276,
+        "label": "シルバーメインとの戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1563,
+        "label": "ベロブルグ到着と永遠の凍結",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2043,
+        "label": "最高守護者との面会",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2574,
+        "label": "行政区とペラの案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3036,
+        "label": "セーバルと暖房機の修理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3328,
+        "label": "フラグメントと地下区画の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3916,
+        "label": "列車の依頼とホテルの怪異",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4446,
+        "label": "拘束から脱出へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4770,
+        "label": "フラグメントを進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5402,
+        "label": "ブローニャの追撃と戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5881,
+        "label": "地下へ・ナターシャの診療所",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6376,
+        "label": "フックと鬼ごっこ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6984,
+        "label": "フックを見つける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7299,
+        "label": "ファイトクラブ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7649,
+        "label": "サンポとワイルドファイア",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8357,
+        "label": "ゼーレとブローニャ、次の鉱山へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8610,
+        "label": "新システムと鉱山の依頼",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9432,
+        "label": "遺物強化と大鉱山へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10162,
+        "label": "ロボットと鉱夫の衝突",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10833,
+        "label": "道を塞ぐ機械を修理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11265,
+        "label": "スヴァローグの機械との戦い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11630,
+        "label": "大鉱山の奥へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11838,
+        "label": "スヴァローグとの対峙",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12272,
+        "label": "オレグと地下世界の事情",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12871,
+        "label": "鉱山を抜けて本編終了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13533,
+        "label": "地下ホテルの一夜",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14012,
+        "label": "不穏な夢と物語の区切り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14371,
+        "label": "締めのガチャ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14475,
+        "label": "装備強化と次回予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14572,
+        "label": "配信後トーク・スパチャ読み",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

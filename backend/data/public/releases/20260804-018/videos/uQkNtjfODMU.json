@@ -1,0 +1,140 @@
+{
+  "videoId": "uQkNtjfODMU",
+  "title": "＃２【じんるいのみなさまへ】荒廃した秋葉原で5人の女のコ達がサバイバル生活！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-08-01T15:03:34Z",
+  "duration": "PT3H38M37S",
+  "durationSec": 13117,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/uQkNtjfODMU/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-26T17:24:51Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 430,
+        "label": "荒廃した秋葉原を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 959,
+        "label": "肥料と畑の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1320,
+        "label": "釣り・鳥の罠を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1803,
+        "label": "鳥の捕獲計画・ショップ探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2283,
+        "label": "鳥の罠を探して設置",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3007,
+        "label": "大きな大根を収穫",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3470,
+        "label": "大根料理と大型動物の罠",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4243,
+        "label": "鳥の罠を改良・電気仕掛けを検討",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5795,
+        "label": "電池探し・溶接方法を調べる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6485,
+        "label": "高熱反応の罠を計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7200,
+        "label": "罠の材料集め・組み立て",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7978,
+        "label": "食材の扱い・調理方法を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8407,
+        "label": "調味料探し・ゲームの追加要素",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8960,
+        "label": "今後の配信方針・甘味探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9940,
+        "label": "蜂の巣と蜂蜜を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10470,
+        "label": "蜂蜜・巣箱の調査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11104,
+        "label": "巣箱と防護の準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11857,
+        "label": "蜂を新しい巣箱へ移す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12435,
+        "label": "鹿肉と蜂蜜の夕食",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12736,
+        "label": "配信終了・スパチャ読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

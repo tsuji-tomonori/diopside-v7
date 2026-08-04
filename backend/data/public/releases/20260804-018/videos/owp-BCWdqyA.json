@@ -1,0 +1,105 @@
+{
+  "videoId": "owp-BCWdqyA",
+  "title": "【#フルトイ新衣装】今日からキュート担当ルイス！！！【ルイス・キャミー/にじさんじ】",
+  "publishedAt": "2020-11-21T10:34:04Z",
+  "duration": "PT29M6S",
+  "durationSec": 1746,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/owp-BCWdqyA/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T08:12:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・新衣装お披露目の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 118,
+        "label": "新衣装のデザインと制作",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 172,
+        "label": "着替えと足元からのお披露目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 319,
+        "label": "全身モードで新衣装を披露",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 453,
+        "label": "三人の個性とお揃いのデザイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 637,
+        "label": "サムネ制作と衣装のこだわり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 846,
+        "label": "ルイスの担当属性を語る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 968,
+        "label": "アクセサリーと靴の細部",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1077,
+        "label": "着替え後の再登場と集合お披露目の予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1149,
+        "label": "三人の世紀末風コラボ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1290,
+        "label": "三人乗りの乗り物案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1388,
+        "label": "怪盗企画とゲーム案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1567,
+        "label": "衣装のまとめと次の予告",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1658,
+        "label": "次の新衣装お披露目へ",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "videoId": "ENEzr9lZ6lo",
+  "title": "【百合ゲー】百合V厨バーが送る白衣性恋愛症候群RE:Therapy#最終回【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-07-04T13:15:33Z",
+  "duration": "PT1H7M14S",
+  "durationSec": 4034,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/ENEzr9lZ6lo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T20:46:17Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "前回の振り返り・今回の導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 272,
+        "label": "初めての夜勤が始まる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 420,
+        "label": "夜勤業務と患者の巡回",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 720,
+        "label": "夜に働く不安と病棟の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 867,
+        "label": "消灯後の病棟を巡回",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 965,
+        "label": "暗い病棟で人影を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1182,
+        "label": "新人の夜間巡回",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1401,
+        "label": "仮眠前の病棟の異変",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1782,
+        "label": "明け方の巡回と夜勤の終わり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2333,
+        "label": "夜勤シナリオを終えて感想",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2398,
+        "label": "ルート条件を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2569,
+        "label": "終盤の展開と選択",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2713,
+        "label": "配信全体の振り返り・分岐検証",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2954,
+        "label": "ゲームの感想と攻略方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3136,
+        "label": "配信終了の挨拶と再挑戦の話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3209,
+        "label": "作品の感想・配信の進め方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3332,
+        "label": "次回配信のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3391,
+        "label": "スパチャ読み・ゲームの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3830,
+        "label": "セーブファイルでルートを確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3938,
+        "label": "最後の振り返り・終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

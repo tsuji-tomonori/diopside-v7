@@ -1,0 +1,210 @@
+{
+  "videoId": "70r74US1uHc",
+  "title": "【#Crossick】ふたりのカラオケデート、壁になってのぞいてみる？【白雪巴・健屋花那/にじさんじ】",
+  "publishedAt": "2021-05-30T10:41:18Z",
+  "duration": "PT2H24M12S",
+  "durationSec": 8652,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/70r74US1uHc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T07:10:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "カラオケデート開始・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1200,
+        "label": "健屋・1曲目",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1323,
+        "label": "歌後トーク・次の曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1591,
+        "label": "巴・2曲目",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1862,
+        "label": "歌後トーク・次のデュエット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2043,
+        "label": "Crossickデュエット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2340,
+        "label": "歌後トーク・次の曲準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2521,
+        "label": "巴「純潔パラドックス」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2769,
+        "label": "歌後トーク・歌い方の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2889,
+        "label": "健屋・アニメソング",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3163,
+        "label": "アニメ談義・次の曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3541,
+        "label": "巴・地獄少女関連曲",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3841,
+        "label": "歌後トーク・距離感の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4200,
+        "label": "健屋・カラオケ歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4532,
+        "label": "恋愛談義・『恋愛裁判』準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4772,
+        "label": "Crossick「恋愛裁判」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4979,
+        "label": "歌後トーク・次の曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5373,
+        "label": "健屋・カラオケ歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5599,
+        "label": "歌後トーク・アニメと歌の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5976,
+        "label": "巴・カラオケ歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6121,
+        "label": "歌後トーク・アニメ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6301,
+        "label": "健屋「猫」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6573,
+        "label": "『猫』の感想・ボカロ曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6692,
+        "label": "巴「ストリーミングハート」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6930,
+        "label": "歌後トーク・終盤の曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7113,
+        "label": "Crossick・デュエット",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7216,
+        "label": "歌後トーク・ラストの曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7323,
+        "label": "巴・終盤のソロ歌唱",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7507,
+        "label": "歌後トーク・最後のデュエット準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7681,
+        "label": "健屋「おねがいダーリン」",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7988,
+        "label": "歌後トーク・最後の曲選び",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8061,
+        "label": "Crossick・ラストデュエット",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8284,
+        "label": "歌唱終了・デートの振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8370,
+        "label": "告知・今後の予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8525,
+        "label": "お別れ・退室",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

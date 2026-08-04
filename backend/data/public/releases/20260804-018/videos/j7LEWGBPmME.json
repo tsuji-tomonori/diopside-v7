@@ -1,0 +1,120 @@
+{
+  "videoId": "j7LEWGBPmME",
+  "title": "＃３【CONTROL】難しいことは分からないけどとりあえず殲滅すればOK？【白雪 巴/にじさんじ】",
+  "publishedAt": "2024-02-10T08:12:04Z",
+  "duration": "PT3H59M3S",
+  "durationSec": 14343,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/j7LEWGBPmME/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-17T20:07:52Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回までの振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1008,
+        "label": "研究所へ進む・敵との戦闘",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2005,
+        "label": "戦闘後の探索・マーシャルを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2736,
+        "label": "マーシャル合流・研究所防衛",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3925,
+        "label": "研究資料と装置の謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4334,
+        "label": "パンチカードの謎と人員保護",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5213,
+        "label": "ヘドロ共鳴の手掛かり・次の任務",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5786,
+        "label": "洗脳能力を使う戦闘・処理場探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7255,
+        "label": "ボシンビ・モーテルの謎解き",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7878,
+        "label": "中央研究所の任務・装備強化",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8537,
+        "label": "ブラックロック区域の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9587,
+        "label": "処理場への道・緊急ミッション",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10171,
+        "label": "ブラックロック回収・帰還",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11755,
+        "label": "ディラン捜索・奥の区域へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13136,
+        "label": "ディラン捜索の手掛かり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13822,
+        "label": "本編終了・次回のお知らせ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13870,
+        "label": "スーパーチャット読み・振り返り",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

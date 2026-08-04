@@ -1,0 +1,135 @@
+{
+  "videoId": "A07K2AqEtUc",
+  "title": "#1【バイオハザード】ビビりだけど必ず報復させるバイオプレイ【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-01-28T14:30:58Z",
+  "duration": "PT2H59M36S",
+  "durationSec": 10776,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/A07K2AqEtUc/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:43:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 889,
+        "label": "洋館探索と最初の戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1510,
+        "label": "ディフェンスアイテムと館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2171,
+        "label": "再探索と時計の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2886,
+        "label": "鍵を探して館内を進む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3901,
+        "label": "像の仕掛けと宝石探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4528,
+        "label": "墓地側の探索と仮面の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5056,
+        "label": "新たな鍵の先を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5795,
+        "label": "マップと館内の安全策を確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6300,
+        "label": "廊下の探索と薬品探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6999,
+        "label": "脱出経路と鍵の進行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7421,
+        "label": "一階探索とショットガン周辺の仕掛け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8247,
+        "label": "犬笛を探して館内探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8577,
+        "label": "犬笛とハーブの確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8849,
+        "label": "テラスで犬笛を使う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9168,
+        "label": "鍵を使える場所を再探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9442,
+        "label": "アイテム整理と次の探索準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9904,
+        "label": "終盤の探索と戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10441,
+        "label": "次回に向けた進行確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10620,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

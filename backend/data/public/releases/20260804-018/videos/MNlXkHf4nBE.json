@@ -1,0 +1,110 @@
+{
+  "videoId": "MNlXkHf4nBE",
+  "title": "【#白雪巴新衣装】上から見るか下から見るか【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-09-25T12:58:55Z",
+  "duration": "PT49M12S",
+  "durationSec": 2952,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/MNlXkHf4nBE/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T07:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング映像・花火の物語",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1034,
+        "label": "新衣装お披露目と自作映像の説明",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1151,
+        "label": "浴衣のデザイン・柄・差分紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1520,
+        "label": "背景・メイク・髪色の紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1638,
+        "label": "着崩し差分と小物の組み合わせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1839,
+        "label": "帯・浴衣・着物の構成紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2011,
+        "label": "花火背景と記念映像の制作話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2209,
+        "label": "髪型・表情・背景のバリエーション",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2400,
+        "label": "通常の着姿とネイル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2459,
+        "label": "今後の着用予定",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2500,
+        "label": "花魁風の部屋と衣装の雰囲気",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2547,
+        "label": "物語の続き・ロールプレイ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2584,
+        "label": "締めの挨拶・ハッシュタグ案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2693,
+        "label": "歌ってみた告知・制作紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2799,
+        "label": "お披露目の感想と感謝",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

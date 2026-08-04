@@ -1,0 +1,115 @@
+{
+  "videoId": "Kbw8g4KTz44",
+  "title": "【ハツリバーブ-HAZE REVERB-】女の子たちが可愛いくて●●い！？新作スマホゲームのストーリーやる！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-10-28T14:02:40Z",
+  "duration": "PT1H54M10S",
+  "durationSec": 6850,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kbw8g4KTz44/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:53:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1885,
+        "label": "物語開始・目覚めた主人公",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2206,
+        "label": "謎の少女との遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2360,
+        "label": "最初の戦闘と基本システム",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2728,
+        "label": "戦闘後のストーリー・世界観",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3271,
+        "label": "襲撃と仲間の合流",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4050,
+        "label": "新たな仲間と戦闘準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4579,
+        "label": "サポート編成のチュートリアル戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4709,
+        "label": "戦闘後の方針確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5051,
+        "label": "大規模戦闘・援軍到着",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5834,
+        "label": "戦闘後の振り返りと記録",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6160,
+        "label": "捜索の続きと新たな出会い",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6385,
+        "label": "目覚めと基本案内",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "チュートリアルのまとめ・イベント紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6668,
+        "label": "イベント告知・プレイ感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6764,
+        "label": "感想・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "Kox6Iqpj9LM",
+  "title": "【#Crossick】引っ越し祝いに私が欲しいって言うから…。【健屋花那・白雪巴/にじさんじ】",
+  "publishedAt": "2020-11-07T15:40:08Z",
+  "duration": "PT1H47M29S",
+  "durationSec": 6449,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Kox6Iqpj9LM/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T09:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "新居で食事・配信準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 635,
+        "label": "リアルイベントと視聴者との交流",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1158,
+        "label": "コラボの思い出と関係性の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1671,
+        "label": "DJの仕事とミックス解説",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2095,
+        "label": "DJ経験と音声作品の演技談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2530,
+        "label": "今後の作品・ライブの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2663,
+        "label": "VRホラーと遊園地の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2913,
+        "label": "学生時代とクリスマスの仕事",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3195,
+        "label": "過去のクリスマス配信とコラボ史",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3457,
+        "label": "新居・人間関係の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4085,
+        "label": "音声作品の収録と制作秘話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4622,
+        "label": "声の表現と演技の実演",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5021,
+        "label": "二人の関係性とコラボの歩み",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5458,
+        "label": "初期メッセージと関係性の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5990,
+        "label": "参加型・協力型ゲームの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6134,
+        "label": "食事の締めと配信終了",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6248,
+        "label": "告知・最後の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

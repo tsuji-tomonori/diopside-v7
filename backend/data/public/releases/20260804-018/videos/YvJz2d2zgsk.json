@@ -1,0 +1,130 @@
+{
+  "videoId": "YvJz2d2zgsk",
+  "title": "【We Were Here Forever】＃4　そして彼女たちは永遠となる【#女王と会長/にじさんじ】",
+  "publishedAt": "2022-09-22T19:50:03Z",
+  "duration": "PT5H33M51S",
+  "durationSec": 20031,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/YvJz2d2zgsk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T18:09:03.374326Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "最終回を目指してゲーム開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 389,
+        "label": "呪われた手と海賊エリアの探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 680,
+        "label": "宝の地図と海中への入口",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1127,
+        "label": "海中迷路で酸素をつなぐ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3101,
+        "label": "ダイヤの空気で新たな道へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3656,
+        "label": "深海ルートを進み水中の部屋へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4773,
+        "label": "協力パイプパズルに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6173,
+        "label": "広がるパイプパズルを攻略",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7487,
+        "label": "終盤のパイプ配線を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9312,
+        "label": "タコの装置と記号の解読",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10715,
+        "label": "タコとの会話を試みる",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 13584,
+        "label": "脱出後の化学室を探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 14267,
+        "label": "化学装置とレシピの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 15292,
+        "label": "素材を集めて最初の調合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 16269,
+        "label": "手順を整理して調合を再挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17353,
+        "label": "次の装置へ進む準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 17889,
+        "label": "光とエネルギーの装置に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19055,
+        "label": "終盤の展開を見届ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 19331,
+        "label": "ゲーム後の感想とアフタートーク",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "videoId": "HqHMibZH1Ts",
+  "title": "オーディション応募してみた～文野環3D新衣装お披露目【にじさんじ】",
+  "publishedAt": "2025-09-28T13:33:49Z",
+  "duration": "PT1H18M44S",
+  "durationSec": 4724,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/HqHMibZH1Ts/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:49:11Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "オープニング・オーディションへの憧れ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 176,
+        "label": "オープニング曲",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 574,
+        "label": "アイドルオーディション一次審査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 908,
+        "label": "一次審査結果と合宿への呼び出し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 982,
+        "label": "オーディション合宿の説明と初日",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1239,
+        "label": "合宿中の歌唱ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1359,
+        "label": "仲間と最終審査へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1495,
+        "label": "最終審査のパフォーマンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1597,
+        "label": "最終結果発表と祝福",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1708,
+        "label": "アイドル活動のモンタージュ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2097,
+        "label": "新衣装お披露目とアイドル挨拶",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2250,
+        "label": "ゲスト登場・新衣装お祝いトーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2390,
+        "label": "スペシャルライブとホッピングの準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2540,
+        "label": "歌いながらホッピングするライブ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2728,
+        "label": "海賊団との歌唱ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2984,
+        "label": "約束の歌を振り返り海賊船を紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3237,
+        "label": "けん玉の三連続技に挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3356,
+        "label": "デュエット歌唱ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3693,
+        "label": "星空の歌唱ステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4040,
+        "label": "夜の海で食料探し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4268,
+        "label": "合宿で身につけたアイドル力",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4335,
+        "label": "ラストステージ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4579,
+        "label": "締めの挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

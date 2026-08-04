@@ -1,0 +1,175 @@
+{
+  "videoId": "4Vn4ThTh9iQ",
+  "title": "【作業雑談】ちょっと色々仕事が溜まってるんだけど付き合ってくれる？【白雪 巴/にじさんじ】",
+  "publishedAt": "2023-04-25T17:14:49Z",
+  "duration": "PT3H22M13S",
+  "durationSec": 12133,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/4Vn4ThTh9iQ/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T11:26:32Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・導入",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 458,
+        "label": "今日の作業と作業配信の進め方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 997,
+        "label": "お茶爆お礼画像の方向性と推し活雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1509,
+        "label": "お茶爆お礼画像を作る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1771,
+        "label": "作業を促されるとやる気が落ちる話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1988,
+        "label": "ツイキャスの距離感と決め台詞",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2363,
+        "label": "お姉さんキャラの話と画像の仕上げ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2645,
+        "label": "お礼画像の送信と公開ルール",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3041,
+        "label": "Ghostwire配信準備と操作確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3380,
+        "label": "Ghostwire新エリア探索とサムネ候補",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3987,
+        "label": "配信準備と作業時間の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4156,
+        "label": "Ghostwireの自撮り・サムネ撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4829,
+        "label": "撮影UIの確認と敵との戦闘",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5522,
+        "label": "学校エリアでサムネ素材を撮影",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6071,
+        "label": "Clip Studioで背景作成・ファンアートの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6674,
+        "label": "サムネ配置と配信タイトルを調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7209,
+        "label": "フォント選びと文字デザイン",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7962,
+        "label": "文字を統合してサムネを完成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8330,
+        "label": "サムネ保存・明日の配信とマイクラ計画",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8845,
+        "label": "完成サムネを見せながら通話作業の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9296,
+        "label": "歌枠の準備とリクエスト募集",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9671,
+        "label": "新衣装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9963,
+        "label": "食べ物の話と大戸屋メニュー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10257,
+        "label": "大戸屋で見た家族のエピソード",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10779,
+        "label": "眼科での体験談とボイスの構想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11403,
+        "label": "ボイスの展開相談とASMRへの感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11681,
+        "label": "スパチャ読みとトークイベントの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11930,
+        "label": "眼科の振り返り・次回告知・終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

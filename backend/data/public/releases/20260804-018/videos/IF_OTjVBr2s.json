@@ -1,0 +1,145 @@
+{
+  "videoId": "IF_OTjVBr2s",
+  "title": "【#マリカにじさんじ杯】Eリーグ予選。俺‥ハンドル握れるかな‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-12-19T08:21:55Z",
+  "duration": "PT1H43M1S",
+  "durationSec": 6181,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/IF_OTjVBr2s/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T04:30:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・大会への準備",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 206,
+        "label": "操作設定とキャラクターを決める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 360,
+        "label": "コース練習と走り方の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1305,
+        "label": "次回配信とコラボ予定を案内",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1361,
+        "label": "別コースの練習を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1625,
+        "label": "苦手コースを反復練習",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2102,
+        "label": "最後の練習走行",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2316,
+        "label": "大会参加者と合流して最終確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2873,
+        "label": "大会ロビーでルールと設定を確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3187,
+        "label": "大会形式の走行とアイテム運用",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3609,
+        "label": "参加者の走り方を話しながら待機",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3753,
+        "label": "選手紹介と次ラウンドの準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4365,
+        "label": "予選レースを走る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4554,
+        "label": "予選レースを続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4773,
+        "label": "次のコース選択とレース後の確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5123,
+        "label": "最後のレースに向けて準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5255,
+        "label": "最後の予選レース",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5429,
+        "label": "大会レースを終えて締めへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5469,
+        "label": "大会の走りを振り返る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5599,
+        "label": "スーパーチャットを読みながら感謝",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5819,
+        "label": "終了前の雑談と音声トラブルの確認",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6140,
+        "label": "次回予定を案内して終了",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

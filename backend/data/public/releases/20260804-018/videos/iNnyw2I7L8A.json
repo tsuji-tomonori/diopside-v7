@@ -1,0 +1,100 @@
+{
+  "videoId": "iNnyw2I7L8A",
+  "title": "【雑談】白雪激怒！？本当に色々あり今日この日を迎えております。【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-08-04T15:11:37Z",
+  "duration": "PT2H47M2S",
+  "durationSec": 10022,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/iNnyw2I7L8A/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T20:16:49Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "復帰配信・新居から近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 605,
+        "label": "引っ越し後の回線トラブル",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1804,
+        "label": "代替回線と配信できない期間",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2917,
+        "label": "家具・家電の処分と引っ越し完了",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3931,
+        "label": "荷物トラブルと引っ越し後の体調",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4434,
+        "label": "新居の小話とエステ体験",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5646,
+        "label": "活動予定と前半の締め",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6662,
+        "label": "スパチャ読み・復帰への反応",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7638,
+        "label": "荷解きと配信環境の立て直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8401,
+        "label": "訪問業者の話と体調の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9001,
+        "label": "災難を越えて活動を続ける決意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9603,
+        "label": "視聴者への感謝と復帰後の決意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9960,
+        "label": "次回予定とお別れ",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

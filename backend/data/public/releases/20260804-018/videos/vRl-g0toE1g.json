@@ -1,0 +1,130 @@
+{
+  "videoId": "vRl-g0toE1g",
+  "title": "＃３【ポケモンレジェンズアルセウス】イシツブテ！！！！！【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-02-02T14:38:54Z",
+  "duration": "PT2H27M24S",
+  "durationSec": 8844,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/vRl-g0toE1g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T03:35:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 596,
+        "label": "フィールド探索を開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 950,
+        "label": "イーブイの進化とパーティー調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1361,
+        "label": "アイテム補充と調査再開",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1793,
+        "label": "捕獲とイシツブテとの遭遇",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2568,
+        "label": "次の任務へ戻る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2874,
+        "label": "荒ぶるポケモンの任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3552,
+        "label": "任務後の帰還と研究進捗",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3763,
+        "label": "村のビッパ探しと次の依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4152,
+        "label": "ともしび探しと村の依頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4559,
+        "label": "次のエリアの調査任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4861,
+        "label": "ライバルとのバトル",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5068,
+        "label": "技調整と遠征準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5911,
+        "label": "紅蓮の湿地へ・探索開始",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6472,
+        "label": "湿地での捕獲とルート探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7051,
+        "label": "研究任務とキャプテンとの会話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7411,
+        "label": "石板回収の任務",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8123,
+        "label": "任務後の振り返り・配信の締め",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8582,
+        "label": "スーパーチャット読み・終了挨拶",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "videoId": "kOvsSm2Apoo",
+  "title": "【ネタバレ注意】キャラを演じながら推理せよ！？リアル脱出ゲーム×朗読劇『時間旅行と7つの謎』【#ふるとな脱出/にじさんじ】",
+  "publishedAt": "2023-04-29T11:26:19Z",
+  "duration": "PT5H1M55S",
+  "durationSec": 18115,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/kOvsSm2Apoo/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T16:44:00.767Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 994,
+        "label": "ゲームのルール説明",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1497,
+        "label": "朗読劇・同窓会から始まる物語",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2665,
+        "label": "探索場面の始まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4051,
+        "label": "校内の噂と謎を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4952,
+        "label": "証言と手掛かりを照合",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5764,
+        "label": "校内探索と新たな聞き取り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6489,
+        "label": "暗号と写真を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7198,
+        "label": "七つの謎を整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7657,
+        "label": "校内経路とロッカーの謎",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8554,
+        "label": "写真をめぐる経路と相談",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9452,
+        "label": "人物関係を探り別ルートへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 10351,
+        "label": "儀式と記録を調査",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11380,
+        "label": "新たな経路で協力を求める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12151,
+        "label": "情報整理と音楽室の集まり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12606,
+        "label": "別の経路と占いの場面",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13282,
+        "label": "事件の構図と次の方針",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13951,
+        "label": "経路をやり直して条件を整える",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14404,
+        "label": "相手に会う計画を実行",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14852,
+        "label": "新たな場所で手掛かりを探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15393,
+        "label": "探索と謎解きが続く",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16202,
+        "label": "物語終盤の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 16815,
+        "label": "物語終盤・エピローグ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17205,
+        "label": "出演者アフタートーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18012,
+        "label": "終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

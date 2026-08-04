@@ -1,0 +1,105 @@
+{
+  "videoId": "xlLzgMD_2ng",
+  "title": "【#SM好きVtuber座談会】SM好き大集合！あるあるトーク炸裂!?【犬山たまき/癒月ちょこ/竜胆尊/白雪巴】",
+  "publishedAt": "2021-02-23T15:15:34Z",
+  "duration": "PT1H3M27S",
+  "durationSec": 3807,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/xlLzgMD_2ng/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-19T09:19:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・出演者紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 465,
+        "label": "企画説明と投稿テーマの扱い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 540,
+        "label": "自分のタイプと他者からの見立て",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 799,
+        "label": "ゲーム好きとグループの相性",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1009,
+        "label": "興味のきっかけと用語整理",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1270,
+        "label": "好みのプレイと相手の反応",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1630,
+        "label": "安全・信頼・境界線の考え方",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1759,
+        "label": "事務所メンバーのタイプ談義",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2336,
+        "label": "関係性と信頼について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2482,
+        "label": "お金とつながりの違い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2626,
+        "label": "恋人にしたい相手",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2997,
+        "label": "恋人と結婚相手の違い",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3412,
+        "label": "喜ばれる反応について",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3595,
+        "label": "感想・企画の締め",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

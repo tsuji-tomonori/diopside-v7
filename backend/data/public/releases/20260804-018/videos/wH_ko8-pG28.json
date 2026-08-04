@@ -1,0 +1,120 @@
+{
+  "videoId": "wH_ko8-pG28",
+  "title": "＃１【こちら、母なる星より】荒廃した池袋で6人の女の子たちがサバイバル生活！？！？【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-10-28T15:23:07Z",
+  "duration": "PT2H4M23S",
+  "durationSec": 7463,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/wH_ko8-pG28/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T06:44:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲーム紹介",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 454,
+        "label": "主人公の目覚めと仲間との再会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 922,
+        "label": "登場人物の確認・探索準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1390,
+        "label": "ホテル探索・仲間を起こす",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2408,
+        "label": "ホテル探索・鏡と魔除け",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2802,
+        "label": "写真撮影とスマホの異変",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3384,
+        "label": "船内探索・クルーズの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3763,
+        "label": "船内の異変を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3949,
+        "label": "船内ゲームセンターで遊ぶ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4147,
+        "label": "船内探索・食堂探し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4482,
+        "label": "食堂で食事・船内生活の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5033,
+        "label": "忘れた用事と船内設備の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5590,
+        "label": "船内放送・生活施設の探索",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6001,
+        "label": "大浴場の相談と入浴準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6543,
+        "label": "船と大浴場の雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6702,
+        "label": "救命ボートを確認する",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7112,
+        "label": "配信の締め・スーパーチャット読み",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

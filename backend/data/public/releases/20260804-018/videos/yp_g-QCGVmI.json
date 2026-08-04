@@ -1,0 +1,150 @@
+{
+  "videoId": "yp_g-QCGVmI",
+  "title": "#3【HEAVY RAIN-心の軋むとき-】折り紙殺人鬼を狩るその先には‥【白雪 巴/にじさんじ】",
+  "publishedAt": "2021-02-19T17:00:39Z",
+  "duration": "PT3H29M51S",
+  "durationSec": 12591,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/yp_g-QCGVmI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-27T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・今回の進行方針",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 219,
+        "label": "マンフレッドの店で手掛かりを探す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 662,
+        "label": "警察から逃げて捜査を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1163,
+        "label": "選択をめぐる会話と家族の事情",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1522,
+        "label": "薬局で折り紙事件の手掛かりを追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2146,
+        "label": "車両証拠から容疑者を追う",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3011,
+        "label": "容疑者の手掛かりと墓地への道",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3781,
+        "label": "建設現場の救助と過去の手掛かり",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4395,
+        "label": "クラブで容疑者に近づく",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4888,
+        "label": "銃を使った尋問で情報を探る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5416,
+        "label": "ノーマンが事件の証拠を再整理",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5999,
+        "label": "マディソンの行動とホテルの危機",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6650,
+        "label": "スコットとローレンの救助場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7168,
+        "label": "容疑者への追及と病院の捜査",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8343,
+        "label": "最後の試練に挑む",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8620,
+        "label": "救出場所を探して各人物が動く",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9460,
+        "label": "最後の現場で手掛かりを集める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10166,
+        "label": "火災現場で子供の救出へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10740,
+        "label": "時間制限の中で救出を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11179,
+        "label": "エンディングへ向かう最後の場面",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11515,
+        "label": "ニュースと登場人物の後日談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11989,
+        "label": "クリア後の感想・分岐を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 12469,
+        "label": "実績・次回予定・配信終了",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "videoId": "Ph5w1kNsh5g",
+  "title": "【晩酌】今夜は相席💓お姉さん達の一杯飲み終わるまでほろ酔いトーク #いっ杯晩酌 14軒目【来栖夏芽/白雪巴/にじさんじ】",
+  "publishedAt": "2026-06-28T16:19:32Z",
+  "duration": "PT2H55M11S",
+  "durationSec": 10511,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Ph5w1kNsh5g/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-14T00:03:48.167Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ゲスト紹介と注文",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 531,
+        "label": "乾杯・今夜の一杯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 674,
+        "label": "北海道旅行と食べ物",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1074,
+        "label": "ショート動画の裏話",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1495,
+        "label": "活動の歩みと信頼",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1840,
+        "label": "アニメ化と制作の振り返り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2280,
+        "label": "旅と企画を動かすエネルギー",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2789,
+        "label": "ボイス制作と活動ペース",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3466,
+        "label": "読書・文学トーク",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4516,
+        "label": "人間観と互いの人物像",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5682,
+        "label": "天使設定から広がる創作トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6256,
+        "label": "次にやりたい企画・歌・ダンス",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6601,
+        "label": "即興物語と創作の進め方",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7932,
+        "label": "今後の活動・最後の質問",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8476,
+        "label": "とろたくから広がる雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9726,
+        "label": "次回雑談の予告・ゲスト回の感想",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10416,
+        "label": "告知・終了挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

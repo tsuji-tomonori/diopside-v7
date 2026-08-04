@@ -1,0 +1,170 @@
+{
+  "videoId": "XKqTfHJtyeI",
+  "title": "【こだわりラーメン館 ＃１】新装開店✨お姉さん店主のラーメン屋さんはいかが？【白雪 巴/にじさんじ】",
+  "publishedAt": "2025-07-10T16:42:22Z",
+  "duration": "PT3H27M11S",
+  "durationSec": 12431,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/XKqTfHJtyeI/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-16T16:27:02Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・ラーメン雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 405,
+        "label": "店名決めと開店準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 691,
+        "label": "初めての醤油ラーメン作り",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1545,
+        "label": "初営業と店舗運営",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2164,
+        "label": "味噌ラーメン作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2576,
+        "label": "投資と営業・大会のお知らせ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2935,
+        "label": "配信トラブルを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3019,
+        "label": "営業再開・メニュー確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3278,
+        "label": "太麺の醤油ラーメン作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3762,
+        "label": "地域投資とスタッフ強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4490,
+        "label": "具材たっぷり味噌ラーメンと大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5084,
+        "label": "はじめてのラーメン大会",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5516,
+        "label": "店舗レイアウトと運営見直し",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6486,
+        "label": "定番メニュー改良とスタッフ育成",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7091,
+        "label": "太麺の味噌ラーメン作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7567,
+        "label": "看板の醤油ラーメンを作り直す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7819,
+        "label": "メニュー整理と新スープ比較",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8283,
+        "label": "魚介豚骨ラーメンに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8735,
+        "label": "昔ながらの醤油ラーメン作り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9215,
+        "label": "看板ラーメンで大会へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9413,
+        "label": "店舗運営とスタッフ強化",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9959,
+        "label": "魚介豚骨ラーメンを再調整",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10337,
+        "label": "売上回復と大会準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 10762,
+        "label": "次のラーメン大会へ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11418,
+        "label": "厨房拡張と営業",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11666,
+        "label": "ゲーム終了・振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 11787,
+        "label": "スパチャ読みとラーメン談義",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

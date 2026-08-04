@@ -1,0 +1,190 @@
+{
+  "videoId": "oQ8Bg296rXw",
+  "title": "後編※ネタバレあり【夜廻三】クリアが先か、睡魔が先か～四夜目～【白雪 巴/にじさんじ】",
+  "publishedAt": "2022-05-23T18:19:48Z",
+  "duration": "PT7H38M46S",
+  "durationSec": 27526,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/oQ8Bg296rXw/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-23T00:00:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・前回のおさらい",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 600,
+        "label": "海の思い出を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 1500,
+        "label": "海へ向かう手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2027,
+        "label": "海辺の儀式を調べる",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2700,
+        "label": "儀式の手がかりを集める",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3377,
+        "label": "祭りの手がかりと灯台へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3970,
+        "label": "海の異変と呪いの手がかり",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 4640,
+        "label": "目を閉じて進む危険地帯",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5527,
+        "label": "姉との記憶と港への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 6500,
+        "label": "港の女性と船へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 7500,
+        "label": "船内の危険を切り抜ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 8286,
+        "label": "浜辺の探索",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9350,
+        "label": "海の記憶を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9900,
+        "label": "残りの思い出を追う",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 11100,
+        "label": "神社の迷路と竹やぶ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 12000,
+        "label": "人形の試練",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 13630,
+        "label": "人形を直して次の場所へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 14700,
+        "label": "最後の思い出を探す",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 15900,
+        "label": "記憶の中を進む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 17050,
+        "label": "姉との約束と学校へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 18300,
+        "label": "屋上の試練",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 19500,
+        "label": "鈴の役割と山への道",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 20700,
+        "label": "鈴を探して姉のもとへ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 21900,
+        "label": "森へ向かう手順",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 22730,
+        "label": "姉と森の鈴返し",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 23405,
+        "label": "森の攻撃を切り抜ける",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 24018,
+        "label": "終盤の戦闘に挑む",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 25200,
+        "label": "鈴を鳴らして森を戻る",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26288,
+        "label": "最後の手順",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 26600,
+        "label": "エンディング後の考察",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 27000,
+        "label": "振り返り・スーパーチャット",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "videoId": "_pLAOLOy9Zk",
+  "title": "【スプラトゥーン2】色んな武器を試しながら深夜のガチスプラ【白雪 巴/にじさんじ】",
+  "publishedAt": "2020-02-14T03:10:41Z",
+  "duration": "PT2H33M43S",
+  "durationSec": 9223,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/_pLAOLOy9Zk/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-28T06:02:16Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "配信開始・いろいろな武器でガチマッチへ",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 168,
+        "label": "バケツで最初の試合を進める",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 907,
+        "label": "二丁拳銃を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1343,
+        "label": "チャージャーと黒ザップを試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2023,
+        "label": "ガチホコのルールを確認して試合へ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2578,
+        "label": "ロングブラスターなどの武器を試す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3651,
+        "label": "スプラシューターに戻って立ち回りを確認",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4302,
+        "label": "スプラシューターで連勝を目指す",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5106,
+        "label": "配信予定・企画の告知",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 5294,
+        "label": "試合を続けながらバレンタイン雑談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5708,
+        "label": "ローラーを試して試合を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6809,
+        "label": "ローラーでヤグラに挑戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 7559,
+        "label": "終盤の試合とバレンタインの話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 8403,
+        "label": "終盤戦を続ける",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 9048,
+        "label": "ラストゲームに挑戦",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 9116,
+        "label": "配信終了・次回予定",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}

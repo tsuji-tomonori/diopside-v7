@@ -1,0 +1,130 @@
+{
+  "videoId": "DymTQwvaM_M",
+  "title": "【#スプラトゥーン2】大会直前！チーム練習！ #雪晴れに花ふわり 【#エリーコニファー/#にじさんじ】",
+  "publishedAt": "2020-06-20T08:31:11Z",
+  "duration": "PT1H49M11S",
+  "durationSec": 6551,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/DymTQwvaM_M/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-22T02:50:05Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "参加メンバー紹介・大会前準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 466,
+        "label": "最初の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 780,
+        "label": "チーム練習試合・連戦",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1805,
+        "label": "試合後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2012,
+        "label": "練習試合・終盤の攻防",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2723,
+        "label": "試合後の反省・次戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2841,
+        "label": "次の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2997,
+        "label": "試合後の戦術相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3277,
+        "label": "最終調整の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3594,
+        "label": "リスナー有志との対戦準備",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3933,
+        "label": "リスナー有志との練習試合①",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 4450,
+        "label": "リスナー有志との練習試合②",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5103,
+        "label": "対戦後の振り返り",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5310,
+        "label": "リスナー有志との練習試合③",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5516,
+        "label": "リスナー対戦後の戦術相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 5709,
+        "label": "大会前のまとめ・助っ人への感謝",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6008,
+        "label": "終盤の対戦・次のステージ相談",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6228,
+        "label": "最後の練習試合",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 6410,
+        "label": "練習を終えて・締め",
+        "confidenceLevel": "medium"
+      }
+    ]
+  }
+}

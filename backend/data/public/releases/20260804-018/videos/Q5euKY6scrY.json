@@ -1,0 +1,110 @@
+{
+  "videoId": "Q5euKY6scrY",
+  "title": "【 夜王国 】最後の集まり【グウェル・オス・ガール/不破湊/白雪巴】",
+  "publishedAt": "2025-10-06T04:02:57Z",
+  "duration": "PT56M54S",
+  "durationSec": 3414,
+  "thumbnail": {
+    "url": "https://i.ytimg.com/vi/Q5euKY6scrY/hqdefault.jpg",
+    "width": 480,
+    "height": 360
+  },
+  "sourceKind": "youtube_api",
+  "metadataStatus": "complete",
+  "sourceUpdatedAt": "2026-07-26T15:37:02.108290+00:00",
+  "artifactFlags": {
+    "chat": false,
+    "comments": false,
+    "timestamps": true,
+    "wordcloudChat": false,
+    "wordcloudComments": false,
+    "wordcloudBoth": false
+  },
+  "tagIds": [],
+  "provenance": {
+    "titleSource": "target_manifest_v1",
+    "publishedSource": "target_manifest_v1"
+  },
+  "timestamps": {
+    "status": "generated",
+    "source": "get_archives_info_v1",
+    "generatedAt": "2026-07-18T07:18:00Z",
+    "items": [
+      {
+        "atSec": 0,
+        "label": "3人集合・近況トーク",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 563,
+        "label": "卒業と6年間を振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1133,
+        "label": "卒業を決めた理由",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1275,
+        "label": "3D共通衣装の話",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1611,
+        "label": "卒業後の夜王国について",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 1787,
+        "label": "2人での活動とコラボ案",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2021,
+        "label": "新しいユニット名を考える",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2258,
+        "label": "ユニット名を披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 2492,
+        "label": "名前に込めた意味とこれから",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2803,
+        "label": "最後の集まりを振り返る",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 2959,
+        "label": "3人だから成り立つ関係",
+        "confidenceLevel": "medium"
+      },
+      {
+        "atSec": 3189,
+        "label": "最後の贈り物を用意",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3231,
+        "label": "贈り物を披露",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3264,
+        "label": "6年間の感謝と別れ",
+        "confidenceLevel": "high"
+      },
+      {
+        "atSec": 3377,
+        "label": "配信終了の挨拶",
+        "confidenceLevel": "high"
+      }
+    ]
+  }
+}
